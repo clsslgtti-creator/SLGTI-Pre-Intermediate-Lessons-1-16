@@ -1,13 +1,13 @@
 {
   "meta": {
-    "lesson_no": 14,
+    "lesson_no": 1,
     "level": "Pre-Intermediate",
     "section": "Automobile Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "Diphthong /aʊ/",
+    "focus": "Short /ɪ/",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -33,41 +33,41 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "s'ou'nd",
+        "word_text": "f'i'lter",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Check the engine s'ou'nd carefully.",
+        "sentence_text": "The oil f'i'lter in the combustion engine is very dirty after prolonged testing today.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "m'ou'nt",
+        "word_text": "gask'e't",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "He always m'ou'nts the battery on the holder properly.",
+        "sentence_text": "Gask'e'ts are essential for preventing leaks of essential fluids like oil, coolant and fuel.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
-        "image": "assets/img/a_1_p_2.png"
+        "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "l'ou'd",
+        "word_text": "r'i'vet",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The horn is making  a l'ou'd s'ou'nd now.",
+        "sentence_text": "A r'i'vet is a permanent, mechanical fastener used to securely join two or more materials.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "b'ou'nce",
+        "word_text": "d'i'pst'i'ck",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Do not b'ou'nce the tyre too much.",
+        "sentence_text": "Wiping the d'i'pst'i'ck with a cloth before checking the oil level is a common practice.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
     ]
   },
   "activity_2": {
-    "type": "SBS-2",
-    "focus": "Focus Contrast between the Simple Present Tense and the Present Continuous Tense",
+    "type": "SBS-3",
+    "focus": "Focus Verb BE, Prepositions of Place, Phrases ‘on the left’ and ‘on the right’",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
@@ -90,266 +90,412 @@
         "audio": "assets/audio/a_2_i_d.mp3"
       },
       "activity_2_e": {
-        "text": "Read the answer and use the pause to ask the correct question. Then compare your response with the model question.\n පිළිතුර කියවා නිවැරදි ප්‍රශ්නය ඇසීමට විරාමය භාවිතා කරන්න. ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\n பதிலைக் கவனமாக வாசித்து, இடைவெளியில் சரியான கேள்வியை கேளுங்கள். பின்னர் உங்கள் கேள்வியை மாதிரி கேள்வியுடன் ஒப்பிடவும்.",
-        "audio": "assets/audio/a_2_i_f.mp3"
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
       }
     },
-    "tables": [
-      [
-        ["I am crying because I am sad.", "I always cry when I am sad."],
-        [
-          "(NOW- Present Continuous)",
-          "(HABIT,ROUTINE,PATTERN - Simple Present)"
-        ]
-      ]
-    ],
     "example_dialogues": [
       {
-        "id": "e_1",
-        "img": "assets/img/a_2_ex_1.jpeg",
-        "text_a": "Why are you drinking king coconut?",
-        "text_b": "I am drinking it because I am dehydrated.",
-        "text_c": "I always drink it when I am dehydrated.",
-        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
-        "audio_b": "assets/audio/a_2_ex_1_b.mp3",
-        "audio_c": "assets/audio/a_2_ex_1_c.mp3"
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "Where is the oil drain pan?",
+        "text_b": "It is on the left, under the maroon mats.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
-        "id": "e_2",
-        "img": "assets/img/a_2_ex_2.jpeg",
-        "text_a": "Why are you biting your lips?",
-        "text_b": "I am biting them because I’m nervous.",
-        "text_c": "I always bite my lips when I am nervous.",
-        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
-        "audio_b": "assets/audio/a_2_ex_2_b.mp3",
-        "audio_c": "assets/audio/a_2_ex_2_c.mp3"
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Where are the wheel chocks?",
+        "text_b": "They are on the right, behind the beige shelves.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
-        "id": "e_3",
-        "img": "assets/img/a_2_ex_3.png",
-        "text_a": "Why are you lying down?",
-        "text_b": "I am lying down because I am exhausted.",
-        "text_c": "I always lie down when I am exhausted.",
-        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
-        "audio_b": "assets/audio/a_2_ex_3_b.mp3",
-        "audio_c": "assets/audio/a_2_ex_3_c.mp3"
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "Where is the coolant container?",
+        "text_b": "It is on the right, above the lime green buckets.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
     ],
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_1.png",
-        "word": "checking the tyre pressure"
+        "image": "assets/img/a_2_d_1.jpeg",
+        "word": "tired/rested"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "cleaning the air filter"
+        "word": "on time/late"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_3.png",
-        "word": "tightening the wheel nuts"
+        "image": "assets/img/a_2_d_3.jpeg",
+        "word": "satisfied/disappointed"
       },
       {
         "id": "k_4",
-        "image": "assets/img/a_2_d_4.png",
-        "word": "replacing the spark plugs"
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "cold/hot"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_5.png",
-        "word": "washing the car"
+        "word": "tasty/awful"
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.png",
-        "word": "the torque wrench"
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "sad/cheerful"
+      },
+      {
+        "id": "k_7",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "cold/hot"
+      },
+      {
+        "id": "k_8",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "tasty/awful"
+      },
+      {
+        "id": "k_9",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "sad/cheerful"
       }
     ],
     "dialogues": [
       {
-        "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
-        "text_a": "Why are you checking the tyre pressure?",
-        "text_b": "I’m checking it because I’m travelling a long distance.",
-        "text_c": "I always check it before I travel a long distance.",
-        "audio_a": "assets/audio/a_2_d_1_a.mp3",
-        "audio_b": "assets/audio/a_2_d_1_b.mp3",
-        "audio_c": "assets/audio/a_2_d_1_c.mp3"
-      },
-      {
-        "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
-        "text_a": "Why are you cleaning the air filter?",
-        "text_b": "I’m cleaning it because it’s full of dust.",
-        "text_c": "I always clean it after every service.",
-        "audio_a": "assets/audio/a_2_d_2_a.mp3",
-        "audio_b": "assets/audio/a_2_d_2_b.mp3",
-        "audio_c": "assets/audio/a_2_d_2_c.mp3"
-      },
-      {
-        "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
-        "text_a": "Why are you tightening the wheel nuts?",
-        "text_b": "I’m tightening them because they are loose.",
-        "text_c": "I always tighten them before a road test.",
-        "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3",
-        "audio_c": "assets/audio/a_2_d_3_c.mp3"
-      },
-      {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
-        "text_a": "Why are you replacing the spark plugs?",
-        "text_b": "I’m replacing them because they are worn out.",
-        "text_c": "I always replace them after 5,000 kilometres.",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "Where are the seat covers?",
+        "text_b": "They are on the left, beside the navy blue boxes.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
-        "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.png",
-        "text_a": "Why are you washing the car?",
-        "text_b": "I’m washing it because it’s covered with mud.",
-        "text_c": "I always wash it after a repair.",
+        "text_a": "Where are the inspection mirrors?",
+        "text_b": "They are on the right, in between the silver trays.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "audio_c": "assets/audio/a_2_d_5_c.mp3"
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
-        "text_a": "Why are you using the torque wrench?",
-        "text_b": "I’m using it because it gives the correct pressure.",
-        "text_c": "I always use it when fixing cylinder heads.",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "Where is the tyre pressure chart?",
+        "text_b": "It is on the left, above the brown rags.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
-        "audio_b": "assets/audio/a_2_d_6_b.mp3",
-        "audio_c": "assets/audio/a_2_d_6_c.mp3"
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Where are the fender covers?",
+        "text_b": "They are on the left, next to the black stands.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Where is the fire extinguisher?",
+        "text_b": "It is on the right, in front of the dark red cones.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Where is the battery warning sticker?",
+        "text_b": "It is on the right, above the turquoise labels.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
     ]
   },
   "activity_3": {
-    "type": "INTERACTIVE-5",
+    "type": "INTERACTIVE-6",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_3_i_d.mp3"
+        "text": "You will hear each recording twice. Listen and choose the correct answer.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. සවන් දී, නිවැරදි පිළිතුර තෝරන්න.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்டு சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_f.mp3"
       },
       "activity_b": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "bg_image": "assets/img/game/bg-6.jpg",
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "examples": [
+          {
+            "id": "e_1",
+            "sentence": "What’s the required depth of this well? (Deep / Depth / Shallow)",
+            "audio": "assets/audio/a_3_b_ex_1.mp3",
+            "options": ["1470/1407/ 43", "2470/1427/43", "1470/1427/43"],
+            "answer": "1470/1427/43",
+            "image": "assets/img/a_3_b_ex_1.jpeg"
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",
-            "image": "assets/img/a_3_b_1.png",
-            "sentence_1": "The baby ______ because it is hungry.",
-            "options_1": ["are crying", "is crying", "cries", "cry"],
-            "answer_1": "is crying",
-            "sentence_2": "It always ______ when it is hungry.",
-            "options_2": ["cry", "are crying", "is crying", "cries"],
-            "answer_2": "cries",
-            "full_sentance": "The baby is crying because it is hungry. It always cries when it is hungry.",
-            "audio": "assets/audio/a_3_b_1.mp3"
+            "sentence": "What’s the required width of this access platform? (Width / Wide / Narrow)",
+            "audio": "assets/audio/a_3_b_g_1.mp3",
+            "options": ["666/575/95", "6666/575/91", "666/575/91"],
+            "answer": "666/575/91",
+            "image": "assets/img/a_3_b_g_1.jpeg"
           },
           {
             "id": "g_b_2",
-            "image": "assets/img/a_3_b_2.png",
-            "sentence_1": "She ______ because she is angry.",
-            "options_1": ["screaming", "is screaming", "screams", "scream"],
-            "answer_1": "is screaming",
-            "sentence_2": "She always ______ when she is angry.",
-            "options_2": ["screaming", "is screaming", "screams", "scream"],
-            "answer_2": "screams",
-            "full_sentance": "She is screaming because she is angry. She always screams when she is angry.",
-            "audio": "assets/audio/a_3_b_2.mp3"
+            "sentence": "What’s the required height of this storage roof? (Height / High / Low)",
+            "audio": "assets/audio/a_3_b_g_2.mp3",
+            "options": [
+              "4,202/3,950/250",
+              "4,200/3,950/2500",
+              "4,200/3,950/250"
+            ],
+            "answer": "4,200/3,950/250",
+            "image": "assets/img/a_3_b_g_2.jpeg"
           },
           {
             "id": "g_b_3",
-            "image": "assets/img/a_3_b_3.png",
-            "sentence_1": "They ______ because they are cold.",
-            "options_1": ["are shivering", "shiver", "shivering", "shivers"],
-            "answer_1": "are shivering",
-            "sentence_2": "They always ______ when they are cold.",
-            "options_2": ["are shivering", "shiver", "shivering", "shivers"],
-            "answer_2": "shiver",
-            "full_sentance": "They are shivering because they are cold. They always shiver when they are cold.",
-            "audio": "assets/audio/a_3_b_3.mp3"
+            "sentence": "What’s the required length of this ceiling frame? (Length / Long / Short)",
+            "audio": "assets/audio/a_3_b_g_3.mp3",
+            "options": ["37/34/30", "37/44/30", "37/34/3"],
+            "answer": "37/34/3",
+            "image": "assets/img/a_3_b_g_3.png"
           },
           {
             "id": "g_b_4",
-            "image": "assets/img/a_3_b_4.png",
-            "sentence_1": "He ______ his nails because he is nervous.",
-            "options_1": ["are bite", "is biting", "bites", "biting"],
-            "answer_1": "is biting",
-            "sentence_2": "He always ______ his nails when he is nervous.",
-            "options_2": ["are bite", "is biting", "bites", "biting"],
-            "answer_2": "bites",
-            "full_sentance": "He is biting his nails because he is nervous. He always bites his nails when he is nervous.",
-            "audio": "assets/audio/a_3_b_4.mp3"
+            "sentence": "What’s the required thickness of this protective steel sheet? (Thickness / Thick / Thin)",
+            "audio": "assets/audio/a_3_b_g_4.mp3",
+            "options": ["80/14/4", "18/14/4", "80/40/4"],
+            "answer": "18/14/4",
+            "image": "assets/img/a_3_b_g_4.png"
           },
           {
             "id": "g_b_5",
-            "image": "assets/img/a_3_b_5.png",
-            "sentence_1": "She ______ her eyes because she is scared.",
-            "options_1": ["closes", "close", "closing", "is closing"],
-            "answer_1": "is closing",
-            "sentence_2": "She always ______ her eyes when she is scared.",
-            "options_2": ["closes", "close", "closing", "is closing"],
-            "answer_2": "closes",
-            "full_sentance": "She is closing her eyes because she is scared. She always closes her eyes when she is scared.",
-            "audio": "assets/audio/a_3_b_5.mp3"
+            "sentence": "What’s the required capacity of this fuel reservoir? (Capacity / Full / Low)",
+            "audio": "assets/audio/a_3_b_g_5.mp3",
+            "options": [
+              "8,500/7,900/660",
+              "8,500/7,900/600",
+              "7,500/7,900/600"
+            ],
+            "answer": "8,500/7,900/600",
+            "image": "assets/img/a_3_b_g_5.jpeg"
           },
           {
             "id": "g_b_6",
-            "image": "assets/img/a_3_b_6.png",
-            "sentence_1": "The trainees ______ because they are hot.",
-            "options_1": ["is sweating", "are sweating", "sweats", "sweat"],
-            "answer_1": "are sweating",
-            "sentence_2": "They always ______ when they are hot.",
-            "options_2": ["is sweating", "are sweating", "sweats", "sweat"],
-            "answer_2": "sweat",
-            "full_sentance": "The trainees are sweating because they are hot. They always sweat when they are hot.",
-            "audio": "assets/audio/a_3_b_6.mp3"
+            "sentence": "What’s the required pressure in this distribution pipeline? (Pressure / High / Low)",
+            "audio": "assets/audio/a_3_b_g_6.mp3",
+            "options": ["310/276/33", "310/267/34", "288/256/32"],
+            "answer": "288/256/32",
+            "image": "assets/img/a_3_b_g_6.png"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "What’s the required voltage for this electrical supply line? (Voltage / High / Low)",
+            "audio": "assets/audio/a_3_b_g_7.mp3",
+            "options": ["415/348/31", "4015/384/31", "415/384/31"],
+            "answer": "415/384/31",
+            "image": "assets/img/a_3_b_g_7.png"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "What’s the required temperature in this curing chamber? (Temperature / Hot / Cold)",
+            "audio": "assets/audio/a_3_b_g_8.mp3",
+            "options": ["920/870/15", "920/780/50", "920/870/50"],
+            "answer": "920/870/50",
+            "image": "assets/img/a_3_b_g_8.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "What’s the required diameter of this ventilation duct? (Diameter / Wide / Narrow)",
+            "audio": "assets/audio/a_3_b_g_9.mp3",
+            "options": ["980/900/18", "918/900/80", "980/900/80"],
+            "answer": "980/900/80",
+            "image": "assets/img/a_3_b_g_9.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "What’s the required speed of this conveyor drive unit? (Speed / Fast / Slow)",
+            "audio": "assets/audio/a_3_b_g_10.mp3",
+            "options": ["1404/1320/120", "1440/1330/120", "1440/1320/120"],
+            "answer": "1440/1320/120",
+            "image": "assets/img/a_3_b_g_10.jpeg"
           }
         ]
       },
       "activity_b": [
         {
-          "id": "n_3_1",
-          "text": "The baby is crying because it is hungry. It always cries when it is hungry.",
-          "audio": "assets/audio/a_3_b_1.mp3"
+          "id": "a_3_b_g_1",
+          "text": "What’s the required width of this access platform? It is 666 cm. But this access platform is only 575 cm wide at the moment. This access platform is 91 cm too narrow for safe movement.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
-          "id": "n_3_2",
-          "text": "She is screaming because she is angry. She always screams when she is angry.",
-          "audio": "assets/audio/a_3_b_2.mp3"
+          "id": "a_3_b_g_2",
+          "text": "What’s the required height of this storage roof? It is 4,200 mm. But this storage roof is only 3,950 mm high. This storage roof is 250 mm too low for the required clearance.",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
-          "id": "n_3_3",
-          "text": "They are shivering because they are cold. They always shiver when they are cold.",
-          "audio": "assets/audio/a_3_b_3.mp3"
+          "id": "a_3_b_g_3",
+          "text": "What’s the required length of this ceiling frame? It is 37 m. But this ceiling frame is only 34 m long in the current layout. This ceiling frame is 3 m too short for this warehouse.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
-          "id": "n_3_4",
-          "text": "He is biting his nails because he is nervous. He always bites his nails when he is nervous.",
-          "audio": "assets/audio/a_3_b_4.mp3"
+          "id": "a_3_b_g_4",
+          "text": "What’s the required thickness of this protective steel sheet? It is 18 mm. But this protective steel sheet is only 14 mm thick on inspection. This protective steel sheet is 4 mm too thin for reinforcement.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
-          "id": "n_3_5",
-          "text": "She is closing her eyes because she is scared. She always closes her eyes when she is scared.",
-          "audio": "assets/audio/a_3_b_5.mp3"
+          "id": "a_3_b_g_5",
+          "text": "What’s the required capacity of this fuel reservoir? It is 8,500 litres. But this fuel reservoir was only 7,900 litres full this morning. This fuel reservoir was 600 litres too low for operation.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
-          "id": "n_3_6",
-          "text": "The trainees are sweating because they are hot. They always sweat when they are hot.",
-          "audio": "assets/audio/a_3_b_6.mp3"
+          "id": "a_3_b_g_6",
+          "text": "What’s the required pressure in this distribution pipeline? It is 288 bar. But this distribution pipeline is only at 256 bar right now. This distribution pipeline is 32 bar too low for normal flow.",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "What’s the required voltage for this electrical supply line? It is 415 volts. But this electrical supply line is only at 384 volts under load. This electrical supply line is 31 volts too low for equipment start-up.",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "What’s the required temperature in this curing chamber? It is 920°C. But this curing chamber is only at 870°C on the display. This curing chamber is 50°C too cold for correct treatment.",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        },
+        {
+          "id": "a_3_b_g_9",
+          "text": "What’s the required diameter of this ventilation duct? It is 980 mm. But this ventilation duct is only 900 mm wide in the new section. This ventilation duct is 80 mm too narrow for proper airflow.",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
+        },
+        {
+          "id": "a_3_b_g_10",
+          "text": "What’s the required speed of this conveyor drive unit? It is 1440 rpm. But this conveyor drive unit is only at 1320 rpm when operating. This conveyor drive unit is 120 rpm too slow for production.",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "c_3_1",
+          "text": "What’s the required depth of this deep bore well?",
+          "audio": "assets/audio/a_3_c_1.mp3"
+        },
+        {
+          "id": "c_3_2",
+          "text": "What’s the required width of this access platform?",
+          "audio": "assets/audio/a_3_c_2.mp3"
+        },
+        {
+          "id": "c_3_3",
+          "text": "What’s the required length of this storage roof?",
+          "audio": "assets/audio/a_3_c_3.mp3"
+        },
+        {
+          "id": "c_3_4",
+          "text": "What’s the required thickness of this protective steel sheet?",
+          "audio": "assets/audio/a_3_c_4.mp3"
+        },
+        {
+          "id": "c_3_5",
+          "text": "What’s the required capacity of this fuel reservoir?",
+          "audio": "assets/audio/a_3_c_5.mp3"
+        },
+        {
+          "id": "c_3_6",
+          "text": "What’s the required diameter of this ventilation duct?",
+          "audio": "assets/audio/a_3_c_6.mp3"
+        },
+        {
+          "id": "c_3_7",
+          "text": "This well is forty-three metres too shallow to reach the water bed.",
+          "audio": "assets/audio/a_3_c_7.mp3"
+        },
+        {
+          "id": "c_3_8",
+          "text": "This ceiling frame is three metres too short for this warehouse.",
+          "audio": "assets/audio/a_3_c_8.mp3"
+        },
+        {
+          "id": "c_3_9",
+          "text": "This fuel reservoir is six hundred litres too low for operational use.",
+          "audio": "assets/audio/a_3_c_9.mp3"
+        },
+        {
+          "id": "c_3_10",
+          "text": "This ventilation duct is eighty millimetres too narrow for proper airflow.",
+          "audio": "assets/audio/a_3_c_10.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "c_3_1",
+          "text": "What’s the required depth of this deep bore well?",
+          "audio": "assets/audio/a_3_c_1.mp3"
+        },
+        {
+          "id": "c_3_2",
+          "text": "What’s the required width of this access platform?",
+          "audio": "assets/audio/a_3_c_2.mp3"
+        },
+        {
+          "id": "c_3_3",
+          "text": "What’s the required length of this storage roof?",
+          "audio": "assets/audio/a_3_c_3.mp3"
+        },
+        {
+          "id": "c_3_4",
+          "text": "What’s the required thickness of this protective steel sheet?",
+          "audio": "assets/audio/a_3_c_4.mp3"
+        },
+        {
+          "id": "c_3_5",
+          "text": "What’s the required capacity of this fuel reservoir?",
+          "audio": "assets/audio/a_3_c_5.mp3"
+        },
+        {
+          "id": "c_3_6",
+          "text": "What’s the required diameter of this ventilation duct?",
+          "audio": "assets/audio/a_3_c_6.mp3"
+        },
+        {
+          "id": "c_3_7",
+          "text": "This well is forty-three metres too shallow to reach the water bed.",
+          "audio": "assets/audio/a_3_c_7.mp3"
+        },
+        {
+          "id": "c_3_8",
+          "text": "This ceiling frame is three metres too short for this warehouse.",
+          "audio": "assets/audio/a_3_c_8.mp3"
+        },
+        {
+          "id": "c_3_9",
+          "text": "This fuel reservoir is six hundred litres too low for operational use.",
+          "audio": "assets/audio/a_3_c_9.mp3"
+        },
+        {
+          "id": "c_3_10",
+          "text": "This ventilation duct is eighty millimetres too narrow for proper airflow.",
+          "audio": "assets/audio/a_3_c_10.mp3"
         }
       ]
     }
@@ -380,52 +526,52 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "Why is Nimal starting work earlier today?",
-            "answer": "Because new trainees are visiting",
+            "question": "What type of vehicle did the trainees service yesterday?",
+            "answer": "A petrol training vehicle",
             "options": [
-              "Because he came late yesterday",
-              "Because new trainees are visiting",
-              "Because the trainees asked him"
+              "A diesel training vehicle",
+              "A petrol training vehicle",
+              "A hybrid passenger car"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Why is he preparing the diagnostic scanner?",
-            "answer": "Because the instructor is demonstrating sensor readings",
+            "question": "Which tool was missing at the beginning of the work?",
+            "answer": "A torque wrench",
             "options": [
-              "Because the instructor wants him to practise alone",
-              "Because the instructor is demonstrating sensor readings",
-              "Because the old scanner is broken"
+              "A hydraulic jack",
+              "A diagnostic scanner",
+              "A torque wrench"
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why is he sharing tools today?",
-            "answer": "Because Nimal’s toolbox is being repaired",
+            "question": "Why was the engine sound uneven at first?",
+            "answer": "Because the ignition timing was not correct.",
             "options": [
-              "Because Amal’s toolbox is being repaired",
-              "Because Nimal’s toolbox is being repaired",
-              "Because the instructor told him to"
+              "Because the terminals were unclean.",
+              "Because the camshaft timing was not correct.",
+              "Because the ignition timing was not correct."
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why is Nimal inspecting the cooling fan?",
-            "answer": "Because it is making a strange noise",
+            "question": "Why was the engine response better after the adjustment?",
+            "answer": "Because the ignition timing was corrected.",
             "options": [
-              "Because it is part of his routine",
-              "Because it is making a strange noise",
-              "Because Amal is making a strange noise"
+              "Because the vibration was loud.",
+              "Because the warning lights were replaced.",
+              "Because the ignition timing was corrected."
             ]
           },
           {
             "id": "l_4_5",
-            "question": "Why is he cleaning the workshop floor this afternoon?",
-            "answer": "Because there has been an oil spill",
+            "question": "What kind of engine are the trainees going to work on next week?",
+            "answer": "A high-capacity diesel engine",
             "options": [
-              "Because it’s his turn on the schedule",
-              "Because there has been an oil spill",
-              "Because the instructor asked"
+              "A two-stroke engine",
+              "A high-capacity diesel engine",
+              "A medium-capacity diesel engine"
             ]
           }
         ]
@@ -433,157 +579,312 @@
       "activity_b": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Yesterday was a very busy day in the automobile workshop.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
+          "text": "The place was quite noisy and hot.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
+          "text": "We serviced a petrol training car near Bay Three.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
+          "text": "It is not a small task for first-time trainees.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "The engine condition was not bad, but several parts were worn out.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
+          "text": "So, how did you feel doing your first full engine service?",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
+          "text": "Honestly, I didn’t expect it to be so demanding.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
+          "text": "The torque wrench was missing at the start, and the diagnostic scanner was in another section.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
+          "text": "At first, the setup was confusing, but later everything was better organised.",
           "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Yes, and the engine bay was very tight.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "Access was not easy at all.",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_13",
+          "text": "The spark plugs were worn, and the air filter was dirty.",
+          "audio": "assets/audio/t_1_13.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "The engine oil was black, so an oil change was necessary.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "The drain pan was placed correctly, but one bolt was too tight.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "That’s normal for older training vehicles.",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Safety is always the priority.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "The lift has to be stable, and the wheel chocks have to be secure.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "I noticed the battery voltage was low.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "Was that clear on the multimeter?",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "Yes, sir.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "The reading was low, but the terminals were clean.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "At first, the engine sound was not smooth, and we weren’t sure why.",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "The diagnostic scanner was helpful, though.",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "The error code was related to ignition timing.",
+          "audio": "assets/audio/t_1_25.mp3"
+        },
+        {
+          "id": "t_1_26",
+          "text": "After the adjustment, the engine response was better.",
+          "audio": "assets/audio/t_1_26.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "The idle was smooth, and the vibration was gone.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "The temperature gauge was normal, and there were no warning lights.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_29",
+          "text": "It was a big relief.",
+          "audio": "assets/audio/t_1_29.mp3"
+        },
+        {
+          "id": "t_1_30",
+          "text": "Good work.",
+          "audio": "assets/audio/t_1_30.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "Today the workshop is quieter.",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "There is no heavy servicing planned.",
+          "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_33",
+          "text": "We are just checking reports and tools.",
+          "audio": "assets/audio/t_1_33.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_35",
+          "text": "Sounds good.",
+          "audio": "assets/audio/t_1_35.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "Yesterday was tiring, but it was a valuable experience.",
+          "audio": "assets/audio/t_1_36.mp3"
+        },
+        {
+          "id": "t_1_37",
+          "text": "Next time, we are going to prepare better and organise the tools in advance.",
+          "audio": "assets/audio/t_1_37.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Yesterday was a very busy day in the automobile workshop.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
-          "audio": "assets/audio/t_1_2.mp3"
-        },
-        {
-          "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
-          "audio": "assets/audio/t_1_3.mp3"
-        },
-        {
-          "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
-          "audio": "assets/audio/t_1_4.mp3"
-        },
-        {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "The engine condition was not bad, but several parts were worn out.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
-          "audio": "assets/audio/t_1_6.mp3"
-        },
-        {
-          "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
-          "audio": "assets/audio/t_1_7.mp3"
-        },
-        {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_1_10",
+          "text": "At first, the setup was confusing, but later everything was better organised.",
+          "audio": "assets/audio/t_1_10.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_1_12",
+          "text": "Access was not easy at all.",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "The engine oil was black, so an oil change was necessary.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Safety is always the priority.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "Was that clear on the multimeter?",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "The diagnostic scanner was helpful, though.",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "The idle was smooth, and the vibration was gone.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "Yesterday was tiring, but it was a valuable experience.",
+          "audio": "assets/audio/t_1_36.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1_1",
-          "text": "Nimal works at a mechanical workshop in Kurunegala.",
+          "text": "Yesterday was a very busy day in the automobile workshop.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "He starts work at eight o’clock every morning, but today he is starting earlier because a new batch of trainees is visiting the workshop.",
-          "audio": "assets/audio/t_1_2.mp3"
-        },
-        {
-          "id": "t_1_3",
-          "text": "He usually begins his day by cleaning the workbench, but this morning he is preparing the diagnostic scanner because the instructor is demonstrating how to check sensor readings.",
-          "audio": "assets/audio/t_1_3.mp3"
-        },
-        {
-          "id": "t_1_4",
-          "text": "He normally uses his own spanner set, but today he is sharing tools with his friend Amal because his toolbox is being repaired.",
-          "audio": "assets/audio/t_1_4.mp3"
-        },
-        {
           "id": "t_1_5",
-          "text": "He always wears safety gloves and boots, but now he is wearing a heavier pair because he is handling sharp engine parts.",
+          "text": "The engine condition was not bad, but several parts were worn out.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "Most days, Nimal repairs motorcycles and changes oil filters, but this week he is tuning a small petrol engine from a three-wheeler for a customer who needs it urgently.",
-          "audio": "assets/audio/t_1_6.mp3"
-        },
-        {
-          "id": "t_1_7",
-          "text": "He usually checks the brake systems with the instructor, but today he is inspecting the cooling fan because it is making a strange noise.",
-          "audio": "assets/audio/t_1_7.mp3"
-        },
-        {
           "id": "t_1_8",
-          "text": "He normally discusses the work with his classmates while working, but now he is listening carefully because the instructor is explaining how to test fuel injectors.",
+          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "At the end of the day, Nimal always cleans his tools and locks his toolbox, but this afternoon he is cleaning the workshop floor because there has been an oil spill near the service bay.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_1_10",
+          "text": "At first, the setup was confusing, but later everything was better organised.",
+          "audio": "assets/audio/t_1_10.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "He likes his training because he learns something new every day, and he is becoming more confident with every task he does.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_1_12",
+          "text": "Access was not easy at all.",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "The engine oil was black, so an oil change was necessary.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Safety is always the priority.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "Was that clear on the multimeter?",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "The diagnostic scanner was helpful, though.",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "The idle was smooth, and the vibration was gone.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "Yesterday was tiring, but it was a valuable experience.",
+          "audio": "assets/audio/t_1_36.mp3"
         }
       ]
     }

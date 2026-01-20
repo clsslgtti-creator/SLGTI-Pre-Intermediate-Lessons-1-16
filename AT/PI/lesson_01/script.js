@@ -7,6 +7,7 @@ import { buildInteractive2Slides } from "./lib/interactive-2.js";
 import { buildInteractive3Slides } from "./lib/interactive-3.js";
 import { buildInteractive4Slides } from "./lib/interactive-4.js";
 import { buildInteractive5Slides } from "./lib/interactive-5.js";
+import { buildInteractive6Slides } from "./lib/interactive-6.js";
 import { buildActivityTwoSlides } from "./lib/activity-2.js";
 import { buildListeningOneSlides } from "./lib/listening-1.js";
 import { buildListeningTwoSlides } from "./lib/listening-2.js";
@@ -226,6 +227,7 @@ const activityBuilders = {
   "INTERACTIVE-3": buildInteractive3Slides,
   "INTERACTIVE-4": buildInteractive4Slides,
   "INTERACTIVE-5": buildInteractive5Slides,
+  "INTERACTIVE-6": buildInteractive6Slides,
   "LISTENING-1": buildListeningOneSlides,
   "LISTENING-2": buildListeningTwoSlides,
   "LISTENING-3": buildListeningThreeSlides,
