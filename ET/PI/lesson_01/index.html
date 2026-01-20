@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lesson 1</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="app__header">
+        <div class="app__meta" id="lessonMeta"></div>
+      </header>
+      <section class="slides" id="slides"></section>
+      <footer class="app__controls">
+        <button class="control-btn" id="prevSlide" aria-label="Previous slide">
+          ◀ Previous
+        </button>
+        <div class="control-status" id="progressIndicator"></div>
+        <button class="control-btn" id="nextSlide" aria-label="Next slide">
+          Next ▶
+        </button>
+      </footer>
+    </main>
+    <script src="lib/jquery-3.7.1.min.js"></script>
+    <script src="lib/jquery-ui.min.js"></script>
+    <script src="lib/jquery.ui.touch-punch.min.js"></script>
+    <script src="lib/pipwerks-scorm.js"></script>
+    <script src="lib/phaser.min.js"></script>
+    <script src="script.js" type="module"></script>
+  </body>
+</html>
