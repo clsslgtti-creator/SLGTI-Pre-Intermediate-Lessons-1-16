@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "signal",
+        "word_text": "s'i'gnal",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The signal is extremely weak during peaktime network testing.",
+        "sentence_text": "The s'i'gnal is extremely weak during peaktime network testing.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "widget",
+        "word_text": "w'i'dget",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The widget is very useful for quickly displaying system information.",
+        "sentence_text": "The w'i'dget is very useful for quickly displaying system information.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "disconnect",
+        "word_text": "d'i'sc'onnect",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The network disconnect is temporary during routine server maintenance.",
+        "sentence_text": "The network d'i'sc'onnect is temporary during routine server maintenance.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "bitmask",
+        "word_text": "b'i'tm'ask",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Bitmasks are essential for accurate network address filtering.",
+        "sentence_text": "'i'tm'asks are essential for accurate network address filtering.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.jpeg"
       }
