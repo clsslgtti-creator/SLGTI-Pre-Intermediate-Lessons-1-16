@@ -98,7 +98,7 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Where is the oil drain pan?",
+        "text_a": "Where is the insulation tester?",
         "text_b": "It is on the left, under the maroon mats.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
@@ -106,7 +106,7 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.png",
-        "text_a": "Where are the wheel chocks?",
+        "text_a": "Where are the cable drums?",
         "text_b": "They are on the right, behind the beige shelves.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
@@ -114,8 +114,8 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Where is the coolant container?",
-        "text_b": "It is on the right, above the lime green buckets.",
+        "text_a": "Where is the extension cable reel?",
+        "text_b": "It is on the left, above the lime green buckets.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -124,95 +124,95 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_1.jpeg",
-        "word": "tired/rested"
+        "word": "insulation tester / maroon mats"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_2.png",
-        "word": "on time/late"
+        "word": "cable drums / beige shelves"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_3.jpeg",
-        "word": "satisfied/disappointed"
+        "word": "extension cable reel / lime green buckets"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "cold/hot"
+        "word": "voltage warning cones / navy blue boxes"
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_5.png",
-        "word": "tasty/awful"
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "test probes / silver trays"
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sad/cheerful"
+        "image": "assets/img/a_2_d_6.png",
+        "word": "wiring diagram chart / brown rags"
       },
       {
         "id": "k_7",
-        "image": "assets/img/a_2_d_7.png",
-        "word": "cold/hot"
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "phase-color tapes / black stands"
       },
       {
         "id": "k_8",
-        "image": "assets/img/a_2_d_8.png",
-        "word": "tasty/awful"
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "emergency cut-off switch / dark red signs"
       },
       {
         "id": "k_9",
         "image": "assets/img/a_2_d_9.png",
-        "word": "sad/cheerful"
+        "word": "electrical hazard sticker / turquoise labels"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Where are the seat covers?",
+        "text_a": "Where are the voltage warning cones?",
         "text_b": "They are on the left, beside the navy blue boxes.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
-        "text_a": "Where are the inspection mirrors?",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Where are the test probes?",
         "text_b": "They are on the right, in between the silver trays.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Where is the tyre pressure chart?",
-        "text_b": "It is on the left, above the brown rags.",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Where is the wiring diagram chart?",
+        "text_b": "It is on the right, above the brown rags.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.png",
-        "text_a": "Where are the fender covers?",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "Where are the phase-color tapes?",
         "text_b": "They are on the left, next to the black stands.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.png",
-        "text_a": "Where is the fire extinguisher?",
-        "text_b": "It is on the right, in front of the dark red cones.",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "Where is the emergency cut-off switch?",
+        "text_b": "It is on the right, in front of the dark red signs.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
-        "text_a": "Where is the battery warning sticker?",
-        "text_b": "It is on the right, above the turquoise labels.",
+        "text_a": "Where is the electrical hazard sticker?",
+        "text_b": "It is on the left, above the turquoise labels.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
