@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "sifters",
+        "word_text": "s'i'fters",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The sifters are clean and ready for the flour preparation process.",
+        "sentence_text": "The s'i'fters are clean and ready for the flour preparation process.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "vinegar",
+        "word_text": "v'i'n'e'gar",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The vinegar in these bottles is mature enough for food processing.",
+        "sentence_text": "The v'i'n'e'gar in these bottles is mature enough for food processing.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.jpeg"
       },
       {
         "id": "p_3",
-        "word_text": "mincers",
+        "word_text": "m'i'n'c'ers",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Meat mincers are on the left, next to the new blast chiller.",
+        "sentence_text": "Meat m'i'n'c'ers are on the left, next to the new blast chiller.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "simmering",
+        "word_text": "s'i'mmer'i'ng",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Simmering food is similar to slow, low-temperature cooking methods.",
+        "sentence_text": "S'i'mmer'i'ng food is similar to slow, low-temperature cooking methods.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
