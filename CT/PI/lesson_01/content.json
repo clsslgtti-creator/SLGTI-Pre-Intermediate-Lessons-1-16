@@ -526,365 +526,355 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What type of vehicle did the trainees service yesterday?",
-            "answer": "A petrol training vehicle",
+            "question": "What kind of building did the trainees work on yesterday?",
+            "answer": "A two-storey training workshop",
             "options": [
-              "A diesel training vehicle",
-              "A petrol training vehicle",
-              "A hybrid passenger car"
+              "A masonry and machinery room",
+              "A two-storey training workshop",
+              "A two storey- masonry and machinery factory"
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which tool was missing at the beginning of the work?",
-            "answer": "A torque wrench",
+            "question": "What problem did Saman mention at the beginning of the work?",
+            "answer": "The spirit level was not straight.",
             "options": [
-              "A hydraulic jack",
-              "A diagnostic scanner",
-              "A torque wrench"
+              "The excavator was broken.",
+              "The spirit level was not straight.",
+              "The ground was not straight."
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why was the engine sound uneven at first?",
-            "answer": "Because the ignition timing was not correct.",
+            "question": "What problem did Tharindu mention at the beginning of the work?",
+            "answer": "Some shuttering boards were damaged.",
             "options": [
-              "Because the terminals were unclean.",
-              "Because the camshaft timing was not correct.",
-              "Because the ignition timing was not correct."
+              "The reinforcement bars were damaged.",
+              "Some shuttering boards were damaged.",
+              "The concrete mixer was broken."
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why was the engine response better after the adjustment?",
-            "answer": "Because the ignition timing was corrected.",
+            "question": "Why did the instructor say accuracy is critical in foundation work?",
+            "answer": "Because wrong alignment weakens the whole structure.",
             "options": [
-              "Because the vibration was loud.",
-              "Because the warning lights were replaced.",
-              "Because the ignition timing was corrected."
+              "Because it saves construction time.",
+              "Because wrong alignment weakens the whole structure.",
+              "Because wrong alignment makes the whole structure wobble."
             ]
           },
           {
             "id": "l_4_5",
-            "question": "What kind of engine are the trainees going to work on next week?",
-            "answer": "A high-capacity diesel engine",
+            "question": "What are the trainees going to do next week?",
+            "answer": "Start the block work for the ground floor walls",
             "options": [
-              "A two-stroke engine",
-              "A high-capacity diesel engine",
-              "A medium-capacity diesel engine"
+              "Start the casting work for the ground floor walls",
+              "Repair the foundation on the ground level",
+              "Start the block work for the ground floor walls"
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_1",
+          "text": "Yesterday was a very busy day on site.",
+          "audio": "assets/audio/t_2_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The place was quite noisy and hot.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_2_2",
+          "text": "We worked on the foundation for the new training workshop near the back gate.",
+          "audio": "assets/audio/t_2_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "We serviced a petrol training car near Bay Three.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_2_3",
+          "text": "It’s not a small job at all.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "It is not a small task for first-time trainees.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_2_4",
+          "text": "It’s a two-storey building for masonry and plumbing classes.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_2_5",
+          "text": "The concrete work was heavy, but the base looks solid now.",
+          "audio": "assets/audio/t_2_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "So, how did you feel doing your first full engine service?",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_2_6",
+          "text": "So, how did you feel doing your first big foundation job?",
+          "audio": "assets/audio/t_2_6.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "Honestly, I didn’t expect it to be so demanding.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_2_7",
+          "text": "Honestly, I didn’t think it would be so hard.",
+          "audio": "assets/audio/t_2_7.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_2_8",
+          "text": "The ground is quite rocky in some places, so the excavation took longer than we expected.",
+          "audio": "assets/audio/t_2_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "The torque wrench was missing at the start, and the diagnostic scanner was in another section.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_2_9",
+          "text": "At the start, the spirit level wasn’t 100% straight, and that caused a problem.",
+          "audio": "assets/audio/t_2_9.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_2_10",
+          "text": "The footing width was fine later in the day, but in the morning there was a problem with accuracy.",
+          "audio": "assets/audio/t_2_10.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Yes, and the engine bay was very tight.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_2_11",
+          "text": "The concrete mixer was very noisy the whole day.",
+          "audio": "assets/audio/t_2_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_2_12",
+          "text": "I checked the formwork, tied the reinforcement bars, and cleaned the shuttering panels.",
+          "audio": "assets/audio/t_2_12.mp3"
         },
         {
-          "id": "t_1_13",
-          "text": "The spark plugs were worn, and the air filter was dirty.",
-          "audio": "assets/audio/t_1_13.mp3"
+          "id": "t_2_13",
+          "text": "Some boards were damaged, so we couldn’t use them which was very annoying.",
+          "audio": "assets/audio/t_2_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_2_14",
+          "text": "A few measurements were wrong at the beginning, and that was quite stressful.",
+          "audio": "assets/audio/t_2_14.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "The drain pan was placed correctly, but one bolt was too tight.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_2_15",
+          "text": "Yes, accuracy really matters in foundation work.",
+          "audio": "assets/audio/t_2_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "That’s normal for older training vehicles.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_2_16",
+          "text": "If the alignment is off, the whole structure becomes weak.",
+          "audio": "assets/audio/t_2_16.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_2_17",
+          "text": "The concrete mix was good, but one section was a bit uneven.",
+          "audio": "assets/audio/t_2_17.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "The lift has to be stable, and the wheel chocks have to be secure.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_2_18",
+          "text": "That wasn’t ideal, but we figured out how to adjust it.",
+          "audio": "assets/audio/t_2_18.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "I noticed the battery voltage was low.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_2_19",
+          "text": "The levels are correct now, and the columns are clearly marked.",
+          "audio": "assets/audio/t_2_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_2_20",
+          "text": "I agree.",
+          "audio": "assets/audio/t_2_20.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_2_21",
+          "text": "Once the concrete started to set, the site felt tense.",
+          "audio": "assets/audio/t_2_21.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "The reading was low, but the terminals were clean.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_2_22",
+          "text": "The site supervisor was strict, and everyone stayed alert.",
+          "audio": "assets/audio/t_2_22.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "At first, the engine sound was not smooth, and we weren’t sure why.",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_2_23",
+          "text": "We all knew that here was no room for mistakes.",
+          "audio": "assets/audio/t_2_23.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_2_24",
+          "text": "After the final checks, everything looked fine.",
+          "audio": "assets/audio/t_2_24.mp3"
         },
         {
-          "id": "t_1_25",
-          "text": "The error code was related to ignition timing.",
-          "audio": "assets/audio/t_1_25.mp3"
+          "id": "t_2_25",
+          "text": "The foundation is level, and the edges are clean.",
+          "audio": "assets/audio/t_2_25.mp3"
         },
         {
-          "id": "t_1_26",
-          "text": "After the adjustment, the engine response was better.",
-          "audio": "assets/audio/t_1_26.mp3"
+          "id": "t_2_26",
+          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint (PRE -can use more complex vocab) which is the most important thing.",
+          "audio": "assets/audio/t_2_26.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_2_27",
+          "text": "By the end of the day, we were tired but satisfied.",
+          "audio": "assets/audio/t_2_27.mp3"
         },
         {
-          "id": "t_1_28",
-          "text": "The temperature gauge was normal, and there were no warning lights.",
-          "audio": "assets/audio/t_1_28.mp3"
+          "id": "t_2_28",
+          "text": "It was such a relief to see our hard work paying off!",
+          "audio": "assets/audio/t_2_28.mp3"
         },
         {
-          "id": "t_1_29",
-          "text": "It was a big relief.",
-          "audio": "assets/audio/t_1_29.mp3"
+          "id": "t_2_29",
+          "text": "Today it’s much quieter.",
+          "audio": "assets/audio/t_2_29.mp3"
         },
         {
-          "id": "t_1_30",
-          "text": "Good work.",
-          "audio": "assets/audio/t_1_30.mp3"
+          "id": "t_2_30",
+          "text": "There’s no casting work.",
+          "audio": "assets/audio/t_2_30.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "Today the workshop is quieter.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_2_31",
+          "text": "We’re just checking drawings and tools.",
+          "audio": "assets/audio/t_2_31.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "There is no heavy servicing planned.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_2_32",
+          "text": "Next week, you’re going to start the block work for the ground floor walls.",
+          "audio": "assets/audio/t_2_32.mp3"
         },
         {
-          "id": "t_1_33",
-          "text": "We are just checking reports and tools.",
-          "audio": "assets/audio/t_1_33.mp3"
-        },
-        {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
-        },
-        {
-          "id": "t_1_35",
+          "id": "t_2_33",
           "text": "Sounds good.",
-          "audio": "assets/audio/t_1_35.mp3"
+          "audio": "assets/audio/t_2_33.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_2_34",
+          "text": "Next time, we’re going to be better prepared.",
+          "audio": "assets/audio/t_2_34.mp3"
         },
         {
-          "id": "t_1_37",
-          "text": "Next time, we are going to prepare better and organise the tools in advance.",
-          "audio": "assets/audio/t_1_37.mp3"
+          "id": "t_2_35",
+          "text": "Now we have a fairly good understanding of the site conditions and the correct order of work.",
+          "audio": "assets/audio/t_2_35.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_3",
+          "text": "It’s not a small job at all.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_2_4",
+          "text": "It’s a two-storey building for masonry and plumbing classes.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_2_8",
+          "text": "The ground is quite rocky in some places, so the excavation took longer than we expected.",
+          "audio": "assets/audio/t_2_8.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_2_10",
+          "text": "The footing width was fine later in the day, but in the morning there was a problem with accuracy.",
+          "audio": "assets/audio/t_2_10.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_2_13",
+          "text": "Some boards were damaged, so we couldn’t use them which was very annoying.",
+          "audio": "assets/audio/t_2_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_2_14",
+          "text": "A few measurements were wrong at the beginning, and that was quite stressful.",
+          "audio": "assets/audio/t_2_14.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_2_16",
+          "text": "If the alignment is off, the whole structure becomes weak.",
+          "audio": "assets/audio/t_2_16.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_2_18",
+          "text": "That wasn’t ideal, but we figured out how to adjust it.",
+          "audio": "assets/audio/t_2_18.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_2_23",
+          "text": "We all knew that here was no room for mistakes.",
+          "audio": "assets/audio/t_2_23.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_2_26",
+          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint (PRE -can use more complex vocab) which is the most important thing.",
+          "audio": "assets/audio/t_2_26.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_2_30",
+          "text": "There’s no casting work.",
+          "audio": "assets/audio/t_2_30.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_2_33",
+          "text": "Sounds good.",
+          "audio": "assets/audio/t_2_33.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_2_3",
+          "text": "It’s not a small job at all.",
+          "audio": "assets/audio/t_2_3.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_2_4",
+          "text": "It’s a two-storey building for masonry and plumbing classes.",
+          "audio": "assets/audio/t_2_4.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_2_8",
+          "text": "The ground is quite rocky in some places, so the excavation took longer than we expected.",
+          "audio": "assets/audio/t_2_8.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_2_10",
+          "text": "The footing width was fine later in the day, but in the morning there was a problem with accuracy.",
+          "audio": "assets/audio/t_2_10.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_2_13",
+          "text": "Some boards were damaged, so we couldn’t use them which was very annoying.",
+          "audio": "assets/audio/t_2_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_2_14",
+          "text": "A few measurements were wrong at the beginning, and that was quite stressful.",
+          "audio": "assets/audio/t_2_14.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_2_16",
+          "text": "If the alignment is off, the whole structure becomes weak.",
+          "audio": "assets/audio/t_2_16.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_2_18",
+          "text": "That wasn’t ideal, but we figured out how to adjust it.",
+          "audio": "assets/audio/t_2_18.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_2_23",
+          "text": "We all knew that here was no room for mistakes.",
+          "audio": "assets/audio/t_2_23.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_2_26",
+          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint (PRE -can use more complex vocab) which is the most important thing.",
+          "audio": "assets/audio/t_2_26.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_2_30",
+          "text": "There’s no casting work.",
+          "audio": "assets/audio/t_2_30.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_2_33",
+          "text": "Sounds good.",
+          "audio": "assets/audio/t_2_33.mp3"
         }
       ]
     }
