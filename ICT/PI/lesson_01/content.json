@@ -526,365 +526,360 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What type of vehicle did the trainees service yesterday?",
-            "answer": "A petrol training vehicle",
+            "question": "What task did the trainees complete in the ICT lab?",
+            "answer": "They set up a complete computer network.",
             "options": [
-              "A diesel training vehicle",
-              "A petrol training vehicle",
-              "A hybrid passenger car"
+              "They installed a complete service cabinet.",
+              "They set up some network switches.",
+              "They set up a complete computer network."
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which tool was missing at the beginning of the work?",
-            "answer": "A torque wrench",
+            "question": "What problem did Nimali mention at the beginning of the work?",
+            "answer": "The network diagram was not clear.",
             "options": [
-              "A hydraulic jack",
-              "A diagnostic scanner",
-              "A torque wrench"
+              "The server cabinet diagram was damaged.",
+              "The network diagram was not clear.",
+              "The network diagram was confusing."
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why was the engine sound uneven at first?",
-            "answer": "Because the ignition timing was not correct.",
+            "question": "Why did the instructor say planning is very important in ICT work?",
+            "answer": "Because wrong configuration makes the network unstable.",
             "options": [
-              "Because the terminals were unclean.",
-              "Because the camshaft timing was not correct.",
-              "Because the ignition timing was not correct."
+              "Because the configuration is unstable.",
+              "Because wrong configuration makes the network unstable.",
+              "Because the subnet was unstable."
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why was the engine response better after the adjustment?",
-            "answer": "Because the ignition timing was corrected.",
+            "question": "What issue did Ruwan face during the installation?",
+            "answer": "Some PCs were not detected at first.",
             "options": [
-              "Because the vibration was loud.",
-              "Because the warning lights were replaced.",
-              "Because the ignition timing was corrected."
+              "The router settings were not detected at first.",
+              "Some PCs were not detected at first.",
+              "The internet speed was too slow."
             ]
           },
           {
             "id": "l_4_5",
-            "question": "What kind of engine are the trainees going to work on next week?",
-            "answer": "A high-capacity diesel engine",
+            "question": "What are the trainees going to do next week?",
+            "answer": "Configure user accounts and security settings",
             "options": [
-              "A two-stroke engine",
-              "A high-capacity diesel engine",
-              "A medium-capacity diesel engine"
+              "Install more workstations",
+              "Configure the server and security settings",
+              "Configure user accounts and security settings"
             ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_4_1",
+          "text": "Yesterday was honestly hectic in the ICT lab.",
+          "audio": "assets/audio/t_4_1.mp3"
         },
         {
-          "id": "t_1_2",
-          "text": "The place was quite noisy and hot.",
-          "audio": "assets/audio/t_1_2.mp3"
+          "id": "t_4_2",
+          "text": "We set up a complete computer network for the new training block near the library.",
+          "audio": "assets/audio/t_4_2.mp3"
         },
         {
-          "id": "t_1_3",
-          "text": "We serviced a petrol training car near Bay Three.",
-          "audio": "assets/audio/t_1_3.mp3"
+          "id": "t_4_3",
+          "text": "It’s definitely not a small setup.",
+          "audio": "assets/audio/t_4_3.mp3"
         },
         {
-          "id": "t_1_4",
-          "text": "It is not a small task for first-time trainees.",
-          "audio": "assets/audio/t_1_4.mp3"
+          "id": "t_4_4",
+          "text": "It’s a full lab with thirty workstations, network switches, and a server cabinet, all running together.",
+          "audio": "assets/audio/t_4_4.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_4_5",
+          "text": "The work was demanding, but the system is stable now, and that’s what matters.",
+          "audio": "assets/audio/t_4_5.mp3"
         },
         {
-          "id": "t_1_6",
-          "text": "So, how did you feel doing your first full engine service?",
-          "audio": "assets/audio/t_1_6.mp3"
+          "id": "t_4_6",
+          "text": "Everyone felt the pressure, but we got through it.",
+          "audio": "assets/audio/t_4_6.mp3"
         },
         {
-          "id": "t_1_7",
-          "text": "Honestly, I didn’t expect it to be so demanding.",
-          "audio": "assets/audio/t_1_7.mp3"
+          "id": "t_4_7",
+          "text": "So, how did you feel doing your first proper network installation?",
+          "audio": "assets/audio/t_4_7.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_4_8",
+          "text": "Honestly, it was more complicated than I expected.",
+          "audio": "assets/audio/t_4_8.mp3"
         },
         {
-          "id": "t_1_9",
-          "text": "The torque wrench was missing at the start, and the diagnostic scanner was in another section.",
-          "audio": "assets/audio/t_1_9.mp3"
+          "id": "t_4_9",
+          "text": "There are so many steps, and everything depends on the previous one.",
+          "audio": "assets/audio/t_4_9.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_4_10",
+          "text": "First, the network diagram wasn’t very clear, so that was confusing.",
+          "audio": "assets/audio/t_4_10.mp3"
         },
         {
-          "id": "t_1_11",
-          "text": "Yes, and the engine bay was very tight.",
-          "audio": "assets/audio/t_1_11.mp3"
+          "id": "t_4_11",
+          "text": "Then some cables were too short, and a few ports weren’t active.",
+          "audio": "assets/audio/t_4_11.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_4_12",
+          "text": "The router settings were correct later, but in the morning  the initial configuration was wrong.",
+          "audio": "assets/audio/t_4_12.mp3"
         },
         {
-          "id": "t_1_13",
-          "text": "The spark plugs were worn, and the air filter was dirty.",
-          "audio": "assets/audio/t_1_13.mp3"
+          "id": "t_4_13",
+          "text": "The server rack was really heavy and awkward to position.",
+          "audio": "assets/audio/t_4_13.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_4_14",
+          "text": "I mounted the main switch, connected the patch panel, and labelled the Ethernet cables.",
+          "audio": "assets/audio/t_4_14.mp3"
         },
         {
-          "id": "t_1_15",
-          "text": "The drain pan was placed correctly, but one bolt was too tight.",
-          "audio": "assets/audio/t_1_15.mp3"
+          "id": "t_4_15",
+          "text": "A few labels were missing, so that caused a few issues.",
+          "audio": "assets/audio/t_4_15.mp3"
         },
         {
-          "id": "t_1_16",
-          "text": "That’s normal for older training vehicles.",
-          "audio": "assets/audio/t_1_16.mp3"
+          "id": "t_4_16",
+          "text": "Some PCs weren’t detected at the start, and that slowed down the whole process.",
+          "audio": "assets/audio/t_4_16.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_4_17",
+          "text": "Yes, planning  is really everything in ICT work.",
+          "audio": "assets/audio/t_4_17.mp3"
         },
         {
-          "id": "t_1_18",
-          "text": "The lift has to be stable, and the wheel chocks have to be secure.",
-          "audio": "assets/audio/t_1_18.mp3"
+          "id": "t_4_18",
+          "text": "If the configuration is wrong, the entire network becomes unstable.",
+          "audio": "assets/audio/t_4_18.mp3"
         },
         {
-          "id": "t_1_19",
-          "text": "I noticed the battery voltage was low.",
-          "audio": "assets/audio/t_1_19.mp3"
+          "id": "t_4_19",
+          "text": "The IP addressing was mostly fine, but one subnet was slightly off.",
+          "audio": "assets/audio/t_4_19.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_4_20",
+          "text": "That wasn’t ideal, but it was fixable.",
+          "audio": "assets/audio/t_4_20.mp3"
         },
         {
-          "id": "t_1_21",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_1_21.mp3"
+          "id": "t_4_21",
+          "text": "The server is active now, and the access points are placed where they should be.",
+          "audio": "assets/audio/t_4_21.mp3"
         },
         {
-          "id": "t_1_22",
-          "text": "The reading was low, but the terminals were clean.",
-          "audio": "assets/audio/t_1_22.mp3"
+          "id": "t_4_22",
+          "text": "I agree.",
+          "audio": "assets/audio/t_4_22.mp3"
         },
         {
-          "id": "t_1_23",
-          "text": "At first, the engine sound was not smooth, and we weren’t sure why.",
-          "audio": "assets/audio/t_1_23.mp3"
+          "id": "t_4_23",
+          "text": "Once the systems came online, the lab felt tense.",
+          "audio": "assets/audio/t_4_23.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_4_24",
+          "text": "The checks were thorough, and everyone stayed focused.",
+          "audio": "assets/audio/t_4_24.mp3"
         },
         {
-          "id": "t_1_25",
-          "text": "The error code was related to ignition timing.",
-          "audio": "assets/audio/t_1_25.mp3"
+          "id": "t_4_25",
+          "text": "We all knew that there was no room for careless mistakes.",
+          "audio": "assets/audio/t_4_25.mp3"
         },
         {
-          "id": "t_1_26",
-          "text": "After the adjustment, the engine response was better.",
-          "audio": "assets/audio/t_1_26.mp3"
+          "id": "t_4_26",
+          "text": "After the final tests, everything was running smoothly.",
+          "audio": "assets/audio/t_4_26.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_4_27",
+          "text": "The internet speed is stable, and everyone can access the printers.",
+          "audio": "assets/audio/t_4_27.mp3"
         },
         {
-          "id": "t_1_28",
-          "text": "The temperature gauge was normal, and there were no warning lights.",
-          "audio": "assets/audio/t_1_28.mp3"
+          "id": "t_4_28",
+          "text": "Not every connection was perfect, but the system meets the requirements.",
+          "audio": "assets/audio/t_4_28.mp3"
         },
         {
-          "id": "t_1_29",
-          "text": "It was a big relief.",
-          "audio": "assets/audio/t_1_29.mp3"
+          "id": "t_4_29",
+          "text": "By the end of the day, we were exhausted but satisfied.",
+          "audio": "assets/audio/t_4_29.mp3"
         },
         {
-          "id": "t_1_30",
-          "text": "Good work.",
-          "audio": "assets/audio/t_1_30.mp3"
+          "id": "t_4_30",
+          "text": "Today, the lab is much quieter.",
+          "audio": "assets/audio/t_4_30.mp3"
         },
         {
-          "id": "t_1_31",
-          "text": "Today the workshop is quieter.",
-          "audio": "assets/audio/t_1_31.mp3"
+          "id": "t_4_31",
+          "text": "There’s no installation work going on.",
+          "audio": "assets/audio/t_4_31.mp3"
         },
         {
-          "id": "t_1_32",
-          "text": "There is no heavy servicing planned.",
-          "audio": "assets/audio/t_1_32.mp3"
+          "id": "t_4_32",
+          "text": "We’re checking logs and updating software only.",
+          "audio": "assets/audio/t_4_32.mp3"
         },
         {
-          "id": "t_1_33",
-          "text": "We are just checking reports and tools.",
-          "audio": "assets/audio/t_1_33.mp3"
+          "id": "t_4_33",
+          "text": "Next week, you’re going to configure user accounts and security settings.",
+          "audio": "assets/audio/t_4_33.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
-        },
-        {
-          "id": "t_1_35",
+          "id": "t_4_34",
           "text": "Sounds good.",
-          "audio": "assets/audio/t_1_35.mp3"
+          "audio": "assets/audio/t_4_34.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_4_35",
+          "text": "Next time, we’re going to prepare better.",
+          "audio": "assets/audio/t_4_35.mp3"
         },
         {
-          "id": "t_1_37",
-          "text": "Next time, we are going to prepare better and organise the tools in advance.",
-          "audio": "assets/audio/t_1_37.mp3"
+          "id": "t_4_36",
+          "text": "Now we know what works, what fails, and how to sort out problems faster.",
+          "audio": "assets/audio/t_4_36.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_4_5",
+          "text": "The work was demanding, but the system is stable now, and that’s what matters.",
+          "audio": "assets/audio/t_4_5.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_4_9",
+          "text": "There are so many steps, and everything depends on the previous one.",
+          "audio": "assets/audio/t_4_9.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_4_11",
+          "text": "Then some cables were too short, and a few ports weren’t active.",
+          "audio": "assets/audio/t_4_11.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_4_13",
+          "text": "The server rack was really heavy and awkward to position.",
+          "audio": "assets/audio/t_4_13.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_4_16",
+          "text": "Some PCs weren’t detected at the start, and that slowed down the whole process.",
+          "audio": "assets/audio/t_4_16.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_4_19",
+          "text": "The IP addressing was mostly fine, but one subnet was slightly off.",
+          "audio": "assets/audio/t_4_19.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_4_21",
+          "text": "The server is active now, and the access points are placed where they should be.",
+          "audio": "assets/audio/t_4_21.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_4_24",
+          "text": "The checks were thorough, and everyone stayed focused.",
+          "audio": "assets/audio/t_4_24.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_4_26",
+          "text": "After the final tests, everything was running smoothly.",
+          "audio": "assets/audio/t_4_26.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_4_28",
+          "text": "Not every connection was perfect, but the system meets the requirements.",
+          "audio": "assets/audio/t_4_28.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_4_33",
+          "text": "Next week, you’re going to configure user accounts and security settings.",
+          "audio": "assets/audio/t_4_33.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_4_35",
+          "text": "Next time, we’re going to prepare better.",
+          "audio": "assets/audio/t_4_35.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_4_5",
+          "text": "The work was demanding, but the system is stable now, and that’s what matters.",
+          "audio": "assets/audio/t_4_5.mp3"
         },
         {
-          "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
-          "audio": "assets/audio/t_1_5.mp3"
+          "id": "t_4_9",
+          "text": "There are so many steps, and everything depends on the previous one.",
+          "audio": "assets/audio/t_4_9.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_4_11",
+          "text": "Then some cables were too short, and a few ports weren’t active.",
+          "audio": "assets/audio/t_4_11.mp3"
         },
         {
-          "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
-          "audio": "assets/audio/t_1_10.mp3"
+          "id": "t_4_13",
+          "text": "The server rack was really heavy and awkward to position.",
+          "audio": "assets/audio/t_4_13.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
+          "id": "t_4_16",
+          "text": "Some PCs weren’t detected at the start, and that slowed down the whole process.",
+          "audio": "assets/audio/t_4_16.mp3"
         },
         {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
+          "id": "t_4_19",
+          "text": "The IP addressing was mostly fine, but one subnet was slightly off.",
+          "audio": "assets/audio/t_4_19.mp3"
         },
         {
-          "id": "t_1_17",
-          "text": "Safety is always the priority.",
-          "audio": "assets/audio/t_1_17.mp3"
+          "id": "t_4_21",
+          "text": "The server is active now, and the access points are placed where they should be.",
+          "audio": "assets/audio/t_4_21.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_4_24",
+          "text": "The checks were thorough, and everyone stayed focused.",
+          "audio": "assets/audio/t_4_24.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_4_26",
+          "text": "After the final tests, everything was running smoothly.",
+          "audio": "assets/audio/t_4_26.mp3"
         },
         {
-          "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
-          "audio": "assets/audio/t_1_27.mp3"
+          "id": "t_4_28",
+          "text": "Not every connection was perfect, but the system meets the requirements.",
+          "audio": "assets/audio/t_4_28.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_4_33",
+          "text": "Next week, you’re going to configure user accounts and security settings.",
+          "audio": "assets/audio/t_4_33.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_4_35",
+          "text": "Next time, we’re going to prepare better.",
+          "audio": "assets/audio/t_4_35.mp3"
         }
       ]
     }
