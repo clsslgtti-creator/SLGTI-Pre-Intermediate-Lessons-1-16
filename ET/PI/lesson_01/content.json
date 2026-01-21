@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "link",
+        "word_text": "l'i'nk",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The busbar link is a reliable, low resistance connection inside the distribution panel.",
+        "sentence_text": "The busbar l'i'nk is a reliable, low resistance connection inside the distribution panel.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "relay",
+        "word_text": "r'e'lay",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The relay faults are recurring in routine panel testing.",
+        "sentence_text": "The r'e'lay faults are recurring in routine panel testing.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "crimp",
+        "word_text": "cr'i'mp",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A crimp is a tight connection that holds a wire in place.",
+        "sentence_text": "A cr'i'mp is a tight connection that holds a wire in place.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "flick",
+        "word_text": "fl'i'ck",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Flicking is a quick movement that changes a switch position.",
+        "sentence_text": "Fl'i'cking is a quick movement that changes a switch position.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
