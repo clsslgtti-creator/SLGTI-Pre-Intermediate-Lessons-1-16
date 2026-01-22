@@ -122,21 +122,6 @@
     ],
     "keywords": [
       {
-        "id": "k_1",
-        "image": "assets/img/a_2_d_1.jpeg",
-        "word": "oil drain pan/ maroon mats"
-      },
-      {
-        "id": "k_2",
-        "image": "assets/img/a_2_d_2.png",
-        "word": "wheel chocks / beige shelves"
-      },
-      {
-        "id": "k_3",
-        "image": "assets/img/a_2_d_3.jpeg",
-        "word": "coolant container / lime green buckets"
-      },
-      {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
         "word": "seat covers / navy blue boxes"
@@ -304,8 +289,8 @@
             "id": "g_b_6",
             "sentence": "What’s the required pressure in this distribution pipeline? (Pressure / High / Low)",
             "audio": "assets/audio/a_3_b_g_6.mp3",
-            "options": ["310/276/33", "310/267/34", "288/256/32"],
-            "answer": "288/256/32",
+            "options": ["310/276/34", "310/267/34", "288/256/32"],
+            "answer": "310/276/34",
             "image": "assets/img/a_3_b_g_6.png"
           },
           {

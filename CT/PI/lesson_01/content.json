@@ -122,21 +122,6 @@
     ],
     "keywords": [
       {
-        "id": "k_1",
-        "image": "assets/img/a_2_d_1.png",
-        "word": "brick trowel / maroon mats"
-      },
-      {
-        "id": "k_2",
-        "image": "assets/img/a_2_d_2.png",
-        "word": "masonry blocks / beige shelves"
-      },
-      {
-        "id": "k_3",
-        "image": "assets/img/a_2_d_3.jpeg",
-        "word": "levelling hose / lime green buckets"
-      },
-      {
         "id": "k_4",
         "image": "assets/img/a_2_d_4.jpeg",
         "word": "Reflective safety vests / navy blue boxes"
@@ -304,8 +289,8 @@
             "id": "g_b_6",
             "sentence": "What’s the required pressure in this distribution pipeline? (Pressure / High / Low)",
             "audio": "assets/audio/a_3_b_g_6.mp3",
-            "options": ["310/276/33", "310/267/34", "288/256/32"],
-            "answer": "288/256/32",
+            "options": ["310/276/34", "310/267/34", "288/256/32"],
+            "answer": "310/276/34",
             "image": "assets/img/a_3_b_g_6.png"
           },
           {
@@ -704,7 +689,7 @@
         },
         {
           "id": "t_2_26",
-          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint (PRE -can use more complex vocab) which is the most important thing.",
+          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint which is the most important thing.",
           "audio": "assets/audio/t_2_26.mp3"
         },
         {
@@ -801,7 +786,7 @@
         },
         {
           "id": "t_2_26",
-          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint (PRE -can use more complex vocab) which is the most important thing.",
+          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint which is the most important thing.",
           "audio": "assets/audio/t_2_26.mp3"
         },
         {
@@ -863,7 +848,7 @@
         },
         {
           "id": "t_2_26",
-          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint (PRE -can use more complex vocab) which is the most important thing.",
+          "text": "It’s not perfect everywhere, but it meets the standard laid out in the blueprint which is the most important thing.",
           "audio": "assets/audio/t_2_26.mp3"
         },
         {

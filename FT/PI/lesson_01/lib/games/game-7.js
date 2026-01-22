@@ -1691,6 +1691,7 @@ export const createGameScene = (config) => {
         if (sound) {
           this.activeSentenceSound = sound;
           const targetPlays = 2;
+          const replayDelayMs = 3000;
           let playCount = 0;
           const handleComplete = () => {
             if (
@@ -1701,8 +1702,16 @@ export const createGameScene = (config) => {
             }
             playCount += 1;
             if (playCount < targetPlays) {
-              sound.once(Phaser.Sound.Events.COMPLETE, handleComplete);
-              sound.play();
+              this.time.delayedCall(replayDelayMs, () => {
+                if (
+                  this.activeSentenceSound !== sound ||
+                  token !== this.activeSentenceSoundToken
+                ) {
+                  return;
+                }
+                sound.once(Phaser.Sound.Events.COMPLETE, handleComplete);
+                sound.play();
+              });
               return;
             }
             this.activeSentenceSoundCompleteHandler = null;
