@@ -1,0 +1,991 @@
+{
+  "meta": {
+    "lesson_no": 2,
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Long /iː/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "grease",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The grease is essential for smooth, high-load gearbox operation.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "bleed",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Brake bleed is necessary for firm pedal response during testing..",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "seal",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The seal is critical for preventing leaks in pressurised systems.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "sleeve",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The sleeve is accurately machined for tight piston clearance.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Partitives",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["L / l", "Litre", "A litre of"],
+        [null, null, "A bottle of"],
+        [null, null, "A box of"],
+        [null, null, "A refill of"],
+        [null, null, "A can of"],
+        [null, null, "A roll of"],
+        [null, null, "A pack of"],
+        [null, null, "A tube of"],
+        [null, null, "A canister of"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Do we need anything for the engine service?",
+        "text_b": "Yes. We need a litre of premium lubricant.",
+        "text_c": "A litre of premium lubricant?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a litre of premium lubricant.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3",
+        "audio_e": "assets/audio/a_2_d_1_e.mp3",
+        "audio_f": "assets/audio/a_2_d_1_f.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Do we need anything for the brake job?",
+        "text_b": "Yes. We need a bottle of DOT-4 brake fluid.",
+        "text_c": "A bottle of DOT-4 brake fluid?",
+        "text_d": "Yes, that’s right.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a bottle of DOT-4 brake fluid.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3",
+        "audio_e": "assets/audio/a_2_d_2_e.mp3",
+        "audio_f": "assets/audio/a_2_d_2_f.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Do we need anything for the tune-up?",
+        "text_b": "Yes. We need a box of iridium spark plugs.",
+        "text_c": "A box of iridium spark plugs?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a box of iridium spark plugs.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3",
+        "audio_e": "assets/audio/a_2_d_3_e.mp3",
+        "audio_f": "assets/audio/a_2_d_3_f.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "radiator flush"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "fuel line check"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "wiring job"
+      },
+      {
+        "id": "k_7",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "battery test"
+      },
+      {
+        "id": "k_8",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "exhaust inspection"
+      },
+      {
+        "id": "k_9",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "suspension check"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Do we need anything for the radiator flush?",
+        "text_b": "Yes. We need a refill of concentrated coolant.",
+        "text_c": "A refill of concentrated coolant?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a refill of concentrated coolant.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3",
+        "audio_e": "assets/audio/a_2_d_4_e.mp3",
+        "audio_f": "assets/audio/a_2_d_4_f.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Do we need anything for the fuel line check?",
+        "text_b": "Yes. We need a can of premium fuel system cleaner.",
+        "text_c": "A can of premium fuel system cleaner?",
+        "text_d": "Exactly.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a can of premium cleaner.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3",
+        "audio_e": "assets/audio/a_2_d_5_e.mp3",
+        "audio_f": "assets/audio/a_2_d_5_f.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Do we need anything for the wiring job?",
+        "text_b": "Yes. We need a roll of reinforced insulation tape.",
+        "text_c": "A roll of reinforced insulation tape?",
+        "text_d": "Yes, please.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a roll of reinforced insulation tape.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3",
+        "audio_e": "assets/audio/a_2_d_6_e.mp3",
+        "audio_f": "assets/audio/a_2_d_6_f.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "Do we need anything for the battery test?",
+        "text_b": "Yes. We need a pack of protective terminal grease.",
+        "text_c": "A pack of protective terminal grease?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a pack of protective terminal grease.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3",
+        "audio_e": "assets/audio/a_2_d_7_e.mp3",
+        "audio_f": "assets/audio/a_2_d_7_f.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Do we need anything for the exhaust inspection?",
+        "text_b": "Yes. We need a tube of high-temperature gasket sealant.",
+        "text_c": "A tube of high-temperature gasket sealant?",
+        "text_d": "Yes, that’s correct.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a tube of high-temperature gasket sealant.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_8_d.mp3",
+        "audio_e": "assets/audio/a_2_d_8_e.mp3",
+        "audio_f": "assets/audio/a_2_d_8_f.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Do we need anything for the suspension check?",
+        "text_b": "Yes. We need a canister of industrial penetrating oil.",
+        "text_c": "A canister of industrial penetrating oil?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just one canister of industrial penetrating oil.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_9_d.mp3",
+        "audio_e": "assets/audio/a_2_d_9_e.mp3",
+        "audio_f": "assets/audio/a_2_d_9_f.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-7",
+    "instructions": {
+      "activity_a": {
+        "text": "Match column A to column B. \n A තීරුව B තීරුවට ගළපන්න. \n A நெடுவரிசையை B நெடுவரிசையுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Read the number and type in the figure. අංකය කියවා එය ඉලක්කම් ලෙස ටයිප් කරන්න. எண்ணை படித்து அதை எண்களாக தட்டச்சு செய்யவும்.",
+        "audio": "assets/audio/a_3_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "content": [
+          {
+            "id": "g_a_1",
+            "colunm_a": "two hundred and twenty-three",
+            "colunm_b": "223"
+          },
+          {
+            "id": "g_a_2",
+            "colunm_a": "two thousand, two hundred and twenty-three",
+            "colunm_b": "2223"
+          },
+          {
+            "id": "g_a_3",
+            "colunm_a": "twenty-two thousand, two hundred and twenty-three",
+            "colunm_b": "22223"
+          },
+          {
+            "id": "g_a_4",
+            "colunm_a": "two hundred and twenty-two thousand, two hundred and twenty-three",
+            "colunm_b": "222223"
+          },
+          {
+            "id": "g_a_5",
+            "colunm_a": "two million, two hundred and twenty-two thousand, two hundred and twenty-three",
+            "colunm_b": "2222223"
+          },
+          {
+            "id": "g_a_6",
+            "colunm_a": "three point four five",
+            "colunm_b": "3.45"
+          },
+          {
+            "id": "g_a_7",
+            "colunm_a": "four point four five six",
+            "colunm_b": "4.456"
+          },
+          {
+            "id": "g_a_8",
+            "colunm_a": "five point seven eight",
+            "colunm_b": "5.78"
+          },
+          {
+            "id": "g_a_9",
+            "colunm_a": "six point seven eight seven",
+            "colunm_b": "6.787"
+          },
+          {
+            "id": "g_a_10",
+            "colunm_a": "seven point six seven",
+            "colunm_b": "7.67"
+          }
+        ]
+      },
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "examples": [
+          {
+            "id": "e_1",
+            "question": "Sixty seven.",
+            "answer": "67",
+            "audio": "assets/audio/a_3_a_e_1.mp3"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "question": "Two hundred and fifty thousand.",
+            "answer": "250000",
+            "audio": "assets/audio/a_3_b_g_1.mp3"
+          },
+          {
+            "id": "g_b_2",
+            "question": "One million two hundred thousand.",
+            "answer": "1200000",
+            "audio": "assets/audio/a_3_b_g_2.mp3"
+          },
+          {
+            "id": "g_b_3",
+            "question": "Six hundred and five thousand two hundred and ten.",
+            "answer": "605210",
+            "audio": "assets/audio/a_3_b_g_3.mp3"
+          },
+          {
+            "id": "g_b_4",
+            "question": "Two point three million.",
+            "answer": "2300000",
+            "audio": "assets/audio/a_3_b_g_4.mp3"
+          },
+          {
+            "id": "g_b_5",
+            "question": "Seven million five hundred and sixty seven thousand two hundred and fifty eight.",
+            "answer": "7567258",
+            "audio": "assets/audio/a_3_b_g_5.mp3"
+          },
+          {
+            "id": "g_b_6",
+            "question": "Four hundred and sixty six thousand five hundred and eighty nine.",
+            "answer": "466589",
+            "audio": "assets/audio/a_3_b_g_6.mp3"
+          },
+          {
+            "id": "g_b_7",
+            "question": "Three point four million.",
+            "answer": "3400000",
+            "audio": "assets/audio/a_3_b_g_7.mp3"
+          },
+          {
+            "id": "g_b_8",
+            "question": "Six million eight hundred and seventy three thousand five hundred and thirty two.",
+            "answer": "6873532",
+            "audio": "assets/audio/a_3_b_g_8.mp3"
+          },
+          {
+            "id": "g_b_9",
+            "question": "Nine hundred and nine thousand eight hundred and fifteen.",
+            "answer": "909815",
+            "audio": "assets/audio/a_3_b_g_9.mp3"
+          },
+          {
+            "id": "g_b_10",
+            "question": "Eight million three hundred and forty five thousand six hundred and seventy eight.",
+            "answer": "8345678",
+            "audio": "assets/audio/a_3_b_g_10.mp3"
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "What’s the required width of this access platform? It is 666 cm. But this access platform is only 575 cm wide at the moment. This access platform is 91 cm too narrow for safe movement.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "a_3_b_g_2",
+          "text": "What’s the required height of this storage roof? It is 4,200 mm. But this storage roof is only 3,950 mm high. This storage roof is 250 mm too low for the required clearance.",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "a_3_b_g_3",
+          "text": "What’s the required length of this ceiling frame? It is 37 m. But this ceiling frame is only 34 m long in the current layout. This ceiling frame is 3 m too short for this warehouse.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "What’s the required thickness of this protective steel sheet? It is 18 mm. But this protective steel sheet is only 14 mm thick on inspection. This protective steel sheet is 4 mm too thin for reinforcement.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "What’s the required capacity of this fuel reservoir? It is 8,500 litres. But this fuel reservoir was only 7,900 litres full this morning. This fuel reservoir was 600 litres too low for operation.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "What’s the required pressure in this distribution pipeline? It is 288 bar. But this distribution pipeline is only at 256 bar right now. This distribution pipeline is 32 bar too low for normal flow.",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "What’s the required voltage for this electrical supply line? It is 415 volts. But this electrical supply line is only at 384 volts under load. This electrical supply line is 31 volts too low for equipment start-up.",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "What’s the required temperature in this curing chamber? It is 920°C. But this curing chamber is only at 870°C on the display. This curing chamber is 50°C too cold for correct treatment.",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        },
+        {
+          "id": "a_3_b_g_9",
+          "text": "What’s the required diameter of this ventilation duct? It is 980 mm. But this ventilation duct is only 900 mm wide in the new section. This ventilation duct is 80 mm too narrow for proper airflow.",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
+        },
+        {
+          "id": "a_3_b_g_10",
+          "text": "What’s the required speed of this conveyor drive unit? It is 1440 rpm. But this conveyor drive unit is only at 1320 rpm when operating. This conveyor drive unit is 120 rpm too slow for production.",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "c_3_1",
+          "text": "What’s the required depth of this deep bore well?",
+          "audio": "assets/audio/a_3_c_1.mp3"
+        },
+        {
+          "id": "c_3_2",
+          "text": "What’s the required width of this access platform?",
+          "audio": "assets/audio/a_3_c_2.mp3"
+        },
+        {
+          "id": "c_3_3",
+          "text": "What’s the required length of this storage roof?",
+          "audio": "assets/audio/a_3_c_3.mp3"
+        },
+        {
+          "id": "c_3_4",
+          "text": "What’s the required thickness of this protective steel sheet?",
+          "audio": "assets/audio/a_3_c_4.mp3"
+        },
+        {
+          "id": "c_3_5",
+          "text": "What’s the required capacity of this fuel reservoir?",
+          "audio": "assets/audio/a_3_c_5.mp3"
+        },
+        {
+          "id": "c_3_6",
+          "text": "What’s the required diameter of this ventilation duct?",
+          "audio": "assets/audio/a_3_c_6.mp3"
+        },
+        {
+          "id": "c_3_7",
+          "text": "This well is forty-three metres too shallow to reach the water bed.",
+          "audio": "assets/audio/a_3_c_7.mp3"
+        },
+        {
+          "id": "c_3_8",
+          "text": "This ceiling frame is three metres too short for this warehouse.",
+          "audio": "assets/audio/a_3_c_8.mp3"
+        },
+        {
+          "id": "c_3_9",
+          "text": "This fuel reservoir is six hundred litres too low for operational use.",
+          "audio": "assets/audio/a_3_c_9.mp3"
+        },
+        {
+          "id": "c_3_10",
+          "text": "This ventilation duct is eighty millimetres too narrow for proper airflow.",
+          "audio": "assets/audio/a_3_c_10.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "c_3_1",
+          "text": "What’s the required depth of this deep bore well?",
+          "audio": "assets/audio/a_3_c_1.mp3"
+        },
+        {
+          "id": "c_3_2",
+          "text": "What’s the required width of this access platform?",
+          "audio": "assets/audio/a_3_c_2.mp3"
+        },
+        {
+          "id": "c_3_3",
+          "text": "What’s the required length of this storage roof?",
+          "audio": "assets/audio/a_3_c_3.mp3"
+        },
+        {
+          "id": "c_3_4",
+          "text": "What’s the required thickness of this protective steel sheet?",
+          "audio": "assets/audio/a_3_c_4.mp3"
+        },
+        {
+          "id": "c_3_5",
+          "text": "What’s the required capacity of this fuel reservoir?",
+          "audio": "assets/audio/a_3_c_5.mp3"
+        },
+        {
+          "id": "c_3_6",
+          "text": "What’s the required diameter of this ventilation duct?",
+          "audio": "assets/audio/a_3_c_6.mp3"
+        },
+        {
+          "id": "c_3_7",
+          "text": "This well is forty-three metres too shallow to reach the water bed.",
+          "audio": "assets/audio/a_3_c_7.mp3"
+        },
+        {
+          "id": "c_3_8",
+          "text": "This ceiling frame is three metres too short for this warehouse.",
+          "audio": "assets/audio/a_3_c_8.mp3"
+        },
+        {
+          "id": "c_3_9",
+          "text": "This fuel reservoir is six hundred litres too low for operational use.",
+          "audio": "assets/audio/a_3_c_9.mp3"
+        },
+        {
+          "id": "c_3_10",
+          "text": "This ventilation duct is eighty millimetres too narrow for proper airflow.",
+          "audio": "assets/audio/a_3_c_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "What type of vehicle did the trainees service yesterday?",
+            "answer": "A petrol training vehicle",
+            "options": [
+              "A diesel training vehicle",
+              "A petrol training vehicle",
+              "A hybrid passenger car"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Which tool was missing at the beginning of the work?",
+            "answer": "A torque wrench",
+            "options": [
+              "A hydraulic jack",
+              "A diagnostic scanner",
+              "A torque wrench"
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": "Why was the engine sound uneven at first?",
+            "answer": "Because the ignition timing was not correct.",
+            "options": [
+              "Because the terminals were unclean.",
+              "Because the camshaft timing was not correct.",
+              "Because the ignition timing was not correct."
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "Why was the engine response better after the adjustment?",
+            "answer": "Because the ignition timing was corrected.",
+            "options": [
+              "Because the vibration was loud.",
+              "Because the warning lights were replaced.",
+              "Because the ignition timing was corrected."
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": "What kind of engine are the trainees going to work on next week?",
+            "answer": "A high-capacity diesel engine",
+            "options": [
+              "A two-stroke engine",
+              "A high-capacity diesel engine",
+              "A medium-capacity diesel engine"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1_1",
+          "text": "Yesterday was a very busy day in the automobile workshop.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "The place was quite noisy and hot.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "We serviced a petrol training car near Bay Three.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "It is not a small task for first-time trainees.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "The engine condition was not bad, but several parts were worn out.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "So, how did you feel doing your first full engine service?",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "Honestly, I didn’t expect it to be so demanding.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "The torque wrench was missing at the start, and the diagnostic scanner was in another section.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "At first, the setup was confusing, but later everything was better organised.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Yes, and the engine bay was very tight.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "Access was not easy at all.",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_13",
+          "text": "The spark plugs were worn, and the air filter was dirty.",
+          "audio": "assets/audio/t_1_13.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "The engine oil was black, so an oil change was necessary.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "The drain pan was placed correctly, but one bolt was too tight.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "That’s normal for older training vehicles.",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Safety is always the priority.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "The lift has to be stable, and the wheel chocks have to be secure.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "I noticed the battery voltage was low.",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "Was that clear on the multimeter?",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "Yes, sir.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "The reading was low, but the terminals were clean.",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "At first, the engine sound was not smooth, and we weren’t sure why.",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "The diagnostic scanner was helpful, though.",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "The error code was related to ignition timing.",
+          "audio": "assets/audio/t_1_25.mp3"
+        },
+        {
+          "id": "t_1_26",
+          "text": "After the adjustment, the engine response was better.",
+          "audio": "assets/audio/t_1_26.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "The idle was smooth, and the vibration was gone.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "The temperature gauge was normal, and there were no warning lights.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_29",
+          "text": "It was a big relief.",
+          "audio": "assets/audio/t_1_29.mp3"
+        },
+        {
+          "id": "t_1_30",
+          "text": "Good work.",
+          "audio": "assets/audio/t_1_30.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "Today the workshop is quieter.",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "There is no heavy servicing planned.",
+          "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_33",
+          "text": "We are just checking reports and tools.",
+          "audio": "assets/audio/t_1_33.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_35",
+          "text": "Sounds good.",
+          "audio": "assets/audio/t_1_35.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "Yesterday was tiring, but it was a valuable experience.",
+          "audio": "assets/audio/t_1_36.mp3"
+        },
+        {
+          "id": "t_1_37",
+          "text": "Next time, we are going to prepare better and organise the tools in advance.",
+          "audio": "assets/audio/t_1_37.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1_1",
+          "text": "Yesterday was a very busy day in the automobile workshop.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "The engine condition was not bad, but several parts were worn out.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "At first, the setup was confusing, but later everything was better organised.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "Access was not easy at all.",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "The engine oil was black, so an oil change was necessary.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Safety is always the priority.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "Was that clear on the multimeter?",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "The diagnostic scanner was helpful, though.",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "The idle was smooth, and the vibration was gone.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "Yesterday was tiring, but it was a valuable experience.",
+          "audio": "assets/audio/t_1_36.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_1",
+          "text": "Yesterday was a very busy day in the automobile workshop.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "The engine condition was not bad, but several parts were worn out.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "At first, the setup was confusing, but later everything was better organised.",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "Access was not easy at all.",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "The engine oil was black, so an oil change was necessary.",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Safety is always the priority.",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "Was that clear on the multimeter?",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "The diagnostic scanner was helpful, though.",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "The idle was smooth, and the vibration was gone.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "Yesterday was tiring, but it was a valuable experience.",
+          "audio": "assets/audio/t_1_36.mp3"
+        }
+      ]
+    }
+  }
+}
