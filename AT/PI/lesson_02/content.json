@@ -615,7 +615,7 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": " ",
+            "question": "_",
             "answer": "The principal is arriving after meeting the sponsor.",
             "options": [
               "The principal is arriving before meeting the sponsor.",
@@ -625,7 +625,7 @@
           },
           {
             "id": "l_4_2",
-            "question": " ",
+            "question": "_",
             "answer": "Nadeesha is going to grab the name tags before 9 am.",
             "options": [
               "Nadeesha is going to grab the name tags from the reception area.",
@@ -635,7 +635,7 @@
           },
           {
             "id": "l_4_3",
-            "question": " ",
+            "question": "_",
             "answer": "Extra sockets might be needed for an additional projector.",
             "options": [
               "Extra sockets might be needed for an additional projector.",
@@ -645,7 +645,7 @@
           },
           {
             "id": "l_4_4",
-            "question": " ",
+            "question": "_",
             "answer": "Dilshan wants Sanduni to call in case there are any problems",
             "options": [
               "Dilshan wants Sanduni to call in case there are any problems",
@@ -655,7 +655,7 @@
           },
           {
             "id": "l_4_5",
-            "question": " ",
+            "question": "_",
             "answer": "Some guests are arriving two hours too early",
             "options": [
               "Some guests are arriving two and a half hours too early",
