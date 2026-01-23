@@ -119,13 +119,15 @@ const normalizeComprehensionData = (raw = {}) => {
   const questions = rawQuestions
     .map((question, index) => {
       const id = trimString(question?.id) || `question_${index + 1}`;
-      const prompt = trimString(question?.question);
+      const prompt = trimString(
+        question?.question ?? question?.prompt ?? question?.text
+      );
       const answer = trimString(question?.answer);
       const options = Array.isArray(question?.options)
         ? question.options.map((option) => trimString(option)).filter(Boolean)
         : [];
 
-      if (!prompt || !answer || options.length < 2) {
+      if (!answer || options.length < 2) {
         return null;
       }
 
@@ -269,10 +271,12 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
     title.textContent = `Question ${index + 1}`;
     card.appendChild(title);
 
-    const prompt = document.createElement("p");
-    prompt.className = "dialogue-card__line dialogue-card__line--question";
-    prompt.textContent = question.prompt;
-    card.appendChild(prompt);
+    if (question.prompt) {
+      const prompt = document.createElement("p");
+      prompt.className = "dialogue-card__line dialogue-card__line--question";
+      prompt.textContent = question.prompt;
+      card.appendChild(prompt);
+    }
 
     const optionGroup = document.createElement("div");
     optionGroup.className = "listening-option-group";
