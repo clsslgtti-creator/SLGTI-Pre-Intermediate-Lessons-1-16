@@ -1,0 +1,976 @@
+{
+  "meta": {
+    "lesson_no": 2,
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Long /iː/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "gr'ea'se",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The gr'ea'se is essential for smooth, high-load gearbox operation.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "bl'ee'd",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Brake bl'ee'd is necessary for firm pedal response during testing.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "s'ea'l",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The s'ea'l is critical for preventing leaks in pressurised systems.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "sl'ee've",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The sl'ee've is accurately machined for tight piston clearance.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Partitives",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["L / l", "Litre", "A litre of"],
+        [null, null, "A bottle of"],
+        [null, null, "A box of"],
+        [null, null, "A refill of"],
+        [null, null, "A can of"],
+        [null, null, "A roll of"],
+        [null, null, "A pack of"],
+        [null, null, "A tube of"],
+        [null, null, "A canister of"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Do we need anything for the engine service?",
+        "text_b": "Yes. We need a litre of premium lubricant.",
+        "text_c": "A litre of premium lubricant?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a litre of premium lubricant.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_1_f.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Do we need anything for the brake job?",
+        "text_b": "Yes. We need a bottle of DOT-4 brake fluid.",
+        "text_c": "A bottle of DOT-4 brake fluid?",
+        "text_d": "Yes, that’s right.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a bottle of DOT-4 brake fluid.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_2_f.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Do we need anything for the tune-up?",
+        "text_b": "Yes. We need a box of iridium spark plugs.",
+        "text_c": "A box of iridium spark plugs?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a box of iridium spark plugs.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_3_f.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "radiator flush"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "fuel line check"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "wiring job"
+      },
+      {
+        "id": "k_7",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "battery test"
+      },
+      {
+        "id": "k_8",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "exhaust inspection"
+      },
+      {
+        "id": "k_9",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "suspension check"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Do we need anything for the radiator flush?",
+        "text_b": "Yes. We need a refill of concentrated coolant.",
+        "text_c": "A refill of concentrated coolant?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a refill of concentrated coolant.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_4_f.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Do we need anything for the fuel line check?",
+        "text_b": "Yes. We need a can of premium fuel system cleaner.",
+        "text_c": "A can of premium fuel system cleaner?",
+        "text_d": "Exactly.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a can of premium cleaner.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_5_f.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Do we need anything for the wiring job?",
+        "text_b": "Yes. We need a roll of reinforced insulation tape.",
+        "text_c": "A roll of reinforced insulation tape?",
+        "text_d": "Yes, please.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a roll of reinforced insulation tape.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_6_f.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "Do we need anything for the battery test?",
+        "text_b": "Yes. We need a pack of protective terminal grease.",
+        "text_c": "A pack of protective terminal grease?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a pack of protective terminal grease.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_7_f.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Do we need anything for the exhaust inspection?",
+        "text_b": "Yes. We need a tube of high-temperature gasket sealant.",
+        "text_c": "A tube of high-temperature gasket sealant?",
+        "text_d": "Yes, that’s correct.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just a tube of high-temperature gasket sealant.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_8_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_8_f.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Do we need anything for the suspension check?",
+        "text_b": "Yes. We need a canister of industrial penetrating oil.",
+        "text_c": "A canister of industrial penetrating oil?",
+        "text_d": "Yes.",
+        "text_e": "Anything else?",
+        "text_f": "No. Just one canister of industrial penetrating oil.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_9_d.mp3",
+        "audio_e": "assets/audio/a_2_d_x_e.mp3",
+        "audio_f": "assets/audio/a_2_d_9_f.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-7",
+    "instructions": {
+      "activity_a": {
+        "text": "Match column A to column B. \n A තීරුව B තීරුවට ගළපන්න. \n A நெடுவரிசையை B நெடுவரிசையுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_g.mp3"
+      },
+      "activity_b": {
+        "text": "Read the number and type in the figure. අංකය කියවා එය ඉලක්කම් ලෙස ටයිප් කරන්න. எண்ணை படித்து அதை எண்களாக தட்டச்சு செய்யவும்.",
+        "audio": "assets/audio/a_3_i_h.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "content": [
+          {
+            "id": "g_a_1",
+            "colunm_a": "two hundred and twenty-three",
+            "colunm_b": "223"
+          },
+          {
+            "id": "g_a_2",
+            "colunm_a": "two thousand, two hundred and twenty-three",
+            "colunm_b": "2223"
+          },
+          {
+            "id": "g_a_3",
+            "colunm_a": "twenty-two thousand, two hundred and twenty-three",
+            "colunm_b": "22223"
+          },
+          {
+            "id": "g_a_4",
+            "colunm_a": "two hundred and twenty-two thousand, two hundred and twenty-three",
+            "colunm_b": "222223"
+          },
+          {
+            "id": "g_a_5",
+            "colunm_a": "two million, two hundred and twenty-two thousand, two hundred and twenty-three",
+            "colunm_b": "2222223"
+          },
+          {
+            "id": "g_a_6",
+            "colunm_a": "three point four five",
+            "colunm_b": "3.45"
+          },
+          {
+            "id": "g_a_7",
+            "colunm_a": "four point four five six",
+            "colunm_b": "4.456"
+          },
+          {
+            "id": "g_a_8",
+            "colunm_a": "five point seven eight",
+            "colunm_b": "5.78"
+          },
+          {
+            "id": "g_a_9",
+            "colunm_a": "six point seven eight seven",
+            "colunm_b": "6.787"
+          },
+          {
+            "id": "g_a_10",
+            "colunm_a": "seven point six seven",
+            "colunm_b": "7.67"
+          }
+        ]
+      },
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "time_per_question_ms": 30000,
+        "examples": [
+          {
+            "id": "e_1",
+            "question": "Sixty seven.",
+            "answer": "67"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "question": "Two hundred and fifty thousand.",
+            "answer": "250000"
+          },
+          {
+            "id": "g_b_2",
+            "question": "One million two hundred thousand.",
+            "answer": "1200000"
+          },
+          {
+            "id": "g_b_3",
+            "question": "Six hundred and five thousand two hundred and ten.",
+            "answer": "605210"
+          },
+          {
+            "id": "g_b_4",
+            "question": "Two point three million.",
+            "answer": "2300000"
+          },
+          {
+            "id": "g_b_5",
+            "question": "Seven million five hundred and sixty seven thousand two hundred and fifty eight.",
+            "answer": "7567258"
+          },
+          {
+            "id": "g_b_6",
+            "question": "Four hundred and sixty six thousand five hundred and eighty nine.",
+            "answer": "466589"
+          },
+          {
+            "id": "g_b_7",
+            "question": "Three point four million.",
+            "answer": "3400000"
+          },
+          {
+            "id": "g_b_8",
+            "question": "Six million eight hundred and seventy three thousand five hundred and thirty two.",
+            "answer": "6873532"
+          },
+          {
+            "id": "g_b_9",
+            "question": "Nine hundred and nine thousand eight hundred and fifteen.",
+            "answer": "909815"
+          },
+          {
+            "id": "g_b_10",
+            "question": "Eight million three hundred and forty five thousand six hundred and seventy eight.",
+            "answer": "8345678"
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "250,000 HP - two hundred and fifty thousand HP (horse power)",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "a_3_b_g_2",
+          "text": "1,200,000 RPM - one million two hundred thousand RPM (revolutions per minute)",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "a_3_b_g_3",
+          "text": "605,210 mm - six hundred and five thousand two hundred and ten mm (millimetre)",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "2.3 million kg - two point three million kg (kilogramme)",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "7,567,258 cm - seven million five hundred and sixty seven thousand two hundred and fifty eight cm (centimetre)",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "466,589 °C - four hundred and sixty six thousand five hundred and eighty nine °C (degrees celsius)",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "3.4 million PSI - three point four million PSI (pound per square inch)",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "6,873,532 km - six million eight hundred and seventy three thousand five hundred and thirty two km (kilometre)",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        },
+        {
+          "id": "a_3_b_g_9",
+          "text": "909,815 kw - nine hundred and nine thousand eight hundred and fifteen kw (kilowatt)",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
+        },
+        {
+          "id": "a_3_b_g_10",
+          "text": "8,345,678 KP - eight million three hundred and forty five thousand six hundred and seventy eight KP (kilopascal)",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "250,000 HP - two hundred and fifty thousand HP (horse power)",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "a_3_b_g_2",
+          "text": "1,200,000 RPM - one million two hundred thousand RPM (revolutions per minute)",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "a_3_b_g_3",
+          "text": "605,210 mm - six hundred and five thousand two hundred and ten mm (millimetre)",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "2.3 million kg - two point three million kg (kilogramme)",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "7,567,258 cm - seven million five hundred and sixty seven thousand two hundred and fifty eight cm (centimetre)",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "466,589 °C - four hundred and sixty six thousand five hundred and eighty nine °C (degrees celsius)",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "3.4 million PSI - three point four million PSI (pound per square inch)",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "6,873,532 km - six million eight hundred and seventy three thousand five hundred and thirty two km (kilometre)",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        },
+        {
+          "id": "a_3_b_g_9",
+          "text": "909,815 kw - nine hundred and nine thousand eight hundred and fifteen kw (kilowatt)",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
+        },
+        {
+          "id": "a_3_b_g_10",
+          "text": "8,345,678 KP - eight million three hundred and forty five thousand six hundred and seventy eight KP (kilopascal)",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "250,000 HP - two hundred and fifty thousand HP (horse power)",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "a_3_b_g_2",
+          "text": "1,200,000 RPM - one million two hundred thousand RPM (revolutions per minute)",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "a_3_b_g_3",
+          "text": "605,210 mm - six hundred and five thousand two hundred and ten mm (millimetre)",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "2.3 million kg - two point three million kg (kilogramme)",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "7,567,258 cm - seven million five hundred and sixty seven thousand two hundred and fifty eight cm (centimetre)",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "466,589 °C - four hundred and sixty six thousand five hundred and eighty nine °C (degrees celsius)",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "3.4 million PSI - three point four million PSI (pound per square inch)",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "6,873,532 km - six million eight hundred and seventy three thousand five hundred and thirty two km (kilometre)",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        },
+        {
+          "id": "a_3_b_g_9",
+          "text": "909,815 kw - nine hundred and nine thousand eight hundred and fifteen kw (kilowatt)",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
+        },
+        {
+          "id": "a_3_b_g_10",
+          "text": "8,345,678 KP - eight million three hundred and forty five thousand six hundred and seventy eight KP (kilopascal)",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": " ",
+            "answer": "The principal is arriving after meeting the sponsor.",
+            "options": [
+              "The principal is arriving before meeting the sponsor.",
+              "The principal is arriving after meeting the sponsor.",
+              "The principal arrives as soon as the sponsor shows up."
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": " ",
+            "answer": "Nadeesha is going to grab the name tags before 9 am.",
+            "options": [
+              "Nadeesha is going to grab the name tags from the reception area.",
+              "Nadeesha is going to send Dilshan to grab the name tags before 9.",
+              "Nadeesha is going to grab the name tags before 9 am."
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": " ",
+            "answer": "Extra sockets might be needed for an additional projector.",
+            "options": [
+              "Extra sockets might be needed for an additional projector.",
+              "Extra sockets might have to be installed in the main hall.",
+              "Extra sockets might be needed because of the cooking demos."
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": " ",
+            "answer": "Dilshan wants Sanduni to call in case there are any problems",
+            "options": [
+              "Dilshan wants Sanduni to call in case there are any problems",
+              "Dilshan wants Sanduni to call to prevent anything going wrong",
+              "Dilshan wants Sanduni to call before anything goes wrong"
+            ]
+          },
+          {
+            "id": "l_4_5",
+            "question": " ",
+            "answer": "Some guests are arriving two hours too early",
+            "options": [
+              "Some guests are arriving two and a half hours too early",
+              "Some guests are arriving two hours too early",
+              "Some guests are arriving two hours too late"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1_1",
+          "text": "Morning, Dilshan.",
+          "audio": "assets/audio/t_1_1.mp3"
+        },
+        {
+          "id": "t_1_2",
+          "text": "Good morning Nadeesha.",
+          "audio": "assets/audio/t_1_2.mp3"
+        },
+        {
+          "id": "t_1_3",
+          "text": "The exhibition is starting in a few hours, but the corridors are already filling up with students.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_4",
+          "text": "Yesterday, I set up most of the entrance display, but I still have to arrange the flowers at the reception area.",
+          "audio": "assets/audio/t_1_4.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "The principal usually arrives early, but today she is meeting a sponsor first.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Are you in charge of preparing the solar demonstration, Dilshan?",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_7",
+          "text": "Yes, I am.",
+          "audio": "assets/audio/t_1_7.mp3"
+        },
+        {
+          "id": "t_1_8",
+          "text": "I connected the panels last night, and everything worked fine then.",
+          "audio": "assets/audio/t_1_8.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Right now, the technicians are adjusting the voltage.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Could you bring the name tags for each presenter when you come to the main hall, please?",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_11",
+          "text": "Sure.",
+          "audio": "assets/audio/t_1_11.mp3"
+        },
+        {
+          "id": "t_1_12",
+          "text": "The name tags have already been printed.",
+          "audio": "assets/audio/t_1_12.mp3"
+        },
+        {
+          "id": "t_1_13",
+          "text": "I left them in the office, but I can grab them before 9.",
+          "audio": "assets/audio/t_1_13.mp3"
+        },
+        {
+          "id": "t_1_14",
+          "text": "By the way, are you presenting first, or is the robotics group going before you?",
+          "audio": "assets/audio/t_1_14.mp3"
+        },
+        {
+          "id": "t_1_15",
+          "text": "Actually, robotics is going first.",
+          "audio": "assets/audio/t_1_15.mp3"
+        },
+        {
+          "id": "t_1_16",
+          "text": "I have just checked the schedule.",
+          "audio": "assets/audio/t_1_16.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Can you also check the microphones on the head table, please?",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_18",
+          "text": "We had some problems with them last week.",
+          "audio": "assets/audio/t_1_18.mp3"
+        },
+        {
+          "id": "t_1_19",
+          "text": "It is done!",
+          "audio": "assets/audio/t_1_19.mp3"
+        },
+        {
+          "id": "t_1_20",
+          "text": "I tested them this morning.",
+          "audio": "assets/audio/t_1_20.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "The microphones and the speakers are working, but we might need to connect an additional projector.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "Could you ask the caretaker to bring an extension cord?",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_23",
+          "text": "We might need extra sockets.",
+          "audio": "assets/audio/t_1_23.mp3"
+        },
+        {
+          "id": "t_1_24",
+          "text": "I will ask him to bring the orange one.",
+          "audio": "assets/audio/t_1_24.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "Also, the media team is setting up cameras at the back to record the opening ceremony.",
+          "audio": "assets/audio/t_1_25.mp3"
+        },
+        {
+          "id": "t_1_26",
+          "text": "Right.",
+          "audio": "assets/audio/t_1_26.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "Some of my cousins are coming too; they have never visited a TVET exhibition before.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_28",
+          "text": "They think it’s only machines and tools, but we are showing some design projects, having cooking demos, and even asking the participants to do some experiments.",
+          "audio": "assets/audio/t_1_28.mp3"
+        },
+        {
+          "id": "t_1_29",
+          "text": "Exactly.",
+          "audio": "assets/audio/t_1_29.mp3"
+        },
+        {
+          "id": "t_1_30",
+          "text": "After the opening, we are going to guide the visitors to the workshop area.",
+          "audio": "assets/audio/t_1_30.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "If anything goes wrong, can you call me immediately?",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_32",
+          "text": "No problem.",
+          "audio": "assets/audio/t_1_32.mp3"
+        },
+        {
+          "id": "t_1_33",
+          "text": "Oh, my goodness!",
+          "audio": "assets/audio/t_1_33.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Some guests are walking in already.",
+          "audio": "assets/audio/t_1_34.mp3"
+        },
+        {
+          "id": "t_1_35",
+          "text": "They are two hours too early.",
+          "audio": "assets/audio/t_1_35.mp3"
+        },
+        {
+          "id": "t_1_36",
+          "text": "Dilshan, hurry up!",
+          "audio": "assets/audio/t_1_36.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1_3",
+          "text": "The exhibition is starting in a few hours, but the corridors are already filling up with students.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "The principal usually arrives early, but today she is meeting a sponsor first.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Are you in charge of preparing the solar demonstration, Dilshan?",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Right now, the technicians are adjusting the voltage.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Could you bring the name tags for each presenter when you come to the main hall, please?",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Can you also check the microphones on the head table, please?",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "The microphones and the speakers are working, but we might need to connect an additional projector.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "Could you ask the caretaker to bring an extension cord?",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "Also, the media team is setting up cameras at the back to record the opening ceremony.",
+          "audio": "assets/audio/t_1_25.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "Some of my cousins are coming too; they have never visited a TVET exhibition before.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "If anything goes wrong, can you call me immediately?",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Some guests are walking in already.",
+          "audio": "assets/audio/t_1_34.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1_3",
+          "text": "The exhibition is starting in a few hours, but the corridors are already filling up with students.",
+          "audio": "assets/audio/t_1_3.mp3"
+        },
+        {
+          "id": "t_1_5",
+          "text": "The principal usually arrives early, but today she is meeting a sponsor first.",
+          "audio": "assets/audio/t_1_5.mp3"
+        },
+        {
+          "id": "t_1_6",
+          "text": "Are you in charge of preparing the solar demonstration, Dilshan?",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Right now, the technicians are adjusting the voltage.",
+          "audio": "assets/audio/t_1_9.mp3"
+        },
+        {
+          "id": "t_1_10",
+          "text": "Could you bring the name tags for each presenter when you come to the main hall, please?",
+          "audio": "assets/audio/t_1_10.mp3"
+        },
+        {
+          "id": "t_1_17",
+          "text": "Can you also check the microphones on the head table, please?",
+          "audio": "assets/audio/t_1_17.mp3"
+        },
+        {
+          "id": "t_1_21",
+          "text": "The microphones and the speakers are working, but we might need to connect an additional projector.",
+          "audio": "assets/audio/t_1_21.mp3"
+        },
+        {
+          "id": "t_1_22",
+          "text": "Could you ask the caretaker to bring an extension cord?",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "Also, the media team is setting up cameras at the back to record the opening ceremony.",
+          "audio": "assets/audio/t_1_25.mp3"
+        },
+        {
+          "id": "t_1_27",
+          "text": "Some of my cousins are coming too; they have never visited a TVET exhibition before.",
+          "audio": "assets/audio/t_1_27.mp3"
+        },
+        {
+          "id": "t_1_31",
+          "text": "If anything goes wrong, can you call me immediately?",
+          "audio": "assets/audio/t_1_31.mp3"
+        },
+        {
+          "id": "t_1_34",
+          "text": "Some guests are walking in already.",
+          "audio": "assets/audio/t_1_34.mp3"
+        }
+      ]
+    }
+  }
+}
