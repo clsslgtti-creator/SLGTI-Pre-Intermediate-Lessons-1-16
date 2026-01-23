@@ -434,157 +434,157 @@
       "activity_c": [
         {
           "id": "a_3_b_g_1",
-          "text": "What’s the required width of this access platform? It is 666 cm. But this access platform is only 575 cm wide at the moment. This access platform is 91 cm too narrow for safe movement.",
+          "text": "250,000 HP - two hundred and fifty thousand HP (horse power)",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "What’s the required height of this storage roof? It is 4,200 mm. But this storage roof is only 3,950 mm high. This storage roof is 250 mm too low for the required clearance.",
+          "text": "1,200,000 RPM - one million two hundred thousand RPM (revolutions per minute)",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "What’s the required length of this ceiling frame? It is 37 m. But this ceiling frame is only 34 m long in the current layout. This ceiling frame is 3 m too short for this warehouse.",
+          "text": "605,210 mm - six hundred and five thousand two hundred and ten mm (millimetre)",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "What’s the required thickness of this protective steel sheet? It is 18 mm. But this protective steel sheet is only 14 mm thick on inspection. This protective steel sheet is 4 mm too thin for reinforcement.",
+          "text": "2.3 million kg - two point three million kg (kilogramme)",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "What’s the required capacity of this fuel reservoir? It is 8,500 litres. But this fuel reservoir was only 7,900 litres full this morning. This fuel reservoir was 600 litres too low for operation.",
+          "text": "7,567,258 cm - seven million five hundred and sixty seven thousand two hundred and fifty eight cm (centimetre)",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "What’s the required pressure in this distribution pipeline? It is 288 bar. But this distribution pipeline is only at 256 bar right now. This distribution pipeline is 32 bar too low for normal flow.",
+          "text": "466,589 °C - four hundred and sixty six thousand five hundred and eighty nine °C (degrees celsius)",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "What’s the required voltage for this electrical supply line? It is 415 volts. But this electrical supply line is only at 384 volts under load. This electrical supply line is 31 volts too low for equipment start-up.",
+          "text": "3.4 million PSI - three point four million PSI (pound per square inch)",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "What’s the required temperature in this curing chamber? It is 920°C. But this curing chamber is only at 870°C on the display. This curing chamber is 50°C too cold for correct treatment.",
+          "text": "6,873,532 km - six million eight hundred and seventy three thousand five hundred and thirty two km (kilometre)",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "a_3_b_g_9",
-          "text": "What’s the required diameter of this ventilation duct? It is 980 mm. But this ventilation duct is only 900 mm wide in the new section. This ventilation duct is 80 mm too narrow for proper airflow.",
+          "text": "909,815 kw - nine hundred and nine thousand eight hundred and fifteen kw (kilowatt)",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "a_3_b_g_10",
-          "text": "What’s the required speed of this conveyor drive unit? It is 1440 rpm. But this conveyor drive unit is only at 1320 rpm when operating. This conveyor drive unit is 120 rpm too slow for production.",
+          "text": "8,345,678 KP - eight million three hundred and forty five thousand six hundred and seventy eight KP (kilopascal)",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "c_3_1",
-          "text": "What’s the required depth of this deep bore well?",
-          "audio": "assets/audio/a_3_c_1.mp3"
+          "id": "a_3_b_g_1",
+          "text": "250,000 HP - two hundred and fifty thousand HP (horse power)",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
-          "id": "c_3_2",
-          "text": "What’s the required width of this access platform?",
-          "audio": "assets/audio/a_3_c_2.mp3"
+          "id": "a_3_b_g_2",
+          "text": "1,200,000 RPM - one million two hundred thousand RPM (revolutions per minute)",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
-          "id": "c_3_3",
-          "text": "What’s the required length of this storage roof?",
-          "audio": "assets/audio/a_3_c_3.mp3"
+          "id": "a_3_b_g_3",
+          "text": "605,210 mm - six hundred and five thousand two hundred and ten mm (millimetre)",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
-          "id": "c_3_4",
-          "text": "What’s the required thickness of this protective steel sheet?",
-          "audio": "assets/audio/a_3_c_4.mp3"
+          "id": "a_3_b_g_4",
+          "text": "2.3 million kg - two point three million kg (kilogramme)",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
-          "id": "c_3_5",
-          "text": "What’s the required capacity of this fuel reservoir?",
-          "audio": "assets/audio/a_3_c_5.mp3"
+          "id": "a_3_b_g_5",
+          "text": "7,567,258 cm - seven million five hundred and sixty seven thousand two hundred and fifty eight cm (centimetre)",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
-          "id": "c_3_6",
-          "text": "What’s the required diameter of this ventilation duct?",
-          "audio": "assets/audio/a_3_c_6.mp3"
+          "id": "a_3_b_g_6",
+          "text": "466,589 °C - four hundred and sixty six thousand five hundred and eighty nine °C (degrees celsius)",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
-          "id": "c_3_7",
-          "text": "This well is forty-three metres too shallow to reach the water bed.",
-          "audio": "assets/audio/a_3_c_7.mp3"
+          "id": "a_3_b_g_7",
+          "text": "3.4 million PSI - three point four million PSI (pound per square inch)",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
-          "id": "c_3_8",
-          "text": "This ceiling frame is three metres too short for this warehouse.",
-          "audio": "assets/audio/a_3_c_8.mp3"
+          "id": "a_3_b_g_8",
+          "text": "6,873,532 km - six million eight hundred and seventy three thousand five hundred and thirty two km (kilometre)",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
-          "id": "c_3_9",
-          "text": "This fuel reservoir is six hundred litres too low for operational use.",
-          "audio": "assets/audio/a_3_c_9.mp3"
+          "id": "a_3_b_g_9",
+          "text": "909,815 kw - nine hundred and nine thousand eight hundred and fifteen kw (kilowatt)",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
-          "id": "c_3_10",
-          "text": "This ventilation duct is eighty millimetres too narrow for proper airflow.",
-          "audio": "assets/audio/a_3_c_10.mp3"
+          "id": "a_3_b_g_10",
+          "text": "8,345,678 KP - eight million three hundred and forty five thousand six hundred and seventy eight KP (kilopascal)",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "c_3_1",
-          "text": "What’s the required depth of this deep bore well?",
-          "audio": "assets/audio/a_3_c_1.mp3"
+          "id": "a_3_b_g_1",
+          "text": "250,000 HP - two hundred and fifty thousand HP (horse power)",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
-          "id": "c_3_2",
-          "text": "What’s the required width of this access platform?",
-          "audio": "assets/audio/a_3_c_2.mp3"
+          "id": "a_3_b_g_2",
+          "text": "1,200,000 RPM - one million two hundred thousand RPM (revolutions per minute)",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
-          "id": "c_3_3",
-          "text": "What’s the required length of this storage roof?",
-          "audio": "assets/audio/a_3_c_3.mp3"
+          "id": "a_3_b_g_3",
+          "text": "605,210 mm - six hundred and five thousand two hundred and ten mm (millimetre)",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
-          "id": "c_3_4",
-          "text": "What’s the required thickness of this protective steel sheet?",
-          "audio": "assets/audio/a_3_c_4.mp3"
+          "id": "a_3_b_g_4",
+          "text": "2.3 million kg - two point three million kg (kilogramme)",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
-          "id": "c_3_5",
-          "text": "What’s the required capacity of this fuel reservoir?",
-          "audio": "assets/audio/a_3_c_5.mp3"
+          "id": "a_3_b_g_5",
+          "text": "7,567,258 cm - seven million five hundred and sixty seven thousand two hundred and fifty eight cm (centimetre)",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
-          "id": "c_3_6",
-          "text": "What’s the required diameter of this ventilation duct?",
-          "audio": "assets/audio/a_3_c_6.mp3"
+          "id": "a_3_b_g_6",
+          "text": "466,589 °C - four hundred and sixty six thousand five hundred and eighty nine °C (degrees celsius)",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
-          "id": "c_3_7",
-          "text": "This well is forty-three metres too shallow to reach the water bed.",
-          "audio": "assets/audio/a_3_c_7.mp3"
+          "id": "a_3_b_g_7",
+          "text": "3.4 million PSI - three point four million PSI (pound per square inch)",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
-          "id": "c_3_8",
-          "text": "This ceiling frame is three metres too short for this warehouse.",
-          "audio": "assets/audio/a_3_c_8.mp3"
+          "id": "a_3_b_g_8",
+          "text": "6,873,532 km - six million eight hundred and seventy three thousand five hundred and thirty two km (kilometre)",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
-          "id": "c_3_9",
-          "text": "This fuel reservoir is six hundred litres too low for operational use.",
-          "audio": "assets/audio/a_3_c_9.mp3"
+          "id": "a_3_b_g_9",
+          "text": "909,815 kw - nine hundred and nine thousand eight hundred and fifteen kw (kilowatt)",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
-          "id": "c_3_10",
-          "text": "This ventilation duct is eighty millimetres too narrow for proper airflow.",
-          "audio": "assets/audio/a_3_c_10.mp3"
+          "id": "a_3_b_g_10",
+          "text": "8,345,678 KP - eight million three hundred and forty five thousand six hundred and seventy eight KP (kilopascal)",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ]
     }
@@ -668,312 +668,307 @@
       "activity_b": [
         {
           "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
+          "text": "Morning, Dilshan.",
           "audio": "assets/audio/t_1_1.mp3"
         },
         {
           "id": "t_1_2",
-          "text": "The place was quite noisy and hot.",
+          "text": "Good morning Nadeesha.",
           "audio": "assets/audio/t_1_2.mp3"
         },
         {
           "id": "t_1_3",
-          "text": "We serviced a petrol training car near Bay Three.",
+          "text": "The exhibition is starting in a few hours, but the corridors are already filling up with students.",
           "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_4",
-          "text": "It is not a small task for first-time trainees.",
+          "text": "Yesterday, I set up most of the entrance display, but I still have to arrange the flowers at the reception area.",
           "audio": "assets/audio/t_1_4.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
+          "text": "The principal usually arrives early, but today she is meeting a sponsor first.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
           "id": "t_1_6",
-          "text": "So, how did you feel doing your first full engine service?",
+          "text": "Are you in charge of preparing the solar demonstration, Dilshan?",
           "audio": "assets/audio/t_1_6.mp3"
         },
         {
           "id": "t_1_7",
-          "text": "Honestly, I didn’t expect it to be so demanding.",
+          "text": "Yes, I am.",
           "audio": "assets/audio/t_1_7.mp3"
         },
         {
           "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
+          "text": "I connected the panels last night, and everything worked fine then.",
           "audio": "assets/audio/t_1_8.mp3"
         },
         {
           "id": "t_1_9",
-          "text": "The torque wrench was missing at the start, and the diagnostic scanner was in another section.",
+          "text": "Right now, the technicians are adjusting the voltage.",
           "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
+          "text": "Could you bring the name tags for each presenter when you come to the main hall, please?",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
           "id": "t_1_11",
-          "text": "Yes, and the engine bay was very tight.",
+          "text": "Sure.",
           "audio": "assets/audio/t_1_11.mp3"
         },
         {
           "id": "t_1_12",
-          "text": "Access was not easy at all.",
+          "text": "The name tags have already been printed.",
           "audio": "assets/audio/t_1_12.mp3"
         },
         {
           "id": "t_1_13",
-          "text": "The spark plugs were worn, and the air filter was dirty.",
+          "text": "I left them in the office, but I can grab them before 9.",
           "audio": "assets/audio/t_1_13.mp3"
         },
         {
           "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
+          "text": "By the way, are you presenting first, or is the robotics group going before you?",
           "audio": "assets/audio/t_1_14.mp3"
         },
         {
           "id": "t_1_15",
-          "text": "The drain pan was placed correctly, but one bolt was too tight.",
+          "text": "Actually, robotics is going first.",
           "audio": "assets/audio/t_1_15.mp3"
         },
         {
           "id": "t_1_16",
-          "text": "That’s normal for older training vehicles.",
+          "text": "I have just checked the schedule.",
           "audio": "assets/audio/t_1_16.mp3"
         },
         {
           "id": "t_1_17",
-          "text": "Safety is always the priority.",
+          "text": "Can you also check the microphones on the head table, please?",
           "audio": "assets/audio/t_1_17.mp3"
         },
         {
           "id": "t_1_18",
-          "text": "The lift has to be stable, and the wheel chocks have to be secure.",
+          "text": "We had some problems with them last week.",
           "audio": "assets/audio/t_1_18.mp3"
         },
         {
           "id": "t_1_19",
-          "text": "I noticed the battery voltage was low.",
+          "text": "It is done!",
           "audio": "assets/audio/t_1_19.mp3"
         },
         {
           "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
+          "text": "I tested them this morning.",
           "audio": "assets/audio/t_1_20.mp3"
         },
         {
           "id": "t_1_21",
-          "text": "Yes, sir.",
+          "text": "The microphones and the speakers are working, but we might need to connect an additional projector.",
           "audio": "assets/audio/t_1_21.mp3"
         },
         {
           "id": "t_1_22",
-          "text": "The reading was low, but the terminals were clean.",
+          "text": "Could you ask the caretaker to bring an extension cord?",
           "audio": "assets/audio/t_1_22.mp3"
         },
         {
           "id": "t_1_23",
-          "text": "At first, the engine sound was not smooth, and we weren’t sure why.",
+          "text": "We might need extra sockets.",
           "audio": "assets/audio/t_1_23.mp3"
         },
         {
           "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
+          "text": "I will ask him to bring the orange one.",
           "audio": "assets/audio/t_1_24.mp3"
         },
         {
           "id": "t_1_25",
-          "text": "The error code was related to ignition timing.",
+          "text": "Also, the media team is setting up cameras at the back to record the opening ceremony.",
           "audio": "assets/audio/t_1_25.mp3"
         },
         {
           "id": "t_1_26",
-          "text": "After the adjustment, the engine response was better.",
+          "text": "Right.",
           "audio": "assets/audio/t_1_26.mp3"
         },
         {
           "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
+          "text": "Some of my cousins are coming too; they have never visited a TVET exhibition before.",
           "audio": "assets/audio/t_1_27.mp3"
         },
         {
           "id": "t_1_28",
-          "text": "The temperature gauge was normal, and there were no warning lights.",
+          "text": "They think it’s only machines and tools, but we are showing some design projects, having cooking demos, and even asking the participants to do some experiments.",
           "audio": "assets/audio/t_1_28.mp3"
         },
         {
           "id": "t_1_29",
-          "text": "It was a big relief.",
+          "text": "Exactly.",
           "audio": "assets/audio/t_1_29.mp3"
         },
         {
           "id": "t_1_30",
-          "text": "Good work.",
+          "text": "After the opening, we are going to guide the visitors to the workshop area.",
           "audio": "assets/audio/t_1_30.mp3"
         },
         {
           "id": "t_1_31",
-          "text": "Today the workshop is quieter.",
+          "text": "If anything goes wrong, can you call me immediately?",
           "audio": "assets/audio/t_1_31.mp3"
         },
         {
           "id": "t_1_32",
-          "text": "There is no heavy servicing planned.",
+          "text": "No problem.",
           "audio": "assets/audio/t_1_32.mp3"
         },
         {
           "id": "t_1_33",
-          "text": "We are just checking reports and tools.",
+          "text": "Oh, my goodness!",
           "audio": "assets/audio/t_1_33.mp3"
         },
         {
           "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
+          "text": "Some guests are walking in already.",
           "audio": "assets/audio/t_1_34.mp3"
         },
         {
           "id": "t_1_35",
-          "text": "Sounds good.",
+          "text": "They are two hours too early.",
           "audio": "assets/audio/t_1_35.mp3"
         },
         {
           "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
+          "text": "Dilshan, hurry up!",
           "audio": "assets/audio/t_1_36.mp3"
-        },
-        {
-          "id": "t_1_37",
-          "text": "Next time, we are going to prepare better and organise the tools in advance.",
-          "audio": "assets/audio/t_1_37.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_1_3",
+          "text": "The exhibition is starting in a few hours, but the corridors are already filling up with students.",
+          "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
+          "text": "The principal usually arrives early, but today she is meeting a sponsor first.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_1_6",
+          "text": "Are you in charge of preparing the solar demonstration, Dilshan?",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Right now, the technicians are adjusting the voltage.",
+          "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
+          "text": "Could you bring the name tags for each presenter when you come to the main hall, please?",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
-        },
-        {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
-        },
-        {
           "id": "t_1_17",
-          "text": "Safety is always the priority.",
+          "text": "Can you also check the microphones on the head table, please?",
           "audio": "assets/audio/t_1_17.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_1_21",
+          "text": "The microphones and the speakers are working, but we might need to connect an additional projector.",
+          "audio": "assets/audio/t_1_21.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_1_22",
+          "text": "Could you ask the caretaker to bring an extension cord?",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "Also, the media team is setting up cameras at the back to record the opening ceremony.",
+          "audio": "assets/audio/t_1_25.mp3"
         },
         {
           "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
+          "text": "Some of my cousins are coming too; they have never visited a TVET exhibition before.",
           "audio": "assets/audio/t_1_27.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_1_31",
+          "text": "If anything goes wrong, can you call me immediately?",
+          "audio": "assets/audio/t_1_31.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_1_34",
+          "text": "Some guests are walking in already.",
+          "audio": "assets/audio/t_1_34.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1_1",
-          "text": "Yesterday was a very busy day in the automobile workshop.",
-          "audio": "assets/audio/t_1_1.mp3"
+          "id": "t_1_3",
+          "text": "The exhibition is starting in a few hours, but the corridors are already filling up with students.",
+          "audio": "assets/audio/t_1_3.mp3"
         },
         {
           "id": "t_1_5",
-          "text": "The engine condition was not bad, but several parts were worn out.",
+          "text": "The principal usually arrives early, but today she is meeting a sponsor first.",
           "audio": "assets/audio/t_1_5.mp3"
         },
         {
-          "id": "t_1_8",
-          "text": "The vehicle was already on the hydraulic lift, but some tools were not ready.",
-          "audio": "assets/audio/t_1_8.mp3"
+          "id": "t_1_6",
+          "text": "Are you in charge of preparing the solar demonstration, Dilshan?",
+          "audio": "assets/audio/t_1_6.mp3"
+        },
+        {
+          "id": "t_1_9",
+          "text": "Right now, the technicians are adjusting the voltage.",
+          "audio": "assets/audio/t_1_9.mp3"
         },
         {
           "id": "t_1_10",
-          "text": "At first, the setup was confusing, but later everything was better organised.",
+          "text": "Could you bring the name tags for each presenter when you come to the main hall, please?",
           "audio": "assets/audio/t_1_10.mp3"
         },
         {
-          "id": "t_1_12",
-          "text": "Access was not easy at all.",
-          "audio": "assets/audio/t_1_12.mp3"
-        },
-        {
-          "id": "t_1_14",
-          "text": "The engine oil was black, so an oil change was necessary.",
-          "audio": "assets/audio/t_1_14.mp3"
-        },
-        {
           "id": "t_1_17",
-          "text": "Safety is always the priority.",
+          "text": "Can you also check the microphones on the head table, please?",
           "audio": "assets/audio/t_1_17.mp3"
         },
         {
-          "id": "t_1_20",
-          "text": "Was that clear on the multimeter?",
-          "audio": "assets/audio/t_1_20.mp3"
+          "id": "t_1_21",
+          "text": "The microphones and the speakers are working, but we might need to connect an additional projector.",
+          "audio": "assets/audio/t_1_21.mp3"
         },
         {
-          "id": "t_1_24",
-          "text": "The diagnostic scanner was helpful, though.",
-          "audio": "assets/audio/t_1_24.mp3"
+          "id": "t_1_22",
+          "text": "Could you ask the caretaker to bring an extension cord?",
+          "audio": "assets/audio/t_1_22.mp3"
+        },
+        {
+          "id": "t_1_25",
+          "text": "Also, the media team is setting up cameras at the back to record the opening ceremony.",
+          "audio": "assets/audio/t_1_25.mp3"
         },
         {
           "id": "t_1_27",
-          "text": "The idle was smooth, and the vibration was gone.",
+          "text": "Some of my cousins are coming too; they have never visited a TVET exhibition before.",
           "audio": "assets/audio/t_1_27.mp3"
         },
         {
-          "id": "t_1_34",
-          "text": "Next week, you are going to work on a high-capacity diesel engine, and the process is going to be more complex.",
-          "audio": "assets/audio/t_1_34.mp3"
+          "id": "t_1_31",
+          "text": "If anything goes wrong, can you call me immediately?",
+          "audio": "assets/audio/t_1_31.mp3"
         },
         {
-          "id": "t_1_36",
-          "text": "Yesterday was tiring, but it was a valuable experience.",
-          "audio": "assets/audio/t_1_36.mp3"
+          "id": "t_1_34",
+          "text": "Some guests are walking in already.",
+          "audio": "assets/audio/t_1_34.mp3"
         }
       ]
     }
