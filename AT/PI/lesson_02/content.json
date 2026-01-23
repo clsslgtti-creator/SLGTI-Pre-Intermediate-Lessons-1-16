@@ -615,52 +615,52 @@
         "Questions": [
           {
             "id": "l_4_1",
-            "question": "What type of vehicle did the trainees service yesterday?",
-            "answer": "A petrol training vehicle",
+            "question": " ",
+            "answer": "The principal is arriving after meeting the sponsor.",
             "options": [
-              "A diesel training vehicle",
-              "A petrol training vehicle",
-              "A hybrid passenger car"
+              "The principal is arriving before meeting the sponsor.",
+              "The principal is arriving after meeting the sponsor.",
+              "The principal arrives as soon as the sponsor shows up."
             ]
           },
           {
             "id": "l_4_2",
-            "question": "Which tool was missing at the beginning of the work?",
-            "answer": "A torque wrench",
+            "question": " ",
+            "answer": "Nadeesha is going to grab the name tags before 9 am.",
             "options": [
-              "A hydraulic jack",
-              "A diagnostic scanner",
-              "A torque wrench"
+              "Nadeesha is going to grab the name tags from the reception area.",
+              "Nadeesha is going to send Dilshan to grab the name tags before 9.",
+              "Nadeesha is going to grab the name tags before 9 am."
             ]
           },
           {
             "id": "l_4_3",
-            "question": "Why was the engine sound uneven at first?",
-            "answer": "Because the ignition timing was not correct.",
+            "question": " ",
+            "answer": "Extra sockets might be needed for an additional projector.",
             "options": [
-              "Because the terminals were unclean.",
-              "Because the camshaft timing was not correct.",
-              "Because the ignition timing was not correct."
+              "Extra sockets might be needed for an additional projector.",
+              "Extra sockets might have to be installed in the main hall.",
+              "Extra sockets might be needed because of the cooking demos."
             ]
           },
           {
             "id": "l_4_4",
-            "question": "Why was the engine response better after the adjustment?",
-            "answer": "Because the ignition timing was corrected.",
+            "question": " ",
+            "answer": "Dilshan wants Sanduni to call in case there are any problems",
             "options": [
-              "Because the vibration was loud.",
-              "Because the warning lights were replaced.",
-              "Because the ignition timing was corrected."
+              "Dilshan wants Sanduni to call in case there are any problems",
+              "Dilshan wants Sanduni to call to prevent anything going wrong",
+              "Dilshan wants Sanduni to call before anything goes wrong"
             ]
           },
           {
             "id": "l_4_5",
-            "question": "What kind of engine are the trainees going to work on next week?",
-            "answer": "A high-capacity diesel engine",
+            "question": " ",
+            "answer": "Some guests are arriving two hours too early",
             "options": [
-              "A two-stroke engine",
-              "A high-capacity diesel engine",
-              "A medium-capacity diesel engine"
+              "Some guests are arriving two and a half hours too early",
+              "Some guests are arriving two hours too early",
+              "Some guests are arriving two hours too late"
             ]
           }
         ]
