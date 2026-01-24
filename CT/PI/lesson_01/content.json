@@ -230,7 +230,7 @@
           {
             "id": "e_1",
             "sentence": "What’s the required depth of this well? (Deep / Depth / Shallow)",
-            "audio_q": "assets/audio/a_3_b_ex_1.mp3",
+            "audio": "assets/audio/a_3_b_ex_1.mp3",
             "options": ["1470/1407/ 43", "2470/1427/43", "1470/1427/43"],
             "answer": "1470/1427/43",
             "image": "assets/img/a_3_b_ex_1.jpeg"
