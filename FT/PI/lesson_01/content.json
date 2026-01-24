@@ -355,7 +355,7 @@
         },
         {
           "id": "a_3_b_g_6",
-          "text": "What’s the required pressure in this distribution pipeline? It is 288 bar. But this distribution pipeline is only at 256 bar right now. This distribution pipeline is 32 bar too low for normal flow.",
+          "text": "What’s the required pressure in this distribution pipeline? It is 310 bar. But this distribution pipeline is only at 276 bar right now. This distribution pipeline is 34 bar too low for normal flow.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
