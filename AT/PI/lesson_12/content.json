@@ -1,0 +1,679 @@
+{
+  "meta": {
+    "lesson_no": 12,
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aɪ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "t'y're",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Do you check the t'y're pressure regularly?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "dr'i've",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Always dr'i've carefully on wet roads.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "t'igh'ten",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Do you always t'igh'ten the bolts on the wheel properly?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.jpeg"
+      },
+      {
+        "id": "p_4",
+        "word_text": "al'i'gn",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Al'i'gn the headlights properly.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Simple Present, Yes/No Questions, WH-Questions",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපදයන් පින්තූර සමග ගැලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கேட்டு, இடைவெளியைப் பயன்படுத்தி பதிலளியுங்கள். பின்னர் உங்கள் பதிலை மாதிரி பதிலுடன் ஒப்பிடுங்கள்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [["You go.", "You don’t go."]],
+      [
+        ["Do you go?", "Yes, I do.", "Yes, we do."],
+        [null, "No, I don’t.", "No, we don’t."]
+      ],
+      [["When do you go?"]]
+    ],
+    "example_dialogues": [
+      {
+        "id": "e_1",
+        "img": "assets/img/Monday.png",
+        "text_a": "Do you ride a motorbike on Tuesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you ride a motorbike?",
+        "text_d": "I ride a motorbike on Monday.",
+        "audio_a": "assets/audio/a_2_ex_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_1_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_1_d.mp3"
+      },
+      {
+        "id": "e_2",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Thursday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket  on Wednesday.",
+        "audio_a": "assets/audio/a_2_ex_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_ex_2_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_2_d.mp3"
+      },
+      {
+        "id": "e_3",
+        "img": "assets/img/Saturday.jpeg",
+        "text_a": "Do you and your friend visit elderly relatives on Sunday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you visit your elderly relatives?",
+        "text_d": "We visit our elderly relatives on Saturday.",
+        "audio_a": "assets/audio/a_2_ex_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_ex_3_c.mp3",
+        "audio_d": "assets/audio/a_2_ex_3_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/Monday.png",
+        "word": "Ride a motorbike"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/Tuesday.jpeg",
+        "word": "Use social media"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/Wednesday.png",
+        "word": "Play cricket"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/Thursday.jpeg",
+        "word": "Buy groceries"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/Friday.jpeg",
+        "word": "Spend time with friends"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/Saturday.jpeg",
+        "word": "Visit elderly relatives"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/Tuesday.jpeg",
+        "text_a": "Do you use social media on Wednesday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you use social media?",
+        "text_d": "I use social media on Tuesday.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/Thursday.jpeg",
+        "text_a": "Do you buy groceries on Friday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you buy groceries?",
+        "text_d": "I buy groceries on Thursday.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i_f.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you spend time with friends on Saturday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you spend time with friends?",
+        "text_d": "I spend time with friends on Friday.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/Wednesday.png",
+        "text_a": "Do you play cricket on Monday?",
+        "text_b": "No, I don’t.",
+        "text_c": "When do you play cricket?",
+        "text_d": "I play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_no_i.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/Wednesday-2.png",
+        "text_a": "Do you and your friend play cricket on Friday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend play cricket?",
+        "text_d": "We play cricket on Wednesday.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/Friday.jpeg",
+        "text_a": "Do you and your friend spend time together on Thursday?",
+        "text_b": "No, we don’t.",
+        "text_c": "When do you and your friend spend time together?",
+        "text_d": "We spend time together on Friday.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_no_we.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "What does an automobile mechanic do?\n\nAn automobile mechanic inspects engines and detects mechanical faults.",
+            "audio": "assets/audio/a_3_b_1.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "What does an automobile mechanic do?\n\nHe drains old engine oil and refills it with new oil after every service.",
+            "audio": "assets/audio/a_3_b_2.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "What does an automobile mechanic do?\n\nHe replaces air filters and spark plugs when they are dirty or worn out.",
+            "audio": "assets/audio/a_3_b_3.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "What does an automobile mechanic do?\n\nHe doesn’t tighten the wheel nuts after changing the tyre.",
+            "audio": "assets/audio/a_3_b_4.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "What does an automobile mechanic do?\n\nHe uses diagnostic equipment to scan the vehicle’s electronic system.",
+            "audio": "assets/audio/a_3_b_5.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "What does an automobile mechanic do?\n\nHe does not ignore warning lights on the dashboard during inspection.",
+            "audio": "assets/audio/a_3_b_6.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "What does an automobile mechanic do?\n\nHe adjusts the brake system and checks the fluid level carefully.",
+            "audio": "assets/audio/a_3_b_7.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "What does an automobile mechanic do?\n\nHe cleans the fuel injectors to improve engine performance.",
+            "audio": "assets/audio/a_3_b_8.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "What does an automobile mechanic do?\n\nHe does not test-drive the vehicle after completing the repair.",
+            "audio": "assets/audio/a_3_b_9.mp3",
+            "options": ["True", "False"],
+            "answer": "False"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "What does an automobile mechanic do?\n\nHe records maintenance details and updates the service logbook.",
+            "audio": "assets/audio/a_3_b_10.mp3",
+            "options": ["True", "False"],
+            "answer": "True"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "An automobile mechanic inspects engines and detects mechanical faults.",
+          "audio": "assets/audio/a_3_b_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "He drains old engine oil and refills it with new oil after every service.",
+          "audio": "assets/audio/a_3_b_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "He replaces air filters and spark plugs when they are dirty or worn out.",
+          "audio": "assets/audio/a_3_b_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "He doesn’t tighten the wheel nuts after changing the tyre.",
+          "audio": "assets/audio/a_3_b_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "He uses diagnostic equipment to scan the vehicle’s electronic system.",
+          "audio": "assets/audio/a_3_b_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "He does not ignore warning lights on the dashboard during inspection.",
+          "audio": "assets/audio/a_3_b_6.mp3"
+        },
+        {
+          "id": "n_3_7",
+          "text": "He adjusts the brake system and checks the fluid level carefully.",
+          "audio": "assets/audio/a_3_b_7.mp3"
+        },
+        {
+          "id": "n_3_8",
+          "text": "He cleans the fuel injectors to improve engine performance.",
+          "audio": "assets/audio/a_3_b_8.mp3"
+        },
+        {
+          "id": "n_3_9",
+          "text": "He does not test-drive the vehicle after completing the repair.",
+          "audio": "assets/audio/a_3_b_9.mp3"
+        },
+        {
+          "id": "n_3_10",
+          "text": "He records maintenance details and updates the service logbook.",
+          "audio": "assets/audio/a_3_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "READING-1",
+    "instructions": {
+      "context": {
+        "text": "Read the passage below carefully before you attempt the activities.\nපහත පරිච්ඡේදය සලකා බලන්න. ඔබ ක්‍රියාකාරකම් උත්සාහ කිරීමට පෙර.\nகீழே உள்ள பகுதியை கவனமாகப் படியுங்கள்.",
+        "audio": "assets/audio/a_4_i_h.mp3"
+      },
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Read the questions and choose the correct answer.\nප්‍රශ්න කියවන්න සහ නිවැරදි පිළිතුර තෝරන්න.\nகேள்விகளைப் படித்து சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_4_i_f.mp3"
+      },
+      "activity_c": {
+        "text": "Put these jumbled words in the correct order, to make a sentence.\nමෙම අකුරු ගැටුම් නිවැරදි අනුපිළිවෙලට තබා වාක්‍යයක් සාදන්න.\nஇந்த குழப்பமான வார்த்தைகளை சரியான வரிசையில் வைத்து ஒரு வாக்கியமாக மாற்றுங்கள்.",
+        "audio": "assets/audio/a_4_i_g.mp3"
+      }
+    },
+    "context": {
+      "title": "AUTOTUNE 500 – Digital Engine Analyser",
+      "cover": "assets/img/a_4.png",
+      "content": [
+        {
+          "section_number": "1",
+          "section_title": "Parts Identification",
+          "intro": "The AutoTune 500 Digital Engine Analyser is designed for diagnostic testing of petrol and diesel engines.",
+          "subsections": [
+            {
+              "subtitle": "Main Components",
+              "items": [
+                "Control Panel – contains the digital display, mode selector, and test buttons.",
+                "Probe Leads – connect to spark-plug wires or sensors for measurement.",
+                "RPM Clamp – measures engine speed directly from the ignition coil.",
+                "Battery Leads (Red/Black) – provide power and detect battery voltage.",
+                "USB Port – for connecting to a computer or diagnostic tablet.",
+                "Data Port (OBD-II) – interfaces with modern vehicles for ECU readings.",
+                "Cooling Fan Vent – prevents overheating during extended use.",
+                "Carrying Handle – for easy transport between work bays."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "section_title": "Setup and Connection",
+          "steps": [
+            "Unpack the analyser and check for all accessories.",
+            "Connect the battery leads: red to positive (+), black to negative (–).",
+            "Attach the RPM clamp around the ignition cable if required.",
+            "Plug the OBD-II connector into the vehicle diagnostic port (usually under the dashboard).",
+            "Press the Power button to start the unit.",
+            "Select the test mode (RPM, Voltage, Timing, Emission, or Sensor Check) on the control panel.",
+            "For data logging, connect the USB cable to your computer and open the AutoTune Utility Software."
+          ]
+        },
+        {
+          "section_number": "3",
+          "section_title": "Operation",
+          "subsections": [
+            {
+              "subtitle": "Engine Test",
+              "items": [
+                "Choose “Engine Diagnostics”.",
+                "Start the vehicle engine.",
+                "The display will show RPM, voltage, and timing advance readings."
+              ]
+            },
+            {
+              "subtitle": "Battery & Charging Test",
+              "items": [
+                "Select “Battery Mode”.",
+                "Follow on-screen prompts to measure charge rate and alternator output."
+              ]
+            },
+            {
+              "subtitle": "Sensor Test",
+              "items": [
+                "Select the sensor type (e.g. oxygen sensor or throttle position sensor).",
+                "Observe live data on the screen or save results to the USB drive."
+              ]
+            },
+            {
+              "subtitle": "Data Export",
+              "items": [
+                "Connect to PC.",
+                "Open AutoTune Utility.",
+                "Click “Export Report” to generate a PDF summary."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4",
+          "section_title": "Troubleshooting and Maintenance",
+          "subsections": [
+            {
+              "subtitle": "Common Issues and Solutions",
+              "items": [
+                "No Power: Check clamps and vehicle battery connection.",
+                "No Reading: Ensure probes and OBD-II cable are firmly connected.",
+                "Inaccurate RPM Display: Adjust clamp position or recalibrate in settings.",
+                "Software Not Detecting Device: Reinstall the AutoTune driver or use another USB port."
+              ]
+            },
+            {
+              "subtitle": "Maintenance Tips",
+              "items": [
+                "Keep leads clean and store them in the provided case.",
+                "Wipe the screen and body with a dry, lint-free cloth.",
+                "Do not expose it to rain or high humidity.",
+                "Update firmware via the official AutoTune website every six months."
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5",
+          "section_title": "Safety Precautions",
+          "items": [
+            "Always turn off the engine before connecting or disconnecting cables.",
+            "Keep cables away from hot engine parts.",
+            "Use only original accessories.",
+            "Do not attempt to open the unit; servicing must be done by authorised technicians."
+          ]
+        }
+      ]
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "emission",
+            "item_b": "the production and discharge of something, especially gas or radiation"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "probe",
+            "item_b": "a wire or connector used to detect electrical signals from engine parts"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "RPM clamp",
+            "item_b": "a tool that measures engine speed using ignition pulses"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "diagnostics",
+            "item_b": "the process of identifying vehicle faults using electronic tools"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "calibrate",
+            "item_b": "to adjust a measuring instrument for accurate readings"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "troubleshooting",
+            "item_b": "analysing and solving technical problems"
+          }
+        ]
+      },
+      "activity_b": {
+        "Questions": [
+          {
+            "id": "l_4_1",
+            "question": "What is the main purpose of the AutoTune 500 Digital Engine Analyser?",
+            "answer": "To perform diagnostic testing of petrol and diesel engines",
+            "options": [
+              "To clean vehicle fuel injectors",
+              "To charge automotive batteries",
+              "To perform diagnostic testing of petrol and diesel engines"
+            ]
+          },
+          {
+            "id": "l_4_2",
+            "question": "Which component connects the analyser to the vehicle’s ECU for readings?",
+            "answer": "Data Port (OBD-II)",
+            "options": ["USB Port", "RPM Clamp", "Data Port (OBD-II)"]
+          },
+          {
+            "id": "l_4_3",
+            "question": "What should you do if the software does not detect the device?",
+            "answer": "Reinstall the AutoTune driver or use another USB port",
+            "options": [
+              "Replace the OBD-II connector",
+              "Reinstall the AutoTune driver or use another USB port",
+              "Restart the vehicle engine"
+            ]
+          },
+          {
+            "id": "l_4_4",
+            "question": "How often should the firmware be updated?",
+            "answer": "Every six months",
+            "options": ["Every month", "Once a year", "Every six months"]
+          },
+          {
+            "id": "l_4_5",
+            "question": "What safety precautions must be followed before connecting or disconnecting cables?",
+            "answer": "Turn off the engine",
+            "options": [
+              "Keep the ignition on",
+              "Turn off the engine",
+              "Disconnect the OBD-II port"
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "words": [
+            "Unpack",
+            "the",
+            "analyser",
+            "and",
+            "check",
+            "for",
+            "all",
+            "accessories",
+            "."
+          ],
+          "sentence": "Unpack the analyser and check for all accessories."
+        },
+        {
+          "words": [
+            "Keep",
+            "leads",
+            "clean",
+            "and",
+            "store",
+            "them",
+            "in",
+            "the",
+            "provided",
+            "case",
+            "."
+          ],
+          "sentence": "Keep leads clean and store them in the provided case."
+        },
+        {
+          "words": [
+            "Keep",
+            "cables",
+            "away",
+            "from",
+            "hot",
+            "engine",
+            "parts",
+            "."
+          ],
+          "sentence": "Keep cables away from hot engine parts."
+        },
+        {
+          "words": [
+            "Wipe",
+            "the",
+            "screen",
+            "and",
+            "body",
+            "with",
+            "a",
+            "dry",
+            "cloth",
+            "."
+          ],
+          "sentence": "Wipe the screen and body with a dry cloth."
+        },
+        {
+          "words": [
+            "Do",
+            "not",
+            "expose",
+            "yourself",
+            "to",
+            "rain",
+            "or",
+            "high",
+            "humidity",
+            "."
+          ],
+          "sentence": "Do not expose yourself to rain or high humidity."
+        }
+      ]
+    }
+  }
+}
