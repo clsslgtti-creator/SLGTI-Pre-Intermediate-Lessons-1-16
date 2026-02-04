@@ -226,11 +226,11 @@
         "id": "d_6",
         "img": "assets/img/a_2_d_6.png",
         "text_a": "Do we need anything for plastering?",
-        "text_b": "Yes. We need a tub of smooth plaster.",
-        "text_c": "A tub of smooth plaster?",
+        "text_b": "Yes. We need a kilo of builder’s lime.",
+        "text_c": "A kilo of builder’s lime?",
         "text_d": "Yes.",
         "text_e": "Anything else?",
-        "text_f": "No. Just a tub of smooth plaster.",
+        "text_f": "No. Just a kilo of builder’s lime.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3",
@@ -242,11 +242,11 @@
         "id": "d_7",
         "img": "assets/img/a_2_d_7.png",
         "text_a": "Do we need anything for waterproofing?",
-        "text_b": "Yes. We need a layer of liquid membrane.",
-        "text_c": "A layer of liquid membrane?",
+        "text_b": "Yes. We need a sheet of waterproofing membrane.",
+        "text_c": "A sheet of waterproofing membrane?",
         "text_d": "Yes.",
         "text_e": "Anything else?",
-        "text_f": "No. Just a layer of liquid membrane.",
+        "text_f": "No. Just a sheet of waterproofing membrane.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3",
@@ -274,11 +274,11 @@
         "id": "d_9",
         "img": "assets/img/a_2_d_9.png",
         "text_a": "Do we need anything for the finishing work?",
-        "text_b": "Yes. We need a coat of protective paint.",
-        "text_c": "A coat of protective paint?",
+        "text_b": "Yes. We need a tub of protective paint.",
+        "text_c": "A tub of protective paint?",
         "text_d": "Yes.",
         "text_e": "Anything else?",
-        "text_f": "No. Just a coat of protective paint.",
+        "text_f": "No. Just a tub of protective paint.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3",
@@ -296,7 +296,7 @@
         "audio": "assets/audio/a_3_i_g.mp3"
       },
       "activity_b": {
-        "text": "Read the number and type in the figure. අංකය කියවා එය ඉලක්කම් ලෙස ටයිප් කරන්න. எண்ணை படித்து அதை எண்களாக தட்டச்சு செய்யவும்.",
+        "text": "Type in the correct numbers. නිවැරදි අංක ටයිප් කරන්න. சரியான எண்களை உள்ளிடுங்கள். ",
         "audio": "assets/audio/a_3_i_h.mp3"
       },
       "activity_c": {
@@ -449,7 +449,7 @@
         },
         {
           "id": "a_3_b_g_4",
-          "text": "2.3 million kg - two point three million kg (kilogramme)",
+          "text": "2.3 million tonnes - two point three million tonnes",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
@@ -501,7 +501,7 @@
         },
         {
           "id": "a_3_b_g_4",
-          "text": "2.3 million kg - two point three million kg (kilogramme)",
+          "text": "2.3 million tonnes - two point three million tonnes",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
@@ -553,7 +553,7 @@
         },
         {
           "id": "a_3_b_g_4",
-          "text": "2.3 million kg - two point three million kg (kilogramme)",
+          "text": "2.3 million tonnes - two point three million tonnes",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
