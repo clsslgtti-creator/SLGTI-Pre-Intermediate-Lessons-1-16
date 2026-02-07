@@ -96,15 +96,15 @@
     },
     "tables": [
       [
-        [" ", " ", "A length of"],
-        [" ", " ", "A set of"],
-        [" ", " ", "A pair of"],
-        [" ", " ", "A rack of"],
-        [" ", " ", "A bundle of"],
-        [" ", " ", "A unit of"],
-        [" ", " ", "A range of"],
-        [" ", " ", "A stack of"],
-        [" ", " ", "A patch of"]
+        ["A length of"],
+        ["A set of"],
+        ["A pair of"],
+        ["A rack of"],
+        ["A bundle of"],
+        ["A unit of"],
+        ["A range of"],
+        ["A stack of"],
+        ["A patch of"]
       ]
     ],
     "example_dialogues": [
