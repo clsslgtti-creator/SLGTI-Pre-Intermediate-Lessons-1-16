@@ -160,7 +160,7 @@
     "keywords": [
       {
         "id": "k_4",
-        "image": "assets/img/a_2_d_4.png",
+        "image": "assets/img/a_2_d_4.jpeg",
         "word": "frame fabrication"
       },
       {
@@ -170,7 +170,7 @@
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.png",
+        "image": "assets/img/a_2_d_6.jpeg",
         "word": "surface grinding"
       },
       {
@@ -180,19 +180,19 @@
       },
       {
         "id": "k_8",
-        "image": "assets/img/a_2_d_8.png",
+        "image": "assets/img/a_2_d_8.jpeg",
         "word": "hydraulic unit"
       },
       {
         "id": "k_9",
-        "image": "assets/img/a_2_d_9.png",
+        "image": "assets/img/a_2_d_9.jpeg",
         "word": "final assembly"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
+        "img": "assets/img/a_2_d_4.jpeg",
         "text_a": "Do we need anything for the frame fabrication?",
         "text_b": "Yes. We need a length of square tubing.",
         "text_c": "A length of square tubing?",
@@ -224,7 +224,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "Do we need anything for surface grinding?",
         "text_b": "Yes. We need a wheel of abrasive material.",
         "text_c": "A wheel of abrasive material?",
@@ -256,7 +256,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.png",
+        "img": "assets/img/a_2_d_8.jpeg",
         "text_a": "Do we need anything for the hydraulic unit?",
         "text_b": "Yes. We need a cartridge of pressure seal.",
         "text_c": "A cartridge of pressure seal?",
@@ -272,7 +272,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.png",
+        "img": "assets/img/a_2_d_9.jpeg",
         "text_a": "Do we need anything for final assembly?",
         "text_b": "Yes. We need a set of calibrated shims.",
         "text_c": "A set of calibrated shims?",

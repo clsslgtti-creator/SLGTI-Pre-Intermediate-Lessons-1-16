@@ -185,7 +185,7 @@
       },
       {
         "id": "k_9",
-        "image": "assets/img/a_2_d_9.png",
+        "image": "assets/img/a_2_d_9.jpeg",
         "word": "kitchen cleaning"
       }
     ],
@@ -272,7 +272,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.png",
+        "img": "assets/img/a_2_d_9.jpeg",
         "text_a": "Do we need anything for kitchen cleaning?",
         "text_b": "Yes. We need a roll of absorbent towels.",
         "text_c": "A roll of absorbent towels?",
