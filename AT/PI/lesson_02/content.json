@@ -175,7 +175,7 @@
       },
       {
         "id": "k_7",
-        "image": "assets/img/a_2_d_7.jpeg",
+        "image": "assets/img/a_2_d_7.png",
         "word": "battery test"
       },
       {
@@ -240,7 +240,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "Do we need anything for the battery test?",
         "text_b": "Yes. We need a pack of protective terminal grease.",
         "text_c": "A pack of protective terminal grease?",
