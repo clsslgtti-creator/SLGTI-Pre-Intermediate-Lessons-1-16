@@ -335,7 +335,7 @@
         },
         {
           "id": "a_3_b_g_2",
-          "text": "What’s the required height of this storage roof? It is 4,200 mm. But this storage roof is only 3,950 mm high. This storage roof is 250 mm too low for the required clearance.",
+          "text": "What’s the required height of this storage roof? It is 4,200 mm. But this storage roof is only 3,950 mm high after assembly. This storage roof is 250 mm too low for the required clearance.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
@@ -350,7 +350,7 @@
         },
         {
           "id": "a_3_b_g_5",
-          "text": "What’s the required capacity of this fuel reservoir? It is 8,500 litres. But this fuel reservoir was only 7,900 litres full this morning. This fuel reservoir was 600 litres too low for operation.",
+          "text": "What’s the required capacity of this fuel reservoir? It is 8,500 litres. But this fuel reservoir is only 7,900 litres full this morning. This fuel reservoir is 600 litres too low for operation.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
@@ -375,7 +375,7 @@
         },
         {
           "id": "a_3_b_g_10",
-          "text": "What’s the required speed of this conveyor drive unit? It is 1440 rpm. But this conveyor drive unit is only at 1320 rpm when operating. This conveyor drive unit is 120 rpm too slow for production.",
+          "text": "What’s the required speed of this conveyor drive unit? It is 1440 rpm. But this conveyor drive unit is only at 1320 rpm during operation. This conveyor drive unit is 120 rpm too slow for production.",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ],
