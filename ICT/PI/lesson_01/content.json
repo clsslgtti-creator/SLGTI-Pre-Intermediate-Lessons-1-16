@@ -530,16 +530,6 @@
             ]
           },
           {
-            "id": "l_4_3",
-            "question": "Why did the instructor say planning is very important in ICT work?",
-            "answer": "Because wrong configuration makes the network unstable.",
-            "options": [
-              "Because the configuration is unstable.",
-              "Because wrong configuration makes the network unstable.",
-              "Because the subnet was unstable."
-            ]
-          },
-          {
             "id": "l_4_4",
             "question": "What issue did Ruwan face during the installation?",
             "answer": "Some PCs were not detected at first.",
@@ -547,6 +537,16 @@
               "The router settings were not detected at first.",
               "Some PCs were not detected at first.",
               "The internet speed was too slow."
+            ]
+          },
+          {
+            "id": "l_4_3",
+            "question": "Why did the instructor say planning is very important in ICT work?",
+            "answer": "Because wrong configuration makes the network unstable.",
+            "options": [
+              "Because the configuration is unstable.",
+              "Because wrong configuration makes the network unstable.",
+              "Because the subnet was unstable."
             ]
           },
           {
