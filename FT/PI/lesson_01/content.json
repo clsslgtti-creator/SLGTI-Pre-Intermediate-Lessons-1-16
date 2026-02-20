@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "m'i'ncers",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Meat m'i'n'c'ers are on the left, next to the new blast chiller.",
+        "sentence_text": "Meat m'i'ncers are on the left, next to the new blast chiller.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.jpeg"
       },
@@ -156,7 +156,7 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Where are the industrial French fries machines?",
+        "text_a": "Where are the French fries machines?",
         "text_b": "They are on the right, beside the navy blue boxes.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
