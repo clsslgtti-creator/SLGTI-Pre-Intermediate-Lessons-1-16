@@ -165,12 +165,12 @@
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_5.png",
+        "image": "assets/img/a_2_d_5.jpeg",
         "word": "panel wiring"
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.png",
+        "image": "assets/img/a_2_d_6.jpeg",
         "word": "motor connection"
       },
       {
@@ -180,12 +180,12 @@
       },
       {
         "id": "k_8",
-        "image": "assets/img/a_2_d_8.png",
+        "image": "assets/img/a_2_d_8.jpeg",
         "word": "lighting setup"
       },
       {
         "id": "k_9",
-        "image": "assets/img/a_2_d_9.png",
+        "image": "assets/img/a_2_d_9.jpeg",
         "word": "maintenance work"
       }
     ],
@@ -208,7 +208,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
+        "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "Do we need anything for the panel wiring?",
         "text_b": "Yes. We need a roll of flexible conduit.",
         "text_c": "A roll of flexible conduit?",
@@ -224,7 +224,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "Do we need anything for the motor connection?",
         "text_b": "Yes. We need a length of multicore cable.",
         "text_c": "A length of multicore cable?",
@@ -256,7 +256,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.png",
+        "img": "assets/img/a_2_d_8.jpeg",
         "text_a": "Do we need anything for the lighting setup?",
         "text_b": "Yes. We need a batch of LED fittings.",
         "text_c": "A batch of LED fittings?",
@@ -272,7 +272,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.png",
+        "img": "assets/img/a_2_d_9.jpeg",
         "text_a": "Do we need anything for maintenance work?",
         "text_b": "Yes. We need a tube of contact grease.",
         "text_c": "A tube of contact grease?",
@@ -396,8 +396,8 @@
           },
           {
             "id": "g_b_4",
-            "question": "Two point three million.",
-            "answer": "2300000"
+            "question": "Two point three.",
+            "answer": "2.3"
           },
           {
             "id": "g_b_5",
@@ -411,8 +411,8 @@
           },
           {
             "id": "g_b_7",
-            "question": "Three point four million.",
-            "answer": "3400000"
+            "question": "Three point four.",
+            "answer": "3.4"
           },
           {
             "id": "g_b_8",

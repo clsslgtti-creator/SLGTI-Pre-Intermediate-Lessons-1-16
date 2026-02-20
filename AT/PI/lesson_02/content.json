@@ -175,7 +175,7 @@
       },
       {
         "id": "k_7",
-        "image": "assets/img/a_2_d_7.jpeg",
+        "image": "assets/img/a_2_d_7.png",
         "word": "battery test"
       },
       {
@@ -240,7 +240,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "Do we need anything for the battery test?",
         "text_b": "Yes. We need a pack of protective terminal grease.",
         "text_c": "A pack of protective terminal grease?",
@@ -396,8 +396,8 @@
           },
           {
             "id": "g_b_4",
-            "question": "Two point three million.",
-            "answer": "2300000"
+            "question": "Two point three.",
+            "answer": "2.3"
           },
           {
             "id": "g_b_5",
@@ -411,8 +411,8 @@
           },
           {
             "id": "g_b_7",
-            "question": "Three point four million.",
-            "answer": "3400000"
+            "question": "Three point four.",
+            "answer": "3.4"
           },
           {
             "id": "g_b_8",
