@@ -94,6 +94,31 @@
         "audio": "assets/audio/a_2_i_e.mp3"
       }
     },
+     "tables": [
+      [
+        ["Where", "am", "I?"],
+        [null, "is", "he?"],
+        [null, null, "she?"],
+        [null, null, "it?"],
+        [null, "are", "you?"],
+        [null, null, "we?"],
+        [null, null, "they?"]
+      ],
+      [
+        ["I am", "in the workshop."],
+        ["He is", "in the auditorium."],
+        ["She is", "in the computer lab."],
+        ["We are", "in the lecture room."],
+        ["You are", "in the office."],
+        ["It is / They are", "on the left / on the right", "in between", "the cupboard and the table. / the machine."],
+        [null, null, "under", null],
+        [null, null, "behind", null],
+        [null, null, "above", null],
+        [null, null, "beside", null],
+        [null, null, "in front of", null],
+        [null, null, "next to", null]
+      ]
+    ],
     "example_dialogues": [
       {
         "id": "d_1",
