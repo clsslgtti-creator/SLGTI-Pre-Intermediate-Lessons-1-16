@@ -94,6 +94,31 @@
         "audio": "assets/audio/a_2_i_e.mp3"
       }
     },
+    "tables": [
+      [
+        ["Where", "am", "I?"],
+        [null, "is", "he?"],
+        [null, null, "she?"],
+        [null, null, "it?"],
+        [null, "are", "you?"],
+        [null, null, "we?"],
+        [null, null, "they?"]
+      ],
+      [
+        ["I am", "in the workshop."],
+        ["He is", "in the auditorium."],
+        ["She is", "in the computer lab."],
+        ["We are", "in the lecture room."],
+        ["You are", "in the office."],
+        ["It is / They are", "on the left / on the right", "in between", "the cupboard and the table. / the machine."],
+        [null, null, "under", null],
+        [null, null, "behind", null],
+        [null, null, "above", null],
+        [null, null, "beside", null],
+        [null, null, "in front of", null],
+        [null, null, "next to", null]
+      ]
+    ],
     "example_dialogues": [
       {
         "id": "d_1",
@@ -133,7 +158,7 @@
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_6.jpeg",
+        "image": "assets/img/a_2_d_6.png",
         "word": "tyre pressure chart / brown  rags "
       },
       {
@@ -171,7 +196,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "Where is the tyre pressure chart?",
         "text_b": "It is on the left, above the brown rags.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
