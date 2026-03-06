@@ -70,7 +70,7 @@
     "focus": "Simple Present, Yes/No Questions, WH-Questions",
     "instructions": {
       "example": {
-        "text": "Listen to the model dialogue.\nආදර්ශ සංවාදයට සවන් දෙන්න.\nமாதிரி உரையாடலை கேளுங்கள்.",
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාද අසන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
         "audio": "assets/audio/a_2_i_ex.mp3"
       },
       "activity_2_a": {
