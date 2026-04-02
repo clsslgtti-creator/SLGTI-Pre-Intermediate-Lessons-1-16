@@ -139,7 +139,7 @@ const createPronunciationSlide = ({
 
   const slide = document.createElement("section");
   slide.className = `slide slide--pronunciation ${slideRoleClass}`;
-  const headingLabel = letter ? `${activityLabel}${letter}` : activityLabel;
+  const headingLabel = `${letter ? `${activityLabel}${letter}` : activityLabel} - Pronunciation`;
   slide.innerHTML = `<h2>${headingLabel}</h2>`;
 
   if (mode === "read") {
