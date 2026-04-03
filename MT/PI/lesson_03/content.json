@@ -33,35 +33,35 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "cl'a'mps",
+        "word_text": "fl'a'nge",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Cl'a'mps are devices used to hold parts tightly together.",
+        "sentence_text": "The fl'a'nge is a protruding rim or ridge that connects pipes.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "'a'xle",
+        "word_text": "cl'a'mp",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The 'a'xle is a central shaft that connects wheels and supports vehicle weight.",
+        "sentence_text": "Cl'a'mps are devices that firmly hold multiple parts together.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "c'a'mshaft",
+        "word_text": "r'a'tchet",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The c'a'mshaft is critical for correct valve timing in the engine.",
+        "sentence_text": "R'a'tchets are good for fast bolt tightening in repairs.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "r'a'tchet",
+        "word_text": "g'a'ntry",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "R'a'tchets are useful for fast bolt tightening in repairs.",
+        "sentence_text": "A g'a'ntry is a frame structure used to support lifting or overhead movement.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
-        "image": "assets/img/a_1_p_4.png"
+        "image": "assets/img/a_1_p_4.jpeg"
       }
     ]
   },
@@ -349,43 +349,43 @@
         "content": [
           {
             "id": "g_a_1",
-            "colunm_b": "flexible",
-            "colunm_a": "can bend easily without breaking"
+            "colunm_a": "flexible",
+            "colunm_b": "can bend easily without breaking"
           },
           {
             "id": "g_a_2",
-            "colunm_b": "smooth",
-            "colunm_a": "has no rough or uneven parts"
+            "colunm_a": "smooth",
+            "colunm_b": "has no rough or uneven parts"
           },
           {
             "id": "g_a_3",
-            "colunm_b": "straight",
-            "colunm_a": "not bent or curved"
+            "colunm_a": "straight",
+            "colunm_b": "not bent or curved"
           },
           {
             "id": "g_a_4",
-            "colunm_b": "brittle",
-            "colunm_a": "breaks or cracks easily under force"
+            "colunm_a": "firm",
+            "colunm_b": "fixed strongly and securely"
           },
           {
             "id": "g_a_5",
-            "colunm_b": "secure",
-            "colunm_a": "firmly fixed; does not move"
+            "colunm_a": "hard",
+            "colunm_b": "solid and difficult to press or cut"
           },
           {
             "id": "g_a_6",
-            "colunm_b": "hard",
-            "colunm_a": "solid and difficult to press or cut"
+            "colunm_a": "rough",
+            "colunm_b": "not smooth; uneven to touch"
           },
           {
             "id": "g_a_7",
-            "colunm_b": "fine",
-            "colunm_a": "very thin or small in size"
+            "colunm_a": "loose",
+            "colunm_b": "not fixed firmly; can move easily"
           },
           {
             "id": "g_a_8",
-            "colunm_b": "rough",
-            "colunm_a": "not smooth; uneven to touch"
+            "colunm_a": "worn",
+            "colunm_b": "damaged or weakened by long use"
           }
         ]
       },
@@ -395,169 +395,169 @@
         "content": [
           {
             "id": "g_b_1",
-            "question": "The rubber fuel hose is __________, so it bends easily during engine movement without cracking. (can bend easily without breaking)",
+            "question": "Is the rubber coolant hose __________ enough to bend safely when the engine vibrates while it is in use? (can bend easily without breaking)",
             "answer": "flexible"
           },
           {
             "id": "g_b_2",
-            "question": "Are the plastic covers on the dashboard very __________? (has no rough or uneven parts)",
+            "question": "After proper lubrication, the bearing surfaces were __________, allowing the shaft to rotate without friction. (has no rough or uneven parts)",
             "answer": "smooth"
           },
           {
             "id": "g_b_3",
-            "question": "The front wheels are __________, which means the vehicle tracks correctly on a flat road. (not bent or curved)",
+            "question": "Were the guide rods __________ after the alignment check was completed in the workshop? (not bent or curved)",
             "answer": "straight"
           },
           {
             "id": "g_b_4",
-            "question": "The old plastic clips were __________, so they broke during inspection. (breaks or cracks easily under force)",
-            "answer": "brittle"
+            "question": "The mounting bolts are __________, and the machine does not shift while it is running. (fixed strongly and securely)",
+            "answer": "firm"
           },
           {
             "id": "g_b_5",
-            "question": "The battery terminal is __________, so the electrical connection does not loosen while the vehicle is running. (firmly fixed; does not move)",
-            "answer": "secure"
-          },
-          {
-            "id": "g_b_6",
-            "question": "Was the brake pedal __________ during the safety check, indicating normal hydraulic pressure? (solid and difficult to press or cut)",
+            "question": "The cutting tool was __________, which made it difficult to machine the steel workpiece smoothly. (solid and difficult to press or cut)",
             "answer": "hard"
           },
           {
+            "id": "g_b_6",
+            "question": "The cast metal surface is __________, so it needs grinding before final assembly. (not smooth; uneven to touch)",
+            "answer": "rough"
+          },
+          {
             "id": "g_b_7",
-            "question": "The sensor wire is __________ and can be damaged easily if pulled. (very thin or small in size)",
-            "answer": "fine"
+            "question": "The belt connections were __________, so the instructor stopped the machine for safety reasons. (not fixed firmly; can move easily)",
+            "answer": "loose"
           },
           {
             "id": "g_b_8",
-            "question": "The tyre surfaces were not __________ after long use on uneven roads in the countryside. (not smooth; uneven to touch)",
-            "answer": "rough"
+            "question": "The gears were __________ after long use, and they were replaced during maintenance. (damaged or weakened by long use)",
+            "answer": "worn"
           }
         ]
       },
       "activity_c": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "Is the rubber coolant hose flexible enough to bend safely when the engine vibrates while it is in use?",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "After proper lubrication, the bearing surfaces were smooth, allowing the shaft to rotate without friction.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "Were the guide rods straight after the alignment check was completed in the workshop?",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "The mounting bolts are firm, and the machine does not shift while it is running.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The cutting tool was hard, which made it difficult to machine the steel workpiece smoothly.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "The cast metal surface is rough, so it needs grinding before final assembly.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "The belt connections were loose, so the instructor stopped the machine for safety reasons.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The gears were worn after long use, and they were replaced during maintenance.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "Is the rubber coolant hose flexible enough to bend safely when the engine vibrates while it is in use?",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "After proper lubrication, the bearing surfaces were smooth, allowing the shaft to rotate without friction.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "Were the guide rods straight after the alignment check was completed in the workshop?",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "The mounting bolts are firm, and the machine does not shift while it is running.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The cutting tool was hard, which made it difficult to machine the steel workpiece smoothly.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "The cast metal surface is rough, so it needs grinding before final assembly.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "The belt connections were loose, so the instructor stopped the machine for safety reasons.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The gears were worn after long use, and they were replaced during maintenance.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "Is the rubber coolant hose flexible enough to bend safely when the engine vibrates while it is in use?",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "After proper lubrication, the bearing surfaces were smooth, allowing the shaft to rotate without friction.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "Were the guide rods straight after the alignment check was completed in the workshop?",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "The mounting bolts are firm, and the machine does not shift while it is running.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The cutting tool was hard, which made it difficult to machine the steel workpiece smoothly.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "The cast metal surface is rough, so it needs grinding before final assembly.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "The belt connections were loose, so the instructor stopped the machine for safety reasons.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The gears were worn after long use, and they were replaced during maintenance.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ]
