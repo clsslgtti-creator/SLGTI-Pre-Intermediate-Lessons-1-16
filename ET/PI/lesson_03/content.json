@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "cl'a'mps",
+        "word_text": "'a'mmeter",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Cl'a'mps are devices used to hold parts tightly together.",
+        "sentence_text": "The 'a'mmeter is accurate for measuring current during circuit testing.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "'a'xle",
+        "word_text": "'a'node",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The 'a'xle is a central shaft that connects wheels and supports vehicle weight.",
+        "sentence_text": "The 'a'node is positive in this diode during normal operation.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "c'a'mshaft",
+        "word_text": "p'a'nel",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The c'a'mshaft is critical for correct valve timing in the engine.",
+        "sentence_text": "All the p'a'nels are clearly labelled for safe operation and maintenance.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "r'a'tchet",
+        "word_text": "b'a'llast",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "R'a'tchets are useful for fast bolt tightening in repairs.",
+        "sentence_text": "The b'a'llast is necessary for stable operation of fluorescent lamps.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -349,43 +349,43 @@
         "content": [
           {
             "id": "g_a_1",
-            "colunm_b": "flexible",
-            "colunm_a": "can bend easily without breaking"
+            "colunm_a": "flexible",
+            "colunm_b": "can bend easily without breaking"
           },
           {
             "id": "g_a_2",
-            "colunm_b": "smooth",
-            "colunm_a": "has no rough or uneven parts"
+            "colunm_a": "smooth",
+            "colunm_b": "has no rough or uneven parts"
           },
           {
             "id": "g_a_3",
-            "colunm_b": "straight",
-            "colunm_a": "not bent or curved"
+            "colunm_a": "firm",
+            "colunm_b": "fixed strongly and securely"
           },
           {
             "id": "g_a_4",
-            "colunm_b": "brittle",
-            "colunm_a": "breaks or cracks easily under force"
+            "colunm_a": "loose",
+            "colunm_b": "not fixed firmly; can move easily"
           },
           {
             "id": "g_a_5",
-            "colunm_b": "secure",
-            "colunm_a": "firmly fixed; does not move"
+            "colunm_a": "insulated",
+            "colunm_b": "covered to prevent electric current from passing through"
           },
           {
             "id": "g_a_6",
-            "colunm_b": "hard",
-            "colunm_a": "solid and difficult to press or cut"
+            "colunm_a": "exposed",
+            "colunm_b": "not covered or protected"
           },
           {
             "id": "g_a_7",
-            "colunm_b": "fine",
-            "colunm_a": "very thin or small in size"
+            "colunm_a": "live",
+            "colunm_b": "carrying electric current"
           },
           {
             "id": "g_a_8",
-            "colunm_b": "rough",
-            "colunm_a": "not smooth; uneven to touch"
+            "colunm_a": "damaged",
+            "colunm_b": "broken or faulty so it does not work safely"
           }
         ]
       },
@@ -395,169 +395,169 @@
         "content": [
           {
             "id": "g_b_1",
-            "question": "The rubber fuel hose is __________, so it bends easily during engine movement without cracking. (can bend easily without breaking)",
+            "question": "The control panel cables are __________, so they can be routed neatly inside the cabinet without damage. (can bend easily without breaking)",
             "answer": "flexible"
           },
           {
             "id": "g_b_2",
-            "question": "Are the plastic covers on the dashboard very __________? (has no rough or uneven parts)",
+            "question": "The outer insulation surface was __________, which helped prevent abrasion against the metal trunking. (has no rough or uneven parts)",
             "answer": "smooth"
           },
           {
             "id": "g_b_3",
-            "question": "The front wheels are __________, which means the vehicle tracks correctly on a flat road. (not bent or curved)",
-            "answer": "straight"
+            "question": "The terminal screws are __________, and the connection is stable during operation. (fixed strongly and securely)",
+            "answer": "firm"
           },
           {
             "id": "g_b_4",
-            "question": "The old plastic clips were __________, so they broke during inspection. (breaks or cracks easily under force)",
-            "answer": "brittle"
+            "question": "The extension cord was not __________, so the instructor replaced it before practical work began. (covered to prevent electric current from passing through)",
+            "answer": "insulated"
           },
           {
             "id": "g_b_5",
-            "question": "The battery terminal is __________, so the electrical connection does not loosen while the vehicle is running. (firmly fixed; does not move)",
-            "answer": "secure"
+            "question": "The internal wires were __________, which created a serious safety risk. (not covered or protected)",
+            "answer": "exposed"
           },
           {
             "id": "g_b_6",
-            "question": "Was the brake pedal __________ during the safety check, indicating normal hydraulic pressure? (solid and difficult to press or cut)",
-            "answer": "hard"
+            "question": "Are the exposed conductors __________ when the main switch is turned on? (carrying electric current)",
+            "answer": "live"
           },
           {
             "id": "g_b_7",
-            "question": "The sensor wire is __________ and can be damaged easily if pulled. (very thin or small in size)",
-            "answer": "fine"
+            "question": "Were the socket outlets __________ after the equipment was moved during the workshop session? (not fixed firmly; can move easily)",
+            "answer": "loose"
           },
           {
             "id": "g_b_8",
-            "question": "The tyre surfaces were not __________ after long use on uneven roads in the countryside. (not smooth; uneven to touch)",
-            "answer": "rough"
+            "question": "The cable insulation was __________ after long use, and it no longer met safety standards. (broken or faulty so it does not work safely)",
+            "answer": "damaged"
           }
         ]
       },
       "activity_c": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "The control panel cables are flexible, so they can be routed neatly inside the cabinet without damage.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "The outer insulation surface was smooth, which helped prevent abrasion against the metal trunking.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "The terminal screws are firm, and the connection is stable during operation.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "The extension cord was not insulated, so the instructor replaced it before practical work began.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The internal wires were exposed, which created a serious safety risk.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "Are the exposed conductors live when the main switch is turned on?",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "Were the socket outlets loose after the equipment was moved during the workshop session?",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The cable insulation was damaged after long use, and it no longer met safety standards.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "The control panel cables are flexible, so they can be routed neatly inside the cabinet without damage.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "The outer insulation surface was smooth, which helped prevent abrasion against the metal trunking.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "The terminal screws are firm, and the connection is stable during operation.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "The extension cord was not insulated, so the instructor replaced it before practical work began.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The internal wires were exposed, which created a serious safety risk.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "Are the exposed conductors live when the main switch is turned on?",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "Were the socket outlets loose after the equipment was moved during the workshop session?",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The cable insulation was damaged after long use, and it no longer met safety standards.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "The control panel cables are flexible, so they can be routed neatly inside the cabinet without damage.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "The outer insulation surface was smooth, which helped prevent abrasion against the metal trunking.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "The terminal screws are firm, and the connection is stable during operation.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "The extension cord was not insulated, so the instructor replaced it before practical work began.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The internal wires were exposed, which created a serious safety risk.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "Are the exposed conductors live when the main switch is turned on?",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "Were the socket outlets loose after the equipment was moved during the workshop session?",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The cable insulation was damaged after long use, and it no longer met safety standards.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ]
