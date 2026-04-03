@@ -41,25 +41,25 @@
       },
       {
         "id": "p_2",
-        "word_text": "'a'xle",
+        "word_text": "r'a'mmer",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The 'a'xle is a central shaft that connects wheels and supports vehicle weight.",
+        "sentence_text": "R'a'mmers are effective tools for compacting soil before foundation or concrete work.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "c'a'mshaft",
+        "word_text": "g'a'ntry",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The c'a'mshaft is critical for correct valve timing in the engine.",
+        "sentence_text": "A g'a'ntry is a frame structure used to support lifting or overhead movement.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "image": "assets/img/a_1_p_3.jpeg"
       },
       {
         "id": "p_4",
-        "word_text": "r'a'tchet",
+        "word_text": "l'a'ttice",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "R'a'tchets are useful for fast bolt tightening in repairs.",
+        "sentence_text": "The l'a'ttice, a cross structural framework, is strong enough for roof work.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -349,43 +349,43 @@
         "content": [
           {
             "id": "g_a_1",
-            "colunm_b": "flexible",
-            "colunm_a": "can bend easily without breaking"
+            "colunm_a": "straight",
+            "colunm_b": "not bent or curved"
           },
           {
             "id": "g_a_2",
-            "colunm_b": "smooth",
-            "colunm_a": "has no rough or uneven parts"
+            "colunm_a": "firm",
+            "colunm_b": "fixed strongly and securely"
           },
           {
             "id": "g_a_3",
-            "colunm_b": "straight",
-            "colunm_a": "not bent or curved"
+            "colunm_a": "rough",
+            "colunm_b": "not smooth; uneven to touch"
           },
           {
             "id": "g_a_4",
-            "colunm_b": "brittle",
-            "colunm_a": "breaks or cracks easily under force"
+            "colunm_a": "level",
+            "colunm_b": "flat and even; not sloping"
           },
           {
             "id": "g_a_5",
-            "colunm_b": "secure",
-            "colunm_a": "firmly fixed; does not move"
+            "colunm_a": "stable",
+            "colunm_b": "strong and not likely to move or collapse"
           },
           {
             "id": "g_a_6",
-            "colunm_b": "hard",
-            "colunm_a": "solid and difficult to press or cut"
+            "colunm_a": "moist",
+            "colunm_b": "slightly wet; containing a small amount of water"
           },
           {
             "id": "g_a_7",
-            "colunm_b": "fine",
-            "colunm_a": "very thin or small in size"
+            "colunm_a": "aligned",
+            "colunm_b": "positioned correctly in relation to other parts"
           },
           {
             "id": "g_a_8",
-            "colunm_b": "rough",
-            "colunm_a": "not smooth; uneven to touch"
+            "colunm_a": "reinforced",
+            "colunm_b": "strengthened with steel or other supporting material"
           }
         ]
       },
@@ -395,169 +395,169 @@
         "content": [
           {
             "id": "g_b_1",
-            "question": "The rubber fuel hose is __________, so it bends easily during engine movement without cracking. (can bend easily without breaking)",
-            "answer": "flexible"
-          },
-          {
-            "id": "g_b_2",
-            "question": "Are the plastic covers on the dashboard very __________? (has no rough or uneven parts)",
-            "answer": "smooth"
-          },
-          {
-            "id": "g_b_3",
-            "question": "The front wheels are __________, which means the vehicle tracks correctly on a flat road. (not bent or curved)",
+            "question": "The steel bars are __________, so they fit correctly inside the concrete column before casting. (not bent or curved)",
             "answer": "straight"
           },
           {
+            "id": "g_b_2",
+            "question": "The foundation bolts are __________, and the base plate is not moving during installation. (fixed strongly and securely)",
+            "answer": "firm"
+          },
+          {
+            "id": "g_b_3",
+            "question": "The plastered wall surface was __________, so it required additional finishing before painting. (not smooth; uneven to touch)",
+            "answer": "rough"
+          },
+          {
             "id": "g_b_4",
-            "question": "The old plastic clips were __________, so they broke during inspection. (breaks or cracks easily under force)",
-            "answer": "brittle"
+            "question": "Is the floor slab __________ after the surface was checked and adjusted during the final site inspection? (flat and even; not sloping)",
+            "answer": "level"
           },
           {
             "id": "g_b_5",
-            "question": "The battery terminal is __________, so the electrical connection does not loosen while the vehicle is running. (firmly fixed; does not move)",
-            "answer": "secure"
+            "question": "The scaffolding structure is __________, and it can support workers safely during construction. (strong and not likely to move or collapse)",
+            "answer": "stable"
           },
           {
             "id": "g_b_6",
-            "question": "Was the brake pedal __________ during the safety check, indicating normal hydraulic pressure? (solid and difficult to press or cut)",
-            "answer": "hard"
+            "question": "The soil was not __________, so the instructor postponed concrete pouring until proper conditions were met.",
+            "answer": "moist"
           },
           {
             "id": "g_b_7",
-            "question": "The sensor wire is __________ and can be damaged easily if pulled. (very thin or small in size)",
-            "answer": "fine"
+            "question": "Were the door frames __________ before the walls were fully plastered? (positioned correctly in relation to other parts)",
+            "answer": "aligned"
           },
           {
             "id": "g_b_8",
-            "question": "The tyre surfaces were not __________ after long use on uneven roads in the countryside. (not smooth; uneven to touch)",
-            "answer": "rough"
+            "question": "The concrete beam was __________, so it can safely carry the load of the upper floor. (strengthened with steel or other supporting material)",
+            "answer": "reinforced"
           }
         ]
       },
       "activity_c": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "The steel bars are straight, so they fit correctly inside the concrete column before casting.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "The foundation bolts are firm, and the base plate is not moving during installation.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "The plastered wall surface was rough, so it required additional finishing before painting.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "Is the floor slab level after the surface was checked and adjusted during the final site inspection?",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The scaffolding structure is stable, and it can support workers safely during construction.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "The soil was not moist, so the instructor postponed concrete pouring until proper conditions were met.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "Were the door frames aligned before the walls were fully plastered?",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The concrete beam was reinforced, so it can safely carry the load of the upper floor.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "The steel bars are straight, so they fit correctly inside the concrete column before casting.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "The foundation bolts are firm, and the base plate is not moving during installation.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "The plastered wall surface was rough, so it required additional finishing before painting.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "Is the floor slab level after the surface was checked and adjusted during the final site inspection?",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The scaffolding structure is stable, and it can support workers safely during construction.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "The soil was not moist, so the instructor postponed concrete pouring until proper conditions were met.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "Were the door frames aligned before the walls were fully plastered?",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The concrete beam was reinforced, so it can safely carry the load of the upper floor.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "a_3_b_g_1",
-          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "text": "The steel bars are straight, so they fit correctly inside the concrete column before casting.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "a_3_b_g_2",
-          "text": "Are the plastic covers on the dashboard very smooth?",
+          "text": "The foundation bolts are firm, and the base plate is not moving during installation.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "a_3_b_g_3",
-          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "text": "The plastered wall surface was rough, so it required additional finishing before painting.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "a_3_b_g_4",
-          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "text": "Is the floor slab level after the surface was checked and adjusted during the final site inspection?",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "a_3_b_g_5",
-          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "text": "The scaffolding structure is stable, and it can support workers safely during construction.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "a_3_b_g_6",
-          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "text": "The soil was not moist, so the instructor postponed concrete pouring until proper conditions were met.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "a_3_b_g_7",
-          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "text": "Were the door frames aligned before the walls were fully plastered?",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "a_3_b_g_8",
-          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "text": "The concrete beam was reinforced, so it can safely carry the load of the upper floor.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ]
