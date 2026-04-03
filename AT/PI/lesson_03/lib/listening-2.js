@@ -163,6 +163,149 @@ const normalizeLineItems = (raw = []) => {
     .filter(Boolean);
 };
 
+const createDialogueTables = (tablesData = []) => {
+  if (!Array.isArray(tablesData) || tablesData.length === 0) {
+    return null;
+  }
+
+  const wrapper = document.createElement("div");
+  wrapper.className = "dialogue-table-group";
+  const tables = [];
+
+  tablesData.forEach((tableData) => {
+    if (!Array.isArray(tableData) || tableData.length === 0) {
+      return;
+    }
+
+    const table = document.createElement("table");
+    table.className = "dialogue-table";
+    const tbody = document.createElement("tbody");
+    table.appendChild(tbody);
+
+    const columnSpans = [];
+    const maxColumns = tableData.reduce((max, rowData) => {
+      if (!Array.isArray(rowData)) {
+        return max;
+      }
+      const width = rowData.reduce((count, cellValue) => {
+        if (cellValue && typeof cellValue === "object" && !Array.isArray(cellValue)) {
+          const rawColSpan = cellValue.colspan ?? cellValue.colSpan;
+          const parsedColSpan = Number.parseInt(rawColSpan, 10);
+          if (Number.isFinite(parsedColSpan) && parsedColSpan > 1) {
+            return count + parsedColSpan;
+          }
+        }
+        return count + 1;
+      }, 0);
+      return Math.max(max, width);
+    }, 0);
+
+    tableData.forEach((rowData) => {
+      if (!Array.isArray(rowData) || rowData.length === 0) {
+        return;
+      }
+
+      const row = document.createElement("tr");
+      let hasCell = false;
+
+      const rowSpanUpdates = new Set();
+      let columnIndex = 0;
+      let lastCell = null;
+      let lastTracker = null;
+      let lastColSpan = 1;
+
+      rowData.forEach((cellValue) => {
+        if (cellValue === null || cellValue === undefined) {
+          const spanTracker = columnSpans[columnIndex];
+          if (spanTracker && spanTracker.cell && !rowSpanUpdates.has(spanTracker)) {
+            spanTracker.rowSpan += 1;
+            spanTracker.cell.rowSpan = spanTracker.rowSpan;
+            rowSpanUpdates.add(spanTracker);
+          }
+          columnIndex += 1;
+          return;
+        }
+
+        let cellText = cellValue;
+        let colSpan = 1;
+
+        if (typeof cellValue === "object" && !Array.isArray(cellValue)) {
+          cellText =
+            cellValue.text ??
+            cellValue.value ??
+            cellValue.label ??
+            cellValue.content ??
+            "";
+          const rawColSpan = cellValue.colspan ?? cellValue.colSpan;
+          if (rawColSpan !== undefined && rawColSpan !== null) {
+            const parsedColSpan = Number.parseInt(rawColSpan, 10);
+            if (Number.isFinite(parsedColSpan) && parsedColSpan > 1) {
+              colSpan = parsedColSpan;
+            }
+          }
+        }
+
+        const cell = document.createElement("td");
+        cell.textContent = `${cellText ?? ""}`;
+        if (colSpan > 1) {
+          cell.colSpan = colSpan;
+        }
+
+        const tracker = { cell, rowSpan: 1 };
+        for (let spanOffset = 0; spanOffset < colSpan; spanOffset += 1) {
+          columnSpans[columnIndex + spanOffset] = tracker;
+        }
+
+        row.appendChild(cell);
+        hasCell = true;
+        lastCell = cell;
+        lastTracker = tracker;
+        lastColSpan = colSpan;
+        columnIndex += colSpan;
+      });
+
+      if (columnIndex < maxColumns && lastCell && rowData.length < maxColumns) {
+        const missingSpan = maxColumns - columnIndex;
+        if (missingSpan > 0 && lastTracker) {
+          const newColSpan = lastColSpan + missingSpan;
+          if (newColSpan > 1) {
+            lastCell.colSpan = newColSpan;
+          }
+          for (let spanOffset = 0; spanOffset < missingSpan; spanOffset += 1) {
+            columnSpans[columnIndex + spanOffset] = lastTracker;
+          }
+        }
+      }
+
+      if (hasCell) {
+        tbody.appendChild(row);
+      }
+    });
+
+    if (tbody.children.length > 0) {
+      wrapper.appendChild(table);
+      tables.push(table);
+    }
+  });
+
+  const tableCount = tables.length;
+  if (tableCount === 0) {
+    return null;
+  }
+
+  if (tableCount === 1) {
+    wrapper.classList.add("dialogue-table-group--single");
+  } else {
+    wrapper.classList.add("dialogue-table-group--multi");
+    if (tableCount % 2 === 1) {
+      wrapper.classList.add("dialogue-table-group--center-last");
+      tables[tableCount - 1].classList.add("dialogue-table--centered");
+    }
+  }
+
+  return wrapper;
+};
+
 const ACTIVITY_D_VARIANT_SUFFIXES = ["a", "b", "c"];
 
 const normalizeActivityDGroups = (raw = []) => {
@@ -221,6 +364,38 @@ const getRepeatPauseMs = (activityData, fallback = 1500) => {
     return fallback;
   }
   return Math.max(500, parsed);
+};
+
+const buildTableSlide = (tables = [], context = {}) => {
+  const {
+    activityLabel = "Activity",
+    activityNumber = null,
+    activityFocus = "",
+    includeFocus = false,
+  } = context;
+
+  const slide = document.createElement("section");
+  slide.className = "slide slide--listening listening-slide listening-slide--table";
+  buildHeading(slide, activityLabel);
+  ensureInstructionAnchor(slide);
+  maybeInsertFocus(slide, activityFocus, includeFocus);
+
+  const tablesContainer = createDialogueTables(tables);
+  if (tablesContainer) {
+    slide.appendChild(tablesContainer);
+  } else {
+    const empty = document.createElement("p");
+    empty.className = "empty-state";
+    empty.textContent = "Table content will be added soon.";
+    slide.appendChild(empty);
+  }
+
+  return {
+    id: activityNumber ? `activity-${activityNumber}-table` : "activity-table",
+    element: slide,
+    onEnter: () => {},
+    onLeave: () => {},
+  };
 };
 
 const buildComprehensionSlide = (data = {}, context = {}) => {
@@ -1058,6 +1233,7 @@ export const buildListeningTwoSlides = (activityData = {}, context = {}) => {
     ? `Activity ${activityNumber}`
     : "Activity";
   const activityFocus = trimString(rawFocus);
+  const tables = Array.isArray(activityData?.tables) ? activityData.tables : [];
 
   const comprehensionData = normalizeComprehensionData(
     activityData?.content?.activity_a
@@ -1076,11 +1252,30 @@ export const buildListeningTwoSlides = (activityData = {}, context = {}) => {
 
   const repeatPauseMs = getRepeatPauseMs(activityData);
 
-  const slides = [
+  const slides = [];
+
+  if (tables.length) {
+    slides.push(
+      buildTableSlide(tables, {
+        activityLabel,
+        activityNumber,
+        activityFocus,
+        includeFocus: Boolean(activityFocus),
+      })
+    );
+  }
+
+  slides.push(
     buildComprehensionSlide(
       comprehensionData,
-      createSubActivityContext(baseContext, "a", Boolean(activityFocus))
-    ),
+      createSubActivityContext(
+        baseContext,
+        "a",
+        Boolean(activityFocus) && tables.length === 0
+      )
+    )
+  );
+  slides.push(
     createSequencedTextSlide(
       listenItems,
       createSubActivityContext(baseContext, "b"),
@@ -1092,12 +1287,16 @@ export const buildListeningTwoSlides = (activityData = {}, context = {}) => {
         showLineNumbers: false,
         presentation: "paragraph",
       }
-    ),
+    )
+  );
+  slides.push(
     createSequencedTextSlide(
       repeatItems,
       createSubActivityContext(baseContext, "c"),
       { mode: "listen-repeat", autoDelayMs: 5000, repeatPauseMs }
-    ),
+    )
+  );
+  slides.push(
     createSequencedTextSlide(
       readAlongItems,
       createSubActivityContext(baseContext, "d"),
@@ -1109,8 +1308,8 @@ export const buildListeningTwoSlides = (activityData = {}, context = {}) => {
         groupLabel: "Set",
         showLineNumbers: false,
       }
-    ),
-  ];
+    )
+  );
 
   return slides;
 };

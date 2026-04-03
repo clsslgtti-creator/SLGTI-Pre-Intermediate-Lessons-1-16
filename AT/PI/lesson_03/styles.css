@@ -632,7 +632,7 @@ body {
 }
 
 .dialogue-table-group--single {
-  justify-items: center;
+  justify-items: stretch;
 }
 
 .dialogue-table-group--multi {
@@ -660,7 +660,7 @@ body {
 }
 
 .dialogue-table-group--single .dialogue-table {
-  width: min(100%, 600px);
+  width: 100%;
   margin: 0 auto;
 }
 

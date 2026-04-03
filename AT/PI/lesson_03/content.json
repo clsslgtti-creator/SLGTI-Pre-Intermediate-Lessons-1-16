@@ -320,149 +320,245 @@
     ]
   },
   "activity_3": {
-    "type": "INTERACTIVE-2",
+    "type": "INTERACTIVE-8",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_3_i_d.mp3"
+        "text": "Match column A to column B. \n A තීරුව B තීරුවට ගළපන්න. \n A நெடுவரிசையை B நெடுவரிசையுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_j.mp3"
       },
       "activity_b": {
+        "text": "Type the missing adjectives from the previous exercise. \nපෙර අභ්‍යාසයේ විශේෂණ පද භාවිතා කර හිස් තැන් පුරවන්න. \nமுந்தைய பயிற்சியில் கற்ற உரிச்சொற்களைப் பயன்படுத்தி கோடிட்ட இடங்களை நிரப்பவும்.",
+        "audio": "assets/audio/a_3_i_k.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "bg_image": "assets/img/game/bg-6.jpg",
+        "bg_image": "assets/img/game/bg-2.jpg",
         "content": [
           {
-            "id": "g_b_1",
-            "sentence": "At the beauty contest, the first runner-up was __________ than the winner.",
-            "options": ["beautifuller", "more beautiful", "more beautifuller"],
-            "answer": "more beautiful"
+            "id": "g_a_1",
+            "colunm_b": "flexible",
+            "colunm_a": "can bend easily without breaking"
           },
           {
-            "id": "g_b_2",
-            "sentence": "It was __________ to cook once a week than to cook daily.",
-            "options": [
-              "more practical",
-              "more practicaler",
-              "most practicable"
-            ],
-            "answer": "more practical"
+            "id": "g_a_2",
+            "colunm_b": "smooth",
+            "colunm_a": "has no rough or uneven parts"
           },
           {
-            "id": "g_b_3",
-            "sentence": "It was __________ to buy some groceries wholesale than in smaller quantities.",
-            "options": ["economicaler", "more economically", "more economical"],
-            "answer": "more economical"
+            "id": "g_a_3",
+            "colunm_b": "straight",
+            "colunm_a": "not bent or curved"
           },
           {
-            "id": "g_b_4",
-            "sentence": "They wanted a __________ house than their current house.",
-            "options": ["more modern", "more moderner", "morderner"],
-            "answer": "more modern"
+            "id": "g_a_4",
+            "colunm_b": "brittle",
+            "colunm_a": "breaks or cracks easily under force"
           },
           {
-            "id": "g_b_5",
-            "sentence": "The new technician was __________ than the previous one and could manage the repairs and office administration.",
-            "options": ["more efficienter", "an efficient", "more efficient"],
-            "answer": "more efficient"
+            "id": "g_a_5",
+            "colunm_b": "secure",
+            "colunm_a": "firmly fixed; does not move"
           },
           {
-            "id": "g_b_6",
-            "sentence": "His new job at a high-rise building was __________ than the work he did before.",
-            "options": ["more dangerouser", "dangerously", "more dangerous"],
-            "answer": "more dangerous"
+            "id": "g_a_6",
+            "colunm_b": "hard",
+            "colunm_a": "solid and difficult to press or cut"
           },
           {
-            "id": "g_b_7",
-            "sentence": "The practical examination was __________ than the theory exam.",
-            "options": [
-              "more difficult",
-              "more difficulter",
-              "more than difficult"
-            ],
-            "answer": "more difficult"
+            "id": "g_a_7",
+            "colunm_b": "fine",
+            "colunm_a": "very thin or small in size"
           },
           {
-            "id": "g_b_8",
-            "sentence": "The practical sessions were __________ than the theory classes.",
-            "options": [
-              "more interestingly",
-              "more interesting",
-              "interesting"
-            ],
-            "answer": "more interesting"
-          },
-          {
-            "id": "g_b_9",
-            "sentence": "The marketing team in her new job was __________ than the team she worked with before.",
-            "options": [
-              "more professionaler",
-              "professionals",
-              "more professional"
-            ],
-            "answer": "more professional"
-          },
-          {
-            "id": "g_b_10",
-            "sentence": "The design exhibition by the seniors this year was __________ than the exhibition held last year.",
-            "options": ["impressively", "more impressiver", "more impressive"],
-            "answer": "more impressive"
+            "id": "g_a_8",
+            "colunm_b": "rough",
+            "colunm_a": "not smooth; uneven to touch"
           }
         ]
       },
-      "activity_b": [
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "time_per_question_ms": 30000,
+        "content": [
+          {
+            "id": "g_b_1",
+            "question": "The rubber fuel hose is __________, so it bends easily during engine movement without cracking. (can bend easily without breaking)",
+            "answer": "flexible"
+          },
+          {
+            "id": "g_b_2",
+            "question": "Are the plastic covers on the dashboard very __________? (has no rough or uneven parts)",
+            "answer": "smooth"
+          },
+          {
+            "id": "g_b_3",
+            "question": "The front wheels are __________, which means the vehicle tracks correctly on a flat road. (not bent or curved)",
+            "answer": "straight"
+          },
+          {
+            "id": "g_b_4",
+            "question": "The old plastic clips were __________, so they broke during inspection. (breaks or cracks easily under force)",
+            "answer": "brittle"
+          },
+          {
+            "id": "g_b_5",
+            "question": "The battery terminal is __________, so the electrical connection does not loosen while the vehicle is running. (firmly fixed; does not move)",
+            "answer": "secure"
+          },
+          {
+            "id": "g_b_6",
+            "question": "Was the brake pedal __________ during the safety check, indicating normal hydraulic pressure? (solid and difficult to press or cut)",
+            "answer": "hard"
+          },
+          {
+            "id": "g_b_7",
+            "question": "The sensor wire is __________ and can be damaged easily if pulled. (very thin or small in size)",
+            "answer": "fine"
+          },
+          {
+            "id": "g_b_8",
+            "question": "The tyre surfaces were not __________ after long use on uneven roads in the countryside. (not smooth; uneven to touch)",
+            "answer": "rough"
+          }
+        ]
+      },
+      "activity_c": [
         {
-          "id": "g_b_1",
-          "text": "At the beauty contest, the first runner-up was more beautiful than the winner.",
-          "audio": "assets/audio/g_b_1.mp3"
+          "id": "a_3_b_g_1",
+          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
-          "id": "g_b_2",
-          "text": "It was more practical to cook once a week than to cook daily.",
-          "audio": "assets/audio/g_b_2.mp3"
+          "id": "a_3_b_g_2",
+          "text": "Are the plastic covers on the dashboard very smooth?",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
-          "id": "g_b_3",
-          "text": "It was more economical to buy some groceries wholesale than in smaller quantities.",
-          "audio": "assets/audio/g_b_3.mp3"
+          "id": "a_3_b_g_3",
+          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
-          "id": "g_b_4",
-          "text": "They wanted a more modern house than their current house.",
-          "audio": "assets/audio/g_b_4.mp3"
+          "id": "a_3_b_g_4",
+          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
-          "id": "g_b_5",
-          "text": "The new technician was more efficient than the previous one and could manage the repairs and office administration.",
-          "audio": "assets/audio/g_b_5.mp3"
+          "id": "a_3_b_g_5",
+          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
-          "id": "g_b_6",
-          "text": "His new job at a high-rise building was more dangerous than the work he did before.",
-          "audio": "assets/audio/g_b_6.mp3"
+          "id": "a_3_b_g_6",
+          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
-          "id": "g_b_7",
-          "text": "The practical examination was more difficult than the theory exam.",
-          "audio": "assets/audio/g_b_7.mp3"
+          "id": "a_3_b_g_7",
+          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
-          "id": "g_b_8",
-          "text": "The practical sessions were more interesting than the theory classes.",
-          "audio": "assets/audio/g_b_8.mp3"
+          "id": "a_3_b_g_8",
+          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
-          "id": "g_b_9",
-          "text": "The marketing team in her new job was more professional than the team she worked with before.",
-          "audio": "assets/audio/g_b_9.mp3"
+          "id": "a_3_b_g_2",
+          "text": "Are the plastic covers on the dashboard very smooth?",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
-          "id": "g_b_10",
-          "text": "The design exhibition by the seniors this year was more impressive than the exhibition held last year.",
-          "audio": "assets/audio/g_b_10.mp3"
+          "id": "a_3_b_g_3",
+          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "The rubber fuel hose is flexible, so it bends easily during engine movement without cracking.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "a_3_b_g_2",
+          "text": "Are the plastic covers on the dashboard very smooth?",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "a_3_b_g_3",
+          "text": "The front wheels are straight, which means the vehicle tracks correctly on a flat road.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "The old plastic clips were brittle, so they broke during inspection.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "The battery terminal is secure, so the electrical connection does not loosen while the vehicle is running.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "Was the brake pedal hard during the safety check, indicating normal hydraulic pressure?",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "The sensor wire is fine and can be damaged easily if pulled.",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "The tyre surfaces were not rough after long use on uneven roads in the countryside.",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ]
     }
@@ -470,6 +566,10 @@
   "activity_4": {
     "type": "LISTENING-2",
     "instructions": {
+      "activity_table": {
+        "text": "We do not make numbers plural when they are used as adjectives in the sentence. \nසංඛ්‍යාත්මක විශේෂණ පද ලෙස භාවිතා වන විට සංඛ්‍යා වචන බහු වචන නොවන බව සලකන්න. \nவாக்கியத்தில் எண்கள் பண்பதிகை சொற்களாக பயன்படுத்தப்படும் போது எண்களை பன்மை செய்யமாட்டோம்.",
+        "audio": "assets/audio/a_4_i_k.mp3"
+      },
       "activity_a": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
         "audio": "assets/audio/a_4_i_a.mp3"
@@ -487,363 +587,356 @@
         "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
+    "tables": [
+      [
+        [
+          "This ruler is ten centimeters long.",
+          "This is a ten-centimeter-long ruler."
+        ],
+        [
+          "This building is forty meters wide.",
+          "This is a forty-meter-wide building."
+        ],
+        [
+          "This food grinder is thirty thousand rupees.",
+          "This is a thirty-thousand-rupee food grinder."
+        ],
+        [
+          "This lady is a hundred years old.",
+          "This is a hundred-year-old lady."
+        ]
+      ]
+    ],
     "content": {
       "activity_a": {
         "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What is Ashfaq doing?",
-            "answer": "Checking the inventory list.",
+            "question": "Why is the twelve-millimetre-thick steel bar suitable for structural use?",
+            "answer": "Because it remains stable under load even during continuous use.",
             "options": [
-              "Conducting a suspension service.",
-              "Checking the stock levels.",
-              "Checking the inventory list."
+              "Because it is stable during continuous use most of the time",
+              "Because it is stable most of the time, even under heavy load",
+              "Because it remains stable under load even during continuous use."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Which torque multiplier brand was better?",
-            "answer": "Blue model.",
-            "options": ["Blue model.", "Red model.", "The medium sized model."]
+            "question": "What problem occurred with the six-millimetre bars used for benches last semester?",
+            "answer": "They bent under a heavy weight.",
+            "options": [
+              "They cracked due to heat exposure",
+              "They bent during installation",
+              "They bent under a heavy weight."
+            ]
           },
           {
             "id": "l_18_3",
-            "question": "Why did Ashfaq prefer the metal clip remover?",
-            "answer": "It was sturdier.",
+            "question": "Why is the sixty-five-millimetre plastic pipe not used to carry weight?",
+            "answer": "Because it is designed mainly for insulation.",
             "options": [
-              "It bent easily.",
-              "It was sturdier.",
-              "It was lighter."
+              "Because it is brittle and transparent",
+              "Because it is contaminated with oil",
+              "Because it is designed mainly for insulation."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "What happened to two insulated spanners?",
-            "answer": "Their coating was damaged.",
+            "question": "Why is the four-millimetre-thick glass panel not used as a safety barrier?",
+            "answer": "Because it is brittle and unsafe under impact.",
             "options": [
-              "They were from the old batch.",
-              "Their coating was damaged.",
-              "They were kept anyway."
+              "Because it is too rough on the surface",
+              "Because it is brittle and unsafe under impact.",
+              "Because it is brittle and can withstand the impact"
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Which diagnostic probe lead brand was more accurate?",
-            "answer": "Green.",
-            "options": ["Yellow.", "Red.", "Green."]
+            "question": "Under which condition does the rubber gasket fail to seal properly?",
+            "answer": "When its surface is contaminated with dust or oil.",
+            "options": [
+              "When it’s stretched and brittle",
+              "When its surface is contaminated with dust or oil.",
+              "When its inside is contaminated with some sticky material"
+            ]
           }
         ]
       },
       "activity_b": [
         {
-          "id": "t_34_1",
-          "text": "Good morning, Ashfaq. I need to check our stock levels.",
-          "audio": "assets/audio/t_34_1.mp3"
+          "id": "t_1",
+          "text": "Good morning.",
+          "audio": "assets/audio/t_1.mp3"
         },
         {
-          "id": "t_34_2",
-          "text": "What are you doing now?",
-          "audio": "assets/audio/t_34_2.mp3"
+          "id": "t_2",
+          "text": "Today, we are going to talk about the properties of different materials and how they are used in technical work.",
+          "audio": "assets/audio/t_2.mp3"
         },
         {
-          "id": "t_34_3",
-          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
-          "audio": "assets/audio/t_34_3.mp3"
+          "id": "t_3",
+          "text": "Let me begin with this twelve-millimetre-thick steel bar.",
+          "audio": "assets/audio/t_3.mp3"
         },
         {
-          "id": "t_34_4",
-          "text": "Some items ran out after the suspension service.",
-          "audio": "assets/audio/t_34_4.mp3"
+          "id": "t_4",
+          "text": "This processed structural steel is very rigid and firm, and I am pressing it with my hands.",
+          "audio": "assets/audio/t_4.mp3"
         },
         {
-          "id": "t_34_5",
-          "text": "I see. Yesterday was busy.",
-          "audio": "assets/audio/t_34_5.mp3"
+          "id": "t_5",
+          "text": "I am trying to bend it, but it is not bending at all.",
+          "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_34_6",
-          "text": "Did you notice which tools were missing?",
-          "audio": "assets/audio/t_34_6.mp3"
+          "id": "t_6",
+          "text": "Is it flexible?",
+          "audio": "assets/audio/t_6.mp3"
         },
         {
-          "id": "t_34_7",
-          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
-          "audio": "assets/audio/t_34_7.mp3"
+          "id": "t_7",
+          "text": "No, it is not, but it remains stable under load, even during continuous use.",
+          "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_34_8",
-          "text": "The blue model worked well, but the red one felt weak.",
-          "audio": "assets/audio/t_34_8.mp3"
+          "id": "t_8",
+          "text": "In construction and mechanical work, parts like this are not decorative; they are load-bearing and structural.",
+          "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_34_9",
-          "text": "Yes, the blue model is definitely better.",
-          "audio": "assets/audio/t_34_9.mp3"
+          "id": "t_9",
+          "text": "As most of you are aware, last semester, six-millimetre bars were used for benches in front of the school.",
+          "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_34_10",
-          "text": "We are going to order more of those.",
-          "audio": "assets/audio/t_34_10.mp3"
+          "id": "t_10",
+          "text": "However, they were not durable or stable enough, and they bent under heavy weight over time.",
+          "audio": "assets/audio/t_10.mp3"
         },
         {
-          "id": "t_34_11",
-          "text": "What about the rubber-coated impact sockets?",
-          "audio": "assets/audio/t_34_11.mp3"
+          "id": "t_11",
+          "text": "Now, take a look at this sixty-five-millimetre plastic pipe.",
+          "audio": "assets/audio/t_11.mp3"
         },
         {
-          "id": "t_34_12",
-          "text": "We finished the medium sizes.",
-          "audio": "assets/audio/t_34_12.mp3"
+          "id": "t_12",
+          "text": "It is lightweight, flexible, and smooth.",
+          "audio": "assets/audio/t_12.mp3"
         },
         {
-          "id": "t_34_13",
-          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
-          "audio": "assets/audio/t_34_13.mp3"
+          "id": "t_13",
+          "text": "I am bending it slightly, and it changes shape easily.",
+          "audio": "assets/audio/t_13.mp3"
         },
         {
-          "id": "t_34_14",
-          "text": "The plastic clips kept bending.",
-          "audio": "assets/audio/t_34_14.mp3"
+          "id": "t_14",
+          "text": "Is it rigid?",
+          "audio": "assets/audio/t_14.mp3"
         },
         {
-          "id": "t_34_15",
-          "text": "I agree. Let’s order the metal ones.",
-          "audio": "assets/audio/t_34_15.mp3"
+          "id": "t_15",
+          "text": "No, it is not.",
+          "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_34_16",
-          "text": "Did you also check the EV-safe insulated spanners?",
-          "audio": "assets/audio/t_34_16.mp3"
+          "id": "t_16",
+          "text": "Is it strong?",
+          "audio": "assets/audio/t_16.mp3"
         },
         {
-          "id": "t_34_17",
-          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
-          "audio": "assets/audio/t_34_17.mp3"
+          "id": "t_17",
+          "text": "Yes, it is strong enough for insulation purposes, but it is not designed to carry weight.",
+          "audio": "assets/audio/t_17.mp3"
         },
         {
-          "id": "t_34_18",
-          "text": "Yes, sir. I checked them.",
-          "audio": "assets/audio/t_34_18.mp3"
+          "id": "t_18",
+          "text": "It is not heat-resistant, so it is unsuitable near engines or heating units.",
+          "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_34_19",
-          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
-          "audio": "assets/audio/t_34_19.mp3"
+          "id": "t_19",
+          "text": "This four-millimetre-thick glass panel, here on the left, is smooth, transparent, and brittle.",
+          "audio": "assets/audio/t_19.mp3"
         },
         {
-          "id": "t_34_20",
-          "text": "I returned them to the supplier yesterday.",
-          "audio": "assets/audio/t_34_20.mp3"
+          "id": "t_20",
+          "text": "I am touching the surface now, and it feels smooth and cold.",
+          "audio": "assets/audio/t_20.mp3"
         },
         {
-          "id": "t_34_21",
-          "text": "Good. We must keep safety standards.",
-          "audio": "assets/audio/t_34_21.mp3"
+          "id": "t_21",
+          "text": "Is it safe under impact?",
+          "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_34_22",
-          "text": "Now, I’m going to prepare a new purchase order.",
-          "audio": "assets/audio/t_34_22.mp3"
+          "id": "t_22",
+          "text": "No, it is not.",
+          "audio": "assets/audio/t_22.mp3"
         },
         {
-          "id": "t_34_23",
-          "text": "What quantities do we need?",
-          "audio": "assets/audio/t_34_23.mp3"
+          "id": "t_23",
+          "text": "Because of that, it is used only for viewing panels and protective covers, not for safety barriers.",
+          "audio": "assets/audio/t_23.mp3"
         },
         {
-          "id": "t_34_24",
-          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
-          "audio": "assets/audio/t_34_24.mp3"
+          "id": "t_24",
+          "text": "Here, I have a fifteen-centimetre rubber gasket.",
+          "audio": "assets/audio/t_24.mp3"
         },
         {
-          "id": "t_34_25",
-          "text": "Perfect. What about diagnostic probe leads?",
-          "audio": "assets/audio/t_34_25.mp3"
+          "id": "t_25",
+          "text": "It is flexible, durable, and elastic, so it is used to seal joints and prevent leaks.",
+          "audio": "assets/audio/t_25.mp3"
         },
         {
-          "id": "t_34_26",
-          "text": "The instructor said the green brand was more accurate during voltage testing.",
-          "audio": "assets/audio/t_34_26.mp3"
+          "id": "t_26",
+          "text": "I am stretching it slightly to demonstrate its elasticity.",
+          "audio": "assets/audio/t_26.mp3"
         },
         {
-          "id": "t_34_27",
-          "text": "Yes, sir. Yesterday I compared them.",
-          "audio": "assets/audio/t_34_27.mp3"
+          "id": "t_27",
+          "text": "However, if the surface is contaminated with dust or oil, the seal is not effective, and leakage may occur.",
+          "audio": "assets/audio/t_27.mp3"
         },
         {
-          "id": "t_34_28",
-          "text": "The green brand gave clearer readings.",
-          "audio": "assets/audio/t_34_28.mp3"
+          "id": "t_28",
+          "text": "Finally, this food-grade stainless steel surface is smooth, hygienic, non-porous, and easy to clean.",
+          "audio": "assets/audio/t_28.mp3"
         },
         {
-          "id": "t_34_29",
-          "text": "The yellow brand was slower.",
-          "audio": "assets/audio/t_34_29.mp3"
+          "id": "t_29",
+          "text": "I am wiping it with a cloth now.",
+          "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_34_30",
-          "text": "Then we will switch to the green brand.",
-          "audio": "assets/audio/t_34_30.mp3"
+          "id": "t_30",
+          "text": "Is it porous?",
+          "audio": "assets/audio/t_30.mp3"
         },
         {
-          "id": "t_34_31",
-          "text": "Anything else?",
-          "audio": "assets/audio/t_34_31.mp3"
+          "id": "t_31",
+          "text": "No, it is not.",
+          "audio": "assets/audio/t_31.mp3"
         },
         {
-          "id": "t_34_32",
-          "text": "Yes, sir. We also need oil-filter pliers.",
-          "audio": "assets/audio/t_34_32.mp3"
+          "id": "t_32",
+          "text": "Because it is hygienic and corrosion-resistant, it is widely used in food-processing and training environments.",
+          "audio": "assets/audio/t_32.mp3"
         },
         {
-          "id": "t_34_33",
-          "text": "The adjustable model is stronger and more practical than the fixed one.",
-          "audio": "assets/audio/t_34_33.mp3"
+          "id": "t_33",
+          "text": "So remember, a material is not good or bad by itself.",
+          "audio": "assets/audio/t_33.mp3"
         },
         {
-          "id": "t_34_34",
-          "text": "And maybe 10 cans of oil.",
-          "audio": "assets/audio/t_34_34.mp3"
-        },
-        {
-          "id": "t_34_35",
-          "text": "Good point. I’ll add them.",
-          "audio": "assets/audio/t_34_35.mp3"
-        },
-        {
-          "id": "t_34_36",
-          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
-          "audio": "assets/audio/t_34_36.mp3"
-        },
-        {
-          "id": "t_34_37",
-          "text": "Thank you, sir. I enjoy learning about different tools.",
-          "audio": "assets/audio/t_34_37.mp3"
+          "id": "t_34",
+          "text": "It is suitable or unsuitable depending on its properties, condition, and application.",
+          "audio": "assets/audio/t_34.mp3"
         }
       ],
       "activity_c": [
         {
+          "id": "t_34_1",
+          "text": "Let me begin with this twelve-millimetre-thick steel bar.",
+          "audio": "assets/audio/t_34_1.mp3"
+        },
+        {
+          "id": "t_34_2",
+          "text": "As most of you are aware, last semester, six-millimetre bars were used for benches in front of the school.",
+          "audio": "assets/audio/t_34_2.mp3"
+        },
+        {
           "id": "t_34_3",
-          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
+          "text": "Now, take a look at this sixty-five-millimetre plastic pipe.",
           "audio": "assets/audio/t_34_3.mp3"
         },
         {
+          "id": "t_34_4",
+          "text": "This four-millimetre-thick glass panel, here on the left, is smooth, transparent, and brittle.",
+          "audio": "assets/audio/t_34_4.mp3"
+        },
+        {
+          "id": "t_34_5",
+          "text": "Here, I have a fifteen-centimetre rubber gasket.",
+          "audio": "assets/audio/t_34_5.mp3"
+        },
+        {
+          "id": "t_34_6",
+          "text": "I am trying to bend it, but it is not bending at all.",
+          "audio": "assets/audio/t_34_6.mp3"
+        },
+        {
           "id": "t_34_7",
-          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
+          "text": "Currently, I am bending it slightly, and it is changing shape easily.",
           "audio": "assets/audio/t_34_7.mp3"
         },
         {
-          "id": "t_34_13",
-          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
-          "audio": "assets/audio/t_34_13.mp3"
+          "id": "t_34_8",
+          "text": "I am touching the surface now, and it feels smooth and cold.",
+          "audio": "assets/audio/t_34_8.mp3"
         },
         {
-          "id": "t_34_17",
-          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
-          "audio": "assets/audio/t_34_17.mp3"
+          "id": "t_34_9",
+          "text": "I am stretching it slightly to demonstrate its elasticity.",
+          "audio": "assets/audio/t_34_9.mp3"
         },
         {
-          "id": "t_34_19",
-          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
-          "audio": "assets/audio/t_34_19.mp3"
-        },
-        {
-          "id": "t_34_22",
-          "text": "Now, I’m going to prepare a new purchase order.",
-          "audio": "assets/audio/t_34_22.mp3"
-        },
-        {
-          "id": "t_34_24",
-          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
-          "audio": "assets/audio/t_34_24.mp3"
-        },
-        {
-          "id": "t_34_26",
-          "text": "The instructor said the green brand was more accurate during voltage testing.",
-          "audio": "assets/audio/t_34_26.mp3"
-        },
-        {
-          "id": "t_34_28",
-          "text": "The green brand gave clearer readings.",
-          "audio": "assets/audio/t_34_28.mp3"
-        },
-        {
-          "id": "t_34_33",
-          "text": "The adjustable model is stronger and more practical than the fixed one.",
-          "audio": "assets/audio/t_34_33.mp3"
-        },
-        {
-          "id": "t_34_36",
-          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
-          "audio": "assets/audio/t_34_36.mp3"
-        },
-        {
-          "id": "t_34_37",
-          "text": "Thank you, sir. I enjoy learning about different tools.",
-          "audio": "assets/audio/t_34_37.mp3"
+          "id": "t_34_10",
+          "text": "I am wiping it with a cloth now.",
+          "audio": "assets/audio/t_34_10.mp3"
         }
       ],
       "activity_d": [
         {
+          "id": "t_34_1",
+          "text": "Let me begin with this twelve-millimetre-thick steel bar.",
+          "audio": "assets/audio/t_34_1.mp3"
+        },
+        {
+          "id": "t_34_2",
+          "text": "As most of you are aware, last semester, six-millimetre bars were used for benches in front of the school.",
+          "audio": "assets/audio/t_34_2.mp3"
+        },
+        {
           "id": "t_34_3",
-          "text": "Good morning, sir. I’m checking the inventory list, especially the tools we used yesterday.",
+          "text": "Now, take a look at this sixty-five-millimetre plastic pipe.",
           "audio": "assets/audio/t_34_3.mp3"
         },
         {
+          "id": "t_34_4",
+          "text": "This four-millimetre-thick glass panel, here on the left, is smooth, transparent, and brittle.",
+          "audio": "assets/audio/t_34_4.mp3"
+        },
+        {
+          "id": "t_34_5",
+          "text": "Here, I have a fifteen-centimetre rubber gasket.",
+          "audio": "assets/audio/t_34_5.mp3"
+        },
+        {
+          "id": "t_34_6",
+          "text": "I am trying to bend it, but it is not bending at all.",
+          "audio": "assets/audio/t_34_6.mp3"
+        },
+        {
           "id": "t_34_7",
-          "text": "Yes, sir. We used the new torque multipliers, but one brand was stronger and more durable than the other.",
+          "text": "Currently, I am bending it slightly, and it is changing shape easily.",
           "audio": "assets/audio/t_34_7.mp3"
         },
         {
-          "id": "t_34_13",
-          "text": "We also need panel clip removers, but I think the metal version is sturdier than the plastic one.",
-          "audio": "assets/audio/t_34_13.mp3"
+          "id": "t_34_8",
+          "text": "I am touching the surface now, and it feels smooth and cold.",
+          "audio": "assets/audio/t_34_8.mp3"
         },
         {
-          "id": "t_34_17",
-          "text": "Last week, the supplier said the new series was more reliable than the older batch.",
-          "audio": "assets/audio/t_34_17.mp3"
+          "id": "t_34_9",
+          "text": "I am stretching it slightly to demonstrate its elasticity.",
+          "audio": "assets/audio/t_34_9.mp3"
         },
         {
-          "id": "t_34_19",
-          "text": "The new series had a better grip, but the coating on two spanners was damaged.",
-          "audio": "assets/audio/t_34_19.mp3"
-        },
-        {
-          "id": "t_34_22",
-          "text": "Now, I’m going to prepare a new purchase order.",
-          "audio": "assets/audio/t_34_22.mp3"
-        },
-        {
-          "id": "t_34_24",
-          "text": "Order ten torque multipliers, maybe twelve insulated spanners because they are lighter and easier to handle, and order eight metal clip removers.",
-          "audio": "assets/audio/t_34_24.mp3"
-        },
-        {
-          "id": "t_34_26",
-          "text": "The instructor said the green brand was more accurate during voltage testing.",
-          "audio": "assets/audio/t_34_26.mp3"
-        },
-        {
-          "id": "t_34_28",
-          "text": "The green brand gave clearer readings.",
-          "audio": "assets/audio/t_34_28.mp3"
-        },
-        {
-          "id": "t_34_33",
-          "text": "The adjustable model is stronger and more practical than the fixed one.",
-          "audio": "assets/audio/t_34_33.mp3"
-        },
-        {
-          "id": "t_34_36",
-          "text": "Thank you, Ashfaq. You are getting better at identifying quality.",
-          "audio": "assets/audio/t_34_36.mp3"
-        },
-        {
-          "id": "t_34_37",
-          "text": "Thank you, sir. I enjoy learning about different tools.",
-          "audio": "assets/audio/t_34_37.mp3"
+          "id": "t_34_10",
+          "text": "I am wiping it with a cloth now.",
+          "audio": "assets/audio/t_34_10.mp3"
         }
       ]
     }
@@ -873,13 +966,8 @@
     "content": [
       {
         "id": "v_1",
-        "audio": "assets/videos/1C.mp4",
-        "instrction": "instrction_c"
-      },
-      {
-        "id": "v_2",
-        "audio": "assets/videos/2C.mp4",
-        "instrction": "instrction_c"
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
       }
     ]
   }
