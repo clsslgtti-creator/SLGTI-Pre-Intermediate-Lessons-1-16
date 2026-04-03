@@ -494,6 +494,7 @@ export const createWordMatchingGameScene = (config = {}) => {
       this.shouldAutoStart = false;
       this.tipTimer = null;
       this.startButton = null;
+      this.resetButton = null;
       this.resetSessionState();
     }
 
@@ -858,6 +859,8 @@ export const createWordMatchingGameScene = (config = {}) => {
     }
 
     createHud() {
+      const hudMargin = 28;
+      const topBarY = 50;
       const progressWidth = 380;
       const progressHeight = 64;
       this.progressPanel = createRoundedPanel(
@@ -881,13 +884,23 @@ export const createWordMatchingGameScene = (config = {}) => {
           fontStyle: "bold",
         })
         .setOrigin(0.5);
-      this.progressBadge = this.add.container(270, 50, [
+      const progressX = hudMargin + progressWidth / 2;
+      this.progressBadge = this.add.container(progressX, topBarY, [
         this.progressPanel.graphics,
         this.progressText,
       ]);
       this.progressBadge.setDepth(5);
 
-      const tipWidth = 640;
+      const resetWidth = 160;
+      const resetHeight = 52;
+      const resetX = this.sceneWidth - hudMargin - resetWidth / 2;
+      const progressRight = progressX + progressWidth / 2;
+      const resetLeft = resetX - resetWidth / 2;
+      const tipGap = 28;
+      const tipWidth = Math.max(
+        320,
+        Math.min(560, resetLeft - progressRight - tipGap * 2)
+      );
       const tipHeight = 48;
       this.tipPanel = createRoundedPanel(this, tipWidth, tipHeight, 12);
       this.tipPanel.update({
@@ -904,12 +917,30 @@ export const createWordMatchingGameScene = (config = {}) => {
           color: "#0f172a",
         })
         .setOrigin(0.5);
-      this.tipBadge = this.add.container(this.sceneWidth - 320, 50, [
+      const tipX = progressRight + tipGap + tipWidth / 2;
+      this.tipBadge = this.add.container(tipX, topBarY, [
         this.tipPanel.graphics,
         this.tipText,
       ]);
       this.tipBadge.setDepth(5);
       this.tipBadge.setAlpha(0);
+
+      this.resetButton = createPrimaryButton(
+        this,
+        "Reset",
+        resetWidth,
+        resetHeight,
+        {
+          onClick: () => this.restartGame(true),
+          baseColor: PALETTE.primary,
+          playTone: () => tonePlayer.playTone(360, 220),
+          fontSize: 24,
+        }
+      );
+      this.resetButton.container.setPosition(resetX, topBarY);
+      this.resetButton.container.setDepth(6);
+      this.resetButton.container.setVisible(false);
+      this.resetButton.setEnabled(false);
     }
 
     setGameElementsVisible(isVisible) {
@@ -931,6 +962,10 @@ export const createWordMatchingGameScene = (config = {}) => {
         if (!isVisible) {
           this.tipBadge.setAlpha(0);
         }
+      }
+      if (this.resetButton) {
+        this.resetButton.container.setVisible(isVisible);
+        this.resetButton.setEnabled(isVisible);
       }
     }
 
