@@ -199,7 +199,7 @@ const buildModelDialogueSlide = (
   slide.className = 'slide slide--model';
   slide.innerHTML = `
     <h2>${activityLabel}</h2>
-    <p class="slide__instruction">Listen to the model dialogue. Each line plays automatically in sequence.</p>
+    <p class="slide__instruction">Listen to the model dialogues. Each line plays automatically in sequence.</p>
   `;
 
   maybeInsertFocus(slide, activityFocus, includeFocus);

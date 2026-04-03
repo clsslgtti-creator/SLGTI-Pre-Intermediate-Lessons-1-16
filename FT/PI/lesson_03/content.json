@@ -1,0 +1,974 @@
+{
+  "meta": {
+    "lesson_no": 3,
+    "level": "Elementary",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Short /æ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "b'a'tcher",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The b'a'tcher is accurate for measuring ingredients in food production.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.jpeg"
+      },
+      {
+        "id": "p_2",
+        "word_text": "c'a'nister",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Air tight c'a'nisters are useful for storing dry ingredients.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.jpeg"
+      },
+      {
+        "id": "p_3",
+        "word_text": "gr'a'ter",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Shredding vegetables on a gr'a'ter makes them very fine and thin.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "sp'a'tula",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The sp'a'tulas are flexible, flat spoons, used for mixing sauces in large bowls.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Verb ‘to be’ , Possessive Pronouns, Present Continuous, Prepositions of Place.",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["fast- faster", "comfortable - more comfortable"],
+        ["nice - nicer", "beautiful - more beautiful"],
+        ["big - bigger", "interesting - more interesting"],
+        ["pretty - prettier", "intelligent- more intelligent"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Who is he?",
+        "text_b": "He is our workshop supervisor.",
+        "text_c": "What is his name?",
+        "text_d": "His name is Mr. Silva.",
+        "text_e": "Where is he now?",
+        "text_f": "He is in the packaging workshop, in front of the freezer.",
+        "text_g": "What is he doing?",
+        "text_h": "He is inspecting the faulty fire extinguishers.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3",
+        "audio_e": "assets/audio/a_2_d_1_e.mp3",
+        "audio_f": "assets/audio/a_2_d_1_f.mp3",
+        "audio_g": "assets/audio/a_2_d_1_g.mp3",
+        "audio_h": "assets/audio/a_2_d_1_h.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Who is she?",
+        "text_b": "She is a technical instructor.",
+        "text_c": "What is her name?",
+        "text_d": "Her name is Hasna.",
+        "text_e": "Where is she?",
+        "text_f": "She is in the fermentation room, behind the chopping station.",
+        "text_g": "What is she doing?",
+        "text_h": "She is explaining how to use the hydraulic coconut milk press.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3",
+        "audio_e": "assets/audio/a_2_d_2_e.mp3",
+        "audio_f": "assets/audio/a_2_d_2_f.mp3",
+        "audio_g": "assets/audio/a_2_d_2_g.mp3",
+        "audio_h": "assets/audio/a_2_d_2_h.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Who are they?",
+        "text_b": "They are final-year trainees.",
+        "text_c": "What are their names?",
+        "text_d": "Their names are John and Mary.",
+        "text_e": "Where are they?",
+        "text_f": "They are in the assembly hall, next to the new speaker.",
+        "text_g": "What are they doing?",
+        "text_h": "They are taking notes.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3",
+        "audio_e": "assets/audio/a_2_d_3_e.mp3",
+        "audio_f": "assets/audio/a_2_d_3_f.mp3",
+        "audio_g": "assets/audio/a_2_d_3_g.mp3",
+        "audio_h": "assets/audio/a_2_d_3_h.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "words-x1"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "words-x2"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "words-x3"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "words-x4"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "words-x5"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "words-x6"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Who is he?",
+        "text_b": "He is the maintenance officer.",
+        "text_c": "What is his name?",
+        "text_d": "His name is Nalin.",
+        "text_e": "Where is he?",
+        "text_f": "He is next to the tool cabinet, behind the changing area.",
+        "text_g": "What is he doing?",
+        "text_h": "He is checking the power supply.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3",
+        "audio_e": "assets/audio/a_2_d_4_e.mp3",
+        "audio_f": "assets/audio/a_2_d_4_f.mp3",
+        "audio_g": "assets/audio/a_2_d_4_g.mp3",
+        "audio_h": "assets/audio/a_2_d_4_h.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Who is she?",
+        "text_b": "She is a senior instructor.",
+        "text_c": "What is her name?",
+        "text_d": "Her name is Sita.",
+        "text_e": "Where is she?",
+        "text_f": "She is in the administration section, next to the library.",
+        "text_g": "What is she doing?",
+        "text_h": "She is reading students’ reports.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3",
+        "audio_e": "assets/audio/a_2_d_5_e.mp3",
+        "audio_f": "assets/audio/a_2_d_5_f.mp3",
+        "audio_g": "assets/audio/a_2_d_5_g.mp3",
+        "audio_h": "assets/audio/a_2_d_5_h.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Who are they?",
+        "text_b": "They are new trainees.",
+        "text_c": "What are their names?",
+        "text_d": "Their names are Robert and Kevin.",
+        "text_e": "Where are they?",
+        "text_f": "They are in the language lab, just above the reception area.",
+        "text_g": "What are they doing?",
+        "text_h": "They are listening to the safety briefing in English.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3",
+        "audio_e": "assets/audio/a_2_d_6_e.mp3",
+        "audio_f": "assets/audio/a_2_d_6_f.mp3",
+        "audio_g": "assets/audio/a_2_d_6_g.mp3",
+        "audio_h": "assets/audio/a_2_d_6_h.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Who is he?",
+        "text_b": "He is our lecturer.",
+        "text_c": "What is his name?",
+        "text_d": "His name is Ashraf.",
+        "text_e": "Where is he now?",
+        "text_f": "He is in the industrial wiring section.",
+        "text_g": "What is he doing?",
+        "text_h": "He is answering emails.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3",
+        "audio_e": "assets/audio/a_2_d_7_e.mp3",
+        "audio_f": "assets/audio/a_2_d_7_f.mp3",
+        "audio_g": "assets/audio/a_2_d_7_g.mp3",
+        "audio_h": "assets/audio/a_2_d_7_h.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Who is she?",
+        "text_b": "She is my classmate.",
+        "text_c": "What is her name?",
+        "text_d": "Her name is Irene.",
+        "text_e": "Where is she?",
+        "text_f": "She is in the library.",
+        "text_g": "What is she doing?",
+        "text_h": "She is preparing a presentation.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_8_d.mp3",
+        "audio_e": "assets/audio/a_2_d_8_e.mp3",
+        "audio_f": "assets/audio/a_2_d_8_f.mp3",
+        "audio_g": "assets/audio/a_2_d_8_g.mp3",
+        "audio_h": "assets/audio/a_2_d_8_h.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Who are they?",
+        "text_b": "They are our friends.",
+        "text_c": "What are their names?",
+        "text_d": "Their names are Mohamad and Sunil.",
+        "text_e": "Where are they now?",
+        "text_f": "They are in the cafeteria.",
+        "text_g": "What are they doing?",
+        "text_h": "They are paying for shorteats.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_9_d.mp3",
+        "audio_e": "assets/audio/a_2_d_9_e.mp3",
+        "audio_f": "assets/audio/a_2_d_9_f.mp3",
+        "audio_g": "assets/audio/a_2_d_9_g.mp3",
+        "audio_h": "assets/audio/a_2_d_9_h.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-8",
+    "instructions": {
+      "activity_a": {
+        "text": "Match column A to column B. \n A තීරුව B තීරුවට ගළපන්න. \n A நெடுவரிசையை B நெடுவரிசையுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_j.mp3"
+      },
+      "activity_b": {
+        "text": "Type the missing adjectives from the previous exercise. \nපෙර අභ්‍යාසයේ විශේෂණ පද භාවිතා කර හිස් තැන් පුරවන්න. \nமுந்தைய பயிற்சியில் கற்ற உரிச்சொற்களைப் பயன்படுத்தி கோடிட்ட இடங்களை நிரப்பவும்.",
+        "audio": "assets/audio/a_3_i_k.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-2.jpg",
+        "content": [
+          {
+            "id": "g_a_1",
+            "colunm_a": "firm",
+            "colunm_b": "holding its shape well; not soft or loose"
+          },
+          {
+            "id": "g_a_2",
+            "colunm_a": "moist",
+            "colunm_b": "slightly wet; containing a small amount of water"
+          },
+          {
+            "id": "g_a_3",
+            "colunm_a": "rough",
+            "colunm_b": "not smooth; uneven to touch"
+          },
+          {
+            "id": "g_a_4",
+            "colunm_a": "durable",
+            "colunm_b": "able to withstand handling and storage without damage"
+          },
+          {
+            "id": "g_a_5",
+            "colunm_a": "processed",
+            "colunm_b": "treated or prepared using specific methods"
+          },
+          {
+            "id": "g_a_6",
+            "colunm_a": "preserved",
+            "colunm_b": "treated to prevent spoilage and extend shelf life"
+          },
+          {
+            "id": "g_a_7",
+            "colunm_a": "hygienic",
+            "colunm_b": "clean and safe for handling food"
+          },
+          {
+            "id": "g_a_8",
+            "colunm_a": "contaminated",
+            "colunm_b": "containing harmful substances or germs"
+          }
+        ]
+      },
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "time_per_question_ms": 30000,
+        "content": [
+          {
+            "id": "g_b_1",
+            "question": "The muffins are __________, so they retain their shape during demoulding and packaging. (holding its shape well; not soft or loose)",
+            "answer": "firm"
+          },
+          {
+            "id": "g_b_2",
+            "question": "The cake mixture was slightly __________, resulting in a softer consistency after baking. (slightly wet; containing a small amount of water)",
+            "answer": "moist"
+          },
+          {
+            "id": "g_b_3",
+            "question": "The outer surface of the jaggery blocks is __________, and it requires smoothing before final packaging. (not smooth; uneven to touch)",
+            "answer": "rough"
+          },
+          {
+            "id": "g_b_4",
+            "question": "The food-grade plastic containers are __________, so they do not crack during repeated handling. (able to withstand handling and storage without damage)",
+            "answer": "durable"
+          },
+          {
+            "id": "g_b_5",
+            "question": "The bottled fruit juice is not __________, so cold storage is required to prevent spoilage. (treated to prevent spoilage and extend shelf life)",
+            "answer": "preserved"
+          },
+          {
+            "id": "g_b_6",
+            "question": "The preparation area was not __________, and production was suspended until cleaning was completed. (clean and safe for handling food)",
+            "answer": "hygienic"
+          },
+          {
+            "id": "g_b_7",
+            "question": "Is the spice mixture __________ according to the standard procedure taught in the practical session? (treated or prepared using specific methods)",
+            "answer": "processed"
+          },
+          {
+            "id": "g_b_8",
+            "question": "Were the salad ingredients __________ after prolonged exposure to open air in the kitchen? (containing harmful substances or germs)",
+            "answer": "contaminated"
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "The muffins are firm, so they retain their shape during demoulding and packaging.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "a_3_b_g_2",
+          "text": "The cake mixture was slightly moist, resulting in a softer consistency after baking.",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "a_3_b_g_3",
+          "text": "The outer surface of the jaggery blocks is rough, and it requires smoothing before final packaging.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "The food-grade plastic containers are durable, so they do not crack during repeated handling.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "The bottled fruit juice is not preserved, so cold storage is required to prevent spoilage.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "The preparation area was not hygienic, and production was suspended until cleaning was completed.",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "Is the spice mixture processed according to the standard procedure taught in the practical session?",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "Were the salad ingredients contaminated after prolonged exposure to open air in the kitchen?",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "The muffins are firm, so they retain their shape during demoulding and packaging.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "a_3_b_g_2",
+          "text": "The cake mixture was slightly moist, resulting in a softer consistency after baking.",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "a_3_b_g_3",
+          "text": "The outer surface of the jaggery blocks is rough, and it requires smoothing before final packaging.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "The food-grade plastic containers are durable, so they do not crack during repeated handling.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "The bottled fruit juice is not preserved, so cold storage is required to prevent spoilage.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "The preparation area was not hygienic, and production was suspended until cleaning was completed.",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "Is the spice mixture processed according to the standard procedure taught in the practical session?",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "Were the salad ingredients contaminated after prolonged exposure to open air in the kitchen?",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "a_3_b_g_1",
+          "text": "The muffins are firm, so they retain their shape during demoulding and packaging.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "a_3_b_g_2",
+          "text": "The cake mixture was slightly moist, resulting in a softer consistency after baking.",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "a_3_b_g_3",
+          "text": "The outer surface of the jaggery blocks is rough, and it requires smoothing before final packaging.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "a_3_b_g_4",
+          "text": "The food-grade plastic containers are durable, so they do not crack during repeated handling.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "a_3_b_g_5",
+          "text": "The bottled fruit juice is not preserved, so cold storage is required to prevent spoilage.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "a_3_b_g_6",
+          "text": "The preparation area was not hygienic, and production was suspended until cleaning was completed.",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "a_3_b_g_7",
+          "text": "Is the spice mixture processed according to the standard procedure taught in the practical session?",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "a_3_b_g_8",
+          "text": "Were the salad ingredients contaminated after prolonged exposure to open air in the kitchen?",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_table": {
+        "text": "We do not make numbers plural when they are used as adjectives in the sentence. \nසංඛ්‍යාත්මක විශේෂණ පද ලෙස භාවිතා වන විට සංඛ්‍යා වචන බහු වචන නොවන බව සලකන්න. \nவாக்கியத்தில் எண்கள் பண்பதிகை சொற்களாக பயன்படுத்தப்படும் போது எண்களை பன்மை செய்யமாட்டோம்.",
+        "audio": "assets/audio/a_4_i_k.mp3"
+      },
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "tables": [
+      [
+        [
+          "This ruler is ten centimeters long.",
+          "This is a ten-centimeter-long ruler."
+        ],
+        [
+          "This building is forty meters wide.",
+          "This is a forty-meter-wide building."
+        ],
+        [
+          "This food grinder is thirty thousand rupees.",
+          "This is a thirty-thousand-rupee food grinder."
+        ],
+        [
+          "This lady is a hundred years old.",
+          "This is a hundred-year-old lady."
+        ]
+      ]
+    ],
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why is the twelve-millimetre-thick steel bar suitable for structural use?",
+            "answer": "Because it remains stable under load even during continuous use.",
+            "options": [
+              "Because it is stable during continuous use most of the time",
+              "Because it is stable most of the time, even under heavy load",
+              "Because it remains stable under load even during continuous use."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What problem occurred with the six-millimetre bars used for benches last semester?",
+            "answer": "They bent under a heavy weight.",
+            "options": [
+              "They cracked due to heat exposure",
+              "They bent during installation",
+              "They bent under a heavy weight."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why is the sixty-five-millimetre plastic pipe not used to carry weight?",
+            "answer": "Because it is designed mainly for insulation.",
+            "options": [
+              "Because it is brittle and transparent",
+              "Because it is contaminated with oil",
+              "Because it is designed mainly for insulation."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "Why is the four-millimetre-thick glass panel not used as a safety barrier?",
+            "answer": "Because it is brittle and unsafe under impact.",
+            "options": [
+              "Because it is too rough on the surface",
+              "Because it is brittle and unsafe under impact.",
+              "Because it is brittle and can withstand the impact"
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Under which condition does the rubber gasket fail to seal properly?",
+            "answer": "When its surface is contaminated with dust or oil.",
+            "options": [
+              "When it’s stretched and brittle",
+              "When its surface is contaminated with dust or oil.",
+              "When its inside is contaminated with some sticky material"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Good morning.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Today, we are going to talk about the properties of different materials and how they are used in technical work.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Let me begin with this twelve-millimetre-thick steel bar.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "This processed structural steel is very rigid and firm, and I am pressing it with my hands.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I am trying to bend it, but it is not bending at all.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Is it flexible?",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "No, it is not, but it remains stable under load, even during continuous use.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "In construction and mechanical work, parts like this are not decorative; they are load-bearing and structural.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "As most of you are aware, last semester, six-millimetre bars were used for benches in front of the school.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "However, they were not durable or stable enough, and they bent under heavy weight over time.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Now, take a look at this sixty-five-millimetre plastic pipe.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "It is lightweight, flexible, and smooth.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "I am bending it slightly, and it changes shape easily.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Is it rigid?",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "No, it is not.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Is it strong?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Yes, it is strong enough for insulation purposes, but it is not designed to carry weight.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "It is not heat-resistant, so it is unsuitable near engines or heating units.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "This four-millimetre-thick glass panel, here on the left, is smooth, transparent, and brittle.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "I am touching the surface now, and it feels smooth and cold.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Is it safe under impact?",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "No, it is not.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Because of that, it is used only for viewing panels and protective covers, not for safety barriers.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Here, I have a fifteen-centimetre rubber gasket.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "It is flexible, durable, and elastic, so it is used to seal joints and prevent leaks.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "I am stretching it slightly to demonstrate its elasticity.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "However, if the surface is contaminated with dust or oil, the seal is not effective, and leakage may occur.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "Finally, this food-grade stainless steel surface is smooth, hygienic, non-porous, and easy to clean.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "I am wiping it with a cloth now.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Is it porous?",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "No, it is not.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Because it is hygienic and corrosion-resistant, it is widely used in food-processing and training environments.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "So remember, a material is not good or bad by itself.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "It is suitable or unsuitable depending on its properties, condition, and application.",
+          "audio": "assets/audio/t_34.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_34_1",
+          "text": "Let me begin with this twelve-millimetre-thick steel bar.",
+          "audio": "assets/audio/t_34_1.mp3"
+        },
+        {
+          "id": "t_34_2",
+          "text": "As most of you are aware, last semester, six-millimetre bars were used for benches in front of the school.",
+          "audio": "assets/audio/t_34_2.mp3"
+        },
+        {
+          "id": "t_34_3",
+          "text": "Now, take a look at this sixty-five-millimetre plastic pipe.",
+          "audio": "assets/audio/t_34_3.mp3"
+        },
+        {
+          "id": "t_34_4",
+          "text": "This four-millimetre-thick glass panel, here on the left, is smooth, transparent, and brittle.",
+          "audio": "assets/audio/t_34_4.mp3"
+        },
+        {
+          "id": "t_34_5",
+          "text": "Here, I have a fifteen-centimetre rubber gasket.",
+          "audio": "assets/audio/t_34_5.mp3"
+        },
+        {
+          "id": "t_34_6",
+          "text": "I am trying to bend it, but it is not bending at all.",
+          "audio": "assets/audio/t_34_6.mp3"
+        },
+        {
+          "id": "t_34_7",
+          "text": "Currently, I am bending it slightly, and it is changing shape easily.",
+          "audio": "assets/audio/t_34_7.mp3"
+        },
+        {
+          "id": "t_34_8",
+          "text": "I am touching the surface now, and it feels smooth and cold.",
+          "audio": "assets/audio/t_34_8.mp3"
+        },
+        {
+          "id": "t_34_9",
+          "text": "I am stretching it slightly to demonstrate its elasticity.",
+          "audio": "assets/audio/t_34_9.mp3"
+        },
+        {
+          "id": "t_34_10",
+          "text": "I am wiping it with a cloth now.",
+          "audio": "assets/audio/t_34_10.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_34_1",
+          "text": "Let me begin with this twelve-millimetre-thick steel bar.",
+          "audio": "assets/audio/t_34_1.mp3"
+        },
+        {
+          "id": "t_34_2",
+          "text": "As most of you are aware, last semester, six-millimetre bars were used for benches in front of the school.",
+          "audio": "assets/audio/t_34_2.mp3"
+        },
+        {
+          "id": "t_34_3",
+          "text": "Now, take a look at this sixty-five-millimetre plastic pipe.",
+          "audio": "assets/audio/t_34_3.mp3"
+        },
+        {
+          "id": "t_34_4",
+          "text": "This four-millimetre-thick glass panel, here on the left, is smooth, transparent, and brittle.",
+          "audio": "assets/audio/t_34_4.mp3"
+        },
+        {
+          "id": "t_34_5",
+          "text": "Here, I have a fifteen-centimetre rubber gasket.",
+          "audio": "assets/audio/t_34_5.mp3"
+        },
+        {
+          "id": "t_34_6",
+          "text": "I am trying to bend it, but it is not bending at all.",
+          "audio": "assets/audio/t_34_6.mp3"
+        },
+        {
+          "id": "t_34_7",
+          "text": "Currently, I am bending it slightly, and it is changing shape easily.",
+          "audio": "assets/audio/t_34_7.mp3"
+        },
+        {
+          "id": "t_34_8",
+          "text": "I am touching the surface now, and it feels smooth and cold.",
+          "audio": "assets/audio/t_34_8.mp3"
+        },
+        {
+          "id": "t_34_9",
+          "text": "I am stretching it slightly to demonstrate its elasticity.",
+          "audio": "assets/audio/t_34_9.mp3"
+        },
+        {
+          "id": "t_34_10",
+          "text": "I am wiping it with a cloth now.",
+          "audio": "assets/audio/t_34_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
