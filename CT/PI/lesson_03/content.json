@@ -96,10 +96,22 @@
     },
     "tables": [
       [
-        ["fast- faster", "comfortable - more comfortable"],
-        ["nice - nicer", "beautiful - more beautiful"],
-        ["big - bigger", "interesting - more interesting"],
-        ["pretty - prettier", "intelligent- more intelligent"]
+        ["Who is he?"],
+        ["What is his name?"],
+        ["Where is he?"],
+        ["What is he doing?"]
+      ],
+      [
+        ["Who is she?"],
+        ["What is her name?"],
+        ["Where is she?"],
+        ["What is she doing?"]
+      ],
+      [
+        ["Who are they?"],
+        ["What are their names?"],
+        ["Where are they?"],
+        ["What are they doing?"]
       ]
     ],
     "example_dialogues": [
