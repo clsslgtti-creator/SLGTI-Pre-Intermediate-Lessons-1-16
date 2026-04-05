@@ -103,7 +103,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
+        "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "What is it?",
         "text_b": "It is the sous chef’s digital weighing scale.",
         "text_c": "Where should I leave it?",
@@ -115,7 +115,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
+        "img": "assets/img/a_2_d_2.jpeg",
         "text_a": "What is it?",
         "text_b": "It is the instructor’s cutting board.",
         "text_c": "Where should I leave it?",
@@ -127,7 +127,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
+        "img": "assets/img/a_2_d_3.jpeg",
         "text_a": "What is it?",
         "text_b": "It is the food technician’s piping bag.",
         "text_c": "Where should I leave it?",
@@ -173,7 +173,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
+        "img": "assets/img/a_2_d_4.jpeg",
         "text_a": "What is it?",
         "text_b": "It is the lab supervisor’s thermometer.",
         "text_c": "Where should I leave it?",
@@ -185,7 +185,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
+        "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "What are these?",
         "text_b": "They are Meena’s serving trays.",
         "text_c": "Where should I leave them?",
@@ -197,7 +197,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "What are these?",
         "text_b": "They are the pastry chef’s measuring spoons.",
         "text_c": "Where should I leave them?",
@@ -209,7 +209,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.png",
+        "img": "assets/img/a_2_d_7.jpeg",
         "text_a": "What are these?",
         "text_b": "They are Ravi’s baking moulds.",
         "text_c": "Where should I leave them?",
@@ -221,7 +221,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.png",
+        "img": "assets/img/a_2_d_8.jpeg",
         "text_a": "What are these?",
         "text_b": "They are the supervisor’s dippers.",
         "text_c": "Where should I leave them?",
@@ -233,7 +233,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.png",
+        "img": "assets/img/a_2_d_9.jpeg",
         "text_a": "What are these?",
         "text_b": "They are the kitchen assistant’s storage containers.",
         "text_c": "Where should I leave them?",
