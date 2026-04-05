@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'a'rmature",
+        "word_text": "m'a'ndrel",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'a'rmature is not turning properly inside the starter motor.",
+        "sentence_text": "The m'a'ndrel is shaping the metal tube during the forming process.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "h'a'lfshaft",
+        "word_text": "gr'a'phite",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Is the h'a'lfshaft sending power smoothly to the wheels now?",
+        "sentence_text": "The gr'a'phite is not lubricating the mold surface properly.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "m'a'ster",
+        "word_text": "l'a'dle",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Is the m'a'ster building pressure during the on-going braking process?",
+        "sentence_text": "Is the l'a'dle pouring molten metal into the casting mold?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sp'a'rk",
+        "word_text": "f'a'stener",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The sp'a'rk is lighting the air fuel mixture properly.",
+        "sentence_text": "The f'a'steners are holding the steel plates together securely.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
