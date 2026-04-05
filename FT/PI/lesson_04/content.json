@@ -2,7 +2,7 @@
   "meta": {
     "lesson_no": 4,
     "level": "Elementary",
-    "section": "Automobile Technology",
+    "section": "Food Technology",
     "prepared_by": "Colombo Language School"
   },
   "activity_1": {
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'a'rmature",
+        "word_text": "h'a'rvester",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'a'rmature is not turning properly inside the starter motor.",
+        "sentence_text": "All the h'a'rvesters in the fields are collecting crops today, for processing.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "h'a'lfshaft",
+        "word_text": "c'a'rtoner",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Is the h'a'lfshaft sending power smoothly to the wheels now?",
+        "sentence_text": "The c'a'rtoner is not packing the products correctly at the moment.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "m'a'ster",
+        "word_text": "sp'a'rger",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Is the m'a'ster building pressure during the on-going braking process?",
+        "sentence_text": "Is the sp'a'rger releasing air evenly into the fermentation process?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sp'a'rk",
+        "word_text": "l'a'rder",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The sp'a'rk is lighting the air fuel mixture properly.",
+        "sentence_text": "The l'a'rder is storing fresh ingredients under cool, dry conditions.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -103,11 +103,11 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.jpeg",
+        "img": "assets/img/a_2_d_1.png",
         "text_a": "What is it?",
-        "text_b": "It is the supervisor’s caliper.",
+        "text_b": "It is the sous chef’s digital weighing scale.",
         "text_c": "Where should I leave it?",
-        "text_d": "Leave it on the tool tray, next to the micrometer, please.",
+        "text_d": "Leave it on the preparation table, next to the calibrated measuring jug, please.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
@@ -115,11 +115,11 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.jpeg",
+        "img": "assets/img/a_2_d_2.png",
         "text_a": "What is it?",
-        "text_b": "It is the instructor’s dipstick.",
+        "text_b": "It is the instructor’s cutting board.",
         "text_c": "Where should I leave it?",
-        "text_d": "Leave it on the engine stand, beside the oil filter, please.",
+        "text_d": "Leave it near the washing area, beside the hand-wash basin, please.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
@@ -127,11 +127,11 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
+        "img": "assets/img/a_2_d_3.png",
         "text_a": "What is it?",
-        "text_b": "It is the technician’s oil funnel.",
+        "text_b": "It is the food technician’s piping bag.",
         "text_c": "Where should I leave it?",
-        "text_d": "Leave it on the workbench, in front of the torque wrench, please.",
+        "text_d": "Leave it on the workbench, in front of the tabletop mixer, please.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3",
@@ -142,42 +142,42 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "foreman’s spark plug"
+        "word": "lab supervisor’s thermometer"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "feeler gauges"
+        "word": "serving trays"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sockets"
+        "word": "measuring spoons"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "glow plugs"
+        "word": "baking moulds"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "spanners"
+        "word": "dippers"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "hex keys"
+        "word": "storage containers"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.jpeg",
+        "img": "assets/img/a_2_d_4.png",
         "text_a": "What is it?",
-        "text_b": "It is the foreman’s spark plug.",
+        "text_b": "It is the lab supervisor’s thermometer.",
         "text_c": "Where should I leave it?",
-        "text_d": "Leave it inside the cabinet, between the gasket set and the bearing puller, please.",
+        "text_d": "Leave it inside the storage cabinet, between the temperature probe and the food-grade timer, please.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
@@ -185,11 +185,11 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
+        "img": "assets/img/a_2_d_5.png",
         "text_a": "What are these?",
-        "text_b": "They are Meena’s feeler gauges.",
+        "text_b": "They are Meena’s serving trays.",
         "text_c": "Where should I leave them?",
-        "text_d": "Leave them in the toolbox, just beside the vernier caliper, please.",
+        "text_d": "Leave them on the rack, just beside the blast chiller, please.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3",
@@ -197,11 +197,11 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "What are these?",
-        "text_b": "They are the instructor’s sockets.",
+        "text_b": "They are the pastry chef’s measuring spoons.",
         "text_c": "Where should I leave them?",
-        "text_d": "Leave them in the drawer, next to the extension bar, please.",
+        "text_d": "Leave them in the drawer, next to the ingredient scale, please.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3",
@@ -209,11 +209,11 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.jpeg",
+        "img": "assets/img/a_2_d_7.png",
         "text_a": "What are these?",
-        "text_b": "They are Ravi’s glow plugs.",
+        "text_b": "They are Ravi’s baking moulds.",
         "text_c": "Where should I leave them?",
-        "text_d": "Leave them on the parts tray, in front of the cylinder head, please.",
+        "text_d": "Leave them on the tray trolley, in front of the convection oven, please.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3",
@@ -221,11 +221,11 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.jpeg",
+        "img": "assets/img/a_2_d_8.png",
         "text_a": "What are these?",
-        "text_b": "They are the foreman’s spanners.",
+        "text_b": "They are the supervisor’s dippers.",
         "text_c": "Where should I leave them?",
-        "text_d": "Leave them on the tool rack, above the workbench, please.",
+        "text_d": "Leave them on the utensil rack, above the cooking range, please.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3",
@@ -233,11 +233,11 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.jpeg",
+        "img": "assets/img/a_2_d_9.png",
         "text_a": "What are these?",
-        "text_b": "They are the workshop assistant’s hex keys.",
+        "text_b": "They are the kitchen assistant’s storage containers.",
         "text_c": "Where should I leave them?",
-        "text_d": "Leave them on the table, next to the vice, please.",
+        "text_d": "Leave them on the table, next to the sealed ingredient bins, please.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3",
