@@ -126,16 +126,16 @@
         "audio_d": "assets/audio/a_2_d_2_d.mp3"
       },
       {
-        "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "What is it?",
-        "text_b": "It is the technician’s oil funnel.",
-        "text_c": "Where should I leave it?",
-        "text_d": "Leave it on the workbench, in front of the torque wrench, please.",
-        "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3",
-        "audio_c": "assets/audio/a_2_d_3_c.mp3",
-        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "What are these?",
+        "text_b": "They are Meena’s feeler gauges.",
+        "text_c": "Where should I leave them?",
+        "text_d": "Leave them in the toolbox, just beside the vernier caliper, please.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
       }
     ],
     "keywords": [
@@ -172,6 +172,18 @@
     ],
     "dialogues": [
       {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "What is it?",
+        "text_b": "It is the technician’s oil funnel.",
+        "text_c": "Where should I leave it?",
+        "text_d": "Leave it on the workbench, in front of the torque wrench, please.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      },
+      {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
         "text_a": "What is it?",
@@ -182,18 +194,6 @@
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3"
-      },
-      {
-        "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "What are these?",
-        "text_b": "They are Meena’s feeler gauges.",
-        "text_c": "Where should I leave them?",
-        "text_d": "Leave them in the toolbox, just beside the vernier caliper, please.",
-        "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "audio_c": "assets/audio/a_2_d_5_c.mp3",
-        "audio_d": "assets/audio/a_2_d_5_d.mp3"
       },
       {
         "id": "d_6",
