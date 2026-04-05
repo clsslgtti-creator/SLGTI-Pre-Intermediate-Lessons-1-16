@@ -1,0 +1,898 @@
+{
+  "meta": {
+    "lesson_no": 4,
+    "level": "Elementary",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Long /aː/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "m'a'ndrel",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The m'a'ndrel is shaping the metal tube during the forming process.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "gr'a'phite",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The gr'a'phite is not lubricating the mold surface properly.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "l'a'dle",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Is the l'a'dle pouring molten metal into the casting mold?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "f'a'stener",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The f'a'steners are holding the steel plates together securely.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Present Continuous for future plans , prepositions, verb 'to be', Possessives.",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["What is it?", "Where should I leave it?"],
+        ["What are these?", "Where should I leave them?"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "What is it?",
+        "text_b": "It is the supervisor’s caliper.",
+        "text_c": "Where should I leave it?",
+        "text_d": "Leave it on the tool tray, next to the micrometer, please.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "What is it?",
+        "text_b": "It is the instructor’s dipstick.",
+        "text_c": "Where should I leave it?",
+        "text_d": "Leave it on the engine stand, beside the oil filter, please.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "What are these?",
+        "text_b": "They are Meena’s feeler gauges.",
+        "text_c": "Where should I leave them?",
+        "text_d": "Leave them in the toolbox, just beside the vernier caliper, please.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "foreman’s spark plug"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "feeler gauges"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "sockets"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "glow plugs"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "spanners"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "hex keys"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "What is it?",
+        "text_b": "It is the technician’s oil funnel.",
+        "text_c": "Where should I leave it?",
+        "text_d": "Leave it on the workbench, in front of the torque wrench, please.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_3_d.mp3"
+      },
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "What is it?",
+        "text_b": "It is the foreman’s spark plug.",
+        "text_c": "Where should I leave it?",
+        "text_d": "Leave it inside the cabinet, between the gasket set and the bearing puller, please.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "What are these?",
+        "text_b": "They are the instructor’s sockets.",
+        "text_c": "Where should I leave them?",
+        "text_d": "Leave them in the drawer, next to the extension bar, please.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "What are these?",
+        "text_b": "They are Ravi’s glow plugs.",
+        "text_c": "Where should I leave them?",
+        "text_d": "Leave them on the parts tray, in front of the cylinder head, please.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_7_d.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "What are these?",
+        "text_b": "They are the foreman’s spanners.",
+        "text_c": "Where should I leave them?",
+        "text_d": "Leave them on the tool rack, above the workbench, please.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_8_d.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "What are these?",
+        "text_b": "They are the workshop assistant’s hex keys.",
+        "text_c": "Where should I leave them?",
+        "text_d": "Leave them on the table, next to the vice, please.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_9_d.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Read the given sentence, choose the correct set of sentences in the same tense.\nදී ඇති වාක්‍යය කියවා, එම කාලයටම අයත් නිවැරදි වාක්‍ය කට්ටලය තෝරන්න.\nகொடுக்கப்பட்டுள்ள வாக்கியத்தைப் படித்து, அதே காலத்தில் (tense) உள்ள சரியான வாக்கியத் தொகுப்பைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_l.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "examples": [
+          {
+            "id": "g_b_1",
+            "sentence": "They are testing the network connection in the lab right now.",
+            "audio": "assets/audio/a_3_b_1_q.mp3",
+            "options": [
+              "They test the network connection in the lab.\n\n Do they test the network connection in the lab?",
+              "They are not testing the network connection in the lab right now.\n\n Are they testing the network connection in the lab right now?",
+              "They are test the network connection in the lab right now.\n\n They are not testing the network connection in the lab right now."
+            ],
+            "answer": "They are not testing the network connection in the lab right now.\n\n Are they testing the network connection in the lab right now?",
+            "image": "assets/img/a_3.png"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_2",
+            "sentence": "She is sketching a new logo on her tablet right now.",
+            "audio": "assets/audio/a_3_b_2_q.mp3",
+            "options": [
+              "She is not sketching a new logo on her tablet right now.\n\n Is she sketching a new logo on her tablet right now?",
+              "She is not sketching a new logo on her tablet right now.\n\n Does she sketch a new logo on her tablet right now?",
+              "She don’t sketch a new logo on her tablet right now.\n\n Is she sketching a new logo on her tablet right now?"
+            ],
+            "answer": "She is not sketching a new logo on her tablet right now.\n\n Is she sketching a new logo on her tablet right now?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "The children are building a sandcastle near the water now.",
+            "audio": "assets/audio/a_3_b_3_q.mp3",
+            "options": [
+              "The children are not building a sandcastle near the water now.\n\n Are the children building a sandcastle near the water now?",
+              "The children are not building a sandcastle near the water now.\n\n Do the children build a sandcastle near the water now?",
+              "The children don’t building a sandcastle near the water now.\n\n Are the children building a sandcastle near the water now?"
+            ],
+            "answer": "The children are not building a sandcastle near the water now.\n\n Are the children building a sandcastle near the water now?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "I am reviewing the final report before sending it.",
+            "audio": "assets/audio/a_3_b_4_q.mp3",
+            "options": [
+              "I am not reviewing the final report before sending it.\n\n Am I reviewing the final report before sending it?",
+              "I am not reviewing the final report before sending it.\n\n Do I review the final report before sending it?",
+              "I am not review the final report before sending it.\n\n Am I reviewing the final report before sending it?"
+            ],
+            "answer": "I am not reviewing the final report before sending it.\n\n Am I reviewing the final report before sending it?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "They are organizing a swim in the sea this evening.",
+            "audio": "assets/audio/a_3_b_5_q.mp3",
+            "options": [
+              "Do they organize a swim in the sea this evening?\n\n They are not organizing a swim in the sea this evening.",
+              "They are not organizing a swim in the sea this evening.\n\n Are they organizing a swim in the sea this evening?",
+              "They don’t organizing a swim in the sea this evening.\n\n Are they organizing a swim in the sea this evening?"
+            ],
+            "answer": "They are not organizing a swim in the sea this evening.\n\n Are they organizing a swim in the sea this evening?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "He is spray-painting his bicycle in the garage now.",
+            "audio": "assets/audio/a_3_b_6_q.mp3",
+            "options": [
+              "He don’t spray-paint his bicycle in the garage now.\n\n Is he spray-painting his bicycle in the garage now?",
+              "He is not spray-painting his bicycle in the garage now.\n\n Does he spray-paint his bicycle in the garage now?",
+              "He is not spray-painting his bicycle in the garage now.\n\n Is he spray-painting his bicycle in the garage now?"
+            ],
+            "answer": "He is not spray-painting his bicycle in the garage now.\n\n Is he spray-painting his bicycle in the garage now?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "We are arranging the meeting room for the presentation right now.",
+            "audio": "assets/audio/a_3_b_7_q.mp3",
+            "options": [
+              "We don’t arranging the meeting room for the presentation right now.\n\n Are we arranging the meeting room for the presentation right now?",
+              "We are not arranging the meeting room for the presentation right now.\n\n Are we arranging the meeting room for the presentation right now?",
+              "We are not arranging the meeting room for the presentation right now.\n\n Are we arranging the meeting room for the presentation right now?"
+            ],
+            "answer": "We are not arranging the meeting room for the presentation right now.\n\n Are we arranging the meeting room for the presentation right now?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "The chef is tasting the soup now to adjust the seasoning.",
+            "audio": "assets/audio/a_3_b_8_q.mp3",
+            "options": [
+              "The chef don’t taste the soup now to adjust the seasoning.\n\n Was the chef tasting the soup now to adjust the seasoning?",
+              "The chef is not tasting the soup now to adjust the seasoning.\n\n Does the chef taste the soup now to adjust the seasoning?",
+              "The chef is not tasting the soup now to adjust the seasoning.\n\n Is the chef tasting the soup now to adjust the seasoning?"
+            ],
+            "answer": "The chef is not tasting the soup now to adjust the seasoning.\n\n Is the chef tasting the soup now to adjust the seasoning?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "She is meeting a former colleague at a quiet café this Saturday.",
+            "audio": "assets/audio/a_3_b_9_q.mp3",
+            "options": [
+              "She is not meeting a former colleague at a quiet café this Saturday.\n\n Does she meet a former colleague at a quiet café this Saturday?",
+              "She is not meeting a former colleague at a quiet café this Saturday.\n\n Is she meeting a former colleague at a quiet café this Saturday?",
+              "She don’t meeting a former colleague at a quiet café this Saturday.\n\n Is she meeting a former colleague at a quiet café this Saturday?"
+            ],
+            "answer": "She is not meeting a former colleague at a quiet café this Saturday.\n\n Is she meeting a former colleague at a quiet café this Saturday?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "I am finishing this email in a few minutes, so please wait.",
+            "audio": "assets/audio/a_3_b_10_q.mp3",
+            "options": [
+              "I don’t finishing this email in a few minutes.\n\n Am I finishing this email in a few minutes?",
+              "I am not finishing this email in a few minutes.\n\n Was I finish this email in a few minutes?",
+              "I am not finishing this email in a few minutes.\n\n Am I finishing this email in a few minutes?"
+            ],
+            "answer": "I am not finishing this email in a few minutes.\n\n Am I finishing this email in a few minutes?",
+            "image": "assets/img/a_3.png"
+          },
+          {
+            "id": "g_b_11",
+            "sentence": "They are planting young trees near the school entrance this Saturday.",
+            "audio": "assets/audio/a_3_b_11_q.mp3",
+            "options": [
+              "They are not planting young trees near the school entrance this Saturday.\n\n Are they planting young trees near the school entrance this Saturday?",
+              "They are not planting young trees near the school entrance this Saturday.\n\n Do they plant young trees near the school entrance this Saturday?",
+              "They don’t planting young trees near the school entrance this Saturday.\n\n Are they planting young trees near the school entrance this Saturday?"
+            ],
+            "answer": "They are not planting young trees near the school entrance this Saturday.\n\n Are they planting young trees near the school entrance this Saturday?",
+            "image": "assets/img/a_3.png"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "They are not testing the network connection in the lab right now. Are they testing the network connection in the lab right now?",
+          "audio": "assets/audio/a_3_b_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "She is not sketching a new logo on her tablet right now. Is she sketching a new logo on her tablet right now?",
+          "audio": "assets/audio/a_3_b_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "The children are not building a sandcastle near the water now. Are the children building a sandcastle near the water now?",
+          "audio": "assets/audio/a_3_b_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "I am not reviewing the final report before sending it. Am I reviewing the final report before sending it?",
+          "audio": "assets/audio/a_3_b_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "They are not organizing a swim in the sea this evening. Are they organizing a swim in the sea this evening?",
+          "audio": "assets/audio/a_3_b_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "He is not spray-painting his bicycle in the garage now. Is he spray-painting his bicycle in the garage now?",
+          "audio": "assets/audio/a_3_b_6.mp3"
+        },
+        {
+          "id": "n_3_7",
+          "text": "We are not arranging the meeting room for the presentation right now. Are we arranging the meeting room for the presentation right now?",
+          "audio": "assets/audio/a_3_b_7.mp3"
+        },
+        {
+          "id": "n_3_8",
+          "text": "The chef is not tasting the soup now to adjust the seasoning. Is the chef tasting the soup now to adjust the seasoning?",
+          "audio": "assets/audio/a_3_b_8.mp3"
+        },
+        {
+          "id": "n_3_9",
+          "text": "She is not meeting a former colleague at a quiet café this Saturday. Is she meeting a former colleague at a quiet café this Saturday?",
+          "audio": "assets/audio/a_3_b_9.mp3"
+        },
+        {
+          "id": "n_3_10",
+          "text": "I am not finishing this email in a few minutes. Am I finishing this email in a few minutes?",
+          "audio": "assets/audio/a_3_b_10.mp3"
+        },
+        {
+          "id": "n_3_11",
+          "text": "They are not planting young trees near the school entrance this Saturday. Are they planting young trees near the school entrance this Saturday?",
+          "audio": "assets/audio/a_3_b_11.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why does Anura look tired and stressed today?",
+            "answer": "Because he is preparing a presentation and his computer is slow.",
+            "options": [
+              "Because he is preparing a presentation and his computer is slow.",
+              "Because he stayed out late last night, and his computer is slow",
+              "Because he stayed out late last night and is travelling this afternoon"
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "When is Anura leaving the office today?",
+            "answer": "Around six in the evening.",
+            "options": [
+              "After eight in the evening",
+              "Around six in the evening.",
+              "Sharp at six o’clock"
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why is Anura travelling to Kandy this evening?",
+            "answer": "To go home for the weekend.",
+            "options": [
+              "To meet his sick sister in Kandy",
+              "To go home for the weekend.",
+              "To take the computer to his uncle in Kandy"
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "What is happening at Anura’s parents’ house on Saturday?",
+            "answer": "They are having a small family gathering.",
+            "options": [
+              "They are renovating the house",
+              "They are having a small family gathering.",
+              "They are cleaning and renovating the house"
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Why is Anura not staying out late on Sunday evening?",
+            "answer": "Because he is starting work early on Monday.",
+            "options": [
+              "Because he will feel tired after travelling",
+              "Because he has to help his uncle again on Monday",
+              "Because he is starting work early on Monday."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Hi Anura, you look tired and a bit stressed today.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "What’s going on?",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Are you working on something urgent, or is it just one of those long days?",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Hi Nimal.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Yes, it’s been a hectic morning.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I’m preparing a short presentation for Monday, and I’m trying to get everything ready before the end of the day.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I’m updating a few figures and answering emails at the same time.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "To make matters worse, my computer is running very slowly today.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Oh dear!",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "When technology acts up, everything feels harder.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Are you staying late at the office this evening to finish everything, or are you leaving on time?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "No, I’m not staying late.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "I have to leave by six.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "I’m travelling to Kandy this evening and I’m meeting my sister at the bus stand.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "We often go home together for the weekend.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Today, too, we’re catching the same bus and heading straight home.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "That sounds nice.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Are you spending the whole weekend there, or are you coming back to Colombo early?",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "I’m staying until Sunday afternoon.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Tomorrow morning, we’re cleaning the house and preparing food for a small family gathering.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "It’s my parents’ thirtieth wedding anniversary.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Approximately twenty people are coming for lunch, so the house will be quite busy.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "I can imagine.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Family events are always fun.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "So, what are your plans for Sunday then?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Are you meeting friends, or are you just taking it easy with your family?",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "On Sunday morning, I’m visiting my uncle, and I’m helping him with some paperwork.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "He doesn’t know how to use a computer, so I usually sort these things out for him.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "After that, I’m returning to Colombo.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "A friend is giving me a ride, so I hope to be back in Colombo by seven.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "And then?",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Do you have anything planned for the evening?",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "In the evening, I might watch a movie with friends or go out to Galle Face—I’m not sure yet.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "But I’m not staying out late because I’m starting work at six a.m. on Monday.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Alright then.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "Have a good weekend, and I’ll see you on Monday.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Thanks, Nimal.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "You too.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "See you on Monday.",
+          "audio": "assets/audio/t_39.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_3",
+          "text": "Are you working on something urgent, or is it just one of those long days?",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I’m preparing a short presentation for Monday, and I’m trying to get everything ready before the end of the day.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I’m updating a few figures and answering emails at the same time.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "To make matters worse, my computer is running very slowly today.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Are you staying late at the office this evening to finish everything, or are you leaving on time?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "I’m travelling to Kandy this evening and I’m meeting my sister at the bus stand.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Today, too, we’re catching the same bus and heading straight home.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "I’m staying until Sunday afternoon.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Tomorrow morning, we’re cleaning the house and preparing food for a small family gathering.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "It’s my parents’ thirtieth wedding anniversary.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Approximately twenty people are coming for lunch, so the house will be quite busy.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Family events are always fun.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Are you meeting friends, or are you just taking it easy with your family?",
+          "audio": "assets/audio/t_26.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_3",
+          "text": "Are you working on something urgent, or is it just one of those long days?",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I’m preparing a short presentation for Monday, and I’m trying to get everything ready before the end of the day.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I’m updating a few figures and answering emails at the same time.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "To make matters worse, my computer is running very slowly today.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Are you staying late at the office this evening to finish everything, or are you leaving on time?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "I’m travelling to Kandy this evening and I’m meeting my sister at the bus stand.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Today, too, we’re catching the same bus and heading straight home.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "I’m staying until Sunday afternoon.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Tomorrow morning, we’re cleaning the house and preparing food for a small family gathering.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "It’s my parents’ thirtieth wedding anniversary.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Approximately twenty people are coming for lunch, so the house will be quite busy.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Family events are always fun.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Are you meeting friends, or are you just taking it easy with your family?",
+          "audio": "assets/audio/t_26.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
