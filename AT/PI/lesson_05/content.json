@@ -7,7 +7,7 @@
   },
   "activity_1": {
     "type": "PRONUNCIATION",
-    "focus": "Long /aː/",
+    "focus": "Short /ɒ/",
     "instructions": {
       "activity_1_a": {
         "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "'a'rmature",
+        "word_text": "b'o'gie",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The 'a'rmature is not turning properly inside the starter motor.",
+        "sentence_text": "The b'o'gie is supporting the vehicle chassis during the inspection.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "h'a'lfshaft",
+        "word_text": "d'o'lly",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Is the h'a'lfshaft sending power smoothly to the wheels now?",
+        "sentence_text": "The d'o'llies are moving the disabled car inside the service bay.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "m'a'ster",
+        "word_text": "tr'o'lley",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Is the m'a'ster building pressure during the on-going braking process?",
+        "sentence_text": "Is the tr'o'lley carrying tools to the engine repair area?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "sp'a'rk",
+        "word_text": "m'o'noblock",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The sp'a'rk is lighting the air fuel mixture properly.",
+        "sentence_text": "The m'o'noblock is not cooling properly during the engine test.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-3",
-    "focus": "Present Continuous for future plans , prepositions, verb 'to be', Possessives.",
+    "focus": "There is ... There are ...",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -96,46 +96,44 @@
     },
     "tables": [
       [
-        ["What is it?", "Where should I leave it?"],
-        ["What are these?", "Where should I leave them?"]
+        ["Is there….?", "Yes, there is."],
+        [null, "No, there isn’t."]
+      ],
+      [
+        ["Are there….?", "Yes, there are."],
+        [null, "No, there aren’t."]
       ]
     ],
     "example_dialogues": [
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "What is it?",
-        "text_b": "It is the supervisor’s caliper.",
-        "text_c": "Where should I leave it?",
-        "text_d": "Leave it on the tool tray, next to the micrometer, please.",
+        "text_a": "Is there a working hydraulic jack anywhere in the service bay?",
+        "text_b": "No, there isn’t. In fact, there aren’t any working hydraulic jacks in the service bay at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start lifting the vehicles today, then.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
-        "audio_c": "assets/audio/a_2_d_1_c.mp3",
-        "audio_d": "assets/audio/a_2_d_1_d.mp3"
+        "audio_c": "assets/audio/a_2_d_1_c.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "What is it?",
-        "text_b": "It is the instructor’s dipstick.",
-        "text_c": "Where should I leave it?",
-        "text_d": "Leave it on the engine stand, beside the oil filter, please.",
+        "text_a": "Is there a calibrated torque wrench anywhere in the tool room?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start tightening the wheel nuts on CTB buses today, then.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
-        "audio_c": "assets/audio/a_2_d_2_c.mp3",
-        "audio_d": "assets/audio/a_2_d_2_d.mp3"
+        "audio_c": "assets/audio/a_2_d_2_c.mp3"
       },
       {
-        "id": "d_5",
-        "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "What are these?",
-        "text_b": "They are Meena’s feeler gauges.",
-        "text_c": "Where should I leave them?",
-        "text_d": "Leave them in the toolbox, just beside the vernier caliper, please.",
-        "audio_a": "assets/audio/a_2_d_5_a.mp3",
-        "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "audio_c": "assets/audio/a_2_d_5_c.mp3",
-        "audio_d": "assets/audio/a_2_d_5_d.mp3"
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "Is there a functional OBD scanner anywhere in the diagnostic area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any functional OBD scanners in the diagnostic area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start checking the fault codes today, then.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3"
       }
     ],
     "keywords": [
@@ -172,76 +170,64 @@
     ],
     "dialogues": [
       {
-        "id": "d_3",
-        "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "What is it?",
-        "text_b": "It is the technician’s oil funnel.",
-        "text_c": "Where should I leave it?",
-        "text_d": "Leave it on the workbench, in front of the torque wrench, please.",
-        "audio_a": "assets/audio/a_2_d_3_a.mp3",
-        "audio_b": "assets/audio/a_2_d_3_b.mp3",
-        "audio_c": "assets/audio/a_2_d_3_c.mp3",
-        "audio_d": "assets/audio/a_2_d_3_d.mp3"
-      },
-      {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "What is it?",
-        "text_b": "It is the foreman’s spark plug.",
-        "text_c": "Where should I leave it?",
-        "text_d": "Leave it inside the cabinet, between the gasket set and the bearing puller, please.",
+        "text_a": "Is there a clean oil filter anywhere in the engine bay?",
+        "text_b": "No, there isn’t. In fact, there aren’t any clean oil filters in the engine bay at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start servicing the engine today, then.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "audio_c": "assets/audio/a_2_d_4_c.mp3",
-        "audio_d": "assets/audio/a_2_d_4_d.mp3"
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Is there a calibrated wheel alignment gauge anywhere in the alignment area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated wheel alignment gauges in the alignment area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start aligning the front wheels today, then.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "What are these?",
-        "text_b": "They are the instructor’s sockets.",
-        "text_c": "Where should I leave them?",
-        "text_d": "Leave them in the drawer, next to the extension bar, please.",
+        "text_a": "Is there a functional battery charger anywhere near the charging station?",
+        "text_b": "No, there isn’t. In fact, there aren’t any functional battery chargers near the charging station at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start charging the vehicle batteries today, then.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
-        "audio_c": "assets/audio/a_2_d_6_c.mp3",
-        "audio_d": "assets/audio/a_2_d_6_d.mp3"
+        "audio_c": "assets/audio/a_2_d_6_c.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "What are these?",
-        "text_b": "They are Ravi’s glow plugs.",
-        "text_c": "Where should I leave them?",
-        "text_d": "Leave them on the parts tray, in front of the cylinder head, please.",
+        "text_a": "Is there a serviceable brake bleeding kit anywhere in the brake service area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any serviceable brake bleeding kits in the brake service area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start bleeding the brake system today, then.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
-        "audio_c": "assets/audio/a_2_d_7_c.mp3",
-        "audio_d": "assets/audio/a_2_d_7_d.mp3"
+        "audio_c": "assets/audio/a_2_d_7_c.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "What are these?",
-        "text_b": "They are the foreman’s spanners.",
-        "text_c": "Where should I leave them?",
-        "text_d": "Leave them on the tool rack, above the workbench, please.",
+        "text_a": "Is there a usable spark plug socket anywhere on the tool trolley?",
+        "text_b": "No, there isn’t. In fact, there aren’t any usable spark plug sockets on the tool trolley at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start replacing the spark plugs today, then.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
-        "audio_c": "assets/audio/a_2_d_8_c.mp3",
-        "audio_d": "assets/audio/a_2_d_8_d.mp3"
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "What are these?",
-        "text_b": "They are the workshop assistant’s hex keys.",
-        "text_c": "Where should I leave them?",
-        "text_d": "Leave them on the table, next to the vice, please.",
+        "text_a": "Is there a safe inspection lamp anywhere near the inspection pit?",
+        "text_b": "No, there isn’t. In fact, there aren’t any safe inspection lamps near the inspection pit at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start checking the underbody today, then.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
-        "audio_c": "assets/audio/a_2_d_9_c.mp3",
-        "audio_d": "assets/audio/a_2_d_9_d.mp3"
+        "audio_c": "assets/audio/a_2_d_9_c.mp3"
       }
     ]
   },
@@ -258,11 +244,11 @@
       },
       "activity_c": {
         "text": "Make a question with the words. Say it aloud. Then check with the model answer.\nවචන භාවිතා කර ප්‍රශ්නයක් සාදන්න. එය උච්චාරණය කර කියන්න. එවිට ආදර්ශ ප්‍රශ්නය සහ පිළිතුර සමඟ පරික්ෂා කරන්න.\nகொடுக்கப்பட்ட சொற்களைப் பயன்படுத்தி ஒரு கேள்வியை உருவாக்குங்கள். அதைச் சத்தமாக சொல்லுங்கள். பிறகு மாதிரி பதிலுடன் சரிபார்க்கவும்.",
-        "audio": "assets/audio/a_3_i_cx.mp3"
+        "audio": "assets/audio/a_3_i_cy.mp3"
       },
       "activity_d": {
         "text": "Make a question with the words. Say it aloud. Then check with the model answer.\nවචන භාවිතා කර ප්‍රශ්නයක් සාදන්න. එය උච්චාරණය කර කියන්න. එවිට ආදර්ශ ප්‍රශ්නය සහ පිළිතුර සමඟ පරික්ෂා කරන්න.\nகொடுக்கப்பட்ட சொற்களைப் பயன்படுத்தி ஒரு கேள்வியை உருவாக்குங்கள். அதைச் சத்தமாக சொல்லுங்கள். பிறகு மாதிரி பதிலுடன் சரிபார்க்கவும்.",
-        "audio": "assets/audio/a_3_i_cx.mp3"
+        "audio": "assets/audio/a_3_i_cy.mp3"
       }
     },
     "content": {
