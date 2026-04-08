@@ -1,0 +1,872 @@
+{
+  "meta": {
+    "lesson_no": 5,
+    "level": "Elementary",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Short /ɒ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "b'o'gie",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The b'o'gie is supporting the vehicle chassis during the inspection.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "d'o'lly",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The d'o'llies are moving the disabled car inside the service bay.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "tr'o'lley",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Is the tr'o'lley carrying tools to the engine repair area?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "m'o'noblock",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The m'o'noblock is not cooling properly during the engine test.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "There is ... There are ...",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["Is there….?", "Yes, there is."],
+        [null, "No, there isn’t."]
+      ],
+      [
+        ["Are there….?", "Yes, there are."],
+        [null, "No, there aren’t."]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "Is there a working hydraulic jack anywhere in the service bay?",
+        "text_b": "No, there isn’t. In fact, there aren’t any working hydraulic jacks in the service bay at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start lifting the vehicles today, then.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "Is there a calibrated torque wrench anywhere in the tool room?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start tightening the wheel nuts on CTB buses today, then.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "Is there a functional OBD scanner anywhere in the diagnostic area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any functional OBD scanners in the diagnostic area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start checking the fault codes today, then.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "foreman’s spark plug"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "feeler gauges"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "sockets"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "glow plugs"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "spanners"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "hex keys"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "Is there a clean oil filter anywhere in the engine bay?",
+        "text_b": "No, there isn’t. In fact, there aren’t any clean oil filters in the engine bay at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start servicing the engine today, then.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Is there a calibrated wheel alignment gauge anywhere in the alignment area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated wheel alignment gauges in the alignment area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start aligning the front wheels today, then.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "Is there a functional battery charger anywhere near the charging station?",
+        "text_b": "No, there isn’t. In fact, there aren’t any functional battery chargers near the charging station at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start charging the vehicle batteries today, then.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "Is there a serviceable brake bleeding kit anywhere in the brake service area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any serviceable brake bleeding kits in the brake service area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start bleeding the brake system today, then.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "Is there a usable spark plug socket anywhere on the tool trolley?",
+        "text_b": "No, there isn’t. In fact, there aren’t any usable spark plug sockets on the tool trolley at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start replacing the spark plugs today, then.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "Is there a safe inspection lamp anywhere near the inspection pit?",
+        "text_b": "No, there isn’t. In fact, there aren’t any safe inspection lamps near the inspection pit at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start checking the underbody today, then.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-1",
+    "instructions": {
+      "activity_a": {
+        "text": "Match each keyword with its picture.\nපිළිඹඳ රූපය සමඟ එක් එක් මූලපදය ගැලපිය යුතුය. \n ஒவ்வொரு சொல்லையும் அதன் படத்துடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_ax.mp3"
+      },
+      "activity_b": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_bx.mp3"
+      },
+      "activity_c": {
+        "text": "Make a question with the words. Say it aloud. Then check with the model answer.\nවචන භාවිතා කර ප්‍රශ්නයක් සාදන්න. එය උච්චාරණය කර කියන්න. එවිට ආදර්ශ ප්‍රශ්නය සහ පිළිතුර සමඟ පරික්ෂා කරන්න.\nகொடுக்கப்பட்ட சொற்களைப் பயன்படுத்தி ஒரு கேள்வியை உருவாக்குங்கள். அதைச் சத்தமாக சொல்லுங்கள். பிறகு மாதிரி பதிலுடன் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_3_i_cy.mp3"
+      },
+      "activity_d": {
+        "text": "Make a question with the words. Say it aloud. Then check with the model answer.\nවචන භාවිතා කර ප්‍රශ්නයක් සාදන්න. එය උච්චාරණය කර කියන්න. එවිට ආදර්ශ ප්‍රශ්නය සහ පිළිතුර සමඟ පරික්ෂා කරන්න.\nகொடுக்கப்பட்ட சொற்களைப் பயன்படுத்தி ஒரு கேள்வியை உருவாக்குங்கள். அதைச் சத்தமாக சொல்லுங்கள். பிறகு மாதிரி பதிலுடன் சரிபார்க்கவும்.",
+        "audio": "assets/audio/a_3_i_cy.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-1.jpg",
+        "content": [
+          {
+            "id": "g_a_1",
+            "image": "assets/img/a_3_a_g_1.png",
+            "keyword": "Bright safety sign"
+          },
+          {
+            "id": "g_a_2",
+            "image": "assets/img/a_3_a_g_2.png",
+            "keyword": "Tall coconut tree"
+          },
+          {
+            "id": "g_a_3",
+            "image": "assets/img/a_3_a_g_3.png",
+            "keyword": "Wide staircase"
+          },
+          {
+            "id": "g_a_4",
+            "image": "assets/img/a_3_a_g_4.png",
+            "keyword": "Parked coach"
+          },
+          {
+            "id": "g_a_5",
+            "image": "assets/img/a_3_a_g_5.png",
+            "keyword": "Open food stall"
+          },
+          {
+            "id": "g_a_6",
+            "image": "assets/img/a_3_a_g_6.png",
+            "keyword": "Shaded bus shelter"
+          }
+        ]
+      },
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-11.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "Are there any train tickets for the train to Kandy tomorrow morning?",
+            "audio": "assets/audio/a_3_b_g_ex.mp3",
+            "options": [
+              "No, there are.",
+              "Yes, there is.",
+              "No, there aren’t."
+            ],
+            "answer": "Yes, there is."
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "Is there a large notice board near the main entrance of the school?",
+            "audio": "assets/audio/a_3_b_g_1.mp3",
+            "options": [
+              "Yes, there is.",
+              "Yes, there isn’t.",
+              "Yes, there are."
+            ],
+            "answer": "Yes, there is.",
+            "image": "assets/img/a_3_b_g_1.png"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "Are there any bright safety signs above the doors in the workshop?",
+            "audio": "assets/audio/a_3_b_g_2.mp3",
+            "options": [
+              "Yes, there is.",
+              "No, there aren’t.",
+              "Yes, there are."
+            ],
+            "answer": "Yes, there are.",
+            "image": "assets/img/a_3_b_g_2.png"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "Was there a clean drinking tap beside the dusty playground last week?",
+            "audio": "assets/audio/a_3_b_g_3.mp3",
+            "options": [
+              "Yes, there was.",
+              "No, there weren’t.",
+              "Yes, there were."
+            ],
+            "answer": "Yes, there was.",
+            "image": "assets/img/a_3_b_g_3.png"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Are there any tall coconut trees behind the small seaside hotel?",
+            "audio": "assets/audio/a_3_b_g_4.mp3",
+            "options": [
+              "No, there is.",
+              "Yes, there aren’t.",
+              "Yes, there are."
+            ],
+            "answer": "Yes, there are.",
+            "image": "assets/img/a_3_b_g_4.png"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "Is there a wide staircase inside the modern office building?",
+            "audio": "assets/audio/a_3_b_g_5.mp3",
+            "options": [
+              "Yes, there is.",
+              "No, there aren’t.",
+              "Yes, there aren’t."
+            ],
+            "answer": "Yes, there is.",
+            "image": "assets/img/a_3_b_g_5.png"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "Were there any parked coaches outside the busy town library yesterday?",
+            "audio": "assets/audio/a_3_b_g_6.mp3",
+            "options": [
+              "Yes, there was.",
+              "Yes, there weren’t.",
+              "Yes, there were."
+            ],
+            "answer": "Yes, there were.",
+            "image": "assets/img/a_3_b_g_6.png"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Is there a shaded bus shelter along the busy roadside?",
+            "audio": "assets/audio/a_3_b_g_7.mp3",
+            "options": [
+              "Yes, there are.",
+              "No, there aren’t.",
+              "No, there isn’t."
+            ],
+            "answer": "No, there isn’t.",
+            "image": "assets/img/a_3_b_g_7.png"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "Are there any open food stalls in the crowded market area?",
+            "audio": "assets/audio/a_3_b_g_8.mp3",
+            "options": ["Yes, there is.", "No, there are.", "Yes, there are."],
+            "answer": "Yes, there are.",
+            "image": "assets/img/a_3_b_g_8.png"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Is there a glass display cabinet in the quiet reception area?",
+            "audio": "assets/audio/a_3_b_g_9.mp3",
+            "options": [
+              "Yes, there is.",
+              "No, there aren’t.",
+              "Yes, there isn’t."
+            ],
+            "answer": "Yes, there is.",
+            "image": "assets/img/a_3_b_g_9.png"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Are there any clear directional arrows on the floor of the airport hall?",
+            "audio": "assets/audio/a_3_b_g_10.mp3",
+            "options": [
+              "Yes, there are.",
+              "No, there was.",
+              "Yes, there aren’t."
+            ],
+            "answer": "Yes, there are.",
+            "image": "assets/img/a_3_b_g_10.png"
+          }
+        ]
+      },
+      "activity_c": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "examples": [
+          {
+            "id": "ex_c_1",
+            "words": "multimedia projector / top shelf / steel cabinet",
+            "txt_question": "Is there a new multimedia projector on the top shelf of the steel cabinet?",
+            "audio_question": "assets/audio/a_3_c_ex_q_1.mp3"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_c_1",
+            "words": "large notice board / main entrance / school",
+            "txt_question": "Is there a large notice board at the main entrance of the school?",
+            "audio_question": "assets/audio/a_3_c_g_q_1.mp3"
+          },
+          {
+            "id": "g_c_2",
+            "words": "bright safety signs / above the doors / workshop",
+            "txt_question": "Are there bright safety signs above the doors in the workshop?",
+            "audio_question": "assets/audio/a_3_c_g_q_2.mp3"
+          },
+          {
+            "id": "g_c_3",
+            "words": "clean drinking tap / beside the playground / school",
+            "txt_question": "Is there a clean drinking tap beside the playground at the school?",
+            "audio_question": "assets/audio/a_3_c_g_q_3.mp3"
+          },
+          {
+            "id": "g_c_4",
+            "words": "tall coconut trees / behind the seaside hotel / beach area",
+            "txt_question": "Are there tall coconut trees behind the seaside hotel in the beach area?",
+            "audio_question": "assets/audio/a_3_c_g_q_4.mp3"
+          },
+          {
+            "id": "g_c_5",
+            "words": "wide staircase / inside the office building / city centre",
+            "txt_question": "Is there a wide staircase inside the office building in the city centre?",
+            "audio_question": "assets/audio/a_3_c_g_q_5.mp3"
+          }
+        ]
+      },
+      "activity_d": {
+        "bg_image": "assets/img/game/bg-5.jpg",
+        "examples": [
+          {
+            "id": "ex_d_1",
+            "words": "MT section register / table / classroom no 5 / yesterday",
+            "txt_question": "Was there an MT section register on the table in classroom no. 5 yesterday?",
+            "audio_question": "assets/audio/a_3_d_ex_q_1.mp3",
+            "image": "assets/img/a_3_c_g_ex.jpeg"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_d_1",
+            "words": "parked coaches / outside the town library / bus area / last week",
+            "txt_question": "Were there any parked coaches outside the town library in the bus area last week?",
+            "audio_question": "assets/audio/a_3_d_g_q_1.mp3",
+            "image": "assets/img/a_3_c_g_1.png"
+          },
+          {
+            "id": "g_d_2",
+            "words": "shaded bus shelter / along the roadside / town / two days ago",
+            "txt_question": "Was there a shaded bus shelter along the roadside in the town two days ago?",
+            "audio_question": "assets/audio/a_3_d_g_q_2.mp3",
+            "image": "assets/img/a_3_c_g_2.png"
+          },
+          {
+            "id": "g_d_3",
+            "words": "open food stalls / in the market area / city / last Tuesday",
+            "txt_question": "Were there any open food stalls in the market area of the city last Tuesday?",
+            "audio_question": "assets/audio/a_3_d_g_q_3.mp3",
+            "image": "assets/img/a_3_c_g_3.png"
+          },
+          {
+            "id": "g_d_4",
+            "words": "glass display cabinet / in the reception area / building / yesterday morning",
+            "txt_question": "Was there a glass display cabinet in the reception area of the building yesterday morning?",
+            "audio_question": "assets/audio/a_3_d_g_q_4.mp3",
+            "image": "assets/img/a_3_c_g_4.png"
+          },
+          {
+            "id": "g_d_5",
+            "words": "clear directional arrows / on the floor / airport hall / last year",
+            "txt_question": "Were there any clear directional arrows on the floor in the airport hall last year?",
+            "audio_question": "assets/audio/a_3_d_g_q_5.mp3",
+            "image": "assets/img/a_3_c_g_5.png"
+          }
+        ]
+      }
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why is the maintenance team working near the main entrance?",
+            "answer": "Because the floor is uneven and unsafe.",
+            "options": [
+              "Because the floor is uneven and unsafe.",
+              "Because the entrance is dirty and needs cleaning.",
+              "Because the floor is uneven and needs repainting."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Why are the electricians checking the wiring in the workshops?",
+            "answer": "To replace old cables and improve safety.",
+            "options": [
+              "To add new machines and replace old cables for next term.",
+              "To move the machines to a different workshop.",
+              "To replace old cables and improve safety."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why are the office staff updating student records now?",
+            "answer": "So that theory classes can start on time next month.",
+            "options": [
+              "So that new students can join extra classes.",
+              "So that theory classes can be scheduled next month.",
+              "So that theory classes can start on time next month."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "Why is the school setting up a new computer lab?",
+            "answer": "Because digital skills are extremely important for all students.",
+            "options": [
+              "Because students are requesting more free computer time.",
+              "Because digital skills are extremely important for all students.",
+              "Because digital skills are quite important for TVET trainees."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Why is the school organising a career guidance programme and inviting guest speakers?",
+            "answer": "To help students prepare for new job markets and employment.",
+            "options": [
+              "To help students prepare for new job markets and employment.",
+              "To help the trainees to get only foreign jobs",
+              "To promote the school to local visiting companies."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Good morning, everyone.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Thank you for coming today.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "My name is Mr. Fernando, and I am the Principal of SLGTI, so for many of you in Year One, this is our first official meeting.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Today, I would like to talk about what the school is doing at the moment and what we are planning for the near future.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "First of all, there is a maintenance team working near the main entrance because the floor is uneven and unsafe.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "We are fixing it this week because students are using that entrance every day.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "There are also electricians checking the wiring in the workshops.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "They are replacing old cables because safety is our main priority.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "At the same time, SLGTI is preparing for next term.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "There is a new timetable on the notice board, and the office staff are updating student records.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "They are doing this now so that theory classes can start on time next month.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "A few new instructors are joining the school this term, and they are attending orientation sessions this week.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "We are also upgrading our learning facilities.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "There is a new computer lab under preparation, where the technicians are installing new software.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "We are setting it up because digital skills are extremely important for all students.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "In addition, there are new tools arriving for AT and MT workshops this afternoon.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "The storekeepers are going to check and label them so that everything is ready for the practical sessions starting on Monday.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We are planning to organize several activities this week.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "There is a career guidance programme for final-year students starting this Tuesday, and some guest speakers from various local companies are going to visit the school at the end of the month.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "We are arranging these sessions because students need to prepare for new job markets.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Please take time to study the details of all these valuable programmes on the notice board.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Also feel free to talk to your class instructor if you have any further questions.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "I think that’s all for now.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Thank you for your attention, and please cooperate with the ongoing activities.",
+          "audio": "assets/audio/t_24.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_3",
+          "text": "My name is Mr. Fernando, and I am the Principal of SLGTI, so for many of you in Year One, this is our first official meeting.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Today, I would like to talk about what the school is doing at the moment and what we are planning for the near future.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "First of all, there is a maintenance team working near the main entrance because the floor is uneven and unsafe.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "We are fixing it this week because students are using that entrance every day.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "They are replacing old cables because safety is our main priority.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "There is a new timetable on the notice board, and the office staff are updating student records.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "They are doing this now so that theory classes can start on time next month.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "There is a new computer lab under preparation, where the technicians are installing new software.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "We are setting it up because digital skills are extremely important for all students.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "The storekeepers are going to check and label them so that everything is ready for the practical sessions starting on Monday.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "There is a career guidance programme for final-year students starting this Tuesday, and some guest speakers from various local companies are going to visit the school at the end of the month.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "We are arranging these sessions because students need to prepare for new job markets.",
+          "audio": "assets/audio/t_20.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_3",
+          "text": "My name is Mr. Fernando, and I am the Principal of SLGTI, so for many of you in Year One, this is our first official meeting.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Today, I would like to talk about what the school is doing at the moment and what we are planning for the near future.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "First of all, there is a maintenance team working near the main entrance because the floor is uneven and unsafe.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "We are fixing it this week because students are using that entrance every day.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "They are replacing old cables because safety is our main priority.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "There is a new timetable on the notice board, and the office staff are updating student records.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "They are doing this now so that theory classes can start on time next month.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "There is a new computer lab under preparation, where the technicians are installing new software.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "We are setting it up because digital skills are extremely important for all students.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "The storekeepers are going to check and label them so that everything is ready for the practical sessions starting on Monday.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "There is a career guidance programme for final-year students starting this Tuesday, and some guest speakers from various local companies are going to visit the school at the end of the month.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "We are arranging these sessions because students need to prepare for new job markets.",
+          "audio": "assets/audio/t_20.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
