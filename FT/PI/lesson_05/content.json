@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "b'o'gie",
+        "word_text": "pr'o'cessor",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The b'o'gie is supporting the vehicle chassis during the inspection.",
+        "sentence_text": "The pr'o'cessor is chopping vegetables for the soup batch.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "d'o'lly",
+        "word_text": "r'o'tavator",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The d'o'llies are moving the disabled car inside the service bay.",
+        "sentence_text": "The r'o'tavator is not mixing food waste evenly today.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "tr'o'lley",
+        "word_text": "c'o'lander",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Is the tr'o'lley carrying tools to the engine repair area?",
+        "sentence_text": "Is the c'o'lander draining cooked pasta in the preparation area?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "m'o'noblock",
+        "word_text": "h'o'pper",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The m'o'noblock is not cooling properly during the engine test.",
+        "sentence_text": "The h'o'ppers are feeding flour into the bakery mixer.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -108,9 +108,9 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Is there a working hydraulic jack anywhere in the service bay?",
-        "text_b": "No, there isn’t. In fact, there aren’t any working hydraulic jacks in the service bay at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start lifting the vehicles today, then.",
+        "text_a": "Is there a sanitised cutting board anywhere in the preparation area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any sanitised cutting boards in the preparation area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start portioning the chickens today, then.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -118,9 +118,9 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "Is there a calibrated torque wrench anywhere in the tool room?",
-        "text_b": "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start tightening the wheel nuts on CTB buses today, then.",
+        "text_a": "Is there a moisture-proof ingredient container anywhere in the dry store?",
+        "text_b": "No, there isn’t. In fact, there aren’t any moisture-proof ingredient containers in the dry store at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start weighing the dry materials today, then.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -128,9 +128,9 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Is there a functional OBD scanner anywhere in the diagnostic area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any functional OBD scanners in the diagnostic area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start checking the fault codes today, then.",
+        "text_a": "Is there a calibrated dough-kneading machine anywhere in the bakery section?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated dough-kneading machines in the bakery section at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start preparing the bread dough today, then.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"
@@ -172,9 +172,9 @@
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Is there a clean oil filter anywhere in the engine bay?",
-        "text_b": "No, there isn’t. In fact, there aren’t any clean oil filters in the engine bay at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start servicing the engine today, then.",
+        "text_a": "Is there a heat-resistant saucepan anywhere on the cooking range?",
+        "text_b": "No, there isn’t. In fact, there aren’t any heat-resistant saucepans on the cooking range at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start simmering the sauce today, then.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3"
@@ -182,9 +182,9 @@
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "Is there a calibrated wheel alignment gauge anywhere in the alignment area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any calibrated wheel alignment gauges in the alignment area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start aligning the front wheels today, then.",
+        "text_a": "Is there a temperature-controlled storage rack anywhere in the cold storage area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any temperature-controlled storage racks in the cold storage area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start chilling the prepared items today, then.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"
@@ -192,9 +192,9 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Is there a functional battery charger anywhere near the charging station?",
-        "text_b": "No, there isn’t. In fact, there aren’t any functional battery chargers near the charging station at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start charging the vehicle batteries today, then.",
+        "text_a": "Is there a functioning high-pressure spray unit anywhere in the washing area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any functioning high-pressure spray units in the washing area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start sanitising the equipment today, then.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3"
@@ -202,9 +202,9 @@
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "Is there a serviceable brake bleeding kit anywhere in the brake service area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any serviceable brake bleeding kits in the brake service area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start bleeding the brake system today, then.",
+        "text_a": "Is there a food-grade insulated holding tray anywhere near the service counter?",
+        "text_b": "No, there isn’t. In fact, there aren’t any food-grade insulated holding trays near the service counter at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t maintain the proper serving temperature today, then.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3"
@@ -212,9 +212,9 @@
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "Is there a usable spark plug socket anywhere on the tool trolley?",
-        "text_b": "No, there isn’t. In fact, there aren’t any usable spark plug sockets on the tool trolley at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start replacing the spark plugs today, then.",
+        "text_a": "Is there a precision digital weighing scale anywhere in the equipment store?",
+        "text_b": "No, there isn’t. In fact, there aren’t any precision digital weighing scales in the equipment store at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start weighing the sultanas accurately today, then.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
@@ -222,9 +222,9 @@
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "Is there a safe inspection lamp anywhere near the inspection pit?",
-        "text_b": "No, there isn’t. In fact, there aren’t any safe inspection lamps near the inspection pit at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start checking the underbody today, then.",
+        "text_a": "Is there a disposable protective head cover anywhere in the hygiene area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any disposable protective head covers in the hygiene area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start separating the cake ingredients safely today, then.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3"
