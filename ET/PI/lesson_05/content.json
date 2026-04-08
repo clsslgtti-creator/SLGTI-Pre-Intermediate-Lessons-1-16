@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "b'o'gie",
+        "word_text": "p'o'd",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The b'o'gie is supporting the vehicle chassis during the inspection.",
+        "sentence_text": "The technician is installing a sensor p'o'd near the control panel.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "d'o'lly",
+        "word_text": "s'o'lenoid",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The d'o'llies are moving the disabled car inside the service bay.",
+        "sentence_text": "Is the s'o'lenoid energizing the valve in the control panel?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "tr'o'lley",
+        "word_text": "l'o'ckout",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Is the tr'o'lley carrying tools to the engine repair area?",
+        "sentence_text": "The l'o'ckout is not isolating the supply during maintenance.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "m'o'noblock",
+        "word_text": "b'o'nding",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The m'o'noblock is not cooling properly during the engine test.",
+        "sentence_text": "The b'o'nding is connecting metal enclosures to the earth bar.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -108,9 +108,9 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Is there a working hydraulic jack anywhere in the service bay?",
-        "text_b": "No, there isn’t. In fact, there aren’t any working hydraulic jacks in the service bay at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start lifting the vehicles today, then.",
+        "text_a": "Is there a functional multimeter anywhere in the electrical workshop?",
+        "text_b": "No, there isn’t. In fact, there aren’t any functional multimeters in the electrical workshop at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start testing the circuits today, then.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -118,9 +118,9 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "Is there a calibrated torque wrench anywhere in the tool room?",
-        "text_b": "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start tightening the wheel nuts on CTB buses today, then.",
+        "text_a": "Is there a serviceable wire stripper anywhere in the wiring practice area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any serviceable wire strippers in the wiring practice area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start preparing the cables today, then.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -128,9 +128,9 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Is there a functional OBD scanner anywhere in the diagnostic area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any functional OBD scanners in the diagnostic area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start checking the fault codes today, then.",
+        "text_a": "Is there a labelled distribution board anywhere in the panel board section?",
+        "text_b": "No, there isn’t. In fact, there aren’t any labelled distribution boards in the panel board section at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start the panel wiring today, then.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"
@@ -140,41 +140,41 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "foreman’s spark plug"
+        "word": "calibrated insulation tester"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "feeler gauges"
+        "word": "clean PVC conduit cutter"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sockets"
+        "word": "functional contactor"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "glow plugs"
+        "word": "suitable cable tray bracket"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "spanners"
+        "word": "insulated screwdriver set"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "hex keys"
+        "word": "safe voltage tester"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Is there a clean oil filter anywhere in the engine bay?",
-        "text_b": "No, there isn’t. In fact, there aren’t any clean oil filters in the engine bay at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start servicing the engine today, then.",
+        "text_a": "Is there a calibrated insulation tester anywhere on the testing bench?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated insulation testers on the testing bench at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start checking the cable insulation today, then.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3"
@@ -182,9 +182,9 @@
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "Is there a calibrated wheel alignment gauge anywhere in the alignment area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any calibrated wheel alignment gauges in the alignment area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start aligning the front wheels today, then.",
+        "text_a": "Is there a clean PVC conduit cutter anywhere in the conduit installation area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any clean PVC conduit cutters in the conduit installation area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start cutting the conduits today, then.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"
@@ -192,9 +192,9 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Is there a functional battery charger anywhere near the charging station?",
-        "text_b": "No, there isn’t. In fact, there aren’t any functional battery chargers near the charging station at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start charging the vehicle batteries today, then.",
+        "text_a": "Is there a functional contactor anywhere in the switchgear section?",
+        "text_b": "No, there isn’t. In fact, there aren’t any functional contactors in the switchgear section at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start assembling the control circuit today, then.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3"
@@ -202,9 +202,9 @@
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "Is there a serviceable brake bleeding kit anywhere in the brake service area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any serviceable brake bleeding kits in the brake service area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start bleeding the brake system today, then.",
+        "text_a": "Is there a suitable cable tray bracket anywhere in the cable tray area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any suitable cable tray brackets in the cable tray area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start fixing the cable trays today, then.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3"
@@ -212,9 +212,9 @@
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "Is there a usable spark plug socket anywhere on the tool trolley?",
-        "text_b": "No, there isn’t. In fact, there aren’t any usable spark plug sockets on the tool trolley at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start replacing the spark plugs today, then.",
+        "text_a": "Is there an insulated screwdriver set anywhere on the tool trolley?",
+        "text_b": "No, there isn’t. In fact, there aren’t any insulated screwdriver sets on the tool trolley at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start tightening the terminals today, then.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
@@ -222,9 +222,9 @@
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "Is there a safe inspection lamp anywhere near the inspection pit?",
-        "text_b": "No, there isn’t. In fact, there aren’t any safe inspection lamps near the inspection pit at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start checking the underbody today, then.",
+        "text_a": "Is there a safe voltage tester anywhere near the safety equipment area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any safe voltage testers near the safety equipment area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start checking the live points today, then.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3"

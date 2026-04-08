@@ -140,32 +140,32 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "foreman’s spark plug"
+        "word": "clean oil filter"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "feeler gauges"
+        "word": "calibrated wheel alignment gauge"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sockets"
+        "word": "functional battery charger"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "glow plugs"
+        "word": "serviceable brake bleeding kit"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "spanners"
+        "word": "usable spark plug socket"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "hex keys"
+        "word": "safe inspection lamp"
       }
     ],
     "dialogues": [

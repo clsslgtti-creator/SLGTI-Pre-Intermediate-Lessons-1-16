@@ -107,7 +107,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
+        "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "Is there a clean measuring tape anywhere in the site store?",
         "text_b": "No, there isn’t. In fact, there aren’t any clean measuring tapes in the site store at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start measuring the foundation today, then.",
@@ -117,7 +117,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
+        "img": "assets/img/a_2_d_2.jpeg",
         "text_a": "Is there a usable brick trowel anywhere in the masonry area?",
         "text_b": "No, there isn’t. In fact, there aren’t any usable brick trowels in the masonry area at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start laying the bricks today, then.",
@@ -127,7 +127,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
+        "img": "assets/img/a_2_d_3.jpeg",
         "text_a": "Is there a working concrete mixer anywhere in the mixing area?",
         "text_b": "No, there isn’t. In fact, there aren’t any working concrete mixers in the mixing area at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start mixing the concrete today, then.",
@@ -171,7 +171,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
+        "img": "assets/img/a_2_d_4.jpeg",
         "text_a": "Is there a safe scaffolding plank anywhere in the scaffolding area?",
         "text_b": "No, there isn’t. In fact, there aren’t any safe scaffolding planks in the scaffolding area at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start working on the tower today, then.",
@@ -181,7 +181,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
+        "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "Is there a straight wooden formwork panel anywhere in the formwork section?",
         "text_b": "No, there isn’t. In fact, there aren’t any straight wooden formwork panels in the formwork section at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start setting the formwork today, then.",
@@ -191,7 +191,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "Is there a sharp rebar cutter anywhere in the reinforcement area?",
         "text_b": "No, there isn’t. In fact, there aren’t any sharp rebar cutters in the reinforcement area at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start cutting the steel bars today, then.",
@@ -201,7 +201,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.png",
+        "img": "assets/img/a_2_d_7.jpeg",
         "text_a": "Is there a functional spirit level anywhere in the site tools area?",
         "text_b": "No, there isn’t. In fact, there aren’t any functional spirit levels in the site tools area at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start checking the levels today, then.",
@@ -211,7 +211,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.png",
+        "img": "assets/img/a_2_d_8.jpeg",
         "text_a": "Is there a serviceable safety helmet anywhere in the safety equipment area?",
         "text_b": "No, there isn’t. In fact, there aren’t any serviceable safety helmets in the safety equipment area at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start site work safely today, then.",
@@ -221,7 +221,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.png",
+        "img": "assets/img/a_2_d_9.jpeg",
         "text_a": "Is there a clean plastering float anywhere in the plastering area?",
         "text_b": "No, there isn’t. In fact, there aren’t any clean plastering floats in the plastering area at the moment.",
         "text_c": "Oh, that’s a pity. We can’t start plastering the walls today, then.",
