@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "b'o'gie",
+        "word_text": "spr'o'cket",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The b'o'gie is supporting the vehicle chassis during the inspection.",
+        "sentence_text": "The spr'o'ckets are transferring rotary motion along the drive chain.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "d'o'lly",
+        "word_text": "b'o'nnet",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The d'o'llies are moving the disabled car inside the service bay.",
+        "sentence_text": "The b'o'nnet is not sealing the valve body during operation.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "tr'o'lley",
+        "word_text": "r'o'cker",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Is the tr'o'lley carrying tools to the engine repair area?",
+        "sentence_text": "Is the r'o'cker moving smoothly while the engine is running?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "m'o'noblock",
+        "word_text": "c'o'tter",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The m'o'noblock is not cooling properly during the engine test.",
+        "sentence_text": "The c'o'tter is securing the joint during mechanical assembly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -108,9 +108,9 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Is there a working hydraulic jack anywhere in the service bay?",
-        "text_b": "No, there isn’t. In fact, there aren’t any working hydraulic jacks in the service bay at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start lifting the vehicles today, then.",
+        "text_a": "Is there a serviceable bench grinder anywhere in the machine shop?",
+        "text_b": "No, there isn’t. In fact, there aren’t any serviceable bench grinders in the machine shop at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start sharpening the tools today, then.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3"
@@ -118,9 +118,9 @@
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "Is there a calibrated torque wrench anywhere in the tool room?",
-        "text_b": "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start tightening the wheel nuts on CTB buses today, then.",
+        "text_a": "Is there a calibrated vernier caliper anywhere in the lathe section?",
+        "text_b": "No, there isn’t. In fact, there aren’t any calibrated vernier calipers in the lathe section at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start measuring the workpieces today, then.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3"
@@ -128,9 +128,9 @@
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Is there a functional OBD scanner anywhere in the diagnostic area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any functional OBD scanners in the diagnostic area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start checking the fault codes today, then.",
+        "text_a": "Is there a functional milling cutter anywhere in the milling area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any functional milling cutters in the milling area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start machining the slots today, then.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3"
@@ -140,41 +140,41 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "foreman’s spark plug"
+        "word": "usable welding helmet"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "feeler gauges"
+        "word": "clean steel ruler"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sockets"
+        "word": "working angle grinder"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "glow plugs"
+        "word": "complete spanner set"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "spanners"
+        "word": "usable torque wrench"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "hex keys"
+        "word": "safe grease gun"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Is there a clean oil filter anywhere in the engine bay?",
-        "text_b": "No, there isn’t. In fact, there aren’t any clean oil filters in the engine bay at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start servicing the engine today, then.",
+        "text_a": "Is there a usable welding helmet anywhere in the welding bay?",
+        "text_b": "No, there isn’t. In fact, there aren’t any usable welding helmets in the welding bay at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start the welding work today, then.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3"
@@ -182,9 +182,9 @@
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "Is there a calibrated wheel alignment gauge anywhere in the alignment area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any calibrated wheel alignment gauges in the alignment area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start aligning the front wheels today, then.",
+        "text_a": "Is there a clean steel ruler anywhere in the fabrication area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any clean steel rulers in the fabrication area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start marking the metal sheets today, then.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_5_c.mp3"
@@ -192,9 +192,9 @@
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Is there a functional battery charger anywhere near the charging station?",
-        "text_b": "No, there isn’t. In fact, there aren’t any functional battery chargers near the charging station at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start charging the vehicle batteries today, then.",
+        "text_a": "Is there a working angle grinder anywhere in the power tools section?",
+        "text_b": "No, there isn’t. In fact, there aren’t any working angle grinders in the power tools section at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start cutting the plates today, then.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3"
@@ -202,9 +202,9 @@
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "Is there a serviceable brake bleeding kit anywhere in the brake service area?",
-        "text_b": "No, there isn’t. In fact, there aren’t any serviceable brake bleeding kits in the brake service area at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start bleeding the brake system today, then.",
+        "text_a": "Is there a complete spanner set anywhere in the assembly area?",
+        "text_b": "No, there isn’t. In fact, there aren’t any complete spanner sets in the assembly area at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start assembling the components today, then.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3"
@@ -212,9 +212,9 @@
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "Is there a usable spark plug socket anywhere on the tool trolley?",
-        "text_b": "No, there isn’t. In fact, there aren’t any usable spark plug sockets on the tool trolley at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start replacing the spark plugs today, then.",
+        "text_a": "Is there a usable torque wrench anywhere in the tool store?",
+        "text_b": "No, there isn’t. In fact, there aren’t any usable torque wrenches in the tool store at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start tightening the bolts today, then.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3"
@@ -222,9 +222,9 @@
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "Is there a safe inspection lamp anywhere near the inspection pit?",
-        "text_b": "No, there isn’t. In fact, there aren’t any safe inspection lamps near the inspection pit at the moment.",
-        "text_c": "Oh, that’s a pity. We can’t start checking the underbody today, then.",
+        "text_a": "Is there a safe grease gun anywhere near the maintenance corner?",
+        "text_b": "No, there isn’t. In fact, there aren’t any safe grease guns near the maintenance corner at the moment.",
+        "text_c": "Oh, that’s a pity. We can’t start lubricating the machines today, then.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3"
