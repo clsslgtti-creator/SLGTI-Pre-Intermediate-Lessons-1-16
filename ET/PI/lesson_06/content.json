@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "p'o'rt",
+        "word_text": "c'o're tester",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Technicians clean the p'o'rt regularly to improve airflow efficiency to the engine block.",
+        "sentence_text": "Technicians calibrate the c'o're tester accurately before transformer testing sessions.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "c'o'rer",
+        "word_text": "w'a'rning",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The mechanic uses a c'o'rer carefully during engine reconditioning work.",
+        "sentence_text": "A technician checks the w'a'rning indicator during routine inspection procedures.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "b'o'ring",
+        "word_text": "wavef'o'rm",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Workers perform b'o'ring slowly to achieve accurate cylinder dimensions consistently.",
+        "sentence_text": "Technicians analyze the wavef'o'rm carefully during routine electrical system testing.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'o'rsion bar",
+        "word_text": "ground f'au'lt",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "A technician adjusts the t'o'rsion bar height during suspension setup procedures.",
+        "sentence_text": "Electricians detect ground f'au'lt conditions early to prevent equipment damage.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -501,33 +501,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "check the engine oil level",
-            "item_b": "look at how much oil is in the engine"
+            "item_a": "Switch off",
+            "item_b": "the main power supply"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "drain the used engine oil",
-            "item_b": "remove the old oil from the engine"
+            "item_a": "Test",
+            "item_b": "the circuit with a tester"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "remove the old oil filter",
-            "item_b": "take out the used oil filter"
+            "item_a": "Tighten",
+            "item_b": "loose terminal screws"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "fit a new oil filter",
-            "item_b": "install a new oil filter"
+            "item_a": "Replace",
+            "item_b": "a damaged cable"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "tighten the drain plug",
-            "item_b": "make the drain plug secure"
+            "item_a": "Secure",
+            "item_b": "the socket cover"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "run the engine briefly",
-            "item_b": "operate the engine for a short time"
+            "item_a": "Restore",
+            "item_b": "the power supply"
           }
         ]
       },
@@ -536,52 +536,52 @@
         "Questions": [
           {
             "id": "l_15_1",
-            "question": "Why does the instructor check the oil level before draining it?",
-            "answer": "Because it helps check the oil condition and quantity.",
+            "question": "Why does the instructor switch off the main power supply first?",
+            "answer": "Because it is the most important safety step.",
             "options": [
-              "Because it helps check the draining and quantity.",
-              "Because it helps check the oil condition and quantity.",
-              "Because it helps check the oil condition and engine."
+              "Because the power supply is very safe.",
+              "Because it is the most important safety step.",
+              "Because touching the power supply is the most important step."
             ]
           },
           {
             "id": "l_15_2",
-            "question": "Why is the used oil allowed to drain completely?",
-            "answer": "To avoid problems caused by old oil remaining inside.",
+            "question": "Why is the circuit tested even after switching off the power?",
+            "answer": "To confirm that there is no current.",
             "options": [
-              "To avoid problems during servicing by old oil remaining inside.",
-              "To avoid problems caused by old oil remaining inside.",
-              "To avoid problems caused by old oil under the engine."
+              "To confirm that the current is moving fast.",
+              "To confirm that there is no current.",
+              "To confirm there is no tester."
             ]
           },
           {
             "id": "l_15_3",
-            "question": "Why is the new oil filter tightened by hand?",
-            "answer": "Because too much force can damage the seal.",
+            "question": "Why are loose terminal screws tightened?",
+            "answer": "To prevent heating and spark faults.",
             "options": [
-              "Because too many tools can damage the seal.",
-              "Because too much force can damage the seal.",
-              "Because too many filters can damage the seal."
+              "To prevent socket heating and spark faults.",
+              "To prevent heating and spark faults.",
+              "To prevent spark heating and socket faults."
             ]
           },
           {
             "id": "l_15_4",
-            "question": "Why is the engine run briefly after refilling oil?",
-            "answer": "To check for leaks after servicing.",
+            "question": "Why is a damaged cable replaced instead of being repaired temporarily?",
+            "answer": "Because temporary fixes are never safe.",
             "options": [
-              "To refill the engine oil after servicing.",
-              "To check for leaks after servicing.",
-              "To increase engine speed after servicing."
+              "Because unsafe replacement is cheaper.",
+              "Because temporary fixes are never safe.",
+              "Because temporary cables don’t wear out quickly."
             ]
           },
           {
             "id": "l_15_5",
-            "question": "Why does the instructor stress the correct order of brake inspection steps?",
-            "answer": "Because missing steps can cause safety problems.",
+            "question": "Why does the instructor stress the correct order during circuit testing?",
+            "answer": "Because missing steps can cause danger later.",
             "options": [
-              "Because missing inspections can cause problems.",
-              "Because missing steps can cause safety problems.",
-              "Because missing brakes are safe."
+              "Because missing tests are dangerous.",
+              "Because missing steps can cause danger later.",
+              "Because the danger of missing steps is less."
             ]
           }
         ]
@@ -594,306 +594,291 @@
         },
         {
           "id": "t_2",
-          "text": "Let’s get started.",
+          "text": "Let’s begin today’s practical session.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "I want to explain two routine processes that we practise in the Electrical Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain a basic socket repair procedure.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a simple circuit testing process.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Please listen carefully and follow the order of the steps.",
+          "text": "Please listen carefully and follow the steps in order.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the socket repair procedure.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "In our workshop, vehicles usually arrive early in the morning.",
+          "text": "In our electrical lab, faults are often reported during daily use.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before we touch anything, we switch off the main power supply.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "This helps us understand the oil condition and the quantity.",
+          "text": "This is the most important safety step, and we never skip it.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "If the oil looks very dark or smells burnt, it usually means the oil must be changed.",
+          "text": "Next, we test the circuit with a tester to confirm that there is no current.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
+          "text": "Even if the switch is off, we always check, because safety comes first.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, we drain the used engine oil.",
+          "text": "After that, we remove the socket cover carefully.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "We wait until all the oil flows out.",
+          "text": "Inside, we check the terminal connections.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "If the screws are loose, we tighten the terminal screws using the correct screwdriver.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
+          "text": "Loose connections can cause heating and spark faults.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "The filter often contains dirty oil, so we handle it slowly to avoid spilling oil on the floor.",
+          "text": "Next, we inspect the cables.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Then, we fit a new oil filter.",
+          "text": "If a cable is damaged or cracked, we replace the damaged cable with a new one of the correct rating.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "We tighten it by hand only.",
+          "text": "We do not use temporary fixes, because they are unsafe.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "We do not use too much force, because overtightening can damage the rubber seal.",
+          "text": "Then, we arrange the wires neatly and secure the socket cover properly.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
+          "text": "Finally, we restore the power supply and test the socket.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
+          "text": "If the socket works correctly and there is no heat or smell, the repair is complete.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "If there are no leaks, the oil service is complete.",
+          "text": "Now, let’s move on to the circuit testing process.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
           "id": "t_24",
-          "text": "Now, let’s move to the brake inspection process.",
+          "text": "This process is usually done after installation work.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
-          "text": "This inspection is usually done before a test drive.",
+          "text": "First, we visually inspect the circuit layout.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
+          "text": "We check that all components are connected according to the wiring diagram.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
-          "text": "If the level is low, there may be brake pad wear or a small leak.",
+          "text": "Next, we test the circuit with a tester to confirm continuity.",
           "audio": "assets/audio/t_27.mp3"
         },
         {
           "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
+          "text": "After that, we switch on the power supply and observe the circuit operation.",
           "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
+          "text": "We look for normal indicators, such as lights turning on correctly or devices operating smoothly.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
           "id": "t_30",
-          "text": "We look at the thickness and check for uneven wear.",
+          "text": "If something does not work as expected, we switch off the power immediately and recheck the connections.",
           "audio": "assets/audio/t_30.mp3"
         },
         {
           "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
+          "text": "We always follow this order, because electrical faults can be dangerous.",
           "audio": "assets/audio/t_31.mp3"
         },
         {
           "id": "t_32",
-          "text": "We always follow these steps carefully, because brake safety is very important.",
+          "text": "Missing a step can lead to equipment damage or personal injury later.",
           "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Missing a step can cause serious problems later.",
-          "audio": "assets/audio/t_33.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "I want to explain two routine processes that we practise in the Electrical Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain a basic socket repair procedure.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a simple circuit testing process.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the socket repair procedure.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before we touch anything, we switch off the main power supply.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
-          "audio": "assets/audio/t_12.mp3"
+          "id": "t_11",
+          "text": "Next, we test the circuit with a tester to confirm that there is no current.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "After that, we remove the socket cover carefully.",
+          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "If the screws are loose, we tighten the terminal screws using the correct screwdriver.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
-          "audio": "assets/audio/t_16.mp3"
+          "id": "t_20",
+          "text": "Then, we arrange the wires neatly and secure the socket cover properly.",
+          "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
+          "text": "Finally, we restore the power supply and test the socket.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
-          "audio": "assets/audio/t_28.mp3"
+          "id": "t_25",
+          "text": "First, we visually inspect the circuit layout.",
+          "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
+          "text": "We look for normal indicators, such as lights turning on correctly or devices operating smoothly.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
           "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
+          "text": "We always follow this order, because electrical faults can be dangerous.",
           "audio": "assets/audio/t_31.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "I want to explain two routine processes that we practise in the Electrical Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain a basic socket repair procedure.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a simple circuit testing process.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the socket repair procedure.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before we touch anything, we switch off the main power supply.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
-          "audio": "assets/audio/t_12.mp3"
+          "id": "t_11",
+          "text": "Next, we test the circuit with a tester to confirm that there is no current.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "After that, we remove the socket cover carefully.",
+          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "If the screws are loose, we tighten the terminal screws using the correct screwdriver.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
-          "audio": "assets/audio/t_16.mp3"
+          "id": "t_20",
+          "text": "Then, we arrange the wires neatly and secure the socket cover properly.",
+          "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
+          "text": "Finally, we restore the power supply and test the socket.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
-          "audio": "assets/audio/t_28.mp3"
+          "id": "t_25",
+          "text": "First, we visually inspect the circuit layout.",
+          "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
+          "text": "We look for normal indicators, such as lights turning on correctly or devices operating smoothly.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
           "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
+          "text": "We always follow this order, because electrical faults can be dangerous.",
           "audio": "assets/audio/t_31.mp3"
         }
       ]
