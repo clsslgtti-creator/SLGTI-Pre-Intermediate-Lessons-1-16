@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "p'o'rt",
+        "word_text": "'au'ger",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Technicians clean the p'o'rt regularly to improve airflow efficiency to the engine block.",
+        "sentence_text": "Workers operate the 'au'ger carefully during foundation drilling operations daily.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "c'o'rer",
+        "word_text": "c'o're drill",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The mechanic uses a c'o'rer carefully during engine reconditioning work.",
+        "sentence_text": "He uses the c'o're drill accurately on reinforced concrete walls.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "b'o'ring",
+        "word_text": "cr'a'wler",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Workers perform b'o'ring slowly to achieve accurate cylinder dimensions consistently.",
+        "sentence_text": "Operators inspect cr'a'wler tracks regularly before moving heavy lifting equipment.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'o'rsion bar",
+        "word_text": "c'au'lker",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "A technician adjusts the t'o'rsion bar height during suspension setup procedures.",
+        "sentence_text": "A c'au'lker applies sealant smoothly using steady pressure during joint sealing.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -501,33 +501,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "check the engine oil level",
-            "item_b": "look at how much oil is in the engine"
+            "item_a": "Check",
+            "item_b": "the footing position with markings"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "drain the used engine oil",
-            "item_b": "remove the old oil from the engine"
+            "item_a": "Measure",
+            "item_b": "the excavation depth with a tape"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "remove the old oil filter",
-            "item_b": "take out the used oil filter"
+            "item_a": "Mix",
+            "item_b": "cement, sand, and aggregate to ratio"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "fit a new oil filter",
-            "item_b": "install a new oil filter"
+            "item_a": "Pour",
+            "item_b": "concrete into the footing trench"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "tighten the drain plug",
-            "item_b": "make the drain plug secure"
+            "item_a": "Level",
+            "item_b": "the top surface with a straight edge"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "run the engine briefly",
-            "item_b": "operate the engine for a short time"
+            "item_a": "Keep",
+            "item_b": "the concrete surface moist during curing"
           }
         ]
       },
@@ -536,52 +536,52 @@
         "Questions": [
           {
             "id": "l_15_1",
-            "question": "Why does the instructor check the oil level before draining it?",
-            "answer": "Because it helps check the oil condition and quantity.",
+            "question": "Why does the instructor check the footing position with markings?",
+            "answer": "Because the footing must be in the correct position.",
             "options": [
-              "Because it helps check the draining and quantity.",
-              "Because it helps check the oil condition and quantity.",
-              "Because it helps check the oil condition and engine."
+              "Because correct positioning helps the foot.",
+              "Because the footing must be in the correct position.",
+              "Because footing must be excavated."
             ]
           },
           {
             "id": "l_15_2",
-            "question": "Why is the used oil allowed to drain completely?",
-            "answer": "To avoid problems caused by old oil remaining inside.",
+            "question": "Why does the instructor measure the excavation depth with a tape?",
+            "answer": "To ensure the strength of the structure.",
             "options": [
-              "To avoid problems during servicing by old oil remaining inside.",
-              "To avoid problems caused by old oil remaining inside.",
-              "To avoid problems caused by old oil under the engine."
+              "To ensure the strength of the concrete.",
+              "To ensure the strength of the structure.",
+              "To ensure the depth is incorrect."
             ]
           },
           {
             "id": "l_15_3",
-            "question": "Why is the new oil filter tightened by hand?",
-            "answer": "Because too much force can damage the seal.",
+            "question": "Why does the instructor pour concrete into the footing trench carefully?",
+            "answer": "To ensure the concrete fills all corners properly.",
             "options": [
-              "Because too many tools can damage the seal.",
-              "Because too much force can damage the seal.",
-              "Because too many filters can damage the seal."
+              "To ensure all the corners dry faster.",
+              "To ensure the concrete fills all corners properly.",
+              "To reduce the amount of concrete used."
             ]
           },
           {
             "id": "l_15_4",
-            "question": "Why is the engine run briefly after refilling oil?",
-            "answer": "To check for leaks after servicing.",
+            "question": "Why does the instructor keep the concrete surface moist during curing?",
+            "answer": "To help the concrete gain strength.",
             "options": [
-              "To refill the engine oil after servicing.",
-              "To check for leaks after servicing.",
-              "To increase engine speed after servicing."
+              "To make the concrete dry faster.",
+              "To help the concrete gain strength.",
+              "To cure the moisture."
             ]
           },
           {
             "id": "l_15_5",
-            "question": "Why does the instructor stress the correct order of brake inspection steps?",
-            "answer": "Because missing steps can cause safety problems.",
+            "question": "Why does the instructor stress careful preparation before block laying?",
+            "answer": "Because early mistakes cause problems later.",
             "options": [
-              "Because missing inspections can cause problems.",
-              "Because missing steps can cause safety problems.",
-              "Because missing brakes are safe."
+              "Because heavy blocks cause problems later.",
+              "Because early mistakes cause problems later.",
+              "Because mortar sets very slowly and causes problems later."
             ]
           }
         ]
@@ -599,301 +599,276 @@
         },
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Construction Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain how we prepare and cast a concrete footing.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a basic block-laying preparation process.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Please listen carefully and follow the order of the steps.",
+          "text": "Please listen carefully and follow the steps in the correct order.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the concrete footing process.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "In our workshop, vehicles usually arrive early in the morning.",
+          "text": "At our training site, work usually begins early in the morning to avoid strong heat later in the day.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before any concrete work starts, we check the footing position with markings on the ground.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "This helps us understand the oil condition and the quantity.",
+          "text": "These markings come from the drawing and show the exact location of the footing.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "If the oil looks very dark or smells burnt, it usually means the oil must be changed.",
+          "text": "Next, we measure the excavation depth with a tape.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
+          "text": "The depth must match the drawing, because an incorrect depth can reduce the strength of the structure.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, we drain the used engine oil.",
+          "text": "After that, we prepare the concrete.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "We wait until all the oil flows out.",
+          "text": "We mix cement, sand, and aggregate to ratio using the correct proportions.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "We do not add extra water, because that weakens the concrete and affects the final strength.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
+          "text": "Once the mix is ready, we pour concrete into the footing trench carefully.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "The filter often contains dirty oil, so we handle it slowly to avoid spilling oil on the floor.",
+          "text": "We make sure the concrete spreads into all corners and does not trap air.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Then, we fit a new oil filter.",
+          "text": "Then, we level the top surface with a straight edge.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "We tighten it by hand only.",
+          "text": "This helps us achieve a flat and even finish.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "We do not use too much force, because overtightening can damage the rubber seal.",
+          "text": "Finally, we keep the concrete surface moist during curing.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
+          "text": "We do this by sprinkling water regularly.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
+          "text": "This step is important, because proper curing helps the concrete gain strength.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "If there are no leaks, the oil service is complete.",
+          "text": "We never rush this stage, because rushing causes cracks later.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
           "id": "t_24",
-          "text": "Now, let’s move to the brake inspection process.",
+          "text": "Now, let’s move on to the block-laying preparation process.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
-          "text": "This inspection is usually done before a test drive.",
+          "text": "This work usually starts after the footing has cured.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
+          "text": "First, we check the blocks and remove any broken or damaged ones.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
-          "text": "If the level is low, there may be brake pad wear or a small leak.",
+          "text": "Next, we prepare the mortar and check its consistency.",
           "audio": "assets/audio/t_27.mp3"
         },
         {
           "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
+          "text": "It should not be too dry or too wet.",
           "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
+          "text": "After that, we set out the first course using string lines.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
           "id": "t_30",
-          "text": "We look at the thickness and check for uneven wear.",
+          "text": "This helps us keep the wall straight.",
           "audio": "assets/audio/t_30.mp3"
         },
         {
           "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
+          "text": "Before continuing, we check the level and alignment again.",
           "audio": "assets/audio/t_31.mp3"
         },
         {
           "id": "t_32",
-          "text": "We always follow these steps carefully, because brake safety is very important.",
+          "text": "We always follow this order, because mistakes at the beginning cause bigger problems later on.",
           "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Missing a step can cause serious problems later.",
-          "audio": "assets/audio/t_33.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Construction Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain how we prepare and cast a concrete footing.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a basic block-laying preparation process.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the concrete footing process.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before any concrete work starts, we check the footing position with markings on the ground.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
-          "audio": "assets/audio/t_12.mp3"
+          "id": "t_11",
+          "text": "Next, we measure the excavation depth with a tape.",
+          "audio": "assets/audio/t_11.mp3"
         },
         {
-          "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
-          "audio": "assets/audio/t_15.mp3"
+          "id": "t_14",
+          "text": "We mix cement, sand, and aggregate to ratio using the correct proportions.",
+          "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
+          "text": "Once the mix is ready, we pour concrete into the footing trench carefully.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
-          "audio": "assets/audio/t_21.mp3"
+          "id": "t_18",
+          "text": "Then, we level the top surface with a straight edge.",
+          "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
-          "audio": "assets/audio/t_22.mp3"
+          "id": "t_20",
+          "text": "Finally, we keep the concrete surface moist during curing.",
+          "audio": "assets/audio/t_20.mp3"
         },
         {
-          "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
-          "audio": "assets/audio/t_29.mp3"
+          "id": "t_24",
+          "text": "Now, let’s move on to the block-laying preparation process.",
+          "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
+          "text": "Before continuing, we check the level and alignment again.",
           "audio": "assets/audio/t_31.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Construction Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain how we prepare and cast a concrete footing.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a basic block-laying preparation process.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the concrete footing process.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before any concrete work starts, we check the footing position with markings on the ground.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
-          "audio": "assets/audio/t_12.mp3"
+          "id": "t_11",
+          "text": "Next, we measure the excavation depth with a tape.",
+          "audio": "assets/audio/t_11.mp3"
         },
         {
-          "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
-          "audio": "assets/audio/t_15.mp3"
+          "id": "t_14",
+          "text": "We mix cement, sand, and aggregate to ratio using the correct proportions.",
+          "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
+          "text": "Once the mix is ready, we pour concrete into the footing trench carefully.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
-          "audio": "assets/audio/t_21.mp3"
+          "id": "t_18",
+          "text": "Then, we level the top surface with a straight edge.",
+          "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
-          "audio": "assets/audio/t_22.mp3"
+          "id": "t_20",
+          "text": "Finally, we keep the concrete surface moist during curing.",
+          "audio": "assets/audio/t_20.mp3"
         },
         {
-          "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
-          "audio": "assets/audio/t_29.mp3"
+          "id": "t_24",
+          "text": "Now, let’s move on to the block-laying preparation process.",
+          "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
+          "text": "Before continuing, we check the level and alignment again.",
           "audio": "assets/audio/t_31.mp3"
         }
       ]

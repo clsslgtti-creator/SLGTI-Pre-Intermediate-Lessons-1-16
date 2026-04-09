@@ -501,33 +501,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "check the engine oil level",
-            "item_b": "look at how much oil is in the engine"
+            "item_a": "Check",
+            "item_b": "the engine oil level"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "drain the used engine oil",
-            "item_b": "remove the old oil from the engine"
+            "item_a": "Drain",
+            "item_b": "the used engine oil"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "remove the old oil filter",
-            "item_b": "take out the used oil filter"
+            "item_a": "Remove",
+            "item_b": "the old oil filter"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "fit a new oil filter",
-            "item_b": "install a new oil filter"
+            "item_a": "Fit",
+            "item_b": "a new oil filter"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "tighten the drain plug",
-            "item_b": "make the drain plug secure"
+            "item_a": "Tighten",
+            "item_b": "the drain plug"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "run the engine briefly",
-            "item_b": "operate the engine for a short time"
+            "item_a": "Run",
+            "item_b": "the engine briefly"
           }
         ]
       },
