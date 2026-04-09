@@ -41,9 +41,9 @@
       },
       {
         "id": "p_2",
-        "word_text": "'a'nchor",
+        "word_text": "f'a'stener",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Is the 'a'nchor holding the structure firmly in place now?",
+        "sentence_text": "Is the technician tightening the f'a'stener on the steel frame right now?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
@@ -57,9 +57,9 @@
       },
       {
         "id": "p_4",
-        "word_text": "sp'a'cer",
+        "word_text": "t'a'rmac",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The sp'a'cer is keeping equal gaps between concrete bars.",
+        "sentence_text": "Are the workers laying t'a'rmac on the access road at the moment?",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

@@ -1,0 +1,912 @@
+{
+  "meta": {
+    "lesson_no": 6,
+    "level": "Elementary",
+    "section": "Mechanical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Long /ɔː/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "sc'o'ring tool",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The technician cleans the sc'o'ring tool thoroughly after surface preparation tasks.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "c'o're shaft",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Operators inspect the c'o're shaft carefully during routine machine maintenance.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "j'aw' chuck",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Machinists clamp the j'aw' chuck firmly to keep the rotating workpieces in place.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "dr'a'wbar",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Technicians secure the dr'a'wbar to ensure safe tool change procedures.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Simple Present Simple Present - Describing processes, sequence words.",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["Do", "I", "work?"],
+        [null, "we", null],
+        [null, "you", null],
+        [null, "they", null]
+      ],
+      [
+        ["No,", "I", "don't."],
+        [null, "we", null],
+        [null, "you", null],
+        [null, "they", null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Do you write reports on Monday morning?",
+        "text_b": "No, I don’t. But I write reports on Monday evening. I have more time to do it on Monday evening than on Monday morning.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Do you meet your friends on Thursday afternoon?",
+        "text_b": "No, I don’t. But I meet my friends on Thursday evening. I have more time to do it on Thursday evening than on Thursday afternoon.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Do you practise cricket on Wednesday morning?",
+        "text_b": "No, I don’t. But I practise cricket on Wednesday evening. I have more time to do it on Wednesday evening than on Wednesday morning.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "go grocery shopping"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "go for a walk"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "do laundry"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "help with household chores"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "learn sign language"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "empty the garbage bin"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Do you go grocery shopping on Tuesday afternoon?",
+        "text_b": "No, I don’t. But I go grocery shopping on Tuesday evening. I have more time to do it on Tuesday evening than on Tuesday afternoon.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Do you go for a walk on Friday morning?",
+        "text_b": "No, I don’t. But I go for a walk on Friday evening. I have more time to do it on Friday evening than on Friday morning.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Do you do laundry on Saturday afternoon?",
+        "text_b": "No, I don’t. But I do my laundry on Saturday evening. I have more time to do it on Saturday evening than on Saturday afternoon.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Do you help with household chores on Sunday morning?",
+        "text_b": "No, I don’t. But I help with household chores on Sunday evening. I have more time to do it on Sunday evening than on Sunday morning.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Do you learn sign language on Monday afternoon?",
+        "text_b": "No, I don’t. But I learn sign language on Monday evening. I have more time to do it on Monday evening than on Monday afternoon.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Do you empty the garbage bin on Saturday morning?",
+        "text_b": "No, I don’t. But I empty the garbage bin on Saturday evening. I have more time to do it on Saturday evening than on Saturday morning.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_m.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-4.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "I ride an old motorbike to school every day.",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "I not ride an old motorbike to school every day.",
+              "I am ride an old motorbike to school every day.",
+              "I don’t ride an old motorbike to school every day."
+            ],
+            "answer": "I don’t ride an old motorbike to school every day."
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "I drink two cups of strong milk tea early in the morning.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "I don’t drink two cups of strong milk tea early in the morning.",
+              "I doesn’t drink two cups of strong milk tea early in the morning.",
+              "I am not drink two cups of strong milk tea early in the morning."
+            ],
+            "answer": "I don’t drink two cups of strong milk tea early in the morning."
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "We listen to radio podcasts every Monday evening.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "We aren’t listen to radio podcasts every Monday evening.",
+              "We don’t listen to radio podcasts every Monday evening.",
+              "We doesn’t listen to radio podcasts every Monday evening."
+            ],
+            "answer": "We don’t listen to radio podcasts every Monday evening."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "I speak four West African languages fluently.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "I am not speaking four West African languages fluently.",
+              "I doesn’t speak four West African languages fluently.",
+              "I don’t speak four West African languages fluently."
+            ],
+            "answer": "I don’t speak four West African languages fluently."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Canadians retire at the age of sixty-seven.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "Canadians doesn’t retire at the age of sixty-seven.",
+              "Canadians don’t retire at the age of sixty-seven.",
+              "Canadians are not retire at the age of sixty-seven."
+            ],
+            "answer": "Canadians don’t retire at the age of sixty-seven."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "They take their dog for a long walk every day before 7 am.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "They doesn’t take their dog for a long walk every day before 7 am.",
+              "They are not take their dog for a long walk every day before 7 am.",
+              "They don’t take their dog for a long walk every day before 7 am."
+            ],
+            "answer": "They don’t take their dog for a long walk every day before 7 am."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "She buys all her groceries at a local shop near the main junction.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "She don’t buy all her groceries at a local shop near the main junction.",
+              "She doesn’t buy all her groceries at a local shop near the main junction.",
+              "She isn’t buying all her groceries at a local shop near the main junction."
+            ],
+            "answer": "She doesn’t buy all her groceries at a local shop near the main junction."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "The English teacher knows a lot of funny political jokes.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "The English teacher doesn’t know a lot of funny political jokes.",
+              "The English teacher don’t know a lot of funny political jokes.",
+              "The English teacher is not know a lot of funny political jokes."
+            ],
+            "answer": "The English teacher doesn’t know a lot of funny political jokes."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "My brother brushes his teeth with a neem stick.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "My brother don’t brush his teeth with a neem stick.",
+              "My brother doesn’t brush his teeth with a neem stick.",
+              "My brother isn’t brushing his teeth with a neem stick."
+            ],
+            "answer": "My brother doesn’t brush his teeth with a neem stick."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Alice rides a motorbike from Colombo to Moratuwa every morning.",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "Alice don’t ride a motorbike from Colombo to Moratuwa every morning.",
+              "Alice isn’t ride a motorbike from Colombo to Moratuwa every morning.",
+              "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning."
+            ],
+            "answer": "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "My grandfather reads four car magazines a week.",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "My grandfather don’t read four car magazines a week.",
+              "My grandfather isn’t reading four car magazines a week.",
+              "My grandfather doesn’t read four car magazines a week."
+            ],
+            "answer": "My grandfather doesn’t read four car magazines a week."
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_ex",
+          "text": "I ride an old motorbike to school every day.",
+          "audio": "assets/audio/g_b_ex.mp3"
+        },
+        {
+          "id": "g_b_ex_a",
+          "text": "I don’t ride an old motorbike to school every day.",
+          "audio": "assets/audio/g_b_ex_a.mp3"
+        },
+        {
+          "id": "g_b_1",
+          "text": "I drink two cups of strong milk tea early in the morning.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "I don’t drink two cups of strong milk tea early in the morning.",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "We listen to radio podcasts every Monday evening.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "We don’t listen to radio podcasts every Monday evening.",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "I speak four West African languages fluently.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "I don’t speak four West African languages fluently.",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "Canadians retire at the age of sixty-seven.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "Canadians don’t retire at the age of sixty-seven.",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "They take their dog for a long walk every day before 7 am.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "They don’t take their dog for a long walk every day before 7 am.",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "She buys all her groceries at a local shop near the main junction.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "She doesn’t buy all her groceries at a local shop near the main junction.",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "The English teacher knows a lot of funny political jokes.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "The English teacher doesn’t know a lot of funny political jokes.",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "My brother brushes his teeth with a neem stick.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "My brother doesn’t brush his teeth with a neem stick.",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "Alice rides a motorbike from Colombo to Moratuwa every morning.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_9_a",
+          "text": "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning.",
+          "audio": "assets/audio/g_b_9_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "My grandfather reads four car magazines a week.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "My grandfather doesn’t read four car magazines a week.",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "Check",
+            "item_b": "the machine guard alignment"
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "Switch off",
+            "item_b": "the main power supply"
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "Loosen",
+            "item_b": "the chuck using the key"
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "Remove",
+            "item_b": "the worn cutting tool"
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "Fit",
+            "item_b": "the new cutting tool securely"
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "Run",
+            "item_b": "the machine at low speed"
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_15_1",
+            "question": "Why does the instructor check the machine guard alignment first?",
+            "answer": "Because the guard protects the operator.",
+            "options": [
+              "Because the operator protects the guard.",
+              "Because the guard protects the operator.",
+              "Because the guard protects the machine."
+            ]
+          },
+          {
+            "id": "l_15_2",
+            "question": "Why does the instructor switch off the main power supply before loosening the chuck?",
+            "answer": "To ensure the machine is completely safe to work on.",
+            "options": [
+              "To ensure the tool is easier to remove.",
+              "To ensure the machine is completely safe to work on.",
+              "To ensure the machine is working."
+            ]
+          },
+          {
+            "id": "l_15_3",
+            "question": "Why is the chuck loosened using the key carefully?",
+            "answer": "To avoid sudden movement of parts.",
+            "options": [
+              "To avoid sudden loss of parts.",
+              "To avoid sudden movement of parts.",
+              "To avoid losing the key."
+            ]
+          },
+          {
+            "id": "l_15_4",
+            "question": "Why is the machine run at low speed after fitting the new tool?",
+            "answer": "To check for vibration or unusual noise.",
+            "options": [
+              "To check for vibration and noise.",
+              "To check for vibration or unusual noise.",
+              "To check for unusual noise and speed."
+            ]
+          },
+          {
+            "id": "l_15_5",
+            "question": "Why does the instructor stress the order of the safety inspection steps?",
+            "answer": "Because missing steps can cause safety problems later.",
+            "options": [
+              "Because missing steps can cause safety inspections later.",
+              "Because missing steps can cause safety problems later.",
+              "Because missing problems can cause issues later."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Good morning, everyone.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Let’s get started.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Today, I want to explain two routine processes that we practise in the Mechanical Technology section.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "First, I will explain a basic cutting tool change on a lathe machine.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "After that, we will move on to a simple machine safety inspection.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Please listen carefully and follow the steps in the correct order.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "First, let’s look at the cutting tool change process.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "In our workshop, this task is usually done before a machining job begins.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Before touching the machine, we check the machine guard alignment.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "The guard must be in the correct position to protect the operator.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Next, we switch off the main power supply.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "This step is very important, and we never skip it, even if the machine is not running.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "After that, we loosen the chuck using the key.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "We do this slowly and carefully to avoid sudden movement.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Once the chuck is loose, we remove the worn cutting tool from the tool holder.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "A worn tool affects surface finish and accuracy.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Then, we fit the new cutting tool securely in the correct position.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We make sure it is tight and properly aligned.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Finally, we run the machine at low speed.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "This allows us to check for vibration or unusual noise before starting full operation.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "If everything looks normal, the tool change is complete.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Now, let’s move on to the machine safety inspection process.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "This inspection is usually done at the start of the day.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "First, we visually inspect the machine body and controls.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Next, we check that emergency stop buttons are working correctly.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "After that, we look for oil leaks or loose parts around the machine.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Finally, we clean the work area and remove unnecessary tools.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "We always follow this order, because safety checks reduce accidents and machine damage.",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Missing a step can cause serious problems later.",
+          "audio": "assets/audio/t_29.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_3",
+          "text": "Today, I want to explain two routine processes that we practise in the Mechanical Technology section.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "First, I will explain a basic cutting tool change on a lathe machine.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "After that, we will move on to a simple machine safety inspection.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "First, let’s look at the cutting tool change process.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Before touching the machine, we check the machine guard alignment.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Next, we switch off the main power supply.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "After that, we loosen the chuck using the key.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Once the chuck is loose, we remove the worn cutting tool from the tool holder.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Then, we fit the new cutting tool securely in the correct position.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We make sure it is tight and properly aligned.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Finally, we run the machine at low speed.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Now, let’s move on to the machine safety inspection process.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "After that, we look for oil leaks or loose parts around the machine.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Finally, we clean the work area and remove unnecessary tools.",
+          "audio": "assets/audio/t_27.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_3",
+          "text": "Today, I want to explain two routine processes that we practise in the Mechanical Technology section.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "First, I will explain a basic cutting tool change on a lathe machine.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "After that, we will move on to a simple machine safety inspection.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "First, let’s look at the cutting tool change process.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Before touching the machine, we check the machine guard alignment.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Next, we switch off the main power supply.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "After that, we loosen the chuck using the key.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Once the chuck is loose, we remove the worn cutting tool from the tool holder.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Then, we fit the new cutting tool securely in the correct position.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We make sure it is tight and properly aligned.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Finally, we run the machine at low speed.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Now, let’s move on to the machine safety inspection process.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "After that, we look for oil leaks or loose parts around the machine.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Finally, we clean the work area and remove unnecessary tools.",
+          "audio": "assets/audio/t_27.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
