@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "p'o'rt",
+        "word_text": "sc'o'ring tool",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Technicians clean the p'o'rt regularly to improve airflow efficiency to the engine block.",
+        "sentence_text": "The technician cleans the sc'o'ring tool thoroughly after surface preparation tasks.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "c'o'rer",
+        "word_text": "c'o're shaft",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The mechanic uses a c'o'rer carefully during engine reconditioning work.",
+        "sentence_text": "Operators inspect the c'o're shaft carefully during routine machine maintenance.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "b'o'ring",
+        "word_text": "j'aw' chuck",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Workers perform b'o'ring slowly to achieve accurate cylinder dimensions consistently.",
+        "sentence_text": "Machinists clamp the j'aw' chuck firmly to keep the rotating workpieces in place.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'o'rsion bar",
+        "word_text": "dr'a'wbar",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "A technician adjusts the t'o'rsion bar height during suspension setup procedures.",
+        "sentence_text": "Technicians secure the dr'a'wbar to ensure safe tool change procedures.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -501,33 +501,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "check the engine oil level",
-            "item_b": "look at how much oil is in the engine"
+            "item_a": "Check",
+            "item_b": "the machine guard alignment"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "drain the used engine oil",
-            "item_b": "remove the old oil from the engine"
+            "item_a": "Switch off",
+            "item_b": "the main power supply"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "remove the old oil filter",
-            "item_b": "take out the used oil filter"
+            "item_a": "Loosen",
+            "item_b": "the chuck using the key"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "fit a new oil filter",
-            "item_b": "install a new oil filter"
+            "item_a": "Remove",
+            "item_b": "the worn cutting tool"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "tighten the drain plug",
-            "item_b": "make the drain plug secure"
+            "item_a": "Fit",
+            "item_b": "the new cutting tool securely"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "run the engine briefly",
-            "item_b": "operate the engine for a short time"
+            "item_a": "Run",
+            "item_b": "the machine at low speed"
           }
         ]
       },
@@ -536,52 +536,52 @@
         "Questions": [
           {
             "id": "l_15_1",
-            "question": "Why does the instructor check the oil level before draining it?",
-            "answer": "Because it helps check the oil condition and quantity.",
+            "question": "Why does the instructor check the machine guard alignment first?",
+            "answer": "Because the guard protects the operator.",
             "options": [
-              "Because it helps check the draining and quantity.",
-              "Because it helps check the oil condition and quantity.",
-              "Because it helps check the oil condition and engine."
+              "Because the operator protects the guard.",
+              "Because the guard protects the operator.",
+              "Because the guard protects the machine."
             ]
           },
           {
             "id": "l_15_2",
-            "question": "Why is the used oil allowed to drain completely?",
-            "answer": "To avoid problems caused by old oil remaining inside.",
+            "question": "Why does the instructor switch off the main power supply before loosening the chuck?",
+            "answer": "To ensure the machine is completely safe to work on.",
             "options": [
-              "To avoid problems during servicing by old oil remaining inside.",
-              "To avoid problems caused by old oil remaining inside.",
-              "To avoid problems caused by old oil under the engine."
+              "To ensure the tool is easier to remove.",
+              "To ensure the machine is completely safe to work on.",
+              "To ensure the machine is working."
             ]
           },
           {
             "id": "l_15_3",
-            "question": "Why is the new oil filter tightened by hand?",
-            "answer": "Because too much force can damage the seal.",
+            "question": "Why is the chuck loosened using the key carefully?",
+            "answer": "To avoid sudden movement of parts.",
             "options": [
-              "Because too many tools can damage the seal.",
-              "Because too much force can damage the seal.",
-              "Because too many filters can damage the seal."
+              "To avoid sudden loss of parts.",
+              "To avoid sudden movement of parts.",
+              "To avoid losing the key."
             ]
           },
           {
             "id": "l_15_4",
-            "question": "Why is the engine run briefly after refilling oil?",
-            "answer": "To check for leaks after servicing.",
+            "question": "Why is the machine run at low speed after fitting the new tool?",
+            "answer": "To check for vibration or unusual noise.",
             "options": [
-              "To refill the engine oil after servicing.",
-              "To check for leaks after servicing.",
-              "To increase engine speed after servicing."
+              "To check for vibration and noise.",
+              "To check for vibration or unusual noise.",
+              "To check for unusual noise and speed."
             ]
           },
           {
             "id": "l_15_5",
-            "question": "Why does the instructor stress the correct order of brake inspection steps?",
-            "answer": "Because missing steps can cause safety problems.",
+            "question": "Why does the instructor stress the order of the safety inspection steps?",
+            "answer": "Because missing steps can cause safety problems later.",
             "options": [
-              "Because missing inspections can cause problems.",
-              "Because missing steps can cause safety problems.",
-              "Because missing brakes are safe."
+              "Because missing steps can cause safety inspections later.",
+              "Because missing steps can cause safety problems later.",
+              "Because missing problems can cause issues later."
             ]
           }
         ]
@@ -599,302 +599,282 @@
         },
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Mechanical Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain a basic cutting tool change on a lathe machine.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a simple machine safety inspection.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Please listen carefully and follow the order of the steps.",
+          "text": "Please listen carefully and follow the steps in the correct order.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the cutting tool change process.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "In our workshop, vehicles usually arrive early in the morning.",
+          "text": "In our workshop, this task is usually done before a machining job begins.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before touching the machine, we check the machine guard alignment.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "This helps us understand the oil condition and the quantity.",
+          "text": "The guard must be in the correct position to protect the operator.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "If the oil looks very dark or smells burnt, it usually means the oil must be changed.",
+          "text": "Next, we switch off the main power supply.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
+          "text": "This step is very important, and we never skip it, even if the machine is not running.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, we drain the used engine oil.",
+          "text": "After that, we loosen the chuck using the key.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "We wait until all the oil flows out.",
+          "text": "We do this slowly and carefully to avoid sudden movement.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "Once the chuck is loose, we remove the worn cutting tool from the tool holder.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
+          "text": "A worn tool affects surface finish and accuracy.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "The filter often contains dirty oil, so we handle it slowly to avoid spilling oil on the floor.",
+          "text": "Then, we fit the new cutting tool securely in the correct position.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Then, we fit a new oil filter.",
+          "text": "We make sure it is tight and properly aligned.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "We tighten it by hand only.",
+          "text": "Finally, we run the machine at low speed.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "We do not use too much force, because overtightening can damage the rubber seal.",
+          "text": "This allows us to check for vibration or unusual noise before starting full operation.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
+          "text": "If everything looks normal, the tool change is complete.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
+          "text": "Now, let’s move on to the machine safety inspection process.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "If there are no leaks, the oil service is complete.",
+          "text": "This inspection is usually done at the start of the day.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
           "id": "t_24",
-          "text": "Now, let’s move to the brake inspection process.",
+          "text": "First, we visually inspect the machine body and controls.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
-          "text": "This inspection is usually done before a test drive.",
+          "text": "Next, we check that emergency stop buttons are working correctly.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
+          "text": "After that, we look for oil leaks or loose parts around the machine.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
-          "text": "If the level is low, there may be brake pad wear or a small leak.",
+          "text": "Finally, we clean the work area and remove unnecessary tools.",
           "audio": "assets/audio/t_27.mp3"
         },
         {
           "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
+          "text": "We always follow this order, because safety checks reduce accidents and machine damage.",
           "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "We look at the thickness and check for uneven wear.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "We always follow these steps carefully, because brake safety is very important.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
           "text": "Missing a step can cause serious problems later.",
-          "audio": "assets/audio/t_33.mp3"
+          "audio": "assets/audio/t_29.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Mechanical Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain a basic cutting tool change on a lathe machine.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a simple machine safety inspection.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the cutting tool change process.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before touching the machine, we check the machine guard alignment.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
-          "audio": "assets/audio/t_12.mp3"
+          "id": "t_11",
+          "text": "Next, we switch off the main power supply.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "After that, we loosen the chuck using the key.",
+          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "Once the chuck is loose, we remove the worn cutting tool from the tool holder.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
-          "audio": "assets/audio/t_16.mp3"
+          "id": "t_17",
+          "text": "Then, we fit the new cutting tool securely in the correct position.",
+          "audio": "assets/audio/t_17.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
-          "audio": "assets/audio/t_21.mp3"
+          "id": "t_18",
+          "text": "We make sure it is tight and properly aligned.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Finally, we run the machine at low speed.",
+          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
+          "text": "Now, let’s move on to the machine safety inspection process.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
+          "text": "After that, we look for oil leaks or loose parts around the machine.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
-          "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
-          "audio": "assets/audio/t_31.mp3"
+          "id": "t_27",
+          "text": "Finally, we clean the work area and remove unnecessary tools.",
+          "audio": "assets/audio/t_27.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Mechanical Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I will explain a basic cutting tool change on a lathe machine.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "After that, we will move on to a simple machine safety inspection.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "First, let’s look at the cutting tool change process.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "Before touching the machine, we check the machine guard alignment.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
-          "audio": "assets/audio/t_12.mp3"
+          "id": "t_11",
+          "text": "Next, we switch off the main power supply.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "After that, we loosen the chuck using the key.",
+          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "Once the chuck is loose, we remove the worn cutting tool from the tool holder.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
-          "audio": "assets/audio/t_16.mp3"
+          "id": "t_17",
+          "text": "Then, we fit the new cutting tool securely in the correct position.",
+          "audio": "assets/audio/t_17.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
-          "audio": "assets/audio/t_21.mp3"
+          "id": "t_18",
+          "text": "We make sure it is tight and properly aligned.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Finally, we run the machine at low speed.",
+          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
+          "text": "Now, let’s move on to the machine safety inspection process.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
+          "text": "After that, we look for oil leaks or loose parts around the machine.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
-          "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
-          "audio": "assets/audio/t_31.mp3"
+          "id": "t_27",
+          "text": "Finally, we clean the work area and remove unnecessary tools.",
+          "audio": "assets/audio/t_27.mp3"
         }
       ]
     }
