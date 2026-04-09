@@ -33,25 +33,25 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "m'a'ndrel",
+        "word_text": "c'a'rburetor",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The m'a'ndrel is shaping the metal tube during the forming process.",
+        "sentence_text": "The technician is not adjusting the c'a'rburetor to improve fuel efficiency.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "gr'a'phite",
+        "word_text": "wiring h'a'rness",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The gr'a'phite is not lubricating the mold surface properly.",
+        "sentence_text": "Is the mechanic installing the wiring h'a'rness in the engine system.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "l'a'dle",
+        "word_text": "'a'rc welding",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Is the l'a'dle pouring molten metal into the casting mold?",
+        "sentence_text": "The operator is using 'a'rc welding to join the metal plates.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },

@@ -41,9 +41,9 @@
       },
       {
         "id": "p_2",
-        "word_text": "p'a'tchcard",
+        "word_text": "J'a'va",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The p'a'tchcards are connecting switches in the network rack.",
+        "sentence_text": "The system is running a J'a'va application on the server right now.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
