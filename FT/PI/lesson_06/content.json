@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "p'o'rt",
+        "word_text": "c'o'rker",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Technicians clean the p'o'rt regularly to improve airflow efficiency to the engine block.",
+        "sentence_text": "A c'o'rker seals bottles tightly during beverage processing.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "c'o'rer",
+        "word_text": "t'o'rque limiter",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The mechanic uses a c'o'rer carefully during engine reconditioning work.",
+        "sentence_text": "The t'o'rque limiter prevents overload in food machinery drives.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "b'o'ring",
+        "word_text": "sc'o'ring blade",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Workers perform b'o'ring slowly to achieve accurate cylinder dimensions consistently.",
+        "sentence_text": "Bakers clean the sc'o'ring blade after dough preparation tasks.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'o'rsion bar",
+        "word_text": "c'o'ring knife",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "A technician adjusts the t'o'rsion bar height during suspension setup procedures.",
+        "sentence_text": "Workers handle the c'o'ring knife carefully during fruit processing work.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -501,33 +501,33 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "check the engine oil level",
-            "item_b": "look at how much oil is in the engine"
+            "item_a": "Remove",
+            "item_b": "internal parts"
           },
           {
             "id": "n_4_a_2",
-            "item_a": "drain the used engine oil",
-            "item_b": "remove the old oil from the engine"
+            "item_a": "Cut",
+            "item_b": "into portions"
           },
           {
             "id": "n_4_a_3",
-            "item_a": "remove the old oil filter",
-            "item_b": "take out the used oil filter"
+            "item_a": "Place",
+            "item_b": "on ice trays"
           },
           {
             "id": "n_4_a_4",
-            "item_a": "fit a new oil filter",
-            "item_b": "install a new oil filter"
+            "item_a": "Slow down",
+            "item_b": "bacterial growth"
           },
           {
             "id": "n_4_a_5",
-            "item_a": "tighten the drain plug",
-            "item_b": "make the drain plug secure"
+            "item_a": "Rest",
+            "item_b": "the dough"
           },
           {
             "id": "n_4_a_6",
-            "item_a": "run the engine briefly",
-            "item_b": "operate the engine for a short time"
+            "item_a": "Check",
+            "item_b": "the texture by hand"
           }
         ]
       },
@@ -536,52 +536,52 @@
         "Questions": [
           {
             "id": "l_15_1",
-            "question": "Why does the instructor check the oil level before draining it?",
-            "answer": "Because it helps check the oil condition and quantity.",
+            "question": "Why does the instructor check the fish before washing it?",
+            "answer": "Because quality must be checked before accepting the fish",
             "options": [
-              "Because it helps check the draining and quantity.",
-              "Because it helps check the oil condition and quantity.",
-              "Because it helps check the oil condition and engine."
+              "Because washing is done just after accepting the fish",
+              "Because quality must be checked before accepting the fish",
+              "Because the fish must be cleaned immediately after delivery"
             ]
           },
           {
             "id": "l_15_2",
-            "question": "Why is the used oil allowed to drain completely?",
-            "answer": "To avoid problems caused by old oil remaining inside.",
+            "question": "Why is the fish placed on ice trays instead of being cut immediately?",
+            "answer": "To keep the temperature low and slow bacterial growth",
             "options": [
-              "To avoid problems during servicing by old oil remaining inside.",
-              "To avoid problems caused by old oil remaining inside.",
-              "To avoid problems caused by old oil under the engine."
+              "to keep the temperature low and to show bacterial growth",
+              "To keep the temperature low and slow bacterial growth",
+              "To remove excess water from the fish"
             ]
           },
           {
             "id": "l_15_3",
-            "question": "Why is the new oil filter tightened by hand?",
-            "answer": "Because too much force can damage the seal.",
+            "question": "What happens if the temperature rises during seafood handling?",
+            "answer": "The quality drops quickly",
             "options": [
-              "Because too many tools can damage the seal.",
-              "Because too much force can damage the seal.",
-              "Because too many filters can damage the seal."
+              "The fish is easier to handle",
+              "The quality drops quickly",
+              "The fish dries faster"
             ]
           },
           {
             "id": "l_15_4",
-            "question": "Why is the engine run briefly after refilling oil?",
-            "answer": "To check for leaks after servicing.",
+            "question": "Why does the mixer start at a low speed in the bakery section?",
+            "answer": "To prevent flour from spilling out",
             "options": [
-              "To refill the engine oil after servicing.",
-              "To check for leaks after servicing.",
-              "To increase engine speed after servicing."
+              "To mix the dough more quickly",
+              "To prevent flour from spilling out",
+              "To reduce the mixing time and spill out flour"
             ]
           },
           {
             "id": "l_15_5",
-            "question": "Why does the instructor stress the correct order of brake inspection steps?",
-            "answer": "Because missing steps can cause safety problems.",
+            "question": "Why does the instructor say the dough should not be rushed?",
+            "answer": "Because proper fermentation is important for good bread",
             "options": [
-              "Because missing inspections can cause problems.",
-              "Because missing steps can cause safety problems.",
-              "Because missing brakes are safe."
+              "Because fermentation is not essential for good bread",
+              "Because proper fermentation is important for good bread",
+              "Because the dough becomes harder to shape"
             ]
           }
         ]
@@ -599,302 +599,322 @@
         },
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Food Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I’ll talk about a process from the seafood unit, and then we’ll move on to the bakery section.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
+          "text": "Please listen carefully to the steps.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Please listen carefully and follow the order of the steps.",
+          "text": "First, let’s look at the seafood handling process.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
+          "text": "In our unit, we receive fresh fish early in the day, usually from local suppliers.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "In our workshop, vehicles usually arrive early in the morning.",
+          "text": "Before anything else, we check the quality.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
+          "text": "We look at the eyes, we smell the fish, and we press the flesh lightly.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "This helps us understand the oil condition and the quantity.",
+          "text": "If the fish smells unpleasant or feels too soft, we do not accept it.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "If the oil looks very dark or smells burnt, it usually means the oil must be changed.",
+          "text": "Next, we wash the fish with clean, cold water.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
+          "text": "This step removes dirt and surface bacteria.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, we drain the used engine oil.",
+          "text": "After that, we remove the scales and the internal parts.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "We wait until all the oil flows out.",
+          "text": "At this point, we do not cut the fish into portions.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "Instead, we place the cleaned fish on ice trays.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
+          "text": "This keeps the temperature low and slows bacterial growth.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "The filter often contains dirty oil, so we handle it slowly to avoid spilling oil on the floor.",
+          "text": "During this stage, I often ask questions:",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Then, we fit a new oil filter.",
+          "text": "Do you wear gloves?",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "We tighten it by hand only.",
+          "text": "Does the fish stay cold enough?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "We do not use too much force, because overtightening can damage the rubber seal.",
+          "text": "If the temperature rises, the quality drops quickly, so we monitor it throughout the process.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
+          "text": "Now, let’s move to the bakery section.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
+          "text": "This is where we prepare dough every morning.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "If there are no leaks, the oil service is complete.",
+          "text": "First, we measure the flour carefully.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
           "id": "t_24",
-          "text": "Now, let’s move to the brake inspection process.",
+          "text": "We don’t guess the quantities, because accuracy matters in baking.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
-          "text": "This inspection is usually done before a test drive.",
+          "text": "Then, we add yeast, salt, sugar, and water to the mixing bowl.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
+          "text": "Next, the mixer runs at a low speed.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
-          "text": "If the level is low, there may be brake pad wear or a small leak.",
+          "text": "Why do we start slowly?",
           "audio": "assets/audio/t_27.mp3"
         },
         {
           "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
+          "text": "Because it prevents flour from spilling.",
           "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
+          "text": "After a short time, the dough begins to form, and we check the texture by hand.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
           "id": "t_30",
-          "text": "We look at the thickness and check for uneven wear.",
+          "text": "Is it smooth?",
           "audio": "assets/audio/t_30.mp3"
         },
         {
           "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
+          "text": "Does it stretch well?",
           "audio": "assets/audio/t_31.mp3"
         },
         {
           "id": "t_32",
-          "text": "We always follow these steps carefully, because brake safety is very important.",
+          "text": "If it feels too dry, we add a little water.",
           "audio": "assets/audio/t_32.mp3"
         },
         {
           "id": "t_33",
-          "text": "Missing a step can cause serious problems later.",
+          "text": "If it sticks too much, we add some flour.",
           "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "Finally, the dough rests for a while.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "During this time, the yeast produces gas, and the dough rises naturally.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "We do not rush this stage, because good bread depends on proper fermentation.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Please remember, these processes follow a clear order, and missing a step causes problems later on.",
+          "audio": "assets/audio/t_37.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Food Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I’ll talk about a process from the seafood unit, and then we’ll move on to the bakery section.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
-          "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
-          "audio": "assets/audio/t_5.mp3"
+          "id": "t_6",
+          "text": "First, let’s look at the seafood handling process.",
+          "audio": "assets/audio/t_6.mp3"
         },
         {
-          "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
-          "audio": "assets/audio/t_7.mp3"
+          "id": "t_8",
+          "text": "Before anything else, we check the quality.",
+          "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
-          "audio": "assets/audio/t_9.mp3"
+          "id": "t_13",
+          "text": "After that, we remove the scales and the internal parts.",
+          "audio": "assets/audio/t_13.mp3"
         },
         {
-          "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
-          "audio": "assets/audio/t_12.mp3"
+          "id": "t_14",
+          "text": "At this point, we do not cut the fish into portions.",
+          "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "Instead, we place the cleaned fish on ice trays.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
-          "audio": "assets/audio/t_16.mp3"
+          "id": "t_23",
+          "text": "First, we measure the flour carefully.",
+          "audio": "assets/audio/t_23.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
-          "audio": "assets/audio/t_22.mp3"
+          "id": "t_25",
+          "text": "Then, we add yeast, salt, sugar, and water to the mixing bowl.",
+          "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
+          "text": "Next, the mixer runs at a low speed.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
-          "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
           "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
+          "text": "After a short time, the dough begins to form, and we check the texture by hand.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
-          "audio": "assets/audio/t_31.mp3"
+          "id": "t_34",
+          "text": "Finally, the dough rests for a while.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "During this time, the yeast produces gas, and the dough rises naturally.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Please remember, these processes follow a clear order, and missing a step causes problems later on.",
+          "audio": "assets/audio/t_37.mp3"
         }
       ],
       "activity_e": [
         {
           "id": "t_3",
-          "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
+          "text": "Today, I want to explain two routine processes that we practise in the Food Technology section.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "First, I will explain an engine oil service.",
+          "text": "First, I’ll talk about a process from the seafood unit, and then we’ll move on to the bakery section.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
-          "id": "t_5",
-          "text": "After that, we will move on to a basic brake inspection.",
-          "audio": "assets/audio/t_5.mp3"
+          "id": "t_6",
+          "text": "First, let’s look at the seafood handling process.",
+          "audio": "assets/audio/t_6.mp3"
         },
         {
-          "id": "t_7",
-          "text": "First, let’s look at the engine oil service.",
-          "audio": "assets/audio/t_7.mp3"
+          "id": "t_8",
+          "text": "Before anything else, we check the quality.",
+          "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_9",
-          "text": "Before anything else, we check the engine oil level using the dipstick.",
-          "audio": "assets/audio/t_9.mp3"
+          "id": "t_13",
+          "text": "After that, we remove the scales and the internal parts.",
+          "audio": "assets/audio/t_13.mp3"
         },
         {
-          "id": "t_12",
-          "text": "Next, we place an oil tray under the engine.",
-          "audio": "assets/audio/t_12.mp3"
+          "id": "t_14",
+          "text": "At this point, we do not cut the fish into portions.",
+          "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "We do not rush this step, because old oil left inside the engine can cause problems.",
+          "text": "Instead, we place the cleaned fish on ice trays.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "After that, we remove the old oil filter carefully.",
-          "audio": "assets/audio/t_16.mp3"
+          "id": "t_23",
+          "text": "First, we measure the flour carefully.",
+          "audio": "assets/audio/t_23.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Finally, we run the engine briefly and check for leaks.",
-          "audio": "assets/audio/t_22.mp3"
+          "id": "t_25",
+          "text": "Then, we add yeast, salt, sugar, and water to the mixing bowl.",
+          "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "First, we check the brake fluid level in the reservoir.",
+          "text": "Next, the mixer runs at a low speed.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
-          "id": "t_28",
-          "text": "Next, we inspect the brake hoses and connections.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
           "id": "t_29",
-          "text": "After that, we remove the wheel and check the brake pads.",
+          "text": "After a short time, the dough begins to form, and we check the texture by hand.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_31",
-          "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
-          "audio": "assets/audio/t_31.mp3"
+          "id": "t_34",
+          "text": "Finally, the dough rests for a while.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "During this time, the yeast produces gas, and the dough rises naturally.",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "Please remember, these processes follow a clear order, and missing a step causes problems later on.",
+          "audio": "assets/audio/t_37.mp3"
         }
       ]
     }
