@@ -14,27 +14,27 @@
     },
     "content": [
       {
-        "question": "The wheel spanners and torque wrenches ___________ very heavy.",
+        "question": "Network cables and power adapters ___________ very heavy.",
         "options": ["are usually", "is", "usually are", "were"],
         "answer": "are usually"
       },
       {
-        "question": "The engine hoists ___________ very noisy and disturbing in the service bay yesterday.",
+        "question": "The desktop computers ___________ noisy and disturbing in the computer lab yesterday.",
         "options": ["are", "is", "was", "were"],
         "answer": "were"
       },
       {
-        "question": "The instructor ___________ comprehensively checking the brake system right now.",
+        "question": "The lab instructor ___________ carefully checking the server status right now.",
         "options": ["is", "are", "was", "were"],
         "answer": "is"
       },
       {
-        "question": "The spark plugs ___________ worn out, so we didn’t have to replace them during the service two days ago.",
+        "question": "The USB drives ___________ corrupted, so we didn’t have to replace them during the system check two days ago.",
         "options": ["aren’t", "isn’t", "wasn’t", "weren’t"],
         "answer": "weren’t"
       },
       {
-        "question": "The trainees ___________ clean the oil dipsticks carefully, and sometimes do them haphazardly.",
+        "question": "The trainees ___________ clean the keyboards carefully and sometimes do them haphazardly.",
         "options": [
           "don’t always",
           "always don’t",
@@ -44,27 +44,27 @@
         "answer": "don’t always"
       },
       {
-        "question": "The mechanics ___________ very tired after the long service schedule last week.",
+        "question": "The technicians ___________ very tired after the network maintenance work last week.",
         "options": ["is", "are", "was", "were"],
         "answer": "were"
       },
       {
-        "question": "Look! There ___________ a portable air compressor in this workshop.",
+        "question": "Look! There ___________ a multifunction printer in this ICT lab.",
         "options": ["is", "are", "was", "were"],
         "answer": "is"
       },
       {
-        "question": "___________ they inspecting the coolant level this morning?",
+        "question": "___________ they updating the operating system today?",
         "options": ["Is", "Are", "Was", "Were"],
         "answer": "Are"
       },
       {
-        "question": "___________ there any calibrated fuel filters in the storeroom at the moment?",
+        "question": "___________ there any spare Ethernet cables in the storage cabinet at the moment?",
         "options": ["Are", "Is", "Was", "Were"],
         "answer": "Are"
       },
       {
-        "question": "The workshop manager ___________ late for duty last year and received an award for punctuality.",
+        "question": "The systems administrator ___________ late last year and received an award for punctuality.",
         "options": ["is never", "were never", "was never", "never was"],
         "answer": "was never"
       }
@@ -79,154 +79,154 @@
     },
     "content": [
       {
-        "question": "Where are the reflective safety vests?",
+        "question": "Where are the network cables?",
         "options": [
-          "They are on the left side of the cupboard.",
-          "They’re in the left of the table.",
-          "Their at the left of the cupboard.",
+          "They are on the left of the server rack.",
+          "They’re in the left of the desk.",
+          "Their at the left of the cabinet.",
           "There hanging on the left."
         ],
-        "answer": "They are on the left side of the cupboard."
+        "answer": "They are on the left of the server rack."
       },
       {
-        "question": "Where is the emergency stop handle for this machine?",
+        "question": "Where is the emergency power switch for this computer?",
         "options": [
-          "They’re are on the right.",
-          "Its in the right of the motor.",
-          "It’s at the right of machine.",
-          "It’s to the right of the power switch."
+          "There are on the right.",
+          "Its in the right of the monitor.",
+          "It’s at the right of computer.",
+          "It’s on the right side of the power socket."
         ],
-        "answer": "It’s to the right of the power switch."
+        "answer": "It’s on the right side of the power socket."
       },
       {
-        "question": "Do we need anything to complete this repair?",
+        "question": "Do we need anything to complete this system setup?",
         "options": [
-          "Yes, we need a jar of protective paint.",
-          "Yes, we need a coat of protective paint.",
-          "Yes, they need a cartridge of protective paint.",
-          "Yes, we need a packet of protective paint."
+          "Yes, we need a USB flash drive.",
+          "Yes, we need a cable of USB flash drive.",
+          "Yes, they need a cartridge of USB flash drive.",
+          "Yes, we need a packet of USB flash drive."
         ],
-        "answer": "Yes, we need a coat of protective paint."
+        "answer": "Yes, we need a USB flash drive."
       },
       {
-        "question": "Do we need anything to add to the order form?",
+        "question": "Do we need to add anything to the equipment list?",
         "options": [
-          "Yes, we need a length of calibrated shims.",
-          "Yes, we need a litre of calibrated shims.",
-          "Yes, we need a set of calibrated shims.",
-          "Yes, we need a tub of calibrated shims."
+          "Yes, we need a length of network adapters.",
+          "Yes, we need a litre of network adapters.",
+          "Yes, we need a set of network adapters.",
+          "Yes, we need a tub of network adapters."
         ],
-        "answer": "Yes, we need a set of calibrated shims."
+        "answer": "Yes, we need a set of network adapters."
       },
       {
         "question": "Who is he?",
         "options": [
-          "His our workshop supervisor.",
-          "He’s our workshop supervisor.",
-          "Hes our workshop supervisor.",
-          "She’s our workshop supervisor."
+          "His our IT supervisor.",
+          "He’s our IT supervisor.",
+          "Hes our IT supervisor.",
+          "She’s our IT supervisor."
         ],
-        "answer": "He’s our workshop supervisor."
+        "answer": "He’s our IT supervisor."
       },
       {
-        "question": "Where is the manageress now?",
+        "question": "Where is the technician now?",
         "options": [
-          "Shes in the packaging workshop, in front of the desktop.",
-          "Her at the packaging workshop, behind the desktop.",
-          "She’s in the packaging workshop, in front of the desktop.",
-          "They are busy at the packaging workshop."
+          "Shes in the computer lab, in front of the printer.",
+          "Her at the computer lab, behind the printer.",
+          "He’s in the computer lab, in front of the printer.",
+          "They are busy at the computer lab."
         ],
-        "answer": "She’s in the packaging workshop, in front of the desktop."
+        "answer": "He’s in the computer lab, in front of the printer."
       },
       {
         "question": "What are these?",
         "options": [
-          "They are the foreman’s spanners.",
-          "Their the foreman’s spanners.",
-          "There the foreman’s spanners.",
-          "They are the foremans spanner’s."
+          "They are the technician’s keyboards.",
+          "Their the technician’s keyboards.",
+          "There the technician’s keyboards.",
+          "They are the technicians keyboard’s."
         ],
-        "answer": "They are the foreman’s spanners."
+        "answer": "They are the technician’s keyboards."
       },
       {
         "question": "What is it?",
         "options": [
-          "Its the supervisors’ multimeter.",
-          "It’s the supervisor multimeter.",
-          "It’s the supervisor, his multimeter.",
-          "It’s the supervisor’s multimeter."
+          "It’s the supervisor router.",
+          "It’s the supervisor, his router.",
+          "Its the supervisors’ router.",
+          "It’s the supervisor’s router."
         ],
-        "answer": "It’s the supervisor’s multimeter."
+        "answer": "It’s the supervisor’s router."
       },
       {
-        "question": "Is there a calibrated torque wrench anywhere in the tool room?",
+        "question": "Is there a spare network cable anywhere in the server room?",
         "options": [
-          "No, there aren’t. In fact, there isn’t any calibrated torque wrench at the moment.",
-          "No, there’s not. In fact, there isn’t some calibrated torque wrenches in the tool room.",
-          "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment.",
-          "No, there is’nt. In fact, there is’nt calibrated torque wrench at the moment."
+          "No, there aren’t. In fact, there isn’t any spare network cable at the moment.",
+          "No, there’s not. In fact, there isn’t some spare network cables in the server room.",
+          "No, there isn’t. In fact, there aren’t any spare network cables in the server room at the moment.",
+          "No, there is’nt. In fact, there are no any spare network cable at the moment."
         ],
-        "answer": "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment."
+        "answer": "No, there isn’t. In fact, there aren’t any spare network cables in the server room at the moment."
       },
       {
-        "question": "Is there an inspection lamp anywhere near the maintenance shed?",
+        "question": "Is there a working mouse anywhere near the help desk?",
         "options": [
-          "No, there aren’t. In fact, there isn’t any inspection lamp at the maintenance shed at the moment.",
-          "No, their isn’t. In fact, there isn’t some inspection lamp in the maintenance shed at the moment.",
-          "No, there is’nt. In fact, there is’nt inspection lamps at the moment.",
-          "No, there isn’t. In fact, there aren’t any inspection lamps near the maintenance shed at the moment."
+          "No, there aren’t. In fact, there isn’t any working mouse at the help desk.",
+          "No, their isn’t. In fact, there isn’t some working mouse near the help desk.",
+          "No, there is’nt. In fact, there are no any working mice at the moment.",
+          "No, there isn’t. In fact, there aren’t any working mice near the help desk at the moment."
         ],
-        "answer": "No, there isn’t. In fact, there aren’t any inspection lamps near the maintenance shed at the moment."
+        "answer": "No, there isn’t. In fact, there aren’t any working mice near the help desk at the moment."
       },
       {
-        "question": "Do you write reports on Friday mornings?",
+        "question": "Do you update software on Monday mornings?",
         "options": [
-          "No, I don’t. But I write reports on Friday afternoons. I have more time to do it on Friday afternoons than on Friday mornings.",
-          "No, I didn’t. But I write reports on Thursday mornings as I had more time than Friday morning.",
-          "No, she doesn’t. But she writes reports on Thursday afternoons as she has more time than Friday mornings.",
-          "No, I doesn’t. I write reports on Friday evenings as I have more time than in Friday mornings."
+          "No, I don’t. But I update software on Monday afternoons. I have more time in the afternoons than in the mornings.",
+          "No, I didn’t. But I update software on Tuesday mornings.",
+          "No, she doesn’t. But she updates software on Monday afternoons.",
+          "No, I doesn’t. I update software on Monday evenings."
         ],
-        "answer": "No, I don’t. But I write reports on Friday afternoons. I have more time to do it on Friday afternoons than on Friday mornings."
+        "answer": "No, I don’t. But I update software on Monday afternoons. I have more time in the afternoons than in the mornings."
       },
       {
-        "question": "Do you order office supplies on Mondays?",
+        "question": "Do you back up files on Fridays?",
         "options": [
-          "No, we didn’t. But we order on Wednesdays as we have more time than at Mondays.",
-          "No, we don’t. But we orders on Wednesdays as we have more time than during Mondays.",
-          "No, we don’t. But we order them on Wednesdays as we have more time than on Mondays.",
-          "No, we doesn’t. But we order on Wednesdays as we have more time than at Mondays ."
+          "No, we didn’t. But we back them up on Thursdays as we have more time.",
+          "No, we don’t. But we backs them up on Thursdays.",
+          "No, we don’t. But we back them up on Thursdays as we have more time than on Fridays.",
+          "No, we doesn’t. But we back them up on Thursdays."
         ],
-        "answer": "No, we don’t. But we order them on Wednesdays as we have more time than on Mondays."
+        "answer": "No, we don’t. But we back them up on Thursdays as we have more time than on Fridays."
       },
       {
-        "question": "Does she usually enter the log book on Thursday afternoons?",
+        "question": "Does she usually check emails in the morning?",
         "options": [
-          "No, she rarely enter the log book in Thursday afternoons. She usually enter it in Friday afternoons.",
-          "No, she rarely enters the log book on Thursday afternoons. She usually enters it on Friday afternoons.",
-          "No, she rarely is entering the log book on Thursday afternoons. She usually is entering it on Friday afternoons.",
-          "No, she rarely entered the log book on Thursday afternoon. She usually entered it on Friday afternoon."
+          "No, she rarely check emails in the morning. She usually check them in the afternoon.",
+          "No, she rarely checks emails in the morning. She usually checks them in the afternoon.",
+          "No, she rarely is checking emails in the morning.",
+          "No, she rarely checked emails in the morning."
         ],
-        "answer": "No, she rarely enters the log book on Thursday afternoons. She usually enters it on Friday afternoons."
+        "answer": "No, she rarely checks emails in the morning. She usually checks them in the afternoon."
       },
       {
-        "question": "Does the safety inspector usually visit the site on Mondays?",
+        "question": "Does the system administrator usually visit on Mondays?",
         "options": [
-          "No, he rarely visits the site on Mondays. He usually visits it on Wednesdays.",
-          "No, he rarely visit it in Mondays. He usually visit in Wednesdays.",
-          "No, his rarely visiting on Monday. He usually visiting on Wednesday.",
-          "No, he rarely visited it  on Mondays. He usually visited on Wednesdays."
+          "No, he rarely visits on Mondays. He usually visits on Wednesdays.",
+          "No, he rarely visit in Mondays. He usually visit in Wednesdays.",
+          "No, his rarely visiting on Mondays.",
+          "No, he rarely visited on Mondays."
         ],
-        "answer": "No, he rarely visits the site on Mondays. He usually visits it on Wednesdays."
+        "answer": "No, he rarely visits on Mondays. He usually visits on Wednesdays."
       },
       {
-        "question": "Is there a safety helmet anywhere on the inspection site?",
+        "question": "Is there a spare headset anywhere in the call centre?",
         "options": [
-          "No, there aren’t. In fact, there aren’t no helmets on the inspection site at the moment.",
-          "No, theirs not. In fact, There isn’t some helmet on the inspection site at the moment.",
-          "No, there isn’t. In fact, there aren’t any safety helmets on the inspection site at the moment.",
-          "No, there’s not. In fact, there’s no any safety helmets on the inspection site at the moment."
+          "No, there aren’t. In fact, there aren’t no headsets in the call centre.",
+          "No, theirs not. In fact, there isn’t some headset in the call centre.",
+          "No, there isn’t. In fact, there aren’t any spare headsets in the call centre at the moment.",
+          "No, there’s not. In fact, there’s no any spare headsets in the call centre."
         ],
-        "answer": "No, there isn’t. In fact, there aren’t any safety helmets on the inspection site at the moment."
+        "answer": "No, there isn’t. In fact, there aren’t any spare headsets in the call centre at the moment."
       }
     ]
   },
@@ -239,137 +239,142 @@
     },
     "content": [
       {
-        "words": ["The", "flexible", "rubber", "hose", "bends", "easily", "."],
-        "sentence": "The flexible rubber hose bends easily."
-      },
-      {
         "words": [
-          "These",
-          "plastic",
-          "clips",
-          "do",
-          "not",
-          "break",
-          "during",
-          "inspection",
+          "The",
+          "server",
+          "connection",
+          "is",
+          "secure",
+          "after",
+          "firewall",
+          "configuration",
           "."
         ],
-        "sentence": "These plastic clips do not break during inspection."
+        "sentence": "The server connection is secure after firewall configuration."
       },
       {
         "words": [
           "The",
-          "battery",
-          "terminal",
-          "was",
-          "secure",
-          "and",
-          "ensured",
-          "a",
-          "stable",
-          "connection",
+          "network",
+          "cable",
+          "is",
+          "damaged",
+          "near",
+          "the",
+          "router",
           "."
         ],
-        "sentence": "The battery terminal was secure and ensured a stable connection."
+        "sentence": "The network cable is damaged near the router."
+      },
+      {
+        "words": [
+          "The",
+          "power",
+          "connector",
+          "is",
+          "loose",
+          "on",
+          "the",
+          "desktop",
+          "unit",
+          "."
+        ],
+        "sentence": "The power connector is loose on the desktop unit."
+      },
+      {
+        "words": [
+          "Do",
+          "administrators",
+          "activate",
+          "the",
+          "user",
+          "accounts",
+          "on",
+          "this",
+          "system",
+          "?"
+        ],
+        "sentence": "Do administrators activate the user accounts on this system?"
+      },
+      {
+        "words": [
+          "The",
+          "printer",
+          "is",
+          "not",
+          "offline",
+          "during",
+          "maintenance",
+          "."
+        ],
+        "sentence": "The printer is not offline during maintenance."
       },
       {
         "words": [
           "Was",
           "the",
-          "heavy",
-          "machine",
-          "placed",
-          "on",
-          "a",
-          "level",
-          "surface",
+          "router",
+          "configured",
+          "correctly",
+          "yesterday",
           "?"
         ],
-        "sentence": "Was the heavy machine placed on a level surface?"
+        "sentence": "Was the router configured correctly yesterday?"
       },
       {
         "words": [
           "The",
-          "sensor",
-          "wire",
-          "is",
-          "too",
-          "thin",
-          "for",
-          "this",
-          "task",
+          "software",
+          "does",
+          "not",
+          "support",
+          "older",
+          "hardware",
           "."
         ],
-        "sentence": "The sensor wire is too thin for this task."
+        "sentence": "The software does not support older hardware."
       },
       {
         "words": [
-          "The",
-          "bearing",
-          "surfaces",
-          "were",
-          "smooth",
-          "after",
-          "lubrication",
-          "."
-        ],
-        "sentence": "The bearing surfaces were smooth after lubrication."
-      },
-      {
-        "words": [
-          "Were",
+          "Engineers",
+          "test",
           "the",
-          "guide",
-          "rods",
-          "straight",
-          "after",
-          "the",
-          "last",
-          "alignment",
-          "?"
-        ],
-        "sentence": "Were the guide rods straight after the last alignment?"
-      },
-      {
-        "words": [
-          "Properly",
-          "tightened",
-          "mounting",
-          "bolts",
-          "keep",
-          "the",
-          "machine",
-          "stable",
-          "."
-        ],
-        "sentence": "Properly tightened mounting bolts keep the machine stable."
-      },
-      {
-        "words": [
-          "These",
-          "large",
-          "gears",
-          "usually",
-          "weaken",
-          "after",
-          "long",
-          "use",
-          "."
-        ],
-        "sentence": "These large gears usually weaken after long use."
-      },
-      {
-        "words": [
-          "Does",
-          "the",
-          "insulation",
-          "resist",
-          "heat",
+          "signal",
+          "quality",
           "during",
+          "prolonged",
           "operation",
+          "."
+        ],
+        "sentence": "Engineers test the signal quality during prolonged operation."
+      },
+      {
+        "words": [
+          "The",
+          "network",
+          "connection",
+          "remains",
+          "stable",
+          "during",
+          "peak",
+          "usage",
+          "."
+        ],
+        "sentence": "The network connection remains stable during peak usage."
+      },
+      {
+        "words": [
+          "Is",
+          "the",
+          "backup",
+          "drive",
+          "insulated",
+          "against",
+          "power",
+          "surges",
           "?"
         ],
-        "sentence": "Does the insulation resist heat during operation?"
+        "sentence": "Is the backup drive insulated against power surges?"
       }
     ]
   },
