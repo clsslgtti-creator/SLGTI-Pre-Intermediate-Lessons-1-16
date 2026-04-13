@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "lesson_no": "8 - Assessment No. 1",
+    "level": "Pre-Intermediate",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "question": "The heat-resistant gloves and safety aprons ___________ very heavy.",
+        "options": ["are usually", "is", "usually are", "were"],
+        "answer": "are usually"
+      },
+      {
+        "question": "The dough mixers ___________ very noisy and disturbing in the bakery section yesterday.",
+        "options": ["are", "is", "was", "were"],
+        "answer": "were"
+      },
+      {
+        "question": "The lab assistant ___________ carefully checking the oven temperature right now.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is"
+      },
+      {
+        "question": "The baking trays ___________ damaged, so we didn’t have to replace them during the inspection two days ago.",
+        "options": ["aren’t", "isn’t", "wasn’t", "weren’t"],
+        "answer": "weren’t"
+      },
+      {
+        "question": "The trainees ___________ clean the measuring jugs carefully and sometimes do them haphazardly.",
+        "options": [
+          "don’t always",
+          "always don’t",
+          "doesn’t always",
+          "always were"
+        ],
+        "answer": "don’t always"
+      },
+      {
+        "question": "The kitchen supervisor ___________ very tired after the long production shift last week.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "was"
+      },
+      {
+        "question": "Look! There ___________ a stainless-steel worktable in this food laboratory.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is"
+      },
+      {
+        "question": "___________ they weighing the ingredients today?",
+        "options": ["Is", "Are", "Was", "Were"],
+        "answer": "Are"
+      },
+      {
+        "question": "___________ there any clean storage containers in the pantry at the moment?",
+        "options": ["Are", "Is", "Was", "Were"],
+        "answer": "Are"
+      },
+      {
+        "question": "The production supervisor ___________ late last year and received an award for punctuality.",
+        "options": ["is never", "were never", "was never", "never was"],
+        "answer": "was never"
+      }
+    ]
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Read the following sentences and click on the correct response. \nපහත වාක්‍ය කියවන්න. නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசிக்கவும். சரியான பதிலைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i_x.mp3"
+    },
+    "content": [
+      {
+        "question": "Where are the hairnets?",
+        "options": [
+          "They are on the left of the storage cabinet.",
+          "They’re in the left of the sink.",
+          "Their at the left of the cabinet.",
+          "There hanging on the left."
+        ],
+        "answer": "They are on the left of the storage cabinet."
+      },
+      {
+        "question": "Where is the emergency stop button for this mixer?",
+        "options": [
+          "They are on the right.",
+          "Its in the right of the motor.",
+          "It’s at the right of machine.",
+          "It’s on the right of the control panel."
+        ],
+        "answer": "It’s on the right of the control panel."
+      },
+      {
+        "question": "Do we need anything to complete this food preparation?",
+        "options": [
+          "Yes, we need a bottle of vinegar.",
+          "Yes, we need a coat of vinegar.",
+          "Yes, they need a bowl of vinegar.",
+          "Yes, we need a packet of vinegar."
+        ],
+        "answer": "Yes, we need a bottle of vinegar."
+      },
+      {
+        "question": "Do we need to add anything to the ingredient list?",
+        "options": [
+          "Yes, we need a length of measuring spoons.",
+          "Yes, we need a litre of measuring spoons.",
+          "Yes, we need a set of measuring spoons.",
+          "Yes, we need a tub of measuring spoons."
+        ],
+        "answer": "Yes, we need a set of measuring spoons."
+      },
+      {
+        "question": "Who is she?",
+        "options": [
+          "Shes our food safety officer.",
+          "She’s our food safety officer.",
+          "She our food safety officer.",
+          "He’s our food safety officer."
+        ],
+        "answer": "She’s our food safety officer."
+      },
+      {
+        "question": "Where is the supervisor now?",
+        "options": [
+          "Shes in the preparation area, near the cooker.",
+          "Her at the preparation area, near the cooker.",
+          "She’s in the preparation area, near the cooker.",
+          "They are busy at the preparation area."
+        ],
+        "answer": "She’s in the preparation area, near the cooker."
+      },
+      {
+        "question": "What are these?",
+        "options": [
+          "They are the chef’s knives.",
+          "Their the chef’s knives.",
+          "There the chef’s knives.",
+          "They are the chefs knife’s."
+        ],
+        "answer": "They are the chef’s knives."
+      },
+      {
+        "question": "What is it?",
+        "options": [
+          "It’s the supervisor thermometer.",
+          "It’s the supervisor, his thermometer.",
+          "Its the supervisors’ thermometer.",
+          "It’s the supervisor’s thermometer."
+        ],
+        "answer": "It’s the supervisor’s thermometer."
+      },
+      {
+        "question": "Is there a calibrated weighing scale anywhere in the store room?",
+        "options": [
+          "No, there aren’t. In fact, there isn’t any calibrated weighing scale at the moment.",
+          "No, there’s not. In fact, there isn’t some calibrated weighing scales in the store room.",
+          "No, there isn’t. In fact, there aren’t any calibrated weighing scales in the store room at the moment.",
+          "No, there is’nt. In fact, there is’nt calibrated weighing scale at the moment."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any calibrated weighing scales in the store room at the moment."
+      },
+      {
+        "question": "Is there a cleaning brush anywhere near the washing area?",
+        "options": [
+          "No, there aren’t. In fact, there isn’t any cleaning brush at the washing area at the moment.",
+          "No, their isn’t. In fact, there isn’t some cleaning brush in the washing area at the moment.",
+          "No, there is’nt. In fact, there is’nt cleaning brushes at the moment.",
+          "No, there isn’t. In fact, there aren’t any cleaning brushes near the washing area at the moment."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any cleaning brushes near the washing area at the moment."
+      },
+      {
+        "question": "Do you prepare reports on Monday mornings?",
+        "options": [
+          "No, I don’t. But I prepare reports on Monday afternoons. I have more time in the afternoons than in the mornings.",
+          "No, I didn’t. But I prepare reports on Tuesday mornings as I had more time.",
+          "No, she doesn’t. But she prepares reports on Monday afternoons.",
+          "No, I doesn’t. I prepare reports on Monday evenings."
+        ],
+        "answer": "No, I don’t. But I prepare reports on Monday afternoons. I have more time in the afternoons than in the mornings."
+      },
+      {
+        "question": "Do you clean the processing area on Fridays?",
+        "options": [
+          "No, we didn’t. But we clean it on Thursdays as we have more time.",
+          "No, we don’t. But we cleans it on Thursdays as we have more time.",
+          "No, we don’t. But we clean it on Thursdays as we have more time than on Fridays.",
+          "No, we doesn’t. But we clean on Thursdays as we have more time."
+        ],
+        "answer": "No, we don’t. But we clean it on Thursdays as we have more time than on Fridays."
+      },
+      {
+        "question": "Does she usually record temperatures in the morning?",
+        "options": [
+          "No, she rarely record temperatures in the morning. She usually record them in the afternoon.",
+          "No, she rarely records temperatures in the morning. She usually records them in the afternoon.",
+          "No, she rarely is recording temperatures in the morning.",
+          "No, she rarely recorded temperatures in the morning."
+        ],
+        "answer": "No, she rarely records temperatures in the morning. She usually records them in the afternoon."
+      },
+      {
+        "question": "Does the quality inspector usually visit the workshop on Tuesdays?",
+        "options": [
+          "No, he rarely visits it on Tuesdays. He usually visits it on Thursdays.",
+          "No, he rarely visit it in Tuesdays. He usually visit it  in Thursdays.",
+          "No, his rarely visiting on Tuesday.",
+          "No, he rarely visited on Tuesdays."
+        ],
+        "answer": "No, he rarely visits it on Tuesdays. He usually visits it on Thursdays."
+      },
+      {
+        "question": "Is there a clean apron anywhere in the preparation area?",
+        "options": [
+          "No, there aren’t. In fact, there aren’t no aprons in the preparation area.",
+          "No, theirs not. In fact, there isn’t some apron in the preparation area.",
+          "No, there isn’t. In fact, there aren’t any clean aprons in the preparation area at the moment.",
+          "No, there’s not. In fact, there’s no any clean aprons in the preparation area."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any clean aprons in the preparation area at the moment."
+      }
+    ]
+  },
+  "activity_3": {
+    "marks_for_each_q": 2,
+    "type": "JUMBLED",
+    "instruction": {
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "audio": "assets/audio/a_3_i.mp3"
+    },
+    "content": [
+      {
+        "words": [
+          "Workers",
+          "handle",
+          "diced",
+          "meat",
+          "carefully",
+          "during",
+          "food",
+          "preparation",
+          "."
+        ],
+        "sentence": "Workers handle diced meat carefully during food preparation."
+      },
+      {
+        "words": [
+          "They",
+          "maintain",
+          "hygiene",
+          "in",
+          "food",
+          "handling",
+          "through",
+          "frequent",
+          "sanitising",
+          "."
+        ],
+        "sentence": "They maintain hygiene in food handling through frequent sanitising."
+      },
+      {
+        "words": [
+          "They",
+          "process",
+          "the",
+          "fish",
+          "fillets",
+          "using",
+          "the",
+          "vacuum",
+          "sealer",
+          "."
+        ],
+        "sentence": "They process the fish fillets using the vacuum sealer."
+      },
+      {
+        "words": [
+          "The",
+          "trainees",
+          "preserve",
+          "lime",
+          "pickles",
+          "in",
+          "sealed",
+          "containers",
+          "."
+        ],
+        "sentence": "The trainees preserve lime pickles in sealed containers."
+      },
+      {
+        "words": [
+          "The",
+          "loaf",
+          "of",
+          "bread",
+          "was",
+          "stale",
+          "after",
+          "being",
+          "kept",
+          "outside",
+          "."
+        ],
+        "sentence": "The loaf of bread was stale after being kept outside."
+      },
+      {
+        "words": [
+          "Is",
+          "the",
+          "dough",
+          "moist",
+          "inside",
+          "the",
+          "proving",
+          "cabinet",
+          "?"
+        ],
+        "sentence": "Is the dough moist inside the proving cabinet?"
+      },
+      {
+        "words": [
+          "Are",
+          "the",
+          "sugar",
+          "crystals",
+          "fine",
+          "after",
+          "grinding",
+          "?"
+        ],
+        "sentence": "Are the sugar crystals fine after grinding?"
+      },
+      {
+        "words": [
+          "The",
+          "bones",
+          "were",
+          "too",
+          "hard",
+          "for",
+          "the",
+          "chopping",
+          "knife",
+          "."
+        ],
+        "sentence": "The bones were too hard for the chopping knife."
+      },
+      {
+        "words": [
+          "The",
+          "mixing",
+          "paddle",
+          "was",
+          "rough",
+          "and",
+          "broken",
+          "."
+        ],
+        "sentence": "The mixing paddle was rough and broken."
+      },
+      {
+        "words": [
+          "Trainees",
+          "do",
+          "not",
+          "reuse",
+          "contaminated",
+          "cutting",
+          "boards",
+          "."
+        ],
+        "sentence": "Trainees do not reuse contaminated cutting boards."
+      }
+    ]
+  },
+  "activity_4": {
+    "marks_for_each_q": 2,
+    "type": "LISTENING",
+    "instruction": {
+      "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nපළමුව ප්‍රශ්න කියවන්න. පසුව දෙවරක් වාදනය වන දෙබසට සවන් දෙන්න. ඉන්පසු නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், கவனமாகக் கேளுங்கள். பிறகு சரியான பதிலைக் கிளிக் செய்யவும். முதலில் கேள்விகளை வாசிக்கவும்.",
+      "audio": "assets/audio/a_4_i.mp3"
+    },
+    "audio": "assets/audio/a_4_q.mp3",
+    "content": [
+      {
+        "question": "Why does the instructor describe narrow pathways as a safety concern?",
+        "options": [
+          "Because narrow pathways limit light and visibility.",
+          "Because narrow pathways limit movement and increase risk of collision.",
+          "Because narrow pathways make equipment harder to install."
+        ],
+        "answer": "Because narrow pathways limit movement and increase risk of collision."
+      },
+      {
+        "question": "Why should heavy items not be placed on high shelves?",
+        "options": [
+          "Because lifting heavy items increases high positions.",
+          "Because lifting heavy items from high positions increases risk of injury.",
+          "Because lifting items from high shelves increases effort and energy."
+        ],
+        "answer": "Because lifting heavy items from high positions increases risk of injury."
+      },
+      {
+        "question": "Why is sufficient height clearance important during installation?",
+        "options": [
+          "Because higher spaces improve the appearance of equipment.",
+          "Because limited clearance mainly increases noise levels.",
+          "Because limited clearance can restrict airflow, movement, and maintenance access."
+        ],
+        "answer": "Because limited clearance can restrict airflow, movement, and maintenance access."
+      },
+      {
+        "question": "Why is temperature monitoring necessary in both food labs and ICT facilities?",
+        "options": [
+          "Because both environments operate continuously without shutdowns.",
+          "Because incorrect temperatures can damage products or systems.",
+          "Because temperature only affects equipment efficiency, not safety."
+        ],
+        "answer": "Because incorrect temperatures can damage products or systems."
+      },
+      {
+        "question": "Why does the instructor emphasise controlled, slow startup of machines?",
+        "options": [
+          "Because slow startup saves electrical power.",
+          "Because fast startup improves productivity in most cases.",
+          "Because slow startup reduces stress and allows early fault detection."
+        ],
+        "answer": "Because slow startup reduces stress and allows early fault detection."
+      }
+    ]
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "lesson_no": "8 - Assessment No. 1",
+    "level": "Pre-Intermediate",
+    "section": "Information Communication Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "question": "Network cables and power adapters ___________ very heavy.",
+        "options": ["are usually", "is", "usually are", "were"],
+        "answer": "are usually"
+      },
+      {
+        "question": "The desktop computers ___________ noisy and disturbing in the computer lab yesterday.",
+        "options": ["are", "is", "was", "were"],
+        "answer": "were"
+      },
+      {
+        "question": "The lab instructor ___________ carefully checking the server status right now.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is"
+      },
+      {
+        "question": "The USB drives ___________ corrupted, so we didn’t have to replace them during the system check two days ago.",
+        "options": ["aren’t", "isn’t", "wasn’t", "weren’t"],
+        "answer": "weren’t"
+      },
+      {
+        "question": "The trainees ___________ clean the keyboards carefully and sometimes do them haphazardly.",
+        "options": [
+          "don’t always",
+          "always don’t",
+          "doesn’t always",
+          "always were"
+        ],
+        "answer": "don’t always"
+      },
+      {
+        "question": "The technicians ___________ very tired after the network maintenance work last week.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "were"
+      },
+      {
+        "question": "Look! There ___________ a multifunction printer in this ICT lab.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is"
+      },
+      {
+        "question": "___________ they updating the operating system today?",
+        "options": ["Is", "Are", "Was", "Were"],
+        "answer": "Are"
+      },
+      {
+        "question": "___________ there any spare Ethernet cables in the storage cabinet at the moment?",
+        "options": ["Are", "Is", "Was", "Were"],
+        "answer": "Are"
+      },
+      {
+        "question": "The systems administrator ___________ late last year and received an award for punctuality.",
+        "options": ["is never", "were never", "was never", "never was"],
+        "answer": "was never"
+      }
+    ]
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Read the following sentences and click on the correct response. \nපහත වාක්‍ය කියවන්න. නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசிக்கவும். சரியான பதிலைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i_x.mp3"
+    },
+    "content": [
+      {
+        "question": "Where are the network cables?",
+        "options": [
+          "They are on the left of the server rack.",
+          "They’re in the left of the desk.",
+          "Their at the left of the cabinet.",
+          "There hanging on the left."
+        ],
+        "answer": "They are on the left of the server rack."
+      },
+      {
+        "question": "Where is the emergency power switch for this computer?",
+        "options": [
+          "There are on the right.",
+          "Its in the right of the monitor.",
+          "It’s at the right of computer.",
+          "It’s on the right side of the power socket."
+        ],
+        "answer": "It’s on the right side of the power socket."
+      },
+      {
+        "question": "Do we need anything to complete this system setup?",
+        "options": [
+          "Yes, we need a USB flash drive.",
+          "Yes, we need a cable of USB flash drive.",
+          "Yes, they need a cartridge of USB flash drive.",
+          "Yes, we need a packet of USB flash drive."
+        ],
+        "answer": "Yes, we need a USB flash drive."
+      },
+      {
+        "question": "Do we need to add anything to the equipment list?",
+        "options": [
+          "Yes, we need a length of network adapters.",
+          "Yes, we need a litre of network adapters.",
+          "Yes, we need a set of network adapters.",
+          "Yes, we need a tub of network adapters."
+        ],
+        "answer": "Yes, we need a set of network adapters."
+      },
+      {
+        "question": "Who is he?",
+        "options": [
+          "His our IT supervisor.",
+          "He’s our IT supervisor.",
+          "Hes our IT supervisor.",
+          "She’s our IT supervisor."
+        ],
+        "answer": "He’s our IT supervisor."
+      },
+      {
+        "question": "Where is the technician now?",
+        "options": [
+          "Shes in the computer lab, in front of the printer.",
+          "Her at the computer lab, behind the printer.",
+          "He’s in the computer lab, in front of the printer.",
+          "They are busy at the computer lab."
+        ],
+        "answer": "He’s in the computer lab, in front of the printer."
+      },
+      {
+        "question": "What are these?",
+        "options": [
+          "They are the technician’s keyboards.",
+          "Their the technician’s keyboards.",
+          "There the technician’s keyboards.",
+          "They are the technicians keyboard’s."
+        ],
+        "answer": "They are the technician’s keyboards."
+      },
+      {
+        "question": "What is it?",
+        "options": [
+          "It’s the supervisor router.",
+          "It’s the supervisor, his router.",
+          "Its the supervisors’ router.",
+          "It’s the supervisor’s router."
+        ],
+        "answer": "It’s the supervisor’s router."
+      },
+      {
+        "question": "Is there a spare network cable anywhere in the server room?",
+        "options": [
+          "No, there aren’t. In fact, there isn’t any spare network cable at the moment.",
+          "No, there’s not. In fact, there isn’t some spare network cables in the server room.",
+          "No, there isn’t. In fact, there aren’t any spare network cables in the server room at the moment.",
+          "No, there is’nt. In fact, there are no any spare network cable at the moment."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any spare network cables in the server room at the moment."
+      },
+      {
+        "question": "Is there a working mouse anywhere near the help desk?",
+        "options": [
+          "No, there aren’t. In fact, there isn’t any working mouse at the help desk.",
+          "No, their isn’t. In fact, there isn’t some working mouse near the help desk.",
+          "No, there is’nt. In fact, there are no any working mice at the moment.",
+          "No, there isn’t. In fact, there aren’t any working mice near the help desk at the moment."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any working mice near the help desk at the moment."
+      },
+      {
+        "question": "Do you update software on Monday mornings?",
+        "options": [
+          "No, I don’t. But I update software on Monday afternoons. I have more time in the afternoons than in the mornings.",
+          "No, I didn’t. But I update software on Tuesday mornings.",
+          "No, she doesn’t. But she updates software on Monday afternoons.",
+          "No, I doesn’t. I update software on Monday evenings."
+        ],
+        "answer": "No, I don’t. But I update software on Monday afternoons. I have more time in the afternoons than in the mornings."
+      },
+      {
+        "question": "Do you back up files on Fridays?",
+        "options": [
+          "No, we didn’t. But we back them up on Thursdays as we have more time.",
+          "No, we don’t. But we backs them up on Thursdays.",
+          "No, we don’t. But we back them up on Thursdays as we have more time than on Fridays.",
+          "No, we doesn’t. But we back them up on Thursdays."
+        ],
+        "answer": "No, we don’t. But we back them up on Thursdays as we have more time than on Fridays."
+      },
+      {
+        "question": "Does she usually check emails in the morning?",
+        "options": [
+          "No, she rarely check emails in the morning. She usually check them in the afternoon.",
+          "No, she rarely checks emails in the morning. She usually checks them in the afternoon.",
+          "No, she rarely is checking emails in the morning.",
+          "No, she rarely checked emails in the morning."
+        ],
+        "answer": "No, she rarely checks emails in the morning. She usually checks them in the afternoon."
+      },
+      {
+        "question": "Does the system administrator usually visit on Mondays?",
+        "options": [
+          "No, he rarely visits on Mondays. He usually visits on Wednesdays.",
+          "No, he rarely visit in Mondays. He usually visit in Wednesdays.",
+          "No, his rarely visiting on Mondays.",
+          "No, he rarely visited on Mondays."
+        ],
+        "answer": "No, he rarely visits on Mondays. He usually visits on Wednesdays."
+      },
+      {
+        "question": "Is there a spare headset anywhere in the call centre?",
+        "options": [
+          "No, there aren’t. In fact, there aren’t no headsets in the call centre.",
+          "No, theirs not. In fact, there isn’t some headset in the call centre.",
+          "No, there isn’t. In fact, there aren’t any spare headsets in the call centre at the moment.",
+          "No, there’s not. In fact, there’s no any spare headsets in the call centre."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any spare headsets in the call centre at the moment."
+      }
+    ]
+  },
+  "activity_3": {
+    "marks_for_each_q": 2,
+    "type": "JUMBLED",
+    "instruction": {
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "audio": "assets/audio/a_3_i.mp3"
+    },
+    "content": [
+      {
+        "words": [
+          "The",
+          "server",
+          "connection",
+          "is",
+          "secure",
+          "after",
+          "firewall",
+          "configuration",
+          "."
+        ],
+        "sentence": "The server connection is secure after firewall configuration."
+      },
+      {
+        "words": [
+          "The",
+          "network",
+          "cable",
+          "is",
+          "damaged",
+          "near",
+          "the",
+          "router",
+          "."
+        ],
+        "sentence": "The network cable is damaged near the router."
+      },
+      {
+        "words": [
+          "The",
+          "power",
+          "connector",
+          "is",
+          "loose",
+          "on",
+          "the",
+          "desktop",
+          "unit",
+          "."
+        ],
+        "sentence": "The power connector is loose on the desktop unit."
+      },
+      {
+        "words": [
+          "Do",
+          "administrators",
+          "activate",
+          "the",
+          "user",
+          "accounts",
+          "on",
+          "this",
+          "system",
+          "?"
+        ],
+        "sentence": "Do administrators activate the user accounts on this system?"
+      },
+      {
+        "words": [
+          "The",
+          "printer",
+          "is",
+          "not",
+          "offline",
+          "during",
+          "maintenance",
+          "."
+        ],
+        "sentence": "The printer is not offline during maintenance."
+      },
+      {
+        "words": [
+          "Was",
+          "the",
+          "router",
+          "configured",
+          "correctly",
+          "yesterday",
+          "?"
+        ],
+        "sentence": "Was the router configured correctly yesterday?"
+      },
+      {
+        "words": [
+          "The",
+          "software",
+          "does",
+          "not",
+          "support",
+          "older",
+          "hardware",
+          "."
+        ],
+        "sentence": "The software does not support older hardware."
+      },
+      {
+        "words": [
+          "Engineers",
+          "test",
+          "the",
+          "signal",
+          "quality",
+          "during",
+          "prolonged",
+          "operation",
+          "."
+        ],
+        "sentence": "Engineers test the signal quality during prolonged operation."
+      },
+      {
+        "words": [
+          "The",
+          "network",
+          "connection",
+          "remains",
+          "stable",
+          "during",
+          "peak",
+          "usage",
+          "."
+        ],
+        "sentence": "The network connection remains stable during peak usage."
+      },
+      {
+        "words": [
+          "Is",
+          "the",
+          "backup",
+          "drive",
+          "insulated",
+          "against",
+          "power",
+          "surges",
+          "?"
+        ],
+        "sentence": "Is the backup drive insulated against power surges?"
+      }
+    ]
+  },
+  "activity_4": {
+    "marks_for_each_q": 2,
+    "type": "LISTENING",
+    "instruction": {
+      "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nපළමුව ප්‍රශ්න කියවන්න. පසුව දෙවරක් වාදනය වන දෙබසට සවන් දෙන්න. ඉන්පසු නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், கவனமாகக் கேளுங்கள். பிறகு சரியான பதிலைக் கிளிக் செய்யவும். முதலில் கேள்விகளை வாசிக்கவும்.",
+      "audio": "assets/audio/a_4_i.mp3"
+    },
+    "audio": "assets/audio/a_4_q.mp3",
+    "content": [
+      {
+        "question": "Why does the instructor describe narrow pathways as a safety concern?",
+        "options": [
+          "Because narrow pathways limit light and visibility.",
+          "Because narrow pathways limit movement and increase risk of collision.",
+          "Because narrow pathways make equipment harder to install."
+        ],
+        "answer": "Because narrow pathways limit movement and increase risk of collision."
+      },
+      {
+        "question": "Why should heavy items not be placed on high shelves?",
+        "options": [
+          "Because lifting heavy items increases high positions.",
+          "Because lifting heavy items from high positions increases risk of injury.",
+          "Because lifting items from high shelves increases effort and energy."
+        ],
+        "answer": "Because lifting heavy items from high positions increases risk of injury."
+      },
+      {
+        "question": "Why is sufficient height clearance important during installation?",
+        "options": [
+          "Because higher spaces improve the appearance of equipment.",
+          "Because limited clearance mainly increases noise levels.",
+          "Because limited clearance can restrict airflow, movement, and maintenance access."
+        ],
+        "answer": "Because limited clearance can restrict airflow, movement, and maintenance access."
+      },
+      {
+        "question": "Why is temperature monitoring necessary in both food labs and ICT facilities?",
+        "options": [
+          "Because both environments operate continuously without shutdowns.",
+          "Because incorrect temperatures can damage products or systems.",
+          "Because temperature only affects equipment efficiency, not safety."
+        ],
+        "answer": "Because incorrect temperatures can damage products or systems."
+      },
+      {
+        "question": "Why does the instructor emphasise controlled, slow startup of machines?",
+        "options": [
+          "Because slow startup saves electrical power.",
+          "Because fast startup improves productivity in most cases.",
+          "Because slow startup reduces stress and allows early fault detection."
+        ],
+        "answer": "Because slow startup reduces stress and allows early fault detection."
+      }
+    ]
+  }
+}
