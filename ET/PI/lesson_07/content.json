@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "m'u'ffler",
+        "word_text": "fl'u'x",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Mechanics don’t replace the m'u'ffler unless it’s absolutely necessary.",
+        "sentence_text": "During delicate soldering procedures technicians often apply fl'u'x carefully.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
+        "image": "assets/img/a_1_p_1.jpeg"
       },
       {
         "id": "p_2",
-        "word_text": "c'ou'pling",
+        "word_text": "sh'u'nt",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Do trainees usually align the c'ou'pling before starting engine tests?",
+        "sentence_text": "Do engineers sometimes install a sh'u'nt during testing?",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "pl'u'nger",
+        "word_text": "l'u'g",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Technicians sometimes lubricate the pl'u'nger to ensure smooth injector operation.",
+        "sentence_text": "Electricians don’t always connect the l'u'g securely before panel testing begins.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "g'u'sset",
+        "word_text": "j'u'mper",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Welders often reinforce the g'u'sset to improve chassis structural strength.",
+        "sentence_text": "A j'u'mper is always used to bridge terminals or bypass components.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -114,24 +114,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Does she usually fit the gaskets on Friday afternoons?",
-        "text_b": "No, she rarely fits the gaskets on Friday afternoons. She usually fits them on Monday afternoons.",
+        "text_a": "Does she usually test the switches on Friday afternoons?",
+        "text_b": "No, she rarely tests the switches on Friday afternoons. She usually tests them on Monday afternoons.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "Does she usually lubricate the bearings on Tuesday mornings?",
-        "text_b": "No, she rarely lubricates the bearings on Tuesday mornings. She usually lubricates them on Friday mornings.",
+        "text_a": "Does she usually route the cables on Tuesday mornings?",
+        "text_b": "No, she rarely routes the cables on Tuesday mornings. She usually routes them on Monday mornings.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Does she usually inspect the flanges on Wednesday afternoons?",
-        "text_b": "No, she rarely inspects the flanges on Wednesday afternoons. She usually inspects them on Saturday afternoons.",
+        "text_a": "Does she usually replace the fuses on Wednesday afternoons?",
+        "text_b": "No, she rarely replaces the fuses on Wednesday afternoons. She usually replaces them on Monday afternoons.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -140,80 +140,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "go grocery shopping"
+        "word": " tighten the terminals"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "go for a walk"
+        "word": "label the panels"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "do laundry"
+        "word": "apply the fluxes"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "help with household chores"
+        "word": "install the shunts"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "learn sign language"
+        "word": "crimp the lugs"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "empty the garbage bin"
+        "word": "connect the jumpers"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Does she usually adjust the valves on Thursday mornings?",
-        "text_b": "No, she rarely adjusts the valves on Thursday mornings. She usually adjusts them on Tuesday mornings.",
+        "text_a": "Does she usually tighten the terminals on Thursday mornings?",
+        "text_b": "No, she rarely tightens the terminals on Thursday mornings. She usually tightens them on Monday mornings.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "Does she usually secure the brackets on Friday afternoons?",
-        "text_b": "No, she rarely secures the brackets on Friday afternoons. She usually secures them on Monday afternoons.",
+        "text_a": "Does she usually label the panels on Friday afternoons?",
+        "text_b": "No, she rarely labels the panels on Friday afternoons. She usually labels them on Monday afternoons.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Does she usually replace the mufflers on Friday evenings?",
-        "text_b": "No, she rarely replaces the mufflers on Friday evenings. She usually replaces them on Monday evenings.",
+        "text_a": "Does she usually apply the fluxes on Friday mornings?",
+        "text_b": "No, she rarely applies the fluxes on Friday mornings. She usually applies them on Monday mornings.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "Does she usually tighten the couplings on Tuesday afternoons?",
-        "text_b": "No, she rarely tightens the couplings on Tuesday afternoons. She usually tightens them on Friday afternoons.",
+        "text_a": "Does she usually install the shunts on Tuesday afternoons?",
+        "text_b": "No, she rarely installs the shunts on Tuesday afternoons. She usually installs them on Monday afternoons.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "Does she usually clean the plungers on Wednesday evenings?",
-        "text_b": "No, she rarely cleans the plungers on Wednesday evenings. She usually cleans them on Monday evenings.",
+        "text_a": "Does she usually crimp the lugs on Wednesday evenings?",
+        "text_b": "No, she rarely crimps the lugs on Wednesday evenings. She usually crimps them on Monday evenings.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "Does she usually weld the gussets on Thursday afternoons?",
-        "text_b": "No, she rarely welds the gussets on Thursday afternoons. She usually welds them on Tuesday afternoons.",
+        "text_a": "Does she usually connect the jumpers on Thursday mornings?",
+        "text_b": "No, she rarely connects the jumpers on Thursday mornings. She usually connects them on Monday mornings.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
