@@ -1,0 +1,432 @@
+{
+  "meta": {
+    "lesson_no": "8 - Assessment No. 1",
+    "level": "Pre-Intermediate",
+    "section": "Electrical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "question": "The wheel spanners and torque wrenches ___________ very heavy.",
+        "options": ["are usually", "is", "usually are", "were"],
+        "answer": "are usually"
+      },
+      {
+        "question": "The engine hoists ___________ very noisy and disturbing in the service bay yesterday.",
+        "options": ["are", "is", "was", "were"],
+        "answer": "were"
+      },
+      {
+        "question": "The instructor ___________ comprehensively checking the brake system right now.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is"
+      },
+      {
+        "question": "The spark plugs ___________ worn out, so we didn’t have to replace them during the service two days ago.",
+        "options": ["aren’t", "isn’t", "wasn’t", "weren’t"],
+        "answer": "weren’t"
+      },
+      {
+        "question": "The trainees ___________ clean the oil dipsticks carefully, and sometimes do them haphazardly.",
+        "options": [
+          "don’t always",
+          "always don’t",
+          "doesn’t always",
+          "always were"
+        ],
+        "answer": "don’t always"
+      },
+      {
+        "question": "The mechanics ___________ very tired after the long service schedule last week.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "were"
+      },
+      {
+        "question": "Look! There ___________ a portable air compressor in this workshop.",
+        "options": ["is", "are", "was", "were"],
+        "answer": "is"
+      },
+      {
+        "question": "___________ they inspecting the coolant level this morning?",
+        "options": ["Is", "Are", "Was", "Were"],
+        "answer": "Are"
+      },
+      {
+        "question": "___________ there any calibrated fuel filters in the storeroom at the moment?",
+        "options": ["Are", "Is", "Was", "Were"],
+        "answer": "Are"
+      },
+      {
+        "question": "The workshop manager ___________ late for duty last year and received an award for punctuality.",
+        "options": ["is never", "were never", "was never", "never was"],
+        "answer": "was never"
+      }
+    ]
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Read the following sentences and click on the correct response. \nපහත වාක්‍ය කියවන්න. නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபின்வரும் வாக்கியங்களை வாசிக்கவும். சரியான பதிலைக் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_a_i_x.mp3"
+    },
+    "content": [
+      {
+        "question": "Where are the reflective safety vests?",
+        "options": [
+          "They are on the left side of the cupboard.",
+          "They’re in the left of the table.",
+          "Their at the left of the cupboard.",
+          "There hanging on the left."
+        ],
+        "answer": "They are on the left side of the cupboard."
+      },
+      {
+        "question": "Where is the emergency stop handle for this machine?",
+        "options": [
+          "They’re are on the right.",
+          "Its in the right of the motor.",
+          "It’s at the right of machine.",
+          "It’s to the right of the power switch."
+        ],
+        "answer": "It’s to the right of the power switch."
+      },
+      {
+        "question": "Do we need anything to complete this repair?",
+        "options": [
+          "Yes, we need a jar of protective paint.",
+          "Yes, we need a coat of protective paint.",
+          "Yes, they need a cartridge of protective paint.",
+          "Yes, we need a packet of protective paint."
+        ],
+        "answer": "Yes, we need a coat of protective paint."
+      },
+      {
+        "question": "Do we need anything to add to the order form?",
+        "options": [
+          "Yes, we need a length of calibrated shims.",
+          "Yes, we need a litre of calibrated shims.",
+          "Yes, we need a set of calibrated shims.",
+          "Yes, we need a tub of calibrated shims."
+        ],
+        "answer": "Yes, we need a set of calibrated shims."
+      },
+      {
+        "question": "Who is he?",
+        "options": [
+          "His our workshop supervisor.",
+          "He’s our workshop supervisor.",
+          "Hes our workshop supervisor.",
+          "She’s our workshop supervisor."
+        ],
+        "answer": "He’s our workshop supervisor."
+      },
+      {
+        "question": "Where is the manageress now?",
+        "options": [
+          "Shes in the packaging workshop, in front of the desktop.",
+          "Her at the packaging workshop, behind the desktop.",
+          "She’s in the packaging workshop, in front of the desktop.",
+          "They are busy at the packaging workshop."
+        ],
+        "answer": "She’s in the packaging workshop, in front of the desktop."
+      },
+      {
+        "question": "What are these?",
+        "options": [
+          "They are the foreman’s spanners.",
+          "Their the foreman’s spanners.",
+          "There the foreman’s spanners.",
+          "They are the foremans spanner’s."
+        ],
+        "answer": "They are the foreman’s spanners."
+      },
+      {
+        "question": "What is it?",
+        "options": [
+          "Its the supervisors’ multimeter.",
+          "It’s the supervisor multimeter.",
+          "It’s the supervisor, his multimeter.",
+          "It’s the supervisor’s multimeter."
+        ],
+        "answer": "It’s the supervisor’s multimeter."
+      },
+      {
+        "question": "Is there a calibrated torque wrench anywhere in the tool room?",
+        "options": [
+          "No, there aren’t. In fact, there isn’t any calibrated torque wrench at the moment.",
+          "No, there’s not. In fact, there isn’t some calibrated torque wrenches in the tool room.",
+          "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment.",
+          "No, there is’nt. In fact, there is’nt calibrated torque wrench at the moment."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any calibrated torque wrenches in the tool room at the moment."
+      },
+      {
+        "question": "Is there an inspection lamp anywhere near the maintenance shed?",
+        "options": [
+          "No, there aren’t. In fact, there isn’t any inspection lamp at the maintenance shed at the moment.",
+          "No, their isn’t. In fact, there isn’t some inspection lamp in the maintenance shed at the moment.",
+          "No, there is’nt. In fact, there is’nt inspection lamps at the moment.",
+          "No, there isn’t. In fact, there aren’t any inspection lamps near the maintenance shed at the moment."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any inspection lamps near the maintenance shed at the moment."
+      },
+      {
+        "question": "Do you write reports on Friday mornings?",
+        "options": [
+          "No, I don’t. But I write reports on Friday afternoons. I have more time to do it on Friday afternoons than on Friday mornings.",
+          "No, I didn’t. But I write reports on Thursday mornings as I had more time than Friday morning.",
+          "No, she doesn’t. But she writes reports on Thursday afternoons as she has more time than Friday mornings.",
+          "No, I doesn’t. I write reports on Friday evenings as I have more time than in Friday mornings."
+        ],
+        "answer": "No, I don’t. But I write reports on Friday afternoons. I have more time to do it on Friday afternoons than on Friday mornings."
+      },
+      {
+        "question": "Do you order office supplies on Mondays?",
+        "options": [
+          "No, we didn’t. But we order on Wednesdays as we have more time than at Mondays.",
+          "No, we don’t. But we orders on Wednesdays as we have more time than during Mondays.",
+          "No, we don’t. But we order them on Wednesdays as we have more time than on Mondays.",
+          "No, we doesn’t. But we order on Wednesdays as we have more time than at Mondays ."
+        ],
+        "answer": "No, we don’t. But we order them on Wednesdays as we have more time than on Mondays."
+      },
+      {
+        "question": "Does she usually enter the log book on Thursday afternoons?",
+        "options": [
+          "No, she rarely enter the log book in Thursday afternoons. She usually enter it in Friday afternoons.",
+          "No, she rarely enters the log book on Thursday afternoons. She usually enters it on Friday afternoons.",
+          "No, she rarely is entering the log book on Thursday afternoons. She usually is entering it on Friday afternoons.",
+          "No, she rarely entered the log book on Thursday afternoon. She usually entered it on Friday afternoon."
+        ],
+        "answer": "No, she rarely enters the log book on Thursday afternoons. She usually enters it on Friday afternoons."
+      },
+      {
+        "question": "Does the safety inspector usually visit the site on Mondays?",
+        "options": [
+          "No, he rarely visits the site on Mondays. He usually visits it on Wednesdays.",
+          "No, he rarely visit it in Mondays. He usually visit in Wednesdays.",
+          "No, his rarely visiting on Monday. He usually visiting on Wednesday.",
+          "No, he rarely visited it  on Mondays. He usually visited on Wednesdays."
+        ],
+        "answer": "No, he rarely visits the site on Mondays. He usually visits it on Wednesdays."
+      },
+      {
+        "question": "Is there a safety helmet anywhere on the inspection site?",
+        "options": [
+          "No, there aren’t. In fact, there aren’t no helmets on the inspection site at the moment.",
+          "No, theirs not. In fact, There isn’t some helmet on the inspection site at the moment.",
+          "No, there isn’t. In fact, there aren’t any safety helmets on the inspection site at the moment.",
+          "No, there’s not. In fact, there’s no any safety helmets on the inspection site at the moment."
+        ],
+        "answer": "No, there isn’t. In fact, there aren’t any safety helmets on the inspection site at the moment."
+      }
+    ]
+  },
+  "activity_3": {
+    "marks_for_each_q": 2,
+    "type": "JUMBLED",
+    "instruction": {
+      "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+      "audio": "assets/audio/a_3_i.mp3"
+    },
+    "content": [
+      {
+        "words": ["The", "flexible", "rubber", "hose", "bends", "easily", "."],
+        "sentence": "The flexible rubber hose bends easily."
+      },
+      {
+        "words": [
+          "These",
+          "plastic",
+          "clips",
+          "do",
+          "not",
+          "break",
+          "during",
+          "inspection",
+          "."
+        ],
+        "sentence": "These plastic clips do not break during inspection."
+      },
+      {
+        "words": [
+          "The",
+          "battery",
+          "terminal",
+          "was",
+          "secure",
+          "and",
+          "ensured",
+          "a",
+          "stable",
+          "connection",
+          "."
+        ],
+        "sentence": "The battery terminal was secure and ensured a stable connection."
+      },
+      {
+        "words": [
+          "Was",
+          "the",
+          "heavy",
+          "machine",
+          "placed",
+          "on",
+          "a",
+          "level",
+          "surface",
+          "?"
+        ],
+        "sentence": "Was the heavy machine placed on a level surface?"
+      },
+      {
+        "words": [
+          "The",
+          "sensor",
+          "wire",
+          "is",
+          "too",
+          "thin",
+          "for",
+          "this",
+          "task",
+          "."
+        ],
+        "sentence": "The sensor wire is too thin for this task."
+      },
+      {
+        "words": [
+          "The",
+          "bearing",
+          "surfaces",
+          "were",
+          "smooth",
+          "after",
+          "lubrication",
+          "."
+        ],
+        "sentence": "The bearing surfaces were smooth after lubrication."
+      },
+      {
+        "words": [
+          "Were",
+          "the",
+          "guide",
+          "rods",
+          "straight",
+          "after",
+          "the",
+          "last",
+          "alignment",
+          "?"
+        ],
+        "sentence": "Were the guide rods straight after the last alignment?"
+      },
+      {
+        "words": [
+          "Properly",
+          "tightened",
+          "mounting",
+          "bolts",
+          "keep",
+          "the",
+          "machine",
+          "stable",
+          "."
+        ],
+        "sentence": "Properly tightened mounting bolts keep the machine stable."
+      },
+      {
+        "words": [
+          "These",
+          "large",
+          "gears",
+          "usually",
+          "weaken",
+          "after",
+          "long",
+          "use",
+          "."
+        ],
+        "sentence": "These large gears usually weaken after long use."
+      },
+      {
+        "words": [
+          "Does",
+          "the",
+          "insulation",
+          "resist",
+          "heat",
+          "during",
+          "operation",
+          "?"
+        ],
+        "sentence": "Does the insulation resist heat during operation?"
+      }
+    ]
+  },
+  "activity_4": {
+    "marks_for_each_q": 2,
+    "type": "LISTENING",
+    "instruction": {
+      "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nපළමුව ප්‍රශ්න කියවන්න. පසුව දෙවරක් වාදනය වන දෙබසට සවන් දෙන්න. ඉන්පසු නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், கவனமாகக் கேளுங்கள். பிறகு சரியான பதிலைக் கிளிக் செய்யவும். முதலில் கேள்விகளை வாசிக்கவும்.",
+      "audio": "assets/audio/a_4_i.mp3"
+    },
+    "audio": "assets/audio/a_4_q.mp3",
+    "content": [
+      {
+        "question": "Why does the instructor describe narrow pathways as a safety concern?",
+        "options": [
+          "Because narrow pathways limit light and visibility.",
+          "Because narrow pathways limit movement and increase risk of collision.",
+          "Because narrow pathways make equipment harder to install."
+        ],
+        "answer": "Because narrow pathways limit movement and increase risk of collision."
+      },
+      {
+        "question": "Why should heavy items not be placed on high shelves?",
+        "options": [
+          "Because lifting heavy items increases high positions.",
+          "Because lifting heavy items from high positions increases risk of injury.",
+          "Because lifting items from high shelves increases effort and energy."
+        ],
+        "answer": "Because lifting heavy items from high positions increases risk of injury."
+      },
+      {
+        "question": "Why is sufficient height clearance important during installation?",
+        "options": [
+          "Because higher spaces improve the appearance of equipment.",
+          "Because limited clearance mainly increases noise levels.",
+          "Because limited clearance can restrict airflow, movement, and maintenance access."
+        ],
+        "answer": "Because limited clearance can restrict airflow, movement, and maintenance access."
+      },
+      {
+        "question": "Why is temperature monitoring necessary in both food labs and ICT facilities?",
+        "options": [
+          "Because both environments operate continuously without shutdowns.",
+          "Because incorrect temperatures can damage products or systems.",
+          "Because temperature only affects equipment efficiency, not safety."
+        ],
+        "answer": "Because incorrect temperatures can damage products or systems."
+      },
+      {
+        "question": "Why does the instructor emphasise controlled, slow startup of machines?",
+        "options": [
+          "Because slow startup saves electrical power.",
+          "Because fast startup improves productivity in most cases.",
+          "Because slow startup reduces stress and allows early fault detection."
+        ],
+        "answer": "Because slow startup reduces stress and allows early fault detection."
+      }
+    ]
+  }
+}
