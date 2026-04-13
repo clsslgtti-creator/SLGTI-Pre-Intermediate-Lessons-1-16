@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "m'u'ffler",
+        "word_text": "c'ou'pling",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Mechanics don’t replace the m'u'ffler unless it’s absolutely necessary.",
+        "sentence_text": "Do trainees always align the c'ou'pling before starting engine tests?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "c'ou'pling",
+        "word_text": "pl'u'nger",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Do trainees usually align the c'ou'pling before starting engine tests?",
+        "sentence_text": "Technicians sometimes lubricate the pl'u'nger to ensure smooth injector operation.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "pl'u'nger",
+        "word_text": "g'u'sset",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Technicians sometimes lubricate the pl'u'nger to ensure smooth injector operation.",
+        "sentence_text": "Welders often reinforce the g'u'sset to improve the strength of the chassis.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "g'u'sset",
+        "word_text": "sh'u'nter",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Welders often reinforce the g'u'sset to improve chassis structural strength.",
+        "sentence_text": "Teams usually use the sh'u'nter to reposition heavy components safely.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -114,24 +114,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Does she usually fit the gaskets on Friday afternoons?",
-        "text_b": "No, she rarely fits the gaskets on Friday afternoons. She usually fits them on Monday afternoons.",
+        "text_a": "Does she usually realign the drive shafts on Friday afternoons?",
+        "text_b": "No, she rarely realigns the drive shafts on Friday afternoons. She usually realigns them on Monday afternoons.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "Does she usually lubricate the bearings on Tuesday mornings?",
-        "text_b": "No, she rarely lubricates the bearings on Tuesday mornings. She usually lubricates them on Friday mornings.",
+        "text_a": "Does she usually grease the roller bearings on Tuesday mornings?",
+        "text_b": "No, she rarely greases the roller bearings on Tuesday mornings. She usually greases them on Monday mornings.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Does she usually inspect the flanges on Wednesday afternoons?",
-        "text_b": "No, she rarely inspects the flanges on Wednesday afternoons. She usually inspects them on Saturday afternoons.",
+        "text_a": "Does she usually overhaul the reduction gearboxes on Wednesday afternoons?",
+        "text_b": "No, she rarely overhauls the reduction gearboxes on Wednesday afternoons. She usually overhauls them on Monday afternoons.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -140,80 +140,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "go grocery shopping"
+        "word": "calibrate the control valves"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "go for a walk"
+        "word": "reinforce the support brackets"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "do laundry"
+        "word": "tighten the couplings"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "help with household chores"
+        "word": "clean the plungers"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "learn sign language"
+        "word": "weld the gussets"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "empty the garbage bin"
+        "word": "guide the shunters"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Does she usually adjust the valves on Thursday mornings?",
-        "text_b": "No, she rarely adjusts the valves on Thursday mornings. She usually adjusts them on Tuesday mornings.",
+        "text_a": "Does she usually calibrate the control valves on Thursday mornings?",
+        "text_b": "No, she rarely calibrates the control valves on Thursday mornings. She usually calibrates them on Monday mornings.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "Does she usually secure the brackets on Friday afternoons?",
-        "text_b": "No, she rarely secures the brackets on Friday afternoons. She usually secures them on Monday afternoons.",
+        "text_a": "Does she usually reinforce the support brackets on Friday afternoons?",
+        "text_b": "No, she rarely reinforces the support brackets on Friday afternoons. She usually reinforces them on Monday afternoons.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Does she usually replace the mufflers on Friday evenings?",
-        "text_b": "No, she rarely replaces the mufflers on Friday evenings. She usually replaces them on Monday evenings.",
+        "text_a": "Does she usually tighten the couplings on Friday mornings?",
+        "text_b": "No, she rarely tightens the couplings on Friday mornings. She usually tightens them on Monday mornings.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "Does she usually tighten the couplings on Tuesday afternoons?",
-        "text_b": "No, she rarely tightens the couplings on Tuesday afternoons. She usually tightens them on Friday afternoons.",
+        "text_a": "Does she usually clean the plungers on Tuesday afternoons?",
+        "text_b": "No, she rarely cleans the plungers on Tuesday afternoons. She usually cleans them on Monday afternoons.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "Does she usually clean the plungers on Wednesday evenings?",
-        "text_b": "No, she rarely cleans the plungers on Wednesday evenings. She usually cleans them on Monday evenings.",
+        "text_a": "Does she usually weld the gussets on Wednesday evenings?",
+        "text_b": "No, she rarely welds the gussets on Wednesday evenings. She usually welds them on Monday evenings.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "Does she usually weld the gussets on Thursday afternoons?",
-        "text_b": "No, she rarely welds the gussets on Thursday afternoons. She usually welds them on Tuesday afternoons.",
+        "text_a": "Does she usually guide the shunters on Thursday mornings?",
+        "text_b": "No, she rarely guides the shunters on Thursday mornings. She usually guides them on Monday mornings.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
