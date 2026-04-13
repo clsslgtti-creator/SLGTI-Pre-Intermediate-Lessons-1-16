@@ -1,0 +1,881 @@
+{
+  "meta": {
+    "lesson_no": 7,
+    "level": "Elementary",
+    "section": "Construction Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Short /ʌ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "d'u'mper",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Operators usually drive the d'u'mper carefully across uneven construction sites.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "cr'u'sher",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Technicians don’t often stop the cr'u'sher during continuous operation.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "sh'u'nter",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Do drivers always move the sh'u'nter between storage yards carefully?",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "p'u'gmill",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Site teams sometimes run the p'u'gmill before mixing the road base.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Frequency adverbs, position of frequency adverb in a sentence.",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["always", "100%"],
+        ["usually", "90%"],
+        ["sometimes", "50%"],
+        ["rarely", "10%"],
+        ["never", "0%"]
+      ],
+      [
+        ["I", "always", "wash my car on Sundays."],
+        [null, "usually", null],
+        [null, "sometimes", null],
+        [null, "rarely", null],
+        [null, "never", null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.jpeg",
+        "text_a": "Does she usually fit the gaskets on Friday afternoons?",
+        "text_b": "No, she rarely fits the gaskets on Friday afternoons. She usually fits them on Monday afternoons.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.jpeg",
+        "text_a": "Does she usually lubricate the bearings on Tuesday mornings?",
+        "text_b": "No, she rarely lubricates the bearings on Tuesday mornings. She usually lubricates them on Monday mornings.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.jpeg",
+        "text_a": "Does she usually inspect the flanges on Wednesday afternoons?",
+        "text_b": "No, she rarely inspects the flanges on Wednesday afternoons. She usually inspects them on Monday afternoons.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.jpeg",
+        "word": "adjust the valves"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.jpeg",
+        "word": "secure the brackets"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.jpeg",
+        "word": "operate the dumpers"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.jpeg",
+        "word": "inspect the crushers"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.jpeg",
+        "word": "position the shunters"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.jpeg",
+        "word": "clean the pugmills"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.jpeg",
+        "text_a": "Does she usually adjust the valves on Thursday mornings?",
+        "text_b": "No, she rarely adjusts the valves on Thursday mornings. She usually adjusts them on Monday mornings.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.jpeg",
+        "text_a": "Does she usually secure the brackets on Friday afternoons?",
+        "text_b": "No, she rarely secures the brackets on Friday afternoons. She usually secures them on Monday afternoons.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.jpeg",
+        "text_a": "Does she usually operate the dumpers on Friday mornings?",
+        "text_b": "No, she rarely operates the dumpers on Friday mornings. She usually operates them on Monday mornings.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.jpeg",
+        "text_a": "Does she usually inspect the crushers on Tuesday afternoons?",
+        "text_b": "No, she rarely inspects the crushers on Tuesday afternoons. She usually inspects them on Monday afternoons.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.jpeg",
+        "text_a": "Does she usually position the shunters on Wednesday evenings?",
+        "text_b": "No, she rarely positions the shunters on Wednesday evenings. She usually positions them on Monday evenings.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.jpeg",
+        "text_a": "Does she usually clean the pugmills on Thursday mornings?",
+        "text_b": "No, she rarely cleans the pugmills on Thursday mornings. She usually cleans them on Monday mornings.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-4",
+    "instructions": {
+      "activity_a": {
+        "text": "Put the words in the correct order. The first word in each sentence is in bold.\nවචන නිවැරදි අනුපිළිවෙලට සකසන්න. සෑම වාක්‍යයකම පළමු වචනය තද අකුරින් පෙන්වනු ඇත.\nசொற்களைச் சரியான வரிசையில் வரிசைப்படுத்தவும். ஒவ்வொரு வாக்கியத்தின் முதல் சொல்லும் தடித்த எழுத்துக்களில் (bold) கொடுக்கப்பட்டுள்ளது.",
+        "audio": "assets/audio/a_3_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-1.jpg",
+
+        "first_sentance": {
+          "text": "We often have rice and curry for lunch.",
+          "audio": "assets/audio/a_3_ex.mp3"
+        },
+        "content": [
+          {
+            "id": "n_3_a_1",
+            "audio": "assets/audio/a_3_1.mp3",
+            "words": [
+              "He",
+              "is",
+              "often",
+              "responsible",
+              "for",
+              "organising",
+              "group",
+              "activities",
+              "."
+            ],
+            "sentence": "He is often responsible for organising group activities."
+          },
+          {
+            "id": "n_3_a_2",
+            "audio": "assets/audio/a_3_2.mp3",
+            "words": [
+              "I",
+              "always",
+              "clean",
+              "wooden",
+              "boards",
+              "after",
+              "practical",
+              "sessions",
+              "."
+            ],
+            "sentence": "I always clean wooden boards after practical sessions."
+          },
+          {
+            "id": "n_3_a_3",
+            "audio": "assets/audio/a_3_3.mp3",
+            "words": [
+              "They",
+              "are",
+              "not",
+              "always",
+              "available",
+              "during",
+              "busy",
+              "weekdays",
+              "."
+            ],
+            "sentence": "They are not always available during busy weekdays."
+          },
+          {
+            "id": "n_3_a_4",
+            "audio": "assets/audio/a_3_4.mp3",
+            "words": [
+              "We",
+              "sometimes",
+              "practise",
+              "safety",
+              "drills",
+              "during",
+              "training",
+              "hours",
+              "."
+            ],
+            "sentence": "We sometimes practise safety drills during training hours."
+          },
+          {
+            "id": "n_3_a_5",
+            "audio": "assets/audio/a_3_5.mp3",
+            "words": [
+              "He",
+              "rarely",
+              "forgets",
+              "his",
+              "gloves",
+              "during",
+              "sample",
+              "testing",
+              "."
+            ],
+            "sentence": "He rarely forgets his gloves during sample testing."
+          },
+          {
+            "id": "n_3_a_6",
+            "audio": "assets/audio/a_3_6.mp3",
+            "words": [
+              "She",
+              "does",
+              "not",
+              "usually",
+              "skip",
+              "scheduled",
+              "maintenance",
+              "checks",
+              "."
+            ],
+            "sentence": "She does not usually skip scheduled maintenance checks."
+          },
+          {
+            "id": "n_3_a_7",
+            "audio": "assets/audio/a_3_7.mp3",
+            "words": [
+              "She",
+              "is",
+              "never",
+              "careless",
+              "with",
+              "important",
+              "personal",
+              "information",
+              "."
+            ],
+            "sentence": "She is never careless with important personal information."
+          },
+          {
+            "id": "n_3_a_8",
+            "audio": "assets/audio/a_3_8.mp3",
+            "words": [
+              "They",
+              "often",
+              "check",
+              "equipment",
+              "before",
+              "starting",
+              "practical",
+              "tasks",
+              "."
+            ],
+            "sentence": "They often check equipment before starting practical tasks."
+          },
+          {
+            "id": "n_3_a_9",
+            "audio": "assets/audio/a_3_9.mp3",
+            "words": [
+              "Do",
+              "you",
+              "often",
+              "clean",
+              "machines",
+              "after",
+              "extensive",
+              "use",
+              "?"
+            ],
+            "sentence": "Do you often clean machines after extensive use?"
+          },
+          {
+            "id": "n_3_a_10",
+            "audio": "assets/audio/a_3_10.mp3",
+            "words": [
+              "Is",
+              "she",
+              "always",
+              "very",
+              "punctual",
+              "for",
+              "important",
+              "appointments",
+              "?"
+            ],
+            "sentence": "Is she always very punctual for important appointments?"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "a_3_0",
+          "text": "We often have rice and curry for lunch.",
+          "audio": "assets/audio/a_3_ex.mp3"
+        },
+        {
+          "id": "a_3_1",
+          "text": "He is often responsible for organising group activities.",
+          "audio": "assets/audio/a_3_1.mp3"
+        },
+        {
+          "id": "a_3_2",
+          "text": "I always clean wooden boards after practical sessions.",
+          "audio": "assets/audio/a_3_2.mp3"
+        },
+        {
+          "id": "a_3_3",
+          "text": "They are not always available during busy weekdays.",
+          "audio": "assets/audio/a_3_3.mp3"
+        },
+        {
+          "id": "a_3_4",
+          "text": "We sometimes practise safety drills during training hours.",
+          "audio": "assets/audio/a_3_4.mp3"
+        },
+        {
+          "id": "a_3_5",
+          "text": "He rarely forgets his gloves during sample testing.",
+          "audio": "assets/audio/a_3_5.mp3"
+        },
+        {
+          "id": "a_3_6",
+          "text": "She does not usually skip scheduled maintenance checks.",
+          "audio": "assets/audio/a_3_6.mp3"
+        },
+        {
+          "id": "a_3_7",
+          "text": "She is never careless with important personal information.",
+          "audio": "assets/audio/a_3_7.mp3"
+        },
+        {
+          "id": "a_3_8",
+          "text": "They often check equipment before starting practical tasks.",
+          "audio": "assets/audio/a_3_8.mp3"
+        },
+        {
+          "id": "a_3_9",
+          "text": "Do you often clean machines after extensive use?",
+          "audio": "assets/audio/a_3_9.mp3"
+        },
+        {
+          "id": "a_3_10",
+          "text": "Is she always very punctual for important appointments?",
+          "audio": "assets/audio/a_3_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_b_1",
+            "item_a": "Always",
+            "item_b": "Something happens every time, with no exceptions."
+          },
+          {
+            "id": "n_4_b_2",
+            "item_a": "Usually",
+            "item_b": "Something happens most of the time, but not always."
+          },
+          {
+            "id": "n_4_b_3",
+            "item_a": "Often",
+            "item_b": "Something happens many times or quite frequently."
+          },
+          {
+            "id": "n_4_b_4",
+            "item_a": "Sometimes",
+            "item_b": "Something happens on some occasions, but not regularly."
+          },
+          {
+            "id": "n_4_b_5",
+            "item_a": "Rarely",
+            "item_b": "Something happens only a few times or almost never."
+          },
+          {
+            "id": "n_4_b_6",
+            "item_a": "Never",
+            "item_b": "Something does not happen at any time."
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_15_1",
+            "question": "Why does the trainee decide to report the problems?",
+            "answer": "Because the issues seem urgent and could be unsafe.",
+            "options": [
+              "Because the equipment has already stopped working completely.",
+              "Because the issues seem urgent and could be unsafe.",
+              "Because the instructor asks him to report everything."
+            ]
+          },
+          {
+            "id": "l_15_2",
+            "question": "What is the main problem with the extension cable?",
+            "answer": "The outer cover is damaged and the plug feels loose.",
+            "options": [
+              "It does not supply power to the equipment.",
+              "The outer cover is damaged and the plug feels loose.",
+              "The outer cover is damaged and the cable is too short for the work table."
+            ]
+          },
+          {
+            "id": "l_15_3",
+            "question": "Why do trainees usually avoid reporting small faults immediately?",
+            "answer": "Because they do not want to delay their assigned tasks.",
+            "options": [
+              "Because they are not allowed to stop work.",
+              "Because they do not want to delay their assigned tasks.",
+              "Because they do not want to delay the afternoon tasks."
+            ]
+          },
+          {
+            "id": "l_15_4",
+            "question": "Why does someone still use the faulty power socket during busy periods?",
+            "answer": "Because there are not enough free sockets nearby.",
+            "options": [
+              "Because it works better than the other sockets.",
+              "Because there are not enough free sockets nearby.",
+              "Because there are more than enough free sockets nearby."
+            ]
+          },
+          {
+            "id": "l_15_5",
+            "question": "What action does the instructor decide to take at the end of the dialogue?",
+            "answer": "He arranges repairs and replacement of the cable and socket.",
+            "options": [
+              "He asks trainees to be more careful with the equipment.",
+              "He plans to check the area himself later in the week.",
+              "He arranges repairs and replacement of the cable and socket."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Good morning.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Before we start today’s practical session, is everything okay in your area?",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "I know that you always check the setup early in the morning, so I just wanted to ask you a few questions before everyone begins work.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "Good morning, sir.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Actually, I wanted to mention two things.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I don’t usually complain, and I try to manage small problems on my own, but I think this should be reported.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "There are some issues with the extension cable and the power socket near the shared work table.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Okay, thanks for telling me.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "What exactly is the problem with the extension cable?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "The cable still works, but the outer cover is damaged and worn out in several places.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "We use it every day, and people frequently pull it across the floor instead of lifting it properly.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "The plug sometimes feels loose as well, but we rarely notice it until someone points it out during work.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Right, that doesn’t sound safe at all.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Loose connections can easily cause accidents.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "And what about the power socket near the table?",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "The socket sometimes sparks slightly when we plug equipment in.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "It doesn’t happen all the time, but it happens often enough to be a concern.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We usually try to avoid using that socket, especially when sensitive equipment is involved.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "But during busy periods someone always ends up using it because there aren’t enough free sockets nearby.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Do you normally report issues like this straight away, or do you usually try to work around them and carry on?",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "To be honest, we usually work around them.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "We rarely stop work to report small faults because we don’t want to delay the tasks assigned to us in the morning.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "We often assume the maintenance team will notice it later during inspections.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "I’m glad you reported it now.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Small problems often become serious if we ignore them for too long.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "I’ll arrange repairs today and ask maintenance to replace both the cable and the socket.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "As we say, a stitch in time saves nine.",
+          "audio": "assets/audio/t_27.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_3",
+          "text": "I know that you always check the setup early in the morning, so I just wanted to ask you a few questions before everyone begins work.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I don’t usually complain, and I try to manage small problems on my own, but I think this should be reported.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "There are some issues with the extension cable and the power socket near the shared work table.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "What exactly is the problem with the extension cable?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "The plug sometimes feels loose as well, but we rarely notice it until someone points it out during work.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "And what about the power socket near the table?",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "The socket sometimes sparks slightly when we plug equipment in.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "It doesn’t happen all the time, but it happens often enough to be a concern.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We usually try to avoid using that socket, especially when sensitive equipment is involved.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "But during busy periods someone always ends up using it because there aren’t enough free sockets nearby.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Do you normally report issues like this straight away, or do you usually try to work around them and carry on?",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "To be honest, we usually work around them.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Small problems often become serious if we ignore them for too long.",
+          "audio": "assets/audio/t_25.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_3",
+          "text": "I know that you always check the setup early in the morning, so I just wanted to ask you a few questions before everyone begins work.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "I don’t usually complain, and I try to manage small problems on my own, but I think this should be reported.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "There are some issues with the extension cable and the power socket near the shared work table.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "What exactly is the problem with the extension cable?",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "The plug sometimes feels loose as well, but we rarely notice it until someone points it out during work.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "And what about the power socket near the table?",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "The socket sometimes sparks slightly when we plug equipment in.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "It doesn’t happen all the time, but it happens often enough to be a concern.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We usually try to avoid using that socket, especially when sensitive equipment is involved.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "But during busy periods someone always ends up using it because there aren’t enough free sockets nearby.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Do you normally report issues like this straight away, or do you usually try to work around them and carry on?",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "To be honest, we usually work around them.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "Small problems often become serious if we ignore them for too long.",
+          "audio": "assets/audio/t_25.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1C.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
