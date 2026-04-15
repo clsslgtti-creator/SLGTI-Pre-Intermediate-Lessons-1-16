@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "l'u'bricant",
+        "word_text": "b'u'lldozer",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This technician usually applies l'u'bricant, but today, he is applying grease.",
+        "sentence_text": "This operator drives a b'u'lldozer every day, but today he is driving a backhoe.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "brake b'oo'ster",
+        "word_text": "scr'ew' pile",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This mechanic checks the brake b'oo'ster every morning, but this morning he is checking the whole engine.",
+        "sentence_text": "This crew usually installs scr'ew' piles, but this afternoon they are pouring a concrete foundation.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sp'oo'l",
+        "word_text": "b'oom' lift",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This technician cleans the sp'oo'l every week, but this week he is cleaning the hydraulic lift.",
+        "sentence_text": "The new supervisor often uses a b'oom' lift, but this morning he is using a crane.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "s'u'percharger",
+        "word_text": "ch'u'te",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This engine usually s'u'percharges smoothly, but right now, it is doing so unevenly.",
+        "sentence_text": "This worker always cleans this ch'u'te, but today he is cleaning the hopper.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -239,115 +239,115 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The brake booster __________ braking efficiency in most vehicles.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Site engineers usually __________ load limits before lifting operations begin.",
+            "options": ["verifies", "are verifying", "verify"],
+            "answer": "verify"
           },
           {
             "id": "g_b_2",
-            "sentence": "The technician __________ the suspension of CTB buses every morning.",
-            "options": ["check", "is checking", "checks"],
-            "answer": "checks"
+            "sentence": "The operator __________ the bulldozer along the prepared access route today.",
+            "options": ["controls", "is controlling", "control"],
+            "answer": "is controlling"
           },
           {
             "id": "g_b_3",
-            "sentence": "Mechanics usually __________ lubricant during the final assembly stages.",
-            "options": ["apply", "are applying", "apply"],
-            "answer": "apply"
+            "sentence": "Masons __________ concrete blocks following the marked alignment lines.",
+            "options": ["places", "are placing", "place"],
+            "answer": "place"
           },
           {
             "id": "g_b_4",
-            "sentence": "They __________ the supercharger in the workshop today.",
-            "options": ["is installing", "are installing", "install"],
-            "answer": "are installing"
+            "sentence": "Currently, they __________ fresh concrete through the chute into the formwork.",
+            "options": ["is directing", "are directing", "direct"],
+            "answer": "are directing"
           },
           {
             "id": "g_b_5",
-            "sentence": "Technicians __________ fuel injectors during scheduled services.",
-            "options": ["inspects", "are inspecting", "inspect"],
-            "answer": "inspect"
+            "sentence": "The supervisor __________ scaffolding stability before the shift starts.",
+            "options": ["checks", "is checking", "check"],
+            "answer": "checks"
           },
           {
             "id": "g_b_6",
-            "sentence": "The mechanic __________ the cable onto the spool in the training workshop now.",
-            "options": ["are winding", "is winding", "winds"],
-            "answer": "is winding"
+            "sentence": "Look! She __________ façade materials using the boom lift near the upper level.",
+            "options": ["positions", "is positioning", "position"],
+            "answer": "is positioning"
           },
           {
             "id": "g_b_7",
-            "sentence": "Mechanics __________ worn brake pads during major repairs.",
-            "options": ["replaces", "are replacing", "replace"],
-            "answer": "replace"
+            "sentence": "Construction teams usually __________ materials systematically in the site store.",
+            "options": ["organises", "are organising", "organise"],
+            "answer": "organise"
           },
           {
             "id": "g_b_8",
-            "sentence": "Currently, we __________ excess grease from the gearbox.",
-            "options": ["cleaning", "are cleaning", "cleans"],
-            "answer": "are cleaning"
+            "sentence": "Right now, workers __________ reinforcement bars inside the column cages.",
+            "options": ["secures", "are securing", "secure"],
+            "answer": "are securing"
           },
           {
             "id": "g_b_9",
-            "sentence": "A turbo system always __________ engine power at high speeds.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Workers __________ the screw pile foundation according to the site drawings right now.",
+            "options": ["installs", "are installing", "install"],
+            "answer": "are installing"
           },
           {
             "id": "g_b_10",
-            "sentence": "Look! She __________ the hydraulic system.",
-            "options": ["testing", "is testing", "tests"],
-            "answer": "is testing"
+            "sentence": "At the moment, technicians __________ service ducts along the interior walls.",
+            "options": ["routes", "are routing", "is routing"],
+            "answer": "are routing"
           }
         ]
       },
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "The brake booster improves braking efficiency in most vehicles.",
+          "text": "Site engineers usually verify load limits before lifting operations begin.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "The technician checks the suspension of the CTB buses every morning.",
+          "text": "The operator is controlling the bulldozer along the prepared access route today.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Mechanics usually apply lubricant during the final assembly stages.",
+          "text": "Masons place concrete blocks following the marked alignment lines.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "They are installing the supercharger in the workshop today.",
+          "text": "Currently, they are directing fresh concrete through the chute into the formwork.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Technicians inspect fuel injectors during scheduled services.",
+          "text": "The supervisor checks scaffolding stability before the shift starts.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "The mechanic is winding the cable onto the spool in the training workshop now.",
+          "text": "Look! She is positioning façade materials using the boom lift near the upper level.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Mechanics replace worn brake pads during major repairs.",
+          "text": "Construction teams usually organise materials systematically in the site store.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Currently we are cleaning excess grease from the gearbox.",
+          "text": "Right now, workers are securing reinforcement bars inside the column cages.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "A turbo system increases engine power at high speeds.",
+          "text": "Workers are installing the screw pile foundation according to the site drawings right now.",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Look! She is testing the hydraulic system.",
+          "text": "At the moment, technicians are routing service ducts along the interior walls.",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ]
