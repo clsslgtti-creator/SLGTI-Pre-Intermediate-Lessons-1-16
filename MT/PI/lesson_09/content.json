@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "l'u'bricant",
+        "word_text": "sp'oo'l",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This technician usually applies l'u'bricant, but today, he is applying grease.",
+        "sentence_text": "This technician usually adjusts the sp'oo'l, but today he is replacing it.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "brake b'oo'ster",
+        "word_text": "gr'oo've",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This mechanic checks the brake b'oo'ster every morning, but this morning he is checking the whole engine.",
+        "sentence_text": "This machinist always cuts the gr'oo've, but today he is measuring it.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sp'oo'l",
+        "word_text": "b'u'shing",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This technician cleans the sp'oo'l every week, but this week he is cleaning the hydraulic lift.",
+        "sentence_text": "This machinist often checks the b'u'shing, but today he is polishing it.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "s'u'percharger",
+        "word_text": "tr'u'ing tool",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This engine usually s'u'percharges smoothly, but right now, it is doing so unevenly.",
+        "sentence_text": "This technician usually uses the tr'u'ing tool, but today he is cleaning it.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -239,115 +239,115 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The brake booster __________ braking efficiency in most vehicles.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Workshop technicians usually __________ rotating parts before final assembly.",
+            "options": ["aligns", "are aligning", "align"],
+            "answer": "align"
           },
           {
             "id": "g_b_2",
-            "sentence": "The technician __________ the suspension of CTB buses every morning.",
-            "options": ["check", "is checking", "checks"],
-            "answer": "checks"
-          },
-          {
-            "id": "g_b_3",
-            "sentence": "Mechanics usually __________ lubricant during the final assembly stages.",
-            "options": ["apply", "are applying", "apply"],
-            "answer": "apply"
-          },
-          {
-            "id": "g_b_4",
-            "sentence": "They __________ the supercharger in the workshop today.",
-            "options": ["is installing", "are installing", "install"],
-            "answer": "are installing"
-          },
-          {
-            "id": "g_b_5",
-            "sentence": "Technicians __________ fuel injectors during scheduled services.",
-            "options": ["inspects", "are inspecting", "inspect"],
-            "answer": "inspect"
-          },
-          {
-            "id": "g_b_6",
-            "sentence": "The mechanic __________ the cable onto the spool in the training workshop now.",
-            "options": ["are winding", "is winding", "winds"],
+            "sentence": "Right now, the mechanic __________ the cable onto the spool carefully.",
+            "options": ["winds", "is winding", "wind"],
             "answer": "is winding"
           },
           {
+            "id": "g_b_3",
+            "sentence": "Machinists usually __________ surface defects during routine inspections.",
+            "options": ["identifies", "are identifying", "identify"],
+            "answer": "identify"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Look! The operator __________ a precision groove on the metal shaft.",
+            "options": ["cuts", "is cutting", "cut"],
+            "answer": "is cutting"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "Maintenance staff usually __________ belt tension before machine startup.",
+            "options": ["checks", "are checking", "check"],
+            "answer": "check"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "At the moment, the technician __________ the pulley system on the drive unit.",
+            "options": ["adjusts", "is adjusting", "adjust"],
+            "answer": "is adjusting"
+          },
+          {
             "id": "g_b_7",
-            "sentence": "Mechanics __________ worn brake pads during major repairs.",
-            "options": ["replaces", "are replacing", "replace"],
-            "answer": "replace"
+            "sentence": "Machine operators usually __________ safety guards before operation.",
+            "options": ["secures", "are securing", "secure"],
+            "answer": "secure"
           },
           {
             "id": "g_b_8",
-            "sentence": "Currently, we __________ excess grease from the gearbox.",
-            "options": ["cleaning", "are cleaning", "cleans"],
-            "answer": "are cleaning"
+            "sentence": "Currently, the machinist __________ an internal slot using the broaching tool.",
+            "options": ["forms", "is forming", "form"],
+            "answer": "is forming"
           },
           {
             "id": "g_b_9",
-            "sentence": "A turbo system always __________ engine power at high speeds.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Engineers usually __________ lubrication schedules for heavy equipment.",
+            "options": ["plans", "are planning", "plan"],
+            "answer": "plan"
           },
           {
             "id": "g_b_10",
-            "sentence": "Look! She __________ the hydraulic system.",
-            "options": ["testing", "is testing", "tests"],
-            "answer": "is testing"
+            "sentence": "Right now, trainees __________ component clearances on the test bench.",
+            "options": ["measures", "are measuring", "measure"],
+            "answer": "are measuring"
           }
         ]
       },
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "The brake booster improves braking efficiency in most vehicles.",
+          "text": "Workshop technicians usually align rotating parts before final assembly.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "The technician checks the suspension of the CTB buses every morning.",
+          "text": "Right now, the mechanic is winding the cable onto the spool carefully.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Mechanics usually apply lubricant during the final assembly stages.",
+          "text": "Machinists usually identify surface defects during routine inspections.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "They are installing the supercharger in the workshop today.",
+          "text": "Look! The operator is cutting a precision groove on the metal shaft.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Technicians inspect fuel injectors during scheduled services.",
+          "text": "Maintenance staff usually check belt tension before machine startup.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "The mechanic is winding the cable onto the spool in the training workshop now.",
+          "text": "At the moment, the technician is adjusting the pulley system on the drive unit.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Mechanics replace worn brake pads during major repairs.",
+          "text": "Machine operators usually secure safety guards before operation.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Currently we are cleaning excess grease from the gearbox.",
+          "text": "Currently, the machinist is forming an internal slot using the broaching tool.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "A turbo system increases engine power at high speeds.",
+          "text": "Engineers usually plan lubrication schedules for heavy equipment.",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Look! She is testing the hydraulic system.",
+          "text": "Right now, trainees are measuring component clearances on the test bench.",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ]
