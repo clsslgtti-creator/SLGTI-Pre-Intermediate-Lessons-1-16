@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "l'u'bricant",
+        "word_text": "pr'oo'fing chamber",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This technician usually applies l'u'bricant, but today, he is applying grease.",
+        "sentence_text": "This baker checks the pr'oo'fing chamber regularly, but this afternoon he is checking the industrial oven.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "brake b'oo'ster",
+        "word_text": "n'oo'dle extruder",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This mechanic checks the brake b'oo'ster every morning, but this morning he is checking the whole engine.",
+        "sentence_text": "This operator uses the n'oo'dle extruder every day, but today he is using the pasta machine.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sp'oo'l",
+        "word_text": "scr'ew' conveyor",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This technician cleans the sp'oo'l every week, but this week he is cleaning the hydraulic lift.",
+        "sentence_text": "This technician usually runs the scr'ew' conveyor, but today he is transferring ingredients by hand.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "s'u'percharger",
+        "word_text": "processing ch'u'te",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This engine usually s'u'percharges smoothly, but right now, it is doing so unevenly.",
+        "sentence_text": "This worker cleans the processing ch'u'te very often, but today he is cleaning the conveyor belt.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -239,115 +239,115 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The brake booster __________ braking efficiency in most vehicles.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Quality inspectors usually __________ temperature records during production checks.",
+            "options": ["reviews", "are reviewing", "review"],
+            "answer": "review"
           },
           {
             "id": "g_b_2",
-            "sentence": "The technician __________ the suspension of CTB buses every morning.",
-            "options": ["check", "is checking", "checks"],
-            "answer": "checks"
+            "sentence": "Right now, technicians __________ the dough inside the proofing chamber before baking.",
+            "options": ["monitors", "are monitoring", "monitor"],
+            "answer": "are monitoring"
           },
           {
             "id": "g_b_3",
-            "sentence": "Mechanics usually __________ lubricant during the final assembly stages.",
-            "options": ["apply", "are applying", "apply"],
-            "answer": "apply"
+            "sentence": "Food processing staff __________ hygiene procedures at every shift change.",
+            "options": ["follows", "are following", "follow"],
+            "answer": "follow"
           },
           {
             "id": "g_b_4",
-            "sentence": "They __________ the supercharger in the workshop today.",
-            "options": ["is installing", "are installing", "install"],
-            "answer": "are installing"
+            "sentence": "Look! The operator __________ dough through the noodle extruder steadily.",
+            "options": ["feeds", "is feeding", "feed"],
+            "answer": "is feeding"
           },
           {
             "id": "g_b_5",
-            "sentence": "Technicians __________ fuel injectors during scheduled services.",
-            "options": ["inspects", "are inspecting", "inspect"],
-            "answer": "inspect"
+            "sentence": "Supervisors usually __________ equipment settings before large batch runs.",
+            "options": ["confirms", "are confirming", "confirm"],
+            "answer": "confirm"
           },
           {
             "id": "g_b_6",
-            "sentence": "The mechanic __________ the cable onto the spool in the training workshop now.",
-            "options": ["are winding", "is winding", "winds"],
-            "answer": "is winding"
+            "sentence": "At the moment, workers __________ dry ingredients using the screw conveyor.",
+            "options": ["transfers", "are transferring", "transfer"],
+            "answer": "are transferring"
           },
           {
             "id": "g_b_7",
-            "sentence": "Mechanics __________ worn brake pads during major repairs.",
-            "options": ["replaces", "are replacing", "replace"],
-            "answer": "replace"
+            "sentence": "Processing teams usually __________ residue after each production cycle.",
+            "options": ["removes", "are removing", "remove"],
+            "answer": "remove"
           },
           {
             "id": "g_b_8",
-            "sentence": "Currently, we __________ excess grease from the gearbox.",
-            "options": ["cleaning", "are cleaning", "cleans"],
-            "answer": "are cleaning"
+            "sentence": "Currently, they __________ processed material down the processing chute safely.",
+            "options": ["directs", "are directing", "direct"],
+            "answer": "are directing"
           },
           {
             "id": "g_b_9",
-            "sentence": "A turbo system always __________ engine power at high speeds.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Operators usually __________ production logs at the end of the shift.",
+            "options": ["completes", "are completing", "complete"],
+            "answer": "complete"
           },
           {
             "id": "g_b_10",
-            "sentence": "Look! She __________ the hydraulic system.",
-            "options": ["testing", "is testing", "tests"],
-            "answer": "is testing"
+            "sentence": "Right now, technicians __________ food containers in the packaging area.",
+            "options": ["seals", "are sealing", "seal"],
+            "answer": "are sealing"
           }
         ]
       },
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "The brake booster improves braking efficiency in most vehicles.",
+          "text": "Quality inspectors usually review temperature records during production checks.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "The technician checks the suspension of the CTB buses every morning.",
+          "text": "Right now, technicians are monitoring the dough inside the proofing chamber before baking.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Mechanics usually apply lubricant during the final assembly stages.",
+          "text": "Food processing staff follow hygiene procedures at every shift change.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "They are installing the supercharger in the workshop today.",
+          "text": "Look! The operator is feeding dough through the noodle extruder steadily.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Technicians inspect fuel injectors during scheduled services.",
+          "text": "Supervisors usually confirm equipment settings before large batch runs.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "The mechanic is winding the cable onto the spool in the training workshop now.",
+          "text": "At the moment, workers are transferring dry ingredients using the screw conveyor.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Mechanics replace worn brake pads during major repairs.",
+          "text": "Processing teams usually remove residue after each production cycle.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Currently we are cleaning excess grease from the gearbox.",
+          "text": "Currently, they are directing processed material down the processing chute safely.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "A turbo system increases engine power at high speeds.",
+          "text": "Operators usually complete production logs at the end of the shift.",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Look! She is testing the hydraulic system.",
+          "text": "Right now, technicians are sealing food containers in the packaging area.",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ]
