@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "l'u'bricant",
+        "word_text": "l'oo'p",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This technician usually applies l'u'bricant, but today, he is applying grease.",
+        "sentence_text": "This technician usually checks the l'oo'ps, but this morning he is checking the circuit board.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "brake b'oo'ster",
+        "word_text": "b'oo'ster",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This mechanic checks the brake b'oo'ster every morning, but this morning he is checking the whole engine.",
+        "sentence_text": "This technician usually tests the b'oo'sters, but right now he is testing the amplifiers.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sp'oo'l",
+        "word_text": "d'u'plexer",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This technician cleans the sp'oo'l every week, but this week he is cleaning the hydraulic lift.",
+        "sentence_text": "This engineer calibrates this d'u'plexer very often, but at the moment, he is calibrating a multimeter.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "s'u'percharger",
+        "word_text": "sp'oo'ler",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This engine usually s'u'percharges smoothly, but right now, it is doing so unevenly.",
+        "sentence_text": "This operator usually runs the sp'oo'ler, but today he is running a cable carrier.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -239,115 +239,115 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The brake booster __________ braking efficiency in most vehicles.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Technicians usually __________ circuit continuity before powering the system.",
+            "options": ["checks", "are checking", "check"],
+            "answer": "check"
           },
           {
             "id": "g_b_2",
-            "sentence": "The technician __________ the suspension of CTB buses every morning.",
-            "options": ["check", "is checking", "checks"],
-            "answer": "checks"
+            "sentence": "Right now, the trainee __________ the current loop during the control test.",
+            "options": ["measures", "is measuring", "measure"],
+            "answer": "is measuring"
           },
           {
             "id": "g_b_3",
-            "sentence": "Mechanics usually __________ lubricant during the final assembly stages.",
-            "options": ["apply", "are applying", "apply"],
-            "answer": "apply"
+            "sentence": "Electricians __________ terminal screws to prevent loose connections.",
+            "options": ["tightens", "are tightening", "tighten"],
+            "answer": "tighten"
           },
           {
             "id": "g_b_4",
-            "sentence": "They __________ the supercharger in the workshop today.",
-            "options": ["is installing", "are installing", "install"],
-            "answer": "are installing"
+            "sentence": "Look! She __________ the coupler between the signal cables carefully.",
+            "options": ["connects", "is connecting", "connect"],
+            "answer": "is connecting"
           },
           {
             "id": "g_b_5",
-            "sentence": "Technicians __________ fuel injectors during scheduled services.",
-            "options": ["inspects", "are inspecting", "inspect"],
-            "answer": "inspect"
+            "sentence": "Supervisors usually __________ insulation levels during routine inspections.",
+            "options": ["verifies", "are verifying", "verify"],
+            "answer": "verify"
           },
           {
             "id": "g_b_6",
-            "sentence": "The mechanic __________ the cable onto the spool in the training workshop now.",
-            "options": ["are winding", "is winding", "winds"],
-            "answer": "is winding"
+            "sentence": "At the moment, technicians __________ the duplexer inside the communication rack.",
+            "options": ["installs", "are installing", "install"],
+            "answer": "are installing"
           },
           {
             "id": "g_b_7",
-            "sentence": "Mechanics __________ worn brake pads during major repairs.",
-            "options": ["replaces", "are replacing", "replace"],
-            "answer": "replace"
+            "sentence": "Maintenance teams usually __________ wiring paths according to the layout diagram.",
+            "options": ["follows", "are following", "follow"],
+            "answer": "follow"
           },
           {
             "id": "g_b_8",
-            "sentence": "Currently, we __________ excess grease from the gearbox.",
-            "options": ["cleaning", "are cleaning", "cleans"],
-            "answer": "are cleaning"
+            "sentence": "Currently, the operator __________ cables onto the spooler in the workshop.",
+            "options": ["winds", "is winding", "wind"],
+            "answer": "is winding"
           },
           {
             "id": "g_b_9",
-            "sentence": "A turbo system always __________ engine power at high speeds.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Electricians __________ grounding points before final system testing.",
+            "options": ["confirms", "are confirming", "confirm"],
+            "answer": "confirm"
           },
           {
             "id": "g_b_10",
-            "sentence": "Look! She __________ the hydraulic system.",
-            "options": ["testing", "is testing", "tests"],
-            "answer": "is testing"
+            "sentence": "Right now, workers __________ control cables inside the distribution panel.",
+            "options": ["routes", "are routing", "route"],
+            "answer": "are routing"
           }
         ]
       },
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "The brake booster improves braking efficiency in most vehicles.",
+          "text": "Technicians usually check circuit continuity before powering the system.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "The technician checks the suspension of the CTB buses every morning.",
+          "text": "Right now, the trainee is measuring the current loop during the control test.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Mechanics usually apply lubricant during the final assembly stages.",
+          "text": "Electricians tighten terminal screws to prevent loose connections.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "They are installing the supercharger in the workshop today.",
+          "text": "Look! She is connecting the coupler between the signal cables carefully.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Technicians inspect fuel injectors during scheduled services.",
+          "text": "Supervisors usually verify insulation levels during routine inspections.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "The mechanic is winding the cable onto the spool in the training workshop now.",
+          "text": "At the moment, technicians are installing the duplexer inside the communication rack.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Mechanics replace worn brake pads during major repairs.",
+          "text": "Maintenance teams usually follow wiring paths according to the layout diagram.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Currently we are cleaning excess grease from the gearbox.",
+          "text": "Currently, the operator is winding cables onto the spooler in the workshop.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "A turbo system increases engine power at high speeds.",
+          "text": "Electricians confirm grounding points before final system testing.",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Look! She is testing the hydraulic system.",
+          "text": "Right now, workers are routing control cables inside the distribution panel.",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ]
