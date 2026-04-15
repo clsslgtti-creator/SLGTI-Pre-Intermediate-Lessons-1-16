@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "l'u'bricant",
+        "word_text": "sp'oo'ler",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This technician usually applies l'u'bricant, but today, he is applying grease.",
+        "sentence_text": "This technician often runs the sp'oo'ler, but today he is clearing it.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "brake b'oo'ster",
+        "word_text": "l'oo'pback",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This mechanic checks the brake b'oo'ster every morning, but this morning he is checking the whole engine.",
+        "sentence_text": "This engineer usually checks the l'oo'pback on Mondays, but today he is checking the IP address.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sp'oo'l",
+        "word_text": "router q'ueue'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This technician cleans the sp'oo'l every week, but this week he is cleaning the hydraulic lift.",
+        "sentence_text": "This admin officer monitors the router q'ueue' every morning, but this morning he is forwarding data.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "s'u'percharger",
+        "word_text": "scr'ew' mount",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This engine usually s'u'percharges smoothly, but right now, it is doing so unevenly.",
+        "sentence_text": "This technician always tightens the scr'ew' mount, but today he is dismantling it.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -239,115 +239,115 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "The brake booster __________ braking efficiency in most vehicles.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Network technicians usually __________ signal stability during routine system checks.",
+            "options": ["verifies", "are verifying", "verify"],
+            "answer": "verify"
           },
           {
             "id": "g_b_2",
-            "sentence": "The technician __________ the suspension of CTB buses every morning.",
-            "options": ["check", "is checking", "checks"],
-            "answer": "checks"
+            "sentence": "Right now, the trainee __________ the current loop in the control panel.",
+            "options": ["measures", "is measuring", "measure"],
+            "answer": "is measuring"
           },
           {
             "id": "g_b_3",
-            "sentence": "Mechanics usually __________ lubricant during the final assembly stages.",
-            "options": ["apply", "are applying", "apply"],
-            "answer": "apply"
+            "sentence": "ICT staff usually __________ configuration logs after each system update.",
+            "options": ["records", "are recording", "record"],
+            "answer": "record"
           },
           {
             "id": "g_b_4",
-            "sentence": "They __________ the supercharger in the workshop today.",
-            "options": ["is installing", "are installing", "install"],
-            "answer": "are installing"
+            "sentence": "Look! She __________ the coupler between the fibre cables carefully.",
+            "options": ["connects", "is connecting", "connect"],
+            "answer": "is connecting"
           },
           {
             "id": "g_b_5",
-            "sentence": "Technicians __________ fuel injectors during scheduled services.",
-            "options": ["inspects", "are inspecting", "inspect"],
-            "answer": "inspect"
+            "sentence": "System administrators usually __________ access permissions for new users.",
+            "options": ["assigns", "are assigning", "assign"],
+            "answer": "assign"
           },
           {
             "id": "g_b_6",
-            "sentence": "The mechanic __________ the cable onto the spool in the training workshop now.",
-            "options": ["are winding", "is winding", "winds"],
-            "answer": "is winding"
+            "sentence": "At the moment, technicians __________ the duplexer inside the network rack.",
+            "options": ["installs", "are installing", "install"],
+            "answer": "are installing"
           },
           {
             "id": "g_b_7",
-            "sentence": "Mechanics __________ worn brake pads during major repairs.",
-            "options": ["replaces", "are replacing", "replace"],
-            "answer": "replace"
+            "sentence": "Support teams usually __________ fault reports before escalating issues.",
+            "options": ["reviews", "are reviewing", "review"],
+            "answer": "review"
           },
           {
             "id": "g_b_8",
-            "sentence": "Currently, we __________ excess grease from the gearbox.",
-            "options": ["cleaning", "are cleaning", "cleans"],
-            "answer": "are cleaning"
+            "sentence": "Currently, the operator __________ data cables onto the spooler in the lab.",
+            "options": ["winds", "is winding", "wind"],
+            "answer": "is winding"
           },
           {
             "id": "g_b_9",
-            "sentence": "A turbo system always __________ engine power at high speeds.",
-            "options": ["increase", "is increasing", "increases"],
-            "answer": "increases"
+            "sentence": "Engineers usually __________ network diagrams during maintenance planning.",
+            "options": ["updates", "are updating", "update"],
+            "answer": "update"
           },
           {
             "id": "g_b_10",
-            "sentence": "Look! She __________ the hydraulic system.",
-            "options": ["testing", "is testing", "tests"],
-            "answer": "is testing"
+            "sentence": "Right now, trainees __________ patch cables inside the distribution cabinet.",
+            "options": ["arranges", "are arranging", "arrange"],
+            "answer": "are arranging"
           }
         ]
       },
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "The brake booster improves braking efficiency in most vehicles.",
+          "text": "Network technicians usually verify signal stability during routine system checks.",
           "audio": "assets/audio/a_3_b_g_1.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "The technician checks the suspension of the CTB buses every morning.",
+          "text": "Right now, the trainee is measuring the current loop in the control panel.",
           "audio": "assets/audio/a_3_b_g_2.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "Mechanics usually apply lubricant during the final assembly stages.",
+          "text": "ICT staff usually record configuration logs after each system update.",
           "audio": "assets/audio/a_3_b_g_3.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "They are installing the supercharger in the workshop today.",
+          "text": "Look! She is connecting the coupler between the fibre cables carefully.",
           "audio": "assets/audio/a_3_b_g_4.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "Technicians inspect fuel injectors during scheduled services.",
+          "text": "System administrators usually assign access permissions for new users.",
           "audio": "assets/audio/a_3_b_g_5.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "The mechanic is winding the cable onto the spool in the training workshop now.",
+          "text": "At the moment, technicians are installing the duplexer inside the network rack.",
           "audio": "assets/audio/a_3_b_g_6.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "Mechanics replace worn brake pads during major repairs.",
+          "text": "Support teams usually review fault reports before escalating issues.",
           "audio": "assets/audio/a_3_b_g_7.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "Currently we are cleaning excess grease from the gearbox.",
+          "text": "Currently, the operator is winding data cables onto the spooler in the lab.",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "A turbo system increases engine power at high speeds.",
+          "text": "Engineers usually update network diagrams during maintenance planning.",
           "audio": "assets/audio/a_3_b_g_9.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "Look! She is testing the hydraulic system.",
+          "text": "Right now, trainees are arranging patch cables inside the distribution cabinet.",
           "audio": "assets/audio/a_3_b_g_10.mp3"
         }
       ]
