@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "th'er'mal",
+        "word_text": "s'ur'face",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Th'er'mal sensors can detect engine overheating during extended highway driving.",
+        "sentence_text": "The s'ur'face reduces friction during precision machining operations processes.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "p'er'manent",
+        "word_text": "v'er'tical",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Can p'er'manent seals prevent oil leaks in high pressure systems?",
+        "sentence_text": "The v'er'tical alignment can improve accuracy during machine setup procedures.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "c'ir'culation",
+        "word_text": "t'ur'bine",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Proper oil c'ir'culation reduces friction inside rotating engine components.",
+        "sentence_text": "Can the t'ur'bine convert thermal energy into mechanical power efficiently?",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "w'or'kbench",
+        "word_text": "p'er'manent",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The w'or'kbench supports heavy components during engine assembly tasks.",
+        "sentence_text": "The p'er'manent fixture secures components during long-term operations safely.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -111,24 +111,24 @@
       {
         "id": "d_1",
         "img": "assets/img/a_2_d_1.jpeg",
-        "text_a": "Can you service a petrol engine using standard workshop tools?",
-        "text_b": "Yes, I can. I always service petrol engines in my current job. In fact, this is my main task on Mondays.",
+        "text_a": "Can you assemble mechanical components using standard fitting tools?",
+        "text_b": "Yes, I can. I always assemble mechanical components in my current job. In fact, this is my main task on Mondays.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3"
       },
       {
         "id": "d_2",
         "img": "assets/img/a_2_d_2.jpeg",
-        "text_a": "Can you inspect hydraulic brake systems on training vehicles?",
-        "text_b": "Yes, I can. I always inspect hydraulic brake systems in my current job. In fact, this is my main task on Tuesdays.",
+        "text_a": "Can you align a rotating shaft using a dial indicator?",
+        "text_b": "Yes, I can. I always align rotating shafts in my current job. In fact, this is my main task on Tuesdays.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3"
       },
       {
         "id": "d_3",
         "img": "assets/img/a_2_d_3.jpeg",
-        "text_a": "Can he flush the radiator and check coolant levels properly?",
-        "text_b": "Yes, he can. He always flushes cooling systems in his current job. In fact, this is his main task on Wednesdays.",
+        "text_a": "Can he install roller bearings according to the service manual?",
+        "text_b": "Yes, he can. He always installs roller bearings in his current job. In fact, this is his main task on Wednesdays.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3"
       }
@@ -137,80 +137,80 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "replace worn suspension bushes"
+        "word": "lubricate moving parts"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "test vehicle wiring"
+        "word": "inspect hand tools"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "monitor thermal readings"
+        "word": "finish a metal surface"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "secure permanent engine mounts"
+        "word": "position vertical supports"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "check oil circulation"
+        "word": "inspect a turbine"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "organise tools correctly"
+        "word": "secure permanent fasteners"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
         "img": "assets/img/a_2_d_4.jpeg",
-        "text_a": "Can you replace worn suspension bushes during routine servicing?",
-        "text_b": "Yes, I can. I always replace suspension bushes in my current job. In fact, this is my main task on Thursdays.",
+        "text_a": "Can you lubricate moving parts during routine machine servicing?",
+        "text_b": "Yes, I can. I always lubricate moving parts in my current job. In fact, this is my main task on Thursdays.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3"
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
-        "text_a": "Can you test vehicle wiring using a digital multimeter?",
-        "text_b": "Yes, I can. I always test electrical circuits in my current job. In fact, this is my main task on Fridays.",
+        "text_a": "Can you inspect hand tools for wear and damage?",
+        "text_b": "Yes, I can. I always inspect hand tools in my current job. In fact, this is my main task on Fridays.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3"
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Can she monitor thermal readings during engine overheating tests?",
-        "text_b": "Yes, she can. She always monitors thermal conditions in her current job. In fact, this is her main task on Saturdays.",
+        "text_a": "Can he finish a metal surface to the specified tolerance?",
+        "text_b": "Yes, he can. He always finishes metal surfaces in his current job. In fact, this is his main task on Saturdays.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3"
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "Can you secure permanent engine mounts during final assembly?",
-        "text_b": "Yes, I can. I always secure permanent mountings in my current job. In fact, this is my main task on Mondays.",
+        "text_a": "Can you position vertical supports during machine frame assembly?",
+        "text_b": "Yes, I can. I always position vertical supports in my current job. In fact, this is my main task on Mondays.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3"
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "Can you check oil circulation before starting the diesel engine?",
-        "text_b": "Yes, I can. I always check oil circulation in my current job. In fact, this is my main task on Tuesdays.",
+        "text_a": "Can you inspect a turbine before initial startup procedures?",
+        "text_b": "Yes, I can. I always inspect turbines in my current job. In fact, this is my main task on Tuesdays.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3"
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "Can he organise tools correctly on the workbench after repairs?",
-        "text_b": "Yes, he can. He always arranges tools correctly on the workbench in his current job. In fact, this is his main task on Wednesdays.",
+        "text_a": "Can he secure permanent fasteners during final machine installation?",
+        "text_b": "Yes, he can. He always secures permanent fasteners in his current job. In fact, this is his main task on Wednesdays.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3"
       }
