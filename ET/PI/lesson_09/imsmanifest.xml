@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest
+  identifier="MANIFEST-AT-E-LESSON-01"
+  version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+    http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+    http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd"
+>
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <imsmd:lom>
+      <imsmd:general>
+        <imsmd:title>
+          <imsmd:langstring xml:lang="en">Lesson 01</imsmd:langstring>
+        </imsmd:title>
+      </imsmd:general>
+    </imsmd:lom>
+  </metadata>
+  <organizations default="ORG-LESSON-01">
+    <organization identifier="ORG-LESSON-01" structure="hierarchical">
+      <title>Lesson 01</title>
+      <item identifier="ITEM-LESSON-01" identifierref="RES-LESSON-01" isvisible="true">
+        <title>Lesson 01</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-LESSON-01" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html" />
+      <file href="assets/audio/a_1_i_a.mp3" />
+      <file href="assets/audio/a_1_i_b.mp3" />
+      <file href="assets/audio/a_1_p_1_a.mp3" />
+      <file href="assets/audio/a_1_p_1_b.mp3" />
+      <file href="assets/audio/a_1_p_2_a.mp3" />
+      <file href="assets/audio/a_1_p_2_b.mp3" />
+      <file href="assets/audio/a_1_p_3_a.mp3" />
+      <file href="assets/audio/a_1_p_3_b.mp3" />
+      <file href="assets/audio/a_1_p_4_a.mp3" />
+      <file href="assets/audio/a_1_p_4_b.mp3" />
+      <file href="assets/audio/a_2_d_1_a.mp3" />
+      <file href="assets/audio/a_2_d_1_b.mp3" />
+      <file href="assets/audio/a_2_d_2_a.mp3" />
+      <file href="assets/audio/a_2_d_2_b.mp3" />
+      <file href="assets/audio/a_2_d_3_a.mp3" />
+      <file href="assets/audio/a_2_d_3_b.mp3" />
+      <file href="assets/audio/a_2_d_4_a.mp3" />
+      <file href="assets/audio/a_2_d_4_b.mp3" />
+      <file href="assets/audio/a_2_d_5_a.mp3" />
+      <file href="assets/audio/a_2_d_5_b.mp3" />
+      <file href="assets/audio/a_2_d_6_a.mp3" />
+      <file href="assets/audio/a_2_d_6_b.mp3" />
+      <file href="assets/audio/a_2_ex_1_a.mp3" />
+      <file href="assets/audio/a_2_ex_1_b.mp3" />
+      <file href="assets/audio/a_2_ex_2_a.mp3" />
+      <file href="assets/audio/a_2_ex_2_b.mp3" />
+      <file href="assets/audio/a_2_ex_3_a.mp3" />
+      <file href="assets/audio/a_2_ex_3_b.mp3" />
+      <file href="assets/audio/a_2_i_a.mp3" />
+      <file href="assets/audio/a_2_i_b.mp3" />
+      <file href="assets/audio/a_2_i_c.mp3" />
+      <file href="assets/audio/a_2_i_d.mp3" />
+      <file href="assets/audio/a_2_i_e.mp3" />
+      <file href="assets/audio/a_2_i_ex.mp3" />
+      <file href="assets/audio/a_3_ex_1.mp3" />
+      <file href="assets/audio/a_3_ex_2.mp3" />
+      <file href="assets/audio/a_3_g_1.mp3" />
+      <file href="assets/audio/a_3_g_10.mp3" />
+      <file href="assets/audio/a_3_g_2.mp3" />
+      <file href="assets/audio/a_3_g_3.mp3" />
+      <file href="assets/audio/a_3_g_4.mp3" />
+      <file href="assets/audio/a_3_g_5.mp3" />
+      <file href="assets/audio/a_3_g_6.mp3" />
+      <file href="assets/audio/a_3_g_7.mp3" />
+      <file href="assets/audio/a_3_g_8.mp3" />
+      <file href="assets/audio/a_3_g_9.mp3" />
+      <file href="assets/audio/a_3_i_a.mp3" />
+      <file href="assets/audio/a_4_a_1_a.mp3" />
+      <file href="assets/audio/a_4_a_1_b.mp3" />
+      <file href="assets/audio/a_4_a_1_c.mp3" />
+      <file href="assets/audio/a_4_a_2_a.mp3" />
+      <file href="assets/audio/a_4_a_2_b.mp3" />
+      <file href="assets/audio/a_4_a_2_c.mp3" />
+      <file href="assets/audio/a_4_a_3_a.mp3" />
+      <file href="assets/audio/a_4_a_3_b.mp3" />
+      <file href="assets/audio/a_4_a_3_c.mp3" />
+      <file href="assets/audio/a_4_a_4_a.mp3" />
+      <file href="assets/audio/a_4_a_4_b.mp3" />
+      <file href="assets/audio/a_4_a_4_c.mp3" />
+      <file href="assets/audio/a_4_a_5_a.mp3" />
+      <file href="assets/audio/a_4_a_5_b.mp3" />
+      <file href="assets/audio/a_4_a_5_c.mp3" />
+      <file href="assets/audio/a_4_a_6_a.mp3" />
+      <file href="assets/audio/a_4_a_6_b.mp3" />
+      <file href="assets/audio/a_4_a_6_c.mp3" />
+      <file href="assets/audio/a_4_i_a.mp3" />
+      <file href="assets/audio/a_4_i_d.mp3" />
+      <file href="assets/audio/a_4_l_1.mp3" />
+      <file href="assets/audio/a_4_l_2.mp3" />
+      <file href="assets/audio/a_4_l_3.mp3" />
+      <file href="assets/audio/a_4_l_4.mp3" />
+      <file href="assets/audio/a_4_l_5.mp3" />
+      <file href="assets/audio/a_4_l_6.mp3" />
+      <file href="assets/audio/a_4_l_7.mp3" />
+      <file href="assets/audio/a_4_l_8.mp3" />
+      <file href="assets/audio/a_4_r_1_a.mp3" />
+      <file href="assets/audio/a_4_r_1_b.mp3" />
+      <file href="assets/audio/a_4_r_2_a.mp3" />
+      <file href="assets/audio/a_4_r_2_b.mp3" />
+      <file href="assets/audio/a_4_r_3_a.mp3" />
+      <file href="assets/audio/a_4_r_3_b.mp3" />
+      <file href="assets/audio/a_4_r_4_a.mp3" />
+      <file href="assets/audio/a_4_r_4_b.mp3" />
+      <file href="assets/audio/a_4_r_5_a.mp3" />
+      <file href="assets/audio/a_4_r_5_b.mp3" />
+      <file href="assets/audio/a_4_r_6_a.mp3" />
+      <file href="assets/audio/a_4_r_6_b.mp3" />
+      <file href="assets/audio/a_4_w_1.mp3" />
+      <file href="assets/audio/a_4_w_10.mp3" />
+      <file href="assets/audio/a_4_w_11.mp3" />
+      <file href="assets/audio/a_4_w_12.mp3" />
+      <file href="assets/audio/a_4_w_13.mp3" />
+      <file href="assets/audio/a_4_w_14.mp3" />
+      <file href="assets/audio/a_4_w_15.mp3" />
+      <file href="assets/audio/a_4_w_16.mp3" />
+      <file href="assets/audio/a_4_w_17.mp3" />
+      <file href="assets/audio/a_4_w_18.mp3" />
+      <file href="assets/audio/a_4_w_2.mp3" />
+      <file href="assets/audio/a_4_w_3.mp3" />
+      <file href="assets/audio/a_4_w_4.mp3" />
+      <file href="assets/audio/a_4_w_5.mp3" />
+      <file href="assets/audio/a_4_w_6.mp3" />
+      <file href="assets/audio/a_4_w_7.mp3" />
+      <file href="assets/audio/a_4_w_8.mp3" />
+      <file href="assets/audio/a_4_w_9.mp3" />
+      <file href="assets/audio/game/correct.wav" />
+      <file href="assets/audio/game/incorrect.wav" />
+      <file href="assets/audio/game/timeout.wav" />
+      <file href="assets/img/a_1_p_1.jpeg" />
+      <file href="assets/img/a_1_p_2.png" />
+      <file href="assets/img/a_1_p_3.jpeg" />
+      <file href="assets/img/a_1_p_4.png" />
+      <file href="assets/img/a_2_d_1.jpeg" />
+      <file href="assets/img/a_2_d_2.jpeg" />
+      <file href="assets/img/a_2_d_3.jpeg" />
+      <file href="assets/img/a_2_d_4.jpeg" />
+      <file href="assets/img/a_2_d_5.jpeg" />
+      <file href="assets/img/a_2_d_6.jpeg" />
+      <file href="assets/img/a_2_ex_1.jpeg" />
+      <file href="assets/img/a_2_ex_2.jpeg" />
+      <file href="assets/img/a_2_ex_3.jpeg" />
+      <file href="assets/img/game/bg.jpg" />
+      <file href="assets/img/game/correct.png" />
+      <file href="assets/img/game/incorrect.png" />
+      <file href="assets/img/game/timeout.png" />
+      <file href="assets/img/game/timer.png" />
+      <file href="assets/img/logo.png" />
+      <file href="content.json" />
+      <file href="lib/activity-2.js" />
+      <file href="lib/audio-manager.js" />
+      <file href="lib/completion-modal.js" />
+      <file href="lib/game-1.js" />
+      <file href="lib/jquery-3.7.1.min.js" />
+      <file href="lib/jquery-ui.min.js" />
+      <file href="lib/jquery.ui.touch-punch.min.js" />
+      <file href="lib/listening-1.js" />
+      <file href="lib/listening-2.js" />
+      <file href="lib/phaser.min.js" />
+      <file href="lib/pipwerks-scorm.js" />
+      <file href="lib/pronunciation.js" />
+      <file href="lib/sbs.js" />
+      <file href="script.js" />
+      <file href="styles.css" />
+    </resource>
+  </resources>
+</manifest>

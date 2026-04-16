@@ -1,0 +1,768 @@
+{
+  "meta": {
+    "lesson_no": 9,
+    "level": "Pre-Intermediate",
+    "section": "Information Communication Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Long /uː/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "sp'oo'ler",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "This technician often runs the sp'oo'ler, but today he is clearing it.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "l'oo'pback",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "This engineer usually checks the l'oo'pback on Mondays, but today he is checking the IP address.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "router q'ueue'",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "This admin officer monitors the router q'ueue' every morning, but this morning he is forwarding data.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "scr'ew' mount",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "This technician always tightens the scr'ew' mount, but today he is dismantling it.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Contrast between Simple Present and Present Continuous",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I always cry when I’m sad.", "I’m crying because I’m sad."],
+        [
+          "I never sweep the garden after the rains.",
+          "I’m crying because I’m sad."
+        ]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Why are you washing the dishes at the well?",
+        "text_b": "I am washing the dishes at the well because there is a water cut. I always wash the dishes at the well when there is a water cut.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Why are you reading a book with a kerosene lamp?",
+        "text_b": "I am using a kerosene lamp because there is a blackout. I always use a kerosene lamp when there is a blackout.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Why are you fetching water from the neighbour’s well?",
+        "text_b": "I am fetching water from the neighbour’s well because our pump is broken. I always fetch water from the neighbour’s well when our pump is broken.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "cooking outside"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "keeping food in an ice box"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "walking to work"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "wearing Wellington boots indoors"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "washing clothes by hand"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "keeping the windows closed during the day"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Why are you cooking outside?",
+        "text_b": "I am cooking outside because the kitchen roof is leaking. I always cook outside when the kitchen roof is leaking.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Why are you keeping food in an ice box?",
+        "text_b": "I am keeping food in an ice box because the refrigerator is not working. I always keep food in an ice box when the refrigerator is not working.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Why are you walking to work today?",
+        "text_b": "I am walking to work because there are no buses on this route today. I always walk to work when there are no buses.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Why are you wearing Wellington boots indoors?",
+        "text_b": "I am wearing Wellington boots indoors because the ground floor is flooded. I always wear Wellington boots indoors when the ground floor is flooded.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Why are you washing your clothes by hand today?",
+        "text_b": "I am washing my clothes by hand because the washing machine is out of order. I always wash my clothes by hand when the washing machine is out of order.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Why are you keeping the windows closed during the day?",
+        "text_b": "I am keeping the windows closed because there is heavy dust outside. I always keep the windows closed when there is heavy dust outside.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Fill in the blanks with the correct form of the verb. නිවැරදි ක්‍රියා පදය යොදා හිස්තැන් පුරවන්න. வினைச்சொல்லின் சரியான வடிவத்தை பயன்படுத்தி வெற்றிடங்களை நிரப்பவும்.",
+        "audio": "assets/audio/a_3_i_n.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-2.jpg",
+
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "This waiter __________ the customers at lunchtime on Mondays.",
+            "options": ["serve", "is serving", "serves"],
+            "answer": "serves"
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "Network technicians usually __________ signal stability during routine system checks.",
+            "options": ["verifies", "are verifying", "verify"],
+            "answer": "verify"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "Right now, the trainee __________ the current loop in the control panel.",
+            "options": ["measures", "is measuring", "measure"],
+            "answer": "is measuring"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "ICT staff usually __________ configuration logs after each system update.",
+            "options": ["records", "are recording", "record"],
+            "answer": "record"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Look! She __________ the coupler between the fibre cables carefully.",
+            "options": ["connects", "is connecting", "connect"],
+            "answer": "is connecting"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "System administrators usually __________ access permissions for new users.",
+            "options": ["assigns", "are assigning", "assign"],
+            "answer": "assign"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "At the moment, technicians __________ the duplexer inside the network rack.",
+            "options": ["installs", "are installing", "install"],
+            "answer": "are installing"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Support teams usually __________ fault reports before escalating issues.",
+            "options": ["reviews", "are reviewing", "review"],
+            "answer": "review"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "Currently, the operator __________ data cables onto the spooler in the lab.",
+            "options": ["winds", "is winding", "wind"],
+            "answer": "is winding"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Engineers usually __________ network diagrams during maintenance planning.",
+            "options": ["updates", "are updating", "update"],
+            "answer": "update"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Right now, trainees __________ patch cables inside the distribution cabinet.",
+            "options": ["arranges", "are arranging", "arrange"],
+            "answer": "are arranging"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "n_3_1",
+          "text": "Network technicians usually verify signal stability during routine system checks.",
+          "audio": "assets/audio/a_3_b_g_1.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "Right now, the trainee is measuring the current loop in the control panel.",
+          "audio": "assets/audio/a_3_b_g_2.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "ICT staff usually record configuration logs after each system update.",
+          "audio": "assets/audio/a_3_b_g_3.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "Look! She is connecting the coupler between the fibre cables carefully.",
+          "audio": "assets/audio/a_3_b_g_4.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "System administrators usually assign access permissions for new users.",
+          "audio": "assets/audio/a_3_b_g_5.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "At the moment, technicians are installing the duplexer inside the network rack.",
+          "audio": "assets/audio/a_3_b_g_6.mp3"
+        },
+        {
+          "id": "n_3_7",
+          "text": "Support teams usually review fault reports before escalating issues.",
+          "audio": "assets/audio/a_3_b_g_7.mp3"
+        },
+        {
+          "id": "n_3_8",
+          "text": "Currently, the operator is winding data cables onto the spooler in the lab.",
+          "audio": "assets/audio/a_3_b_g_8.mp3"
+        },
+        {
+          "id": "n_3_9",
+          "text": "Engineers usually update network diagrams during maintenance planning.",
+          "audio": "assets/audio/a_3_b_g_9.mp3"
+        },
+        {
+          "id": "n_3_10",
+          "text": "Right now, trainees are arranging patch cables inside the distribution cabinet.",
+          "audio": "assets/audio/a_3_b_g_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_4_i_c.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_b_1",
+            "item_a": "apply",
+            "item_b": "for a TIN"
+          },
+          {
+            "id": "n_4_b_2",
+            "item_a": "submit",
+            "item_b": "the application form"
+          },
+          {
+            "id": "n_4_b_3",
+            "item_a": "provide",
+            "item_b": "personal information"
+          },
+          {
+            "id": "n_4_b_4",
+            "item_a": "attach",
+            "item_b": "required documents"
+          },
+          {
+            "id": "n_4_b_5",
+            "item_a": "verify",
+            "item_b": "identity"
+          },
+          {
+            "id": "n_4_b_6",
+            "item_a": "receive",
+            "item_b": "the TIN number"
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why does the recorded message advise listeners to decide the purpose of the TIN first?",
+            "answer": "Because a TIN is required before continuing with other business registrations.",
+            "options": [
+              "Because a PIN is required to obtain the business registration form.",
+              "Because a TIN is required before continuing with other business registrations.",
+              "Because a number of documents are needed before continuing with the registration."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What is the correct action before filling in the application form?",
+            "answer": "Making sure all necessary personal information is ready.",
+            "options": [
+              "Making sure all the necessary copies of documents are attached to the form.",
+              "Making sure all necessary personal information is ready.",
+              "Making sure the necessary information is attached."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "At which stage should the required documents be attached?",
+            "answer": "After completing the form but before submitting it.",
+            "options": [
+              "After downloading the form but before submitting it.",
+              "After completing the form but before submitting it.",
+              "After completing the form and submitting it."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "What may happen during the submission of the application form?",
+            "answer": "An officer may ask questions to verify identity details.",
+            "options": [
+              "An officer may ask questions to verify the registration details.",
+              "An officer may ask for additional business verification details.",
+              "An officer may ask questions to verify identity details."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "What does the word “eventually” refer to in the process?",
+            "answer": "The approval of the application after the review process.",
+            "options": [
+              "The approval of the review process after the application.",
+              "The approval of the application after the review process.",
+              "The approval of the application before the review process."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Thank you for calling the Inland Revenue Department.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "This recorded message will guide you through the process of applying for a Taxpayer Identification Number, also known as a TIN.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Please listen carefully, as the steps must be followed in the correct order.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "First, decide why you need to apply for a TIN.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Many people need to apply for a TIN to open a business account or to register a new business.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "If you are starting your own business, a TIN is required before you can continue with other registrations.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Second, you must apply for a TIN using the official application form.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "You can download this form from the Inland Revenue Department website or collect it from a regional office.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Before you begin filling in the form, make sure you have all the necessary information ready.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Next, complete the application form carefully.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "You must provide personal information, such as your full name, address, and NIC number.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "During this step, check that all details are accurate, as mistakes can delay the process.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Then, attach required documents.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "These usually include a copy of your NIC and proof of address.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Attach required documents before submitting the form, and ensure that all copies are clear and readable.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "After you have completed the form, submit the application form to the Inland Revenue Department.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "You may submit it online or hand it in at the relevant office.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "During submission, an officer may ask questions to verify identity details.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Eventually, after the review process is completed, the department will approve your application.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You will receive the TIN number once approval is granted.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "This may take several working days, depending on the workload.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Finally, keep your TIN number safely.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "You will need it for banking, tax payments, and future business activities.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Thank you for listening, and we wish you success with your new business.",
+          "audio": "assets/audio/t_24.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_4",
+          "text": "First, decide why you need to apply for a TIN.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Many people need to apply for a TIN to open a business account or to register a new business.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "If you are starting your own business, a TIN is required before you can continue with other registrations.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Second, you must apply for a TIN using the official application form.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Before you begin filling in the form, make sure you have all the necessary information ready.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Next, complete the application form carefully.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Then, attach required documents.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "These usually include a copy of your NIC and proof of address.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Attach required documents before submitting the form, and ensure that all copies are clear and readable.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "After you have completed the form, submit the application form to the Inland Revenue Department.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "During submission, an officer may ask questions to verify identity details.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Eventually, after the review process is completed, the department will approve your application.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You will receive the TIN number once approval is granted.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Finally, keep your TIN number safely.",
+          "audio": "assets/audio/t_22.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_4",
+          "text": "First, decide why you need to apply for a TIN.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Many people need to apply for a TIN to open a business account or to register a new business.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "If you are starting your own business, a TIN is required before you can continue with other registrations.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Second, you must apply for a TIN using the official application form.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Before you begin filling in the form, make sure you have all the necessary information ready.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Next, complete the application form carefully.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Then, attach required documents.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "These usually include a copy of your NIC and proof of address.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "Attach required documents before submitting the form, and ensure that all copies are clear and readable.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "After you have completed the form, submit the application form to the Inland Revenue Department.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "During submission, an officer may ask questions to verify identity details.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Eventually, after the review process is completed, the department will approve your application.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You will receive the TIN number once approval is granted.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "Finally, keep your TIN number safely.",
+          "audio": "assets/audio/t_22.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
