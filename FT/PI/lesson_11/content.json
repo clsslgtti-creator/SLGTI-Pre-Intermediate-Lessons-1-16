@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pist'o'n",
+        "word_text": "sep'a'rat'or'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The pist'o'n has to move smoothly during engine operation cycles.",
+        "sentence_text": "Operators have to clean the sep'a'rat'or' after the dairy processing cycle.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "calip'e'r",
+        "word_text": "evap'o'rat'or'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The technicians have to adjust the calip'e'r before brake testing.",
+        "sentence_text": "The evap'o'rat'or' has to remove excess moisture during milk concentration.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sens'o'r",
+        "word_text": "past'eu'ris'er'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A sens'o'r can monitor pressure levels inside the fuel system.",
+        "sentence_text": "The past'eu'ris'er' does not have to operate continuously overnight.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "c'o'mpress'or'",
+        "word_text": "agglomerat'or'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The compress'or' does not operate efficiently without proper lubrication.",
+        "sentence_text": "An agglomerat'or' can bind fine powder particles into larger, uniform granules.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -498,18 +498,18 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "Check the brake fluid level",
-            "item_b": "because low fluid can allow air into the system."
+            "item_a": "Check the food storage temperature",
+            "item_b": "because temperature control is critical for food safety."
           },
           {
             "id": "n_4_a_2",
-            "item_a": "Attach a clear hose to the bleed screw",
-            "item_b": "to observe air bubbles during the bleeding process."
+            "item_a": "Clean the thermometer probe before use",
+            "item_b": "to prevent contamination during checking."
           },
           {
             "id": "n_4_a_3",
-            "item_a": "Tighten the bleed screw",
-            "item_b": "so that air does not re-enter the brake system."
+            "item_a": "Monitor food temperature during processing",
+            "item_b": "to ensure food is cooked or cooled safely."
           },
           {
             "id": "n_4_a_4",
@@ -533,52 +533,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why does the technician check the brake fluid level first?",
-            "answer": "Because low fluid can allow air into the system.",
+            "question": "Why does the technician check the storage temperature first?",
+            "answer": "Because temperature control is critical for food safety.",
             "options": [
-              "Because low fluid can allow brake air into the system.",
-              "Because low fluid can allow air into the system.",
-              "Because low air can allow fluid into the system."
+              "Because food tastes better at low temperatures.",
+              "Because temperature control is critical for food safety.",
+              "Because temperature control is critical calibration."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why is a clear hose attached to the bleed screw?",
-            "answer": "To observe air bubbles during bleeding.",
+            "question": "Why is the thermometer probe cleaned before use?",
+            "answer": "To prevent contamination during checking.",
             "options": [
-              "To observe bleeding during air release.",
-              "To observe air bubbles during bleeding.",
-              "To observe bubbles during braking."
+              "To improve temperature accuracy during checking.",
+              "To prevent contamination during checking.",
+              "To prevent checking during contamination."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Why is the bleed screw tightened before releasing the pedal?",
-            "answer": "So that air does not re-enter the system.",
+            "question": "Why is food temperature monitored regularly during processing?",
+            "answer": "To ensure food is cooked or cooled safely.",
             "options": [
-              "So that the screws don’t leak.",
-              "So that air does not re-enter the system.",
-              "So that fluid pressure re-enters the system."
+              "To ensure food is cooked and cooking time is fixed safely.",
+              "To ensure food is cooked or cooled safely.",
+              "To ensure safety of cooling and cooking time."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why is the brake pedal pressed slowly?",
-            "answer": "Because slow pressure removes air more effectively.",
+            "question": "Why doesn’t the chef rely on guesswork?",
+            "answer": "Because accurate readings are necessary for food safety.",
             "options": [
-              "Because slow air increases pressure more effectively.",
-              "Because slow pressure removes air more effectively.",
-              "Because quick movement removes air more effectively."
+              "Because hot and cold zones have to be distributed evenly.",
+              "Because accurate readings are necessary for food safety.",
+              "Because food temperature changes slowly."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Why doesn’t the technician perform a road test?",
-            "answer": "Because the session focuses only on brake bleeding.",
+            "question": "Why isn’t the food served immediately after checking temperature?",
+            "answer": "Because proper cooling or holding time is required.",
             "options": [
-              "Because the vehicle is not ready.",
-              "Because the session focuses only on brake bleeding.",
-              "Because brake fluid is still bleeding."
+              "Because the food must be labelled.",
+              "Because proper cooling or holding time is required.",
+              "Because the work area has to be cleaned and sanitised."
             ]
           }
         ]
@@ -591,113 +591,118 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain an essential process that you regularly practise in Food Technology.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This process is controlling food temperature during preparation and storage.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is a routine task, it must be carried out carefully and in the correct order, because incorrect temperatures can cause food spoilage and serious health risks.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to check the food storage temperature using a calibrated thermometer, because temperature control is critical for food safety.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before handling any food items, the storage conditions should be verified.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to identify the correct storage areas for raw and cooked items so that cross-contamination is avoided.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to clean the thermometer probe to prevent contamination during checking.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to record the initial temperature readings to create a clear reference point.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You shouldn’t start food preparation at this stage, because storage conditions must be confirmed first.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Proper preparation supports hygiene and safe handling.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Once preparation is complete, you have to monitor food temperature regularly during processing to ensure food is cooked or cooled safely.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "The process should be observed carefully throughout cooking or cooling.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "Then, you have to adjust heat levels when necessary, because uneven heating can leave food unsafe to consume.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "After that, you have to stir or turn food as required so that heat is distributed evenly.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "You also have to separate hot and cold food items to maintain correct temperature zones.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "You shouldn’t rely on guesswork, because accurate readings are necessary for food safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Careful monitoring reduces contamination risks.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "Finally, you have to check the final temperature before moving food to storage to confirm it is within safe limits.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "Then, you have to label food containers clearly so that storage time can be tracked easily.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "After that, you have to place food in the correct storage unit to maintain temperature stability.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "You also have to clean and sanitise work areas to prepare for the next task.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "text": "You shouldn’t serve the food immediately, because proper cooling or holding time is required.",
           "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Following this sequence ensures safe and hygienic food handling.",
+          "audio": "assets/audio/t_24.mp3"
         }
       ],
       "activity_d": [
@@ -708,113 +713,118 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain an essential process that you regularly practise in Food Technology.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This process is controlling food temperature during preparation and storage.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is a routine task, it must be carried out carefully and in the correct order, because incorrect temperatures can cause food spoilage and serious health risks.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to check the food storage temperature using a calibrated thermometer, because temperature control is critical for food safety.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before handling any food items, the storage conditions should be verified.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to identify the correct storage areas for raw and cooked items so that cross-contamination is avoided.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to clean the thermometer probe to prevent contamination during checking.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to record the initial temperature readings to create a clear reference point.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You shouldn’t start food preparation at this stage, because storage conditions must be confirmed first.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Proper preparation supports hygiene and safe handling.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Once preparation is complete, you have to monitor food temperature regularly during processing to ensure food is cooked or cooled safely.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "The process should be observed carefully throughout cooking or cooling.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "Then, you have to adjust heat levels when necessary, because uneven heating can leave food unsafe to consume.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "After that, you have to stir or turn food as required so that heat is distributed evenly.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "You also have to separate hot and cold food items to maintain correct temperature zones.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "You shouldn’t rely on guesswork, because accurate readings are necessary for food safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Careful monitoring reduces contamination risks.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "Finally, you have to check the final temperature before moving food to storage to confirm it is within safe limits.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "Then, you have to label food containers clearly so that storage time can be tracked easily.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "After that, you have to place food in the correct storage unit to maintain temperature stability.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "You also have to clean and sanitise work areas to prepare for the next task.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "text": "You shouldn’t serve the food immediately, because proper cooling or holding time is required.",
           "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Following this sequence ensures safe and hygienic food handling.",
+          "audio": "assets/audio/t_24.mp3"
         }
       ],
       "activity_e": [
@@ -825,113 +835,118 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain an essential process that you regularly practise in Food Technology.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This process is controlling food temperature during preparation and storage.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is a routine task, it must be carried out carefully and in the correct order, because incorrect temperatures can cause food spoilage and serious health risks.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to check the food storage temperature using a calibrated thermometer, because temperature control is critical for food safety.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before handling any food items, the storage conditions should be verified.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to identify the correct storage areas for raw and cooked items so that cross-contamination is avoided.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to clean the thermometer probe to prevent contamination during checking.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to record the initial temperature readings to create a clear reference point.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You shouldn’t start food preparation at this stage, because storage conditions must be confirmed first.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Proper preparation supports hygiene and safe handling.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Once preparation is complete, you have to monitor food temperature regularly during processing to ensure food is cooked or cooled safely.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "The process should be observed carefully throughout cooking or cooling.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "Then, you have to adjust heat levels when necessary, because uneven heating can leave food unsafe to consume.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "After that, you have to stir or turn food as required so that heat is distributed evenly.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "You also have to separate hot and cold food items to maintain correct temperature zones.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "You shouldn’t rely on guesswork, because accurate readings are necessary for food safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Careful monitoring reduces contamination risks.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "Finally, you have to check the final temperature before moving food to storage to confirm it is within safe limits.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "Then, you have to label food containers clearly so that storage time can be tracked easily.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "After that, you have to place food in the correct storage unit to maintain temperature stability.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "You also have to clean and sanitise work areas to prepare for the next task.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "text": "You shouldn’t serve the food immediately, because proper cooling or holding time is required.",
           "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Following this sequence ensures safe and hygienic food handling.",
+          "audio": "assets/audio/t_24.mp3"
         }
       ]
     }
