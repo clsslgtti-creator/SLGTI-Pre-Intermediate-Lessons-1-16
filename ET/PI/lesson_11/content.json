@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pist'o'n",
+        "word_text": "regulat'o'r",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The pist'o'n has to move smoothly during engine operation cycles.",
+        "sentence_text": "The regulat'o'r has to control voltage levels during normal operation.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "calip'e'r",
+        "word_text": "c'o'nnect'or'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The technicians have to adjust the calip'e'r before brake testing.",
+        "sentence_text": "Technicians have to secure the c'o'nnect'or' before powering the circuit.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sens'o'r",
+        "word_text": "stab'i'lis'er'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A sens'o'r can monitor pressure levels inside the fuel system.",
+        "sentence_text": "The stab'i'lis'er' does not require adjustment under standard load conditions.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "c'o'mpress'or'",
+        "word_text": "rectifi'e'r",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The compress'or' does not operate efficiently without proper lubrication.",
+        "sentence_text": "The rectifi'e'r can convert alternating current into direct current safely.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -498,18 +498,18 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "Check the brake fluid level",
-            "item_b": "because low fluid can allow air into the system."
+            "item_a": "Isolate the power supply before inspection",
+            "item_b": "because live circuits can cause electric shock."
           },
           {
             "id": "n_4_a_2",
-            "item_a": "Attach a clear hose to the bleed screw",
-            "item_b": "to observe air bubbles during the bleeding process."
+            "item_a": "Check terminals and cable connections carefully",
+            "item_b": "because loose connections can lead to overheating."
           },
           {
             "id": "n_4_a_3",
-            "item_a": "Tighten the bleed screw",
-            "item_b": "so that air does not re-enter the brake system."
+            "item_a": "Restore the power supply gradually",
+            "item_b": "to confirm normal operation safely."
           },
           {
             "id": "n_4_a_4",
@@ -533,52 +533,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why does the technician check the brake fluid level first?",
-            "answer": "Because low fluid can allow air into the system.",
+            "question": "Why does the technician isolate the power supply first?",
+            "answer": "Because live circuits can cause electric shock.",
             "options": [
-              "Because low fluid can allow brake air into the system.",
-              "Because low fluid can allow air into the system.",
-              "Because low air can allow fluid into the system."
+              "Because live circuits can cause breakers to work faster.",
+              "Because live circuits can cause electric shock.",
+              "Because circuit testers can cause electric shock."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why is a clear hose attached to the bleed screw?",
-            "answer": "To observe air bubbles during bleeding.",
+            "question": "Why is a voltage tester used after isolation?",
+            "answer": "To confirm the board is safe to work on.",
             "options": [
-              "To observe bleeding during air release.",
-              "To observe air bubbles during bleeding.",
-              "To observe bubbles during braking."
+              "To confirm the voltage is safe to work with.",
+              "To confirm the board is safe to work on.",
+              "To test breaker speed is safe to work with."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Why is the bleed screw tightened before releasing the pedal?",
-            "answer": "So that air does not re-enter the system.",
+            "question": "Why are terminals checked carefully during inspection?",
+            "answer": "Because loose connections can cause overheating.",
             "options": [
-              "So that the screws don’t leak.",
-              "So that air does not re-enter the system.",
-              "So that fluid pressure re-enters the system."
+              "Because loose connections can cause discolouration.",
+              "Because loose connections can cause overheating.",
+              "Because loose connections can cause cables to break."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why is the brake pedal pressed slowly?",
-            "answer": "Because slow pressure removes air more effectively.",
+            "question": "Why doesn’t the technician replace components immediately?",
+            "answer": "Because defects are reported for scheduled maintenance.",
             "options": [
-              "Because slow air increases pressure more effectively.",
-              "Because slow pressure removes air more effectively.",
-              "Because quick movement removes air more effectively."
+              "Because replacements are reported for inspection.",
+              "Because defects are reported for scheduled maintenance.",
+              "Because components are defective."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Why doesn’t the technician perform a road test?",
-            "answer": "Because the session focuses only on brake bleeding.",
+            "question": "Why isn’t load testing carried out during this session?",
+            "answer": "Because the session focuses only on inspection.",
             "options": [
-              "Because the vehicle is not ready.",
-              "Because the session focuses only on brake bleeding.",
-              "Because brake fluid is still bleeding."
+              "Because workshop standards must be maintained during the session.",
+              "Because the session focuses only on inspection.",
+              "Because load testing is optional."
             ]
           }
         ]
@@ -591,113 +591,108 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain a routine but essential procedure that you regularly practise in the Electrical Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This procedure is a distribution board inspection.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is routine, it must be done carefully and in the correct order, because faults in distribution boards can cause serious electrical hazards.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to isolate the power supply to the distribution board, because live circuits can cause electric shock.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before any inspection begins, the board should be completely de-energised and clearly identified.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to confirm isolation using a voltage tester so that you are sure the board is safe to work on.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to wear insulated gloves and suitable safety equipment to reduce the risk of injury.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to open the distribution board cover carefully to access internal components.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You don’t have to remove all breakers at this stage, because the inspection focuses only on visible connections and general conditions.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Once the board is accessible, you have to inspect terminals and cable connections carefully, because loose connections can lead to overheating.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Then, you have to check breakers for signs of damage or discolouration so that faulty components can be identified early.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "After that, you have to tighten any loose terminals to ensure reliable electrical contact.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "You also have to check earthing connections to confirm overall system safety.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "You shouldn’t replace components immediately during this inspection, because defective parts are reported for scheduled maintenance.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "This structured approach helps prevent electrical faults and unexpected failures.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "Finally, you have to close the distribution board securely to protect internal components from dust and contact.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Then, you have to restore the power supply gradually so that the system can be observed safely.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "After that, you have to monitor the board briefly to confirm normal operation.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "You also have to clean the work area to maintain workshop standards.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "You don’t have to carry out load testing at this stage, because the session focuses only on inspection procedures.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "Following this sequence ensures electrical safety, system reliability, and correct maintenance practice.",
           "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ],
       "activity_d": [
@@ -708,113 +703,108 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain a routine but essential procedure that you regularly practise in the Electrical Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This procedure is a distribution board inspection.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is routine, it must be done carefully and in the correct order, because faults in distribution boards can cause serious electrical hazards.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to isolate the power supply to the distribution board, because live circuits can cause electric shock.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before any inspection begins, the board should be completely de-energised and clearly identified.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to confirm isolation using a voltage tester so that you are sure the board is safe to work on.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to wear insulated gloves and suitable safety equipment to reduce the risk of injury.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to open the distribution board cover carefully to access internal components.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You don’t have to remove all breakers at this stage, because the inspection focuses only on visible connections and general conditions.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Once the board is accessible, you have to inspect terminals and cable connections carefully, because loose connections can lead to overheating.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Then, you have to check breakers for signs of damage or discolouration so that faulty components can be identified early.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "After that, you have to tighten any loose terminals to ensure reliable electrical contact.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "You also have to check earthing connections to confirm overall system safety.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "You shouldn’t replace components immediately during this inspection, because defective parts are reported for scheduled maintenance.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "This structured approach helps prevent electrical faults and unexpected failures.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "Finally, you have to close the distribution board securely to protect internal components from dust and contact.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Then, you have to restore the power supply gradually so that the system can be observed safely.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "After that, you have to monitor the board briefly to confirm normal operation.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "You also have to clean the work area to maintain workshop standards.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "You don’t have to carry out load testing at this stage, because the session focuses only on inspection procedures.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "Following this sequence ensures electrical safety, system reliability, and correct maintenance practice.",
           "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ],
       "activity_e": [
@@ -825,113 +815,108 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain a routine but essential procedure that you regularly practise in the Electrical Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This procedure is a distribution board inspection.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is routine, it must be done carefully and in the correct order, because faults in distribution boards can cause serious electrical hazards.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to isolate the power supply to the distribution board, because live circuits can cause electric shock.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before any inspection begins, the board should be completely de-energised and clearly identified.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to confirm isolation using a voltage tester so that you are sure the board is safe to work on.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to wear insulated gloves and suitable safety equipment to reduce the risk of injury.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to open the distribution board cover carefully to access internal components.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You don’t have to remove all breakers at this stage, because the inspection focuses only on visible connections and general conditions.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Once the board is accessible, you have to inspect terminals and cable connections carefully, because loose connections can lead to overheating.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Then, you have to check breakers for signs of damage or discolouration so that faulty components can be identified early.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "After that, you have to tighten any loose terminals to ensure reliable electrical contact.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "You also have to check earthing connections to confirm overall system safety.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "You shouldn’t replace components immediately during this inspection, because defective parts are reported for scheduled maintenance.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "This structured approach helps prevent electrical faults and unexpected failures.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "Finally, you have to close the distribution board securely to protect internal components from dust and contact.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Then, you have to restore the power supply gradually so that the system can be observed safely.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "After that, you have to monitor the board briefly to confirm normal operation.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "You also have to clean the work area to maintain workshop standards.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "You don’t have to carry out load testing at this stage, because the session focuses only on inspection procedures.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "Following this sequence ensures electrical safety, system reliability, and correct maintenance practice.",
           "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ]
     }
