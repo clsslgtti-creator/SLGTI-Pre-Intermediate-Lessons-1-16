@@ -1,0 +1,969 @@
+{
+  "meta": {
+    "lesson_no": 11,
+    "level": "Pre-Intermediate",
+    "section": "Information Communication Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Schwa /ə/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "pist'o'n",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The pist'o'n has to move smoothly during engine operation cycles.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "calip'e'r",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The technicians have to adjust the calip'e'r before brake testing.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "sens'o'r",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "A sens'o'r can monitor pressure levels inside the fuel system.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "c'o'mpress'or'",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The compress'or' does not operate efficiently without proper lubrication.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Can / Has to",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I", "have to", "work."],
+        ["We", null, null],
+        ["You", null, null],
+        ["They", null, null],
+        ["He", "has to", null],
+        ["She", null, null],
+        ["It", null, null]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Can she help us set up the equipment for the general assembly tomorrow morning?",
+        "text_b": "I’m afraid she can’t. She has to prepare the presentation on renewable energy for tomorrow morning, and there is nobody to help her.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Can he finish the maintenance work in the IT section this afternoon?",
+        "text_b": "I’m afraid he can’t. He has to check more than 20 motherboards this afternoon, and there is nobody to help him.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Can they organise some short eats for tomorrow’s function?",
+        "text_b": "I’m afraid they can’t. They have to prepare the entire program for tomorrow, and there is nobody to help them.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "handle two broken lathe machines"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "update the records of all CT trainees"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "clean the entire seafood section"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "receive 400 orders of the welding rods"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "reset all the electrical systems"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "check each trainee’s work"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Can we complete the inspection of the MT section today?",
+        "text_b": "I’m afraid we can’t. We have to handle two broken lathe machines there today, and there is nobody to help us.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Can you assist us with organizing the documentation this afternoon?",
+        "text_b": "I’m afraid I can’t. I have to update the records of all CT trainees this afternoon, and there is nobody to help me.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Can she get the tools ready for the lab session next week?",
+        "text_b": "I’m afraid she can’t. She has to clean the entire seafood section for next week, and there is nobody to help her.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Can he move the welding equipment to the storage area today?",
+        "text_b": "I’m afraid he can’t. He has to receive 400 orders of the welding rods today, and there is nobody to help him.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Can he prepare the workspace after the power outage today?",
+        "text_b": "I’m afraid he can’t. He has to reset all the electrical systems today, and there is nobody to help him.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Can they handle the extra trainees during the practical session tomorrow?",
+        "text_b": "I’m afraid they can’t. They have to check each trainee’s work individually, and there is nobody to help them.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_m.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-4.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "They have to buy a ticket to Kandy before 5 pm.",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "They not have to buy a ticket to Kandy before 5 pm.",
+              "They haven’t to buy a ticket to Kandy before 5 pm.",
+              "They don’t have to buy a ticket to Kandy before 5 pm."
+            ],
+            "answer": "They don’t have to buy a ticket to Kandy before 5 pm."
+          }
+        ],
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "I have to wake up early tomorrow.",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "I not have to wake up early tomorrow.",
+              "I haven’t to wake up early tomorrow.",
+              "I don’t have to wake up early tomorrow."
+            ],
+            "answer": "I don’t have to wake up early tomorrow."
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "We have to finish this assignment before lunch.",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "We doesn’t have to finish this assignment before lunch.",
+              "We haven’t to finish this assignment before lunch.",
+              "We don’t have to finish this assignment before lunch."
+            ],
+            "answer": "We don’t have to finish this assignment before lunch."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "You have to wear an ID card at work.",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "You not have to wear an ID card at work.",
+              "You don’t have to wear an ID card at work.",
+              "You haven’t to wear an ID card at work."
+            ],
+            "answer": "You don’t have to wear an ID card at work."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "They have to follow the rules carefully.",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "They don’t have to follow the rules carefully.",
+              "They doesn’t have to follow the rules carefully.",
+              "They haven’t to follow the rules carefully."
+            ],
+            "answer": "They don’t have to follow the rules carefully."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "She has to submit the form today.",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "She don’t has to submit the form today.",
+              "She hasn’t to submit the form today.",
+              "She doesn’t have to submit the form today."
+            ],
+            "answer": "She doesn’t have to submit the form today."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "He has to finish the maths paper today.",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "Does he has to finish the maths paper today?",
+              "Do he have to finish the maths paper today?",
+              "Does he have to finish the maths paper today?"
+            ],
+            "answer": "Does he have to finish the maths paper today?"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "He has to attend the meeting this afternoon.",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "Does he has to attend the meeting this afternoon?",
+              "Does he have to attend the meeting this afternoon?",
+              "Do he have to attend the meeting this afternoon?"
+            ],
+            "answer": "Does he have to attend the meeting this afternoon?"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "The trainee has to clean the workspace after use.",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "Does the trainee have to clean the workspace after use?",
+              "Does the trainee has to clean the workspace after use?",
+              "Do the trainee have to clean the workspace after use?"
+            ],
+            "answer": "Does the trainee have to clean the workspace after use?"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "My sister has to study for her exam tonight.",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "Does my sister has to study for her exam tonight?",
+              "Do my sister have to study for her exam tonight?",
+              "Does my sister have to study for her exam tonight?"
+            ],
+            "answer": "Does my sister have to study for her exam tonight?"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "The machine has to be checked every morning.",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "Does the machine has to be checked every morning?",
+              "Does the machine have to be checked every morning?",
+              "Do the machine have to be checked every morning?"
+            ],
+            "answer": "Does the machine have to be checked every morning?"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_ex",
+          "text": "They have to buy a ticket to Kandy before 5 pm.",
+          "audio": "assets/audio/g_b_ex.mp3"
+        },
+        {
+          "id": "g_b_ex_a",
+          "text": "They don’t have to buy a ticket to Kandy before 5 pm.",
+          "audio": "assets/audio/g_b_ex_a.mp3"
+        },
+        {
+          "id": "g_b_1",
+          "text": "I have to wake up early tomorrow.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "I don’t have to wake up early tomorrow.",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "We have to finish this assignment before lunch.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "We don’t have to finish this assignment before lunch.",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "You have to wear an ID card at work.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "You don’t have to wear an ID card at work.",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "They have to follow the rules carefully.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "They don’t have to follow the rules carefully.",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "She has to submit the form today.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "She doesn’t have to submit the form today.",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "He has to finish the maths paper today.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "Does he have to finish the maths paper today?",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "He has to attend the meeting this afternoon.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "Does he have to attend the meeting this afternoon?",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "The trainee has to clean the workspace after use.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "Does the trainee have to clean the workspace after use?",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "My sister has to study for her exam tonight.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_9_a",
+          "text": "Does my sister have to study for her exam tonight?",
+          "audio": "assets/audio/g_b_9_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "The machine has to be checked every morning.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "Does the machine have to be checked every morning?",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-6",
+    "instructions": {
+      "activity_a": {
+        "text": "Match each sentence beginning with the correct ending. සිට ආරම්භ වන සෑම වාක්‍යයක්ම නිවැරදි අවසානය සමඟ ගලපන්න. வாக்கியத்தின் ஒவ்வொரு தொடக்கத்தையும் அதன் சரியான முடிவுடன் பொருத்துக.",
+        "audio": "assets/audio/a_4_i_l.mp3"
+      },
+      "activity_b": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_c": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_e": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "content": [
+          {
+            "id": "n_4_a_1",
+            "item_a": "Check the brake fluid level",
+            "item_b": "because low fluid can allow air into the system."
+          },
+          {
+            "id": "n_4_a_2",
+            "item_a": "Attach a clear hose to the bleed screw",
+            "item_b": "to observe air bubbles during the bleeding process."
+          },
+          {
+            "id": "n_4_a_3",
+            "item_a": "Tighten the bleed screw",
+            "item_b": "so that air does not re-enter the brake system."
+          },
+          {
+            "id": "n_4_a_4",
+            "item_a": "Follow the correct procedure carefully",
+            "item_b": "because skipping steps can cause safety problems."
+          },
+          {
+            "id": "n_4_a_5",
+            "item_a": "Wear protective gloves in the workshop",
+            "item_b": "to protect your skin during practical work."
+          },
+          {
+            "id": "n_4_a_6",
+            "item_a": "Record the completed procedure",
+            "item_b": "so that maintenance records remain accurate."
+          }
+        ]
+      },
+      "activity_b": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why does the technician check the brake fluid level first?",
+            "answer": "Because low fluid can allow air into the system.",
+            "options": [
+              "Because low fluid can allow brake air into the system.",
+              "Because low fluid can allow air into the system.",
+              "Because low air can allow fluid into the system."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Why is a clear hose attached to the bleed screw?",
+            "answer": "To observe air bubbles during bleeding.",
+            "options": [
+              "To observe bleeding during air release.",
+              "To observe air bubbles during bleeding.",
+              "To observe bubbles during braking."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Why is the bleed screw tightened before releasing the pedal?",
+            "answer": "So that air does not re-enter the system.",
+            "options": [
+              "So that the screws don’t leak.",
+              "So that air does not re-enter the system.",
+              "So that fluid pressure re-enters the system."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "Why is the brake pedal pressed slowly?",
+            "answer": "Because slow pressure removes air more effectively.",
+            "options": [
+              "Because slow air increases pressure more effectively.",
+              "Because slow pressure removes air more effectively.",
+              "Because quick movement removes air more effectively."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Why doesn’t the technician perform a road test?",
+            "answer": "Because the session focuses only on brake bleeding.",
+            "options": [
+              "Because the vehicle is not ready.",
+              "Because the session focuses only on brake bleeding.",
+              "Because brake fluid is still bleeding."
+            ]
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Good morning, everyone.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This process is called brake bleeding.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "We carry out this procedure to remove air from the brake system.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "audio": "assets/audio/t_23.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Good morning, everyone.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This process is called brake bleeding.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "We carry out this procedure to remove air from the brake system.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "audio": "assets/audio/t_23.mp3"
+        }
+      ],
+      "activity_e": [
+        {
+          "id": "t_1",
+          "text": "Good morning, everyone.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "This process is called brake bleeding.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "We carry out this procedure to remove air from the brake system.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "audio": "assets/audio/t_23.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
