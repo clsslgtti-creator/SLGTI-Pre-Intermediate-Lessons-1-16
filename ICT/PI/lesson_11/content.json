@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pist'o'n",
+        "word_text": "'a'dapt'er'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The pist'o'n has to move smoothly during engine operation cycles.",
+        "sentence_text": "Technicians don’t always connect the 'a'dapt'er' to the workstation correctly.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "calip'e'r",
+        "word_text": "c'o'ntroll'er'",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The technicians have to adjust the calip'e'r before brake testing.",
+        "sentence_text": "The c'o'ntroll'er' has to manage input signals during system startup.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sens'o'r",
+        "word_text": "pr'o'cess'o'r",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "A sens'o'r can monitor pressure levels inside the fuel system.",
+        "sentence_text": "Technicians have to monitor the pr'o'cess'o'r temperature during stress tests.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "c'o'mpress'or'",
+        "word_text": "'a'ccelerat'or'",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The compress'or' does not operate efficiently without proper lubrication.",
+        "sentence_text": "Engineers can enable the 'a'ccelerat'or' for faster graphics rendering tasks.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -498,18 +498,18 @@
         "content": [
           {
             "id": "n_4_a_1",
-            "item_a": "Check the brake fluid level",
-            "item_b": "because low fluid can allow air into the system."
+            "item_a": "Check the user list before account creation",
+            "item_b": "because each user needs the correct level of access."
           },
           {
             "id": "n_4_a_2",
-            "item_a": "Attach a clear hose to the bleed screw",
-            "item_b": "to observe air bubbles during the bleeding process."
+            "item_a": "Assign strong passwords to each account",
+            "item_b": "to protect the system from unauthorised access."
           },
           {
             "id": "n_4_a_3",
-            "item_a": "Tighten the bleed screw",
-            "item_b": "so that air does not re-enter the brake system."
+            "item_a": "Test user accounts after setup",
+            "item_b": "to confirm that login works correctly."
           },
           {
             "id": "n_4_a_4",
@@ -533,52 +533,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why does the technician check the brake fluid level first?",
-            "answer": "Because low fluid can allow air into the system.",
+            "question": "Why does the technician check the network diagram first?",
+            "answer": "Because it shows how devices must be connected.",
             "options": [
-              "Because low fluid can allow brake air into the system.",
-              "Because low fluid can allow air into the system.",
-              "Because low air can allow fluid into the system."
+              "Because it shows how network diagrams are connected.",
+              "Because it shows how devices must be connected.",
+              "Because it shows how correct ports must be connected."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why is a clear hose attached to the bleed screw?",
-            "answer": "To observe air bubbles during bleeding.",
+            "question": "Why are network cables labelled clearly?",
+            "answer": "Because labels reduce confusion during troubleshooting.",
             "options": [
-              "To observe bleeding during air release.",
-              "To observe air bubbles during bleeding.",
-              "To observe bubbles during braking."
+              "Because labels reduce cable speed during troubleshooting.",
+              "Because labels reduce confusion during troubleshooting.",
+              "Because labels protect the cables during troubleshooting."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Why is the bleed screw tightened before releasing the pedal?",
-            "answer": "So that air does not re-enter the system.",
+            "question": "Why isn’t power supplied to devices during preparation?",
+            "answer": "Because physical connections must be completed first.",
             "options": [
-              "So that the screws don’t leak.",
-              "So that air does not re-enter the system.",
-              "So that fluid pressure re-enters the system."
+              "Because electrical connections must be connected first.",
+              "Because physical connections must be completed first.",
+              "Because devices are not labelled."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why is the brake pedal pressed slowly?",
-            "answer": "Because slow pressure removes air more effectively.",
+            "question": "Why are cable connections checked for firmness?",
+            "answer": "Because loose connections can cause network faults.",
             "options": [
-              "Because slow air increases pressure more effectively.",
-              "Because slow pressure removes air more effectively.",
-              "Because quick movement removes air more effectively."
+              "Because network faults can cause loose connections.",
+              "Because loose connections can cause network faults.",
+              "Because intermittent software can cause problems."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Why doesn’t the technician perform a road test?",
-            "answer": "Because the session focuses only on brake bleeding.",
+            "question": "Why aren’t advanced network services installed during this session?",
+            "answer": "Because the session focuses only on setup and testing.",
             "options": [
-              "Because the vehicle is not ready.",
-              "Because the session focuses only on brake bleeding.",
-              "Because brake fluid is still bleeding."
+              "Because the session is only testing setups.",
+              "Because the session focuses only on setup and testing.",
+              "Because advanced network service is unreliable."
             ]
           }
         ]
@@ -591,112 +591,112 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain a common and important process that you regularly practise in the ICT laboratory.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This process is setting up and testing a basic computer network.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is a standard task, it must be carried out in a clear and logical sequence, because mistakes during setup can cause connection problems later and affect system performance.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to check the network diagram carefully, because it shows how devices must be connected.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before handling any equipment, the overall layout should be clearly understood.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to identify the correct ports on the switch and router so that cables are placed properly.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to prepare the network cables to ensure reliable data transmission.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to label the cables clearly to reduce confusion during troubleshooting.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You shouldn’t power on the devices at this stage, because all physical connections must be completed first.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Proper preparation helps minimise configuration errors.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Once preparation is complete, you have to connect computers to the switch using the correct Ethernet cables.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "Then, you have to connect the router to the switch, because the router controls network access.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "After that, you have to connect the server or main workstation so that shared resources can be accessed.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "Cable connections should be checked carefully to ensure they are firm and secure.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "You don’t have to configure software settings yet, because hardware connections must be verified first.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "Correct physical connections support stable network communication.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Finally, you have to power on the network devices in the correct order to allow proper startup.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "Then, you have to test network connectivity using basic commands to confirm communication between devices.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "After that, you have to check indicator lights on the switch and router to identify connection status.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "Any faults should be reported clearly so that corrective action can be taken.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "You shouldn’t install advanced network services at this stage, because the session focuses only on setup and testing.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "text": "Following this sequence ensures a reliable, stable, and functional network.",
           "audio": "assets/audio/t_23.mp3"
         }
       ],
@@ -708,112 +708,112 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain a common and important process that you regularly practise in the ICT laboratory.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This process is setting up and testing a basic computer network.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is a standard task, it must be carried out in a clear and logical sequence, because mistakes during setup can cause connection problems later and affect system performance.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to check the network diagram carefully, because it shows how devices must be connected.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before handling any equipment, the overall layout should be clearly understood.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to identify the correct ports on the switch and router so that cables are placed properly.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to prepare the network cables to ensure reliable data transmission.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to label the cables clearly to reduce confusion during troubleshooting.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You shouldn’t power on the devices at this stage, because all physical connections must be completed first.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Proper preparation helps minimise configuration errors.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Once preparation is complete, you have to connect computers to the switch using the correct Ethernet cables.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "Then, you have to connect the router to the switch, because the router controls network access.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "After that, you have to connect the server or main workstation so that shared resources can be accessed.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "Cable connections should be checked carefully to ensure they are firm and secure.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "You don’t have to configure software settings yet, because hardware connections must be verified first.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "Correct physical connections support stable network communication.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Finally, you have to power on the network devices in the correct order to allow proper startup.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "Then, you have to test network connectivity using basic commands to confirm communication between devices.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "After that, you have to check indicator lights on the switch and router to identify connection status.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "Any faults should be reported clearly so that corrective action can be taken.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "You shouldn’t install advanced network services at this stage, because the session focuses only on setup and testing.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "text": "Following this sequence ensures a reliable, stable, and functional network.",
           "audio": "assets/audio/t_23.mp3"
         }
       ],
@@ -825,112 +825,112 @@
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "Today I am going to explain a common and important process that you regularly practise in the ICT laboratory.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "This process is setting up and testing a basic computer network.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "Although it is a standard task, it must be carried out in a clear and logical sequence, because mistakes during setup can cause connection problems later and affect system performance.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "First, you have to check the network diagram carefully, because it shows how devices must be connected.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "Before handling any equipment, the overall layout should be clearly understood.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "Then, you have to identify the correct ports on the switch and router so that cables are placed properly.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "After that, you have to prepare the network cables to ensure reliable data transmission.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "Next, you have to label the cables clearly to reduce confusion during troubleshooting.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "You shouldn’t power on the devices at this stage, because all physical connections must be completed first.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "Proper preparation helps minimise configuration errors.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "Once preparation is complete, you have to connect computers to the switch using the correct Ethernet cables.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "Then, you have to connect the router to the switch, because the router controls network access.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "After that, you have to connect the server or main workstation so that shared resources can be accessed.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
+          "text": "Cable connections should be checked carefully to ensure they are firm and secure.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
+          "text": "You don’t have to configure software settings yet, because hardware connections must be verified first.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
+          "text": "Correct physical connections support stable network communication.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
+          "text": "Finally, you have to power on the network devices in the correct order to allow proper startup.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
+          "text": "Then, you have to test network connectivity using basic commands to confirm communication between devices.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
+          "text": "After that, you have to check indicator lights on the switch and router to identify connection status.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
           "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
+          "text": "Any faults should be reported clearly so that corrective action can be taken.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
+          "text": "You shouldn’t install advanced network services at this stage, because the session focuses only on setup and testing.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
+          "text": "Following this sequence ensures a reliable, stable, and functional network.",
           "audio": "assets/audio/t_23.mp3"
         }
       ]
