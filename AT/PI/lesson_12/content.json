@@ -264,11 +264,11 @@
     "type": "INTERACTIVE-9",
     "instructions": {
       "activity_a": {
-         "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
+        "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
         "audio": "assets/audio/a_3_i_h.mp3"
       },
       "activity_b": {
-         "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
+        "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
         "audio": "assets/audio/a_3_i_h.mp3"
       },
       "activity_bc": {
@@ -412,468 +412,295 @@
     }
   },
   "activity_4": {
-    "type": "LISTENING-6",
+    "type": "LISTENING-2",
     "instructions": {
       "activity_a": {
-        "text": "Match each sentence beginning with the correct ending. සිට ආරම්භ වන සෑම වාක්‍යයක්ම නිවැරදි අවසානය සමඟ ගලපන්න. வாக்கியத்தின் ஒவ்வொரு தொடக்கத்தையும் அதன் சரியான முடிவுடன் பொருத்துக.",
-        "audio": "assets/audio/a_4_i_l.mp3"
-      },
-      "activity_b": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
         "audio": "assets/audio/a_4_i_a.mp3"
       },
-      "activity_c": {
+      "activity_b": {
         "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
         "audio": "assets/audio/a_2_i_b.mp3"
       },
-      "activity_d": {
+      "activity_c": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       },
-      "activity_e": {
+      "activity_d": {
         "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
         "audio": "assets/audio/a_2_i_d.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "content": [
-          {
-            "id": "n_4_a_1",
-            "item_a": "Check the brake fluid level",
-            "item_b": "because low fluid can allow air into the system."
-          },
-          {
-            "id": "n_4_a_2",
-            "item_a": "Attach a clear hose to the bleed screw",
-            "item_b": "to observe air bubbles during the bleeding process."
-          },
-          {
-            "id": "n_4_a_3",
-            "item_a": "Tighten the bleed screw",
-            "item_b": "so that air does not re-enter the brake system."
-          },
-          {
-            "id": "n_4_a_4",
-            "item_a": "Follow the correct procedure carefully",
-            "item_b": "because skipping steps can cause safety problems."
-          },
-          {
-            "id": "n_4_a_5",
-            "item_a": "Wear protective gloves in the workshop",
-            "item_b": "to protect your skin during practical work."
-          },
-          {
-            "id": "n_4_a_6",
-            "item_a": "Record the completed procedure",
-            "item_b": "so that maintenance records remain accurate."
-          }
-        ]
-      },
-      "activity_b": {
-        "audio": "assets/audio/a_4_l_1.mp3",
+        "audio": "assets/audio/a_4_l_1.wav",
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why does the technician check the brake fluid level first?",
-            "answer": "Because low fluid can allow air into the system.",
+            "question": "What suggestion does the supervisor make first for the wrist injury?",
+            "answer": "Apply some Moov.",
             "options": [
-              "Because low fluid can allow brake air into the system.",
-              "Because low fluid can allow air into the system.",
-              "Because low air can allow fluid into the system."
+              "See a doctor immediately.",
+              "Apply some Moov.",
+              "Apply pain relief oil."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "Why is a clear hose attached to the bleed screw?",
-            "answer": "To observe air bubbles during bleeding.",
+            "question": "What caused the eye problem?",
+            "answer": "Dust inflamed the eye during machining.",
             "options": [
-              "To observe bleeding during air release.",
-              "To observe air bubbles during bleeding.",
-              "To observe bubbles during braking."
+              "Dust got into the eye while dismantling a machine.",
+              "Metal oil splashed into the eye.",
+              "Dust inflamed the eye during machining."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "Why is the bleed screw tightened before releasing the pedal?",
-            "answer": "So that air does not re-enter the system.",
+            "question": "What suggestion does the supervisor make first for the sore back?",
+            "answer": "Apply Siddhalepa balm and rest.",
             "options": [
-              "So that the screws don’t leak.",
-              "So that air does not re-enter the system.",
-              "So that fluid pressure re-enters the system."
+              "Go to the hospital immediately.",
+              "Apply Siddhalepa balm and rest.",
+              "Apply ice and siddhalepa balm."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why is the brake pedal pressed slowly?",
-            "answer": "Because slow pressure removes air more effectively.",
+            "question": "What happened to the trainee’s ankle?",
+            "answer": "He twisted it while walking down the stairs.",
             "options": [
-              "Because slow air increases pressure more effectively.",
-              "Because slow pressure removes air more effectively.",
-              "Because quick movement removes air more effectively."
+              "He sprained it while lifting materials.",
+              "He hurt it while walking down a hill.",
+              "He twisted it while walking down the stairs."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Why doesn’t the technician perform a road test?",
-            "answer": "Because the session focuses only on brake bleeding.",
+            "question": "What advice is given for the finger injury?",
+            "answer": "Clean it and apply antiseptic cream.",
             "options": [
-              "Because the vehicle is not ready.",
-              "Because the session focuses only on brake bleeding.",
-              "Because brake fluid is still bleeding."
+              "Cover it and keep working.",
+              "Clean it and apply antiseptic cream.",
+              "Apply herbal oil and bandage it tightly."
             ]
           }
         ]
       },
-      "activity_c": [
+      "activity_b": [
         {
           "id": "t_1",
-          "text": "Good morning, everyone.",
+          "text": "What about applying some Moov first?",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "feels very uncomfortable",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "How about washing your eyes with clean water first?",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "And why don’t you avoid dusty work for the rest of the day?",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "is really sore.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "How about applying some Siddhalepa balm  and resting today?",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "If the pain continues, why don’t you see a doctor this evening?",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "hurts a lot",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "What about using a cold compress and elevating it a bit?",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "And why don’t you use some herbal oil when you get home?",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "is very painful",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "How about cleaning it properly and applying an antiseptic cream?",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "And why don’t you see a doctor if it becomes red or swollen?",
           "audio": "assets/audio/t_14.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "What about applying some Moov first?",
+          "audio": "assets/audio/t_1.mp3"
         },
         {
-          "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
-          "audio": "assets/audio/t_15.mp3"
+          "id": "t_2",
+          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
+          "audio": "assets/audio/t_2.mp3"
         },
         {
-          "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
-          "audio": "assets/audio/t_16.mp3"
+          "id": "t_3",
+          "text": "feels very uncomfortable",
+          "audio": "assets/audio/t_3.mp3"
         },
         {
-          "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
-          "audio": "assets/audio/t_17.mp3"
+          "id": "t_4",
+          "text": "How about washing your eyes with clean water first?",
+          "audio": "assets/audio/t_4.mp3"
         },
         {
-          "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
-          "audio": "assets/audio/t_18.mp3"
+          "id": "t_5",
+          "text": "And why don’t you avoid dusty work for the rest of the day?",
+          "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
-          "audio": "assets/audio/t_19.mp3"
+          "id": "t_6",
+          "text": "is really sore.",
+          "audio": "assets/audio/t_6.mp3"
         },
         {
-          "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
-          "audio": "assets/audio/t_20.mp3"
+          "id": "t_7",
+          "text": "How about applying some Siddhalepa balm  and resting today?",
+          "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
-          "audio": "assets/audio/t_21.mp3"
+          "id": "t_8",
+          "text": "If the pain continues, why don’t you see a doctor this evening?",
+          "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
-          "audio": "assets/audio/t_22.mp3"
+          "id": "t_9",
+          "text": "hurts a lot",
+          "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
-          "audio": "assets/audio/t_23.mp3"
+          "id": "t_10",
+          "text": "What about using a cold compress and elevating it a bit?",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "And why don’t you use some herbal oil when you get home?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "is very painful",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "How about cleaning it properly and applying an antiseptic cream?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "And why don’t you see a doctor if it becomes red or swollen?",
+          "audio": "assets/audio/t_14.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "Good morning, everyone.",
+          "text": "What about applying some Moov first?",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
+          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "This process is called brake bleeding.",
+          "text": "feels very uncomfortable",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
+          "text": "How about washing your eyes with clean water first?",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
+          "text": "And why don’t you avoid dusty work for the rest of the day?",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
+          "text": "is really sore.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
+          "text": "How about applying some Siddhalepa balm  and resting today?",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
+          "text": "If the pain continues, why don’t you see a doctor this evening?",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
+          "text": "hurts a lot",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
+          "text": "What about using a cold compress and elevating it a bit?",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
+          "text": "And why don’t you use some herbal oil when you get home?",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
+          "text": "is very painful",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
+          "text": "How about cleaning it properly and applying an antiseptic cream?",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
+          "text": "And why don’t you see a doctor if it becomes red or swollen?",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
-          "audio": "assets/audio/t_23.mp3"
-        }
-      ],
-      "activity_e": [
-        {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "This process is called brake bleeding.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "We carry out this procedure to remove air from the brake system.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Please listen carefully and follow the sequence, because each step affects braking safety.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "First, you have to check the brake fluid level in the master cylinder, because low fluid can allow air to enter the system.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "Next, you should top up the brake fluid to the correct level so that the system remains full during bleeding.",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "After that, you have to position the vehicle safely and secure it using wheel chocks to prevent movement.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "Then, it is important to identify the correct bleeding order so that air is removed efficiently.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "You shouldn’t remove all four wheels at once, because this procedure is done one wheel at a time.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "Proper preparation helps ensure accurate results and prevents fluid loss.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "Once preparation is complete, you have to attach a clear hose to the bleed screw to observe air bubbles during bleeding.",
-          "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "Then, one technician has to press the brake pedal slowly, because sudden pressure can disturb the fluid flow.",
-          "audio": "assets/audio/t_13.mp3"
-        },
-        {
-          "id": "t_14",
-          "text": "At the same time, another technician needs to open the bleed screw slightly so that air and fluid can escape.",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "After that, you must tighten the bleed screw before releasing the pedal to stop air from re-entering the system.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "You shouldn’t press the pedal too quickly, because slow and steady movement removes air more effectively.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "This process is repeated until no air bubbles appear in the hose.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ]
     }
