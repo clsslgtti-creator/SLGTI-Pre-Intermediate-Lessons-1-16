@@ -261,13 +261,17 @@
     ]
   },
   "activity_3": {
-    "type": "INTERACTIVE-2",
+    "type": "INTERACTIVE-9",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
-        "audio": "assets/audio/a_3_i_m.mp3"
+         "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_h.mp3"
       },
       "activity_b": {
+         "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_h.mp3"
+      },
+      "activity_bc": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       }
@@ -275,242 +279,134 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-4.jpg",
-        "examples": [
-          {
-            "id": "g_b_ex",
-            "sentence": "They have to buy a ticket to Kandy before 5 pm.",
-            "audio": "assets/audio/g_b_ex.mp3",
-            "options": [
-              "They not have to buy a ticket to Kandy before 5 pm.",
-              "They haven’t to buy a ticket to Kandy before 5 pm.",
-              "They don’t have to buy a ticket to Kandy before 5 pm."
-            ],
-            "answer": "They don’t have to buy a ticket to Kandy before 5 pm."
-          }
-        ],
         "content": [
           {
-            "id": "g_b_1",
-            "sentence": "I have to wake up early tomorrow.",
-            "audio": "assets/audio/g_b_1.mp3",
-            "options": [
-              "I not have to wake up early tomorrow.",
-              "I haven’t to wake up early tomorrow.",
-              "I don’t have to wake up early tomorrow."
-            ],
-            "answer": "I don’t have to wake up early tomorrow."
+            "id": "g_a_1",
+            "image": "assets/img/a_3_a_g_1.png",
+            "keyword": "I cut my finger."
           },
           {
-            "id": "g_b_2",
-            "sentence": "We have to finish this assignment before lunch.",
-            "audio": "assets/audio/g_b_2.mp3",
-            "options": [
-              "We doesn’t have to finish this assignment before lunch.",
-              "We haven’t to finish this assignment before lunch.",
-              "We don’t have to finish this assignment before lunch."
-            ],
-            "answer": "We don’t have to finish this assignment before lunch."
+            "id": "g_a_2",
+            "image": "assets/img/a_3_a_g_2.png",
+            "keyword": "He bruised his arm."
           },
           {
-            "id": "g_b_3",
-            "sentence": "You have to wear an ID card at work.",
-            "audio": "assets/audio/g_b_3.mp3",
-            "options": [
-              "You not have to wear an ID card at work.",
-              "You don’t have to wear an ID card at work.",
-              "You haven’t to wear an ID card at work."
-            ],
-            "answer": "You don’t have to wear an ID card at work."
+            "id": "g_a_3",
+            "image": "assets/img/a_3_a_g_3.png",
+            "keyword": "She burned her hand."
           },
           {
-            "id": "g_b_4",
-            "sentence": "They have to follow the rules carefully.",
-            "audio": "assets/audio/g_b_4.mp3",
-            "options": [
-              "They don’t have to follow the rules carefully.",
-              "They doesn’t have to follow the rules carefully.",
-              "They haven’t to follow the rules carefully."
-            ],
-            "answer": "They don’t have to follow the rules carefully."
+            "id": "g_a_4",
+            "image": "assets/img/a_3_a_g_4.png",
+            "keyword": "We sprained our ankles."
           },
           {
-            "id": "g_b_5",
-            "sentence": "She has to submit the form today.",
-            "audio": "assets/audio/g_b_5.mp3",
-            "options": [
-              "She don’t has to submit the form today.",
-              "She hasn’t to submit the form today.",
-              "She doesn’t have to submit the form today."
-            ],
-            "answer": "She doesn’t have to submit the form today."
+            "id": "g_a_5",
+            "image": "assets/img/a_3_a_g_5.png",
+            "keyword": "They strained their backs."
           },
           {
-            "id": "g_b_6",
-            "sentence": "He has to finish the maths paper today.",
-            "audio": "assets/audio/g_b_6.mp3",
-            "options": [
-              "Does he has to finish the maths paper today?",
-              "Do he have to finish the maths paper today?",
-              "Does he have to finish the maths paper today?"
-            ],
-            "answer": "Does he have to finish the maths paper today?"
-          },
-          {
-            "id": "g_b_7",
-            "sentence": "He has to attend the meeting this afternoon.",
-            "audio": "assets/audio/g_b_7.mp3",
-            "options": [
-              "Does he has to attend the meeting this afternoon?",
-              "Does he have to attend the meeting this afternoon?",
-              "Do he have to attend the meeting this afternoon?"
-            ],
-            "answer": "Does he have to attend the meeting this afternoon?"
-          },
-          {
-            "id": "g_b_8",
-            "sentence": "The trainee has to clean the workspace after use.",
-            "audio": "assets/audio/g_b_8.mp3",
-            "options": [
-              "Does the trainee have to clean the workspace after use?",
-              "Does the trainee has to clean the workspace after use?",
-              "Do the trainee have to clean the workspace after use?"
-            ],
-            "answer": "Does the trainee have to clean the workspace after use?"
-          },
-          {
-            "id": "g_b_9",
-            "sentence": "My sister has to study for her exam tonight.",
-            "audio": "assets/audio/g_b_9.mp3",
-            "options": [
-              "Does my sister has to study for her exam tonight?",
-              "Do my sister have to study for her exam tonight?",
-              "Does my sister have to study for her exam tonight?"
-            ],
-            "answer": "Does my sister have to study for her exam tonight?"
-          },
-          {
-            "id": "g_b_10",
-            "sentence": "The machine has to be checked every morning.",
-            "audio": "assets/audio/g_b_10.mp3",
-            "options": [
-              "Does the machine has to be checked every morning?",
-              "Does the machine have to be checked every morning?",
-              "Do the machine have to be checked every morning?"
-            ],
-            "answer": "Does the machine have to be checked every morning?"
+            "id": "g_a_6",
+            "image": "assets/img/a_3_a_g_6.png",
+            "keyword": "He broke his arm."
           }
         ]
       },
-      "activity_b": [
-        {
-          "id": "g_b_ex",
-          "text": "They have to buy a ticket to Kandy before 5 pm.",
-          "audio": "assets/audio/g_b_ex.mp3"
-        },
-        {
-          "id": "g_b_ex_a",
-          "text": "They don’t have to buy a ticket to Kandy before 5 pm.",
-          "audio": "assets/audio/g_b_ex_a.mp3"
-        },
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_a_7",
+            "image": "assets/img/a_3_a_g_7.png",
+            "keyword": "She dislocated her shoulder."
+          },
+          {
+            "id": "g_a_8",
+            "image": "assets/img/a_3_a_g_8.png",
+            "keyword": "I poked my eye."
+          },
+          {
+            "id": "g_a_9",
+            "image": "assets/img/a_3_a_g_9.png",
+            "keyword": "They hit their heads."
+          },
+          {
+            "id": "g_a_10",
+            "image": "assets/img/a_3_a_g_10.png",
+            "keyword": "We injured our backs."
+          },
+          {
+            "id": "g_a_11",
+            "image": "assets/img/a_3_a_g_11.png",
+            "keyword": "He crushed his finger."
+          },
+          {
+            "id": "g_a_12",
+            "image": "assets/img/a_3_a_g_12.png",
+            "keyword": "She twisted her foot."
+          }
+        ]
+      },
+      "activity_c": [
         {
           "id": "g_b_1",
-          "text": "I have to wake up early tomorrow.",
+          "text": "I cut my finger.",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
-          "id": "g_b_1_a",
-          "text": "I don’t have to wake up early tomorrow.",
-          "audio": "assets/audio/g_b_1_a.mp3"
-        },
-        {
           "id": "g_b_2",
-          "text": "We have to finish this assignment before lunch.",
+          "text": "He bruised his arm.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
-          "id": "g_b_2_a",
-          "text": "We don’t have to finish this assignment before lunch.",
-          "audio": "assets/audio/g_b_2_a.mp3"
-        },
-        {
           "id": "g_b_3",
-          "text": "You have to wear an ID card at work.",
+          "text": "She burned her hand.",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
-          "id": "g_b_3_a",
-          "text": "You don’t have to wear an ID card at work.",
-          "audio": "assets/audio/g_b_3_a.mp3"
-        },
-        {
           "id": "g_b_4",
-          "text": "They have to follow the rules carefully.",
+          "text": "We sprained our ankles.",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
-          "id": "g_b_4_a",
-          "text": "They don’t have to follow the rules carefully.",
-          "audio": "assets/audio/g_b_4_a.mp3"
-        },
-        {
           "id": "g_b_5",
-          "text": "She has to submit the form today.",
+          "text": "They strained their backs.",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
-          "id": "g_b_5_a",
-          "text": "She doesn’t have to submit the form today.",
-          "audio": "assets/audio/g_b_5_a.mp3"
-        },
-        {
           "id": "g_b_6",
-          "text": "He has to finish the maths paper today.",
+          "text": "He broke his arm.",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
-          "id": "g_b_6_a",
-          "text": "Does he have to finish the maths paper today?",
-          "audio": "assets/audio/g_b_6_a.mp3"
-        },
-        {
           "id": "g_b_7",
-          "text": "He has to attend the meeting this afternoon.",
+          "text": "She dislocated her shoulder.",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
-          "id": "g_b_7_a",
-          "text": "Does he have to attend the meeting this afternoon?",
-          "audio": "assets/audio/g_b_7_a.mp3"
-        },
-        {
           "id": "g_b_8",
-          "text": "The trainee has to clean the workspace after use.",
+          "text": "I poked my eye.",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
-          "id": "g_b_8_a",
-          "text": "Does the trainee have to clean the workspace after use?",
-          "audio": "assets/audio/g_b_8_a.mp3"
-        },
-        {
           "id": "g_b_9",
-          "text": "My sister has to study for her exam tonight.",
+          "text": "They hit their heads.",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
-          "id": "g_b_9_a",
-          "text": "Does my sister have to study for her exam tonight?",
-          "audio": "assets/audio/g_b_9_a.mp3"
-        },
-        {
           "id": "g_b_10",
-          "text": "The machine has to be checked every morning.",
+          "text": "We injured our backs.",
           "audio": "assets/audio/g_b_10.mp3"
         },
         {
-          "id": "g_b_10_a",
-          "text": "Does the machine have to be checked every morning?",
-          "audio": "assets/audio/g_b_10_a.mp3"
+          "id": "g_b_11",
+          "text": "He crushed his finger.",
+          "audio": "assets/audio/g_b_11.mp3"
+        },
+        {
+          "id": "g_b_12",
+          "text": "She twisted her foot.",
+          "audio": "assets/audio/g_b_12.mp3"
         }
       ]
     }
