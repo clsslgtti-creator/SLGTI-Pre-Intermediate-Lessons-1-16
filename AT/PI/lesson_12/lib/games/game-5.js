@@ -53,6 +53,12 @@ const buildAudioKey = (prefix, id) =>
     .replace(/\s+/g, "_")
     .toLowerCase()}`;
 
+const hasQuestionContent = (entry) =>
+  Boolean(entry?.hasQuestion || entry?.question || entry?.questionAudio);
+
+const hasAnswerContent = (entry) =>
+  Boolean(entry?.hasAnswer || entry?.answer || entry?.answerAudio);
+
 export const normalizePracticeItems = (items = []) => {
   if (!Array.isArray(items)) {
     return [];
@@ -80,7 +86,7 @@ export const normalizePracticeItems = (items = []) => {
         item.audio_answer.trim().length
           ? item.audio_answer.trim()
           : null;
-      if (!words && !question && !answer) {
+      if (!words && !question && !answer && !questionAudio && !answerAudio) {
         return null;
       }
       return {
@@ -88,6 +94,8 @@ export const normalizePracticeItems = (items = []) => {
         words,
         question,
         answer,
+        hasQuestion: Boolean(question || questionAudio),
+        hasAnswer: Boolean(answer || answerAudio),
         questionAudio,
         answerAudio,
         questionAudioKey: questionAudio ? buildAudioKey("practice_q", id) : null,
@@ -755,7 +763,11 @@ export const createPracticeGameScene = (config = {}) => {
         "Use these words to make a yes/no question. You have 10 seconds."
       );
       this.stagePhase = "words";
-      this.emitRoundUpdate({ ...context, phase: "words" });
+      this.emitRoundUpdate({
+        ...context,
+        phase: "words",
+        hasAnswer: hasAnswerContent(entry),
+      });
 
       this.startStageTimer(this.timings.buildMs, () => {
         this.showQuestionStage(entry, context);
@@ -766,30 +778,54 @@ export const createPracticeGameScene = (config = {}) => {
       this.stagePhase = "question";
       this.revealCardSection(
         "question",
-        entry.question || "Listen to the modeled question."
+        hasQuestionContent(entry)
+          ? entry.question || "Listen to the modeled question."
+          : "Say your question aloud."
       );
       this.instructionText.setText(
-        "Check your question, then answer it aloud before time is up."
+        hasAnswerContent(entry)
+          ? "Check your question, then answer it aloud before time is up."
+          : "Check your question with the model one, then get ready for the next prompt."
       );
-      this.emitRoundUpdate({ ...context, phase: "question" });
+      this.emitRoundUpdate({
+        ...context,
+        phase: "question",
+        hasAnswer: hasAnswerContent(entry),
+      });
       this.playEntryAudio(entry, "question");
       this.startStageTimer(this.timings.responseMs, () => {
-        this.showAnswerStage(entry, context);
-      }, "Answer");
+        if (hasAnswerContent(entry)) {
+          this.showAnswerStage(entry, context);
+          return;
+        }
+        this.queueNextRound();
+      }, hasAnswerContent(entry) ? "Answer" : "Review");
     }
 
     showAnswerStage(entry, context) {
+      if (!hasAnswerContent(entry)) {
+        this.queueNextRound();
+        return;
+      }
       this.stagePhase = "answer";
       this.revealCardSection(
         "answer",
         entry.answer || "Think of a suitable short answer."
       );
       this.instructionText.setText("Compare your answer with the model one.");
-      this.emitRoundUpdate({ ...context, phase: "answer" });
+      this.emitRoundUpdate({
+        ...context,
+        phase: "answer",
+        hasAnswer: true,
+      });
       this.playEntryAudio(entry, "answer");
       this.startStageTimer(this.timings.revealMs, () => {
-        this.scheduleEvent(this.timings.betweenMs, () => this.runNextStep());
+        this.queueNextRound();
       }, "Next");
+    }
+
+    queueNextRound() {
+      this.scheduleEvent(this.timings.betweenMs, () => this.runNextStep());
     }
 
     playEntryAudio(entry, type) {

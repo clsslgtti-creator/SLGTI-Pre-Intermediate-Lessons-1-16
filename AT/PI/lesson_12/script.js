@@ -1,11 +1,16 @@
 import { buildSbsOneSlides } from "./lib/sbs-1.js";
 import { buildSbsTwoSlides } from "./lib/sbs-2.js";
 import { buildSbsThreeSlides } from "./lib/sbs-3.js";
+import { buildSbsFiveSlides } from "./lib/sbs-5.js";
 import { buildPronunciationSlides } from "./lib/pronunciation.js";
 import { buildInteractive1Slides } from "./lib/interactive-1.js";
 import { buildInteractive2Slides } from "./lib/interactive-2.js";
 import { buildInteractive3Slides } from "./lib/interactive-3.js";
 import { buildInteractive4Slides } from "./lib/interactive-4.js";
+import { buildInteractive5Slides } from "./lib/interactive-5.js";
+import { buildInteractive6Slides } from "./lib/interactive-6.js";
+import { buildInteractive7Slides } from "./lib/interactive-7.js";
+import { buildInteractive8Slides } from "./lib/interactive-8.js";
 import { buildActivityTwoSlides } from "./lib/activity-2.js";
 import { buildListeningOneSlides } from "./lib/listening-1.js";
 import { buildListeningTwoSlides } from "./lib/listening-2.js";
@@ -13,7 +18,9 @@ import { buildListeningThreeSlides } from "./lib/listening-3.js";
 import { buildListeningFourSlides } from "./lib/listening-4.js";
 import { buildListeningFiveSlides } from "./lib/listening-5.js";
 import { buildListeningSixSlides } from "./lib/listening-6.js";
-import { buildReadingOneSlides } from "./lib/reading-1.js";
+import { buildListeningSevenSlides } from "./lib/listening-7.js";
+import { buildListeningEightSlides } from "./lib/listening-8.js";
+import { buildListeningNineSlides } from "./lib/listening-9.js";
 import { buildVideosSlides } from "./lib/videos.js";
 
 const slidesContainer = document.getElementById("slides");
@@ -221,20 +228,27 @@ const activityBuilders = {
   VIDEOS: buildVideosSlides,
   "SBS-1": buildSbsOneSlides,
   "SBS-3": buildSbsThreeSlides,
+  "SBS-5": buildSbsFiveSlides,
   "SBS-2": buildSbsTwoSlides,
   PRONUNCIATION: buildPronunciationSlides,
   "INTERACTIVE-1": buildInteractive1Slides,
   "INTERACTIVE-2": buildInteractive2Slides,
   "INTERACTIVE-3": buildInteractive3Slides,
   "INTERACTIVE-4": buildInteractive4Slides,
+  "INTERACTIVE-5": buildInteractive5Slides,
+  "INTERACTIVE-6": buildInteractive6Slides,
+  "INTERACTIVE-7": buildInteractive7Slides,
+  "INTERACTIVE-8": buildInteractive8Slides,
   "LISTENING-1": buildListeningOneSlides,
   "LISTENING-2": buildListeningTwoSlides,
   "LISTENING-3": buildListeningThreeSlides,
   "LISTENING-4": buildListeningFourSlides,
   "LISTENING-5": buildListeningFiveSlides,
   "LISTENING-6": buildListeningSixSlides,
+  "LISTENING-7": buildListeningSevenSlides,
+  "LISTENING-8": buildListeningEightSlides,
+  "LISTENING-9": buildListeningNineSlides,
   "ACTIVITY-2": buildActivityTwoSlides,
-  "READING-1": buildReadingOneSlides,
 };
 
 const extractInstructionEntries = (input, { allowObject = false } = {}) => {
@@ -428,6 +442,15 @@ const createInstructionResolver = (instructions, activityNumber) => {
     }
 
     switch (role) {
+      case "table":
+        addCandidates(
+          number ? `activity_${number}_table` : "",
+          number ? `activity${number}table` : "",
+          "activity_table",
+          "activitytable",
+          "table"
+        );
+        break;
       case "model":
         addCandidates(
           number ? `activity_${number}_model` : "",
@@ -996,9 +1019,12 @@ const parseActivitySlideId = (slideId) => {
     game3: "a",
     game4: "a",
     game5: "a",
+    game6: "a",
+    game8: "a",
+    game9: "b",
   };
   const rolePattern =
-    "(model|pre-listening|listening|listen-repeat|reading|speaking|words-listen|words-repeat|words-read|sentences-listen|sentences-repeat|sentences-read|listening1-mcq|listening1-repeat|listening1-read|listening1-type|listening2-comprehension|listening5-matching|listening5-options|activity2-listen|activity2-repeat|activity2-match|game1|game2|game3|game4|game5)";
+    "(model|table|pre-listening|listening|listen-repeat|reading|speaking|words-listen|words-repeat|words-read|sentences-listen|sentences-repeat|sentences-read|listening1-mcq|listening1-repeat|listening1-read|listening1-type|listening2-comprehension|listening5-matching|listening5-options|activity2-listen|activity2-repeat|activity2-match|game1|game2|game3|game4|game5|game6|game8|game9)";
   const numberedPattern = new RegExp(
     `^activity-(\\d+)(?:-([a-z]))?-${rolePattern}$`
   );

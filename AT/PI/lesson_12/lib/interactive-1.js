@@ -22,6 +22,8 @@ const MATCHING_INSTRUCTION_TEXT =
   "Match each keyword with its picture. Select a word and connect it to the correct image.";
 const PRACTICE_INSTRUCTION_TEXT =
   "Press Start to practice. Use the highlighted words to build questions, then check the model question and answer.";
+const PRACTICE_QUESTION_ONLY_INSTRUCTION_TEXT =
+  "Press Start to practice. Use the highlighted words to build questions, then check the model question.";
 
 const trimText = (value) => (typeof value === "string" ? value.trim() : "");
 const GAME_MODES = {
@@ -60,6 +62,18 @@ const isPracticeEntry = (entry) => {
     typeof entry.audio_answer === "string";
   return hasWords && hasPracticeDetail;
 };
+
+const hasPracticeAnswerContent = (items = []) =>
+  items.some((entry) => {
+    if (!entry || typeof entry !== "object") {
+      return false;
+    }
+    return (
+      (typeof entry.txt_answer === "string" && entry.txt_answer.trim().length > 0) ||
+      (typeof entry.audio_answer === "string" &&
+        entry.audio_answer.trim().length > 0)
+    );
+  });
 
 const determineGameMode = (entries = []) => {
   const sample = entries.find(
@@ -431,9 +445,21 @@ const createPracticeSlide = (gameConfig = {}, context = {}) => {
     insertFocusElement(title, focusText);
   }
 
+  const examples = normalizePracticeExamples(gameConfig?.examples);
+  const prompts = normalizePracticePrompts(gameConfig?.content);
+  const backgroundImage =
+    gameConfig?.bg_image ?? gameConfig?.backgroundImage ?? null;
+  const timings = sanitizePracticeTimings(gameConfig?.timings);
+  const instructionText = hasPracticeAnswerContent([
+    ...(Array.isArray(gameConfig?.examples) ? gameConfig.examples : []),
+    ...(Array.isArray(gameConfig?.content) ? gameConfig.content : []),
+  ])
+    ? PRACTICE_INSTRUCTION_TEXT
+    : PRACTICE_QUESTION_ONLY_INSTRUCTION_TEXT;
+
   const instruction = document.createElement("p");
   instruction.className = "slide__instruction";
-  instruction.textContent = PRACTICE_INSTRUCTION_TEXT;
+  instruction.textContent = instructionText;
   slide.appendChild(instruction);
 
   const wrapper = document.createElement("div");
@@ -450,12 +476,6 @@ const createPracticeSlide = (gameConfig = {}, context = {}) => {
 
   wrapper.append(stage, status);
   slide.appendChild(wrapper);
-
-  const examples = normalizePracticeExamples(gameConfig?.examples);
-  const prompts = normalizePracticePrompts(gameConfig?.content);
-  const backgroundImage =
-    gameConfig?.bg_image ?? gameConfig?.backgroundImage ?? null;
-  const timings = sanitizePracticeTimings(gameConfig?.timings);
 
   if (!prompts.length) {
     status.textContent = "The practice content is not ready yet.";
@@ -496,10 +516,19 @@ const createPracticeSlide = (gameConfig = {}, context = {}) => {
       timings,
       statusElement: status,
       onRoundUpdate: (info = {}) => {
-        const phaseLabels = {
-          words: "Build a question",
-          question: "Answer the question",
-          answer: "Check the answer",
+        const getPhaseLabel = () => {
+          if (info.phase === "words") {
+            return "Build a question";
+          }
+          if (info.phase === "question") {
+            return info.hasAnswer
+              ? "Answer the question"
+              : "Check the model question";
+          }
+          if (info.phase === "answer") {
+            return "Check the answer";
+          }
+          return "";
         };
         if (info.mode === "examples" || info.mode === "practice") {
           const prefix = info.mode === "examples" ? "Example" : "Question";
@@ -507,7 +536,7 @@ const createPracticeSlide = (gameConfig = {}, context = {}) => {
             Number.isInteger(info.index) && Number.isInteger(info.total)
               ? `${prefix} ${info.index + 1} of ${info.total}`
               : prefix;
-          const phaseLabel = info.phase ? phaseLabels[info.phase] || "" : "";
+          const phaseLabel = getPhaseLabel();
           status.textContent = phaseLabel
             ? `${baseLabel} - ${phaseLabel}`
             : baseLabel;

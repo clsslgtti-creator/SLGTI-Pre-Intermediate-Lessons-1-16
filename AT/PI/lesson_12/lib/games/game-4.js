@@ -454,6 +454,7 @@ export const createMatchingGameScene = (config = {}) => {
       this.shouldAutoStart = false;
       this.tipTimer = null;
       this.startButton = null;
+      this.resetButton = null;
       this.resetSessionState();
     }
 
@@ -878,6 +879,22 @@ export const createMatchingGameScene = (config = {}) => {
       ]);
       this.tipBadge.setDepth(5);
       this.tipBadge.setAlpha(0);
+      const resetWidth = 140;
+      const resetHeight = 58;
+      this.resetButton = createPrimaryButton(this, "Reset", resetWidth, resetHeight, {
+        onClick: () => this.handleResetRequest(),
+        baseColor: PALETTE.danger,
+        playTone: () => tonePlayer.playTone(320, 320),
+        fontSize: 20,
+      });
+      this.resetButton.container.setPosition(
+        this.sceneWidth - resetWidth / 2 - 24,
+        56
+      );
+      this.resetButton.container.setDepth(5);
+      this.resetButton.setEnabled(false);
+      this.resetButton.container.setVisible(false);
+
     }
 
     setGameElementsVisible(isVisible) {
@@ -899,6 +916,10 @@ export const createMatchingGameScene = (config = {}) => {
         if (!isVisible) {
           this.tipBadge.setAlpha(0);
         }
+      }
+      if (this.resetButton?.container) {
+        this.resetButton.container.setVisible(isVisible);
+        this.resetButton.setEnabled(isVisible);
       }
     }
 
@@ -947,6 +968,14 @@ export const createMatchingGameScene = (config = {}) => {
       }
       this.setStartButtonVisible(false);
       this.beginMatching(autoStart);
+    }
+
+    handleResetRequest() {
+      if (!this.gameActive) {
+        return;
+      }
+      this.statusController("Resetting the game...");
+      this.restartGame(true);
     }
 
     requestFullscreen() {

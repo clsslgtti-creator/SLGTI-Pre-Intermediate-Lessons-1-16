@@ -181,6 +181,24 @@ const createDialogueTables = (tablesData = []) => {
 
     const columnSpans = [];
 
+
+    const maxColumns = tableData.reduce((max, rowData) => {
+      if (!Array.isArray(rowData)) {
+        return max;
+      }
+      const width = rowData.reduce((count, cellValue) => {
+        if (cellValue && typeof cellValue === 'object' && !Array.isArray(cellValue)) {
+          const rawColSpan = cellValue.colspan ?? cellValue.colSpan;
+          const parsedColSpan = Number.parseInt(rawColSpan, 10);
+          if (Number.isFinite(parsedColSpan) && parsedColSpan > 1) {
+            return count + parsedColSpan;
+          }
+        }
+        return count + 1;
+      }, 0);
+      return Math.max(max, width);
+    }, 0);
+
     tableData.forEach((rowData) => {
       if (!Array.isArray(rowData) || rowData.length === 0) {
         return;
@@ -189,22 +207,76 @@ const createDialogueTables = (tablesData = []) => {
       const row = document.createElement('tr');
       let hasCell = false;
 
-      rowData.forEach((cellValue, columnIndex) => {
+      const rowSpanUpdates = new Set();
+      let columnIndex = 0;
+      let lastCell = null;
+      let lastTracker = null;
+      let lastColSpan = 1;
+
+      rowData.forEach((cellValue) => {
         if (cellValue === null || cellValue === undefined) {
           const spanTracker = columnSpans[columnIndex];
-          if (spanTracker && spanTracker.cell) {
+          if (spanTracker && spanTracker.cell && !rowSpanUpdates.has(spanTracker)) {
             spanTracker.rowSpan += 1;
             spanTracker.cell.rowSpan = spanTracker.rowSpan;
+            rowSpanUpdates.add(spanTracker);
           }
+          columnIndex += 1;
           return;
         }
 
+        let cellText = cellValue;
+        let colSpan = 1;
+
+        if (typeof cellValue === 'object' && !Array.isArray(cellValue)) {
+          const candidate =
+            cellValue.text ??
+            cellValue.value ??
+            cellValue.label ??
+            cellValue.content ??
+            '';
+          cellText = candidate;
+          const rawColSpan = cellValue.colspan ?? cellValue.colSpan;
+          if (rawColSpan !== undefined && rawColSpan !== null) {
+            const parsedColSpan = Number.parseInt(rawColSpan, 10);
+            if (Number.isFinite(parsedColSpan) && parsedColSpan > 1) {
+              colSpan = parsedColSpan;
+            }
+          }
+        }
+
         const cell = document.createElement('td');
-        cell.textContent = `${cellValue}`;
-        columnSpans[columnIndex] = { cell, rowSpan: 1 };
+        cell.textContent = `${cellText ?? ''}`;
+        if (colSpan > 1) {
+          cell.colSpan = colSpan;
+        }
+
+        const tracker = { cell, rowSpan: 1 };
+        for (let spanOffset = 0; spanOffset < colSpan; spanOffset += 1) {
+          columnSpans[columnIndex + spanOffset] = tracker;
+        }
+
         row.appendChild(cell);
         hasCell = true;
+        lastCell = cell;
+        lastTracker = tracker;
+        lastColSpan = colSpan;
+        columnIndex += colSpan;
       });
+
+      if (columnIndex < maxColumns && lastCell && rowData.length < maxColumns) {
+        const missingSpan = maxColumns - columnIndex;
+        if (missingSpan > 0 && lastTracker) {
+          const newColSpan = lastColSpan + missingSpan;
+          if (newColSpan > 1) {
+            lastCell.colSpan = newColSpan;
+          }
+          for (let spanOffset = 0; spanOffset < missingSpan; spanOffset += 1) {
+            columnSpans[columnIndex + spanOffset] = lastTracker;
+          }
+          columnIndex += missingSpan;
+        }
+      }
 
       if (hasCell) {
         tbody.appendChild(row);

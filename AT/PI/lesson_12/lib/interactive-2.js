@@ -173,6 +173,16 @@ const getRepeatPauseMs = (activityData, fallback = 1500) => {
 
 const cloneFeedbackAssets = () => ({ ...DEFAULT_FEEDBACK_ASSETS });
 
+const findFirstOptionSet = (entries) => {
+  if (!Array.isArray(entries)) {
+    return null;
+  }
+  const match = entries.find(
+    (entry) => Array.isArray(entry?.options) && entry.options.length
+  );
+  return match?.options ?? null;
+};
+
 const createGameSlide = (gameConfig = {}, context = {}) => {
   const { slideId, activityLabel, focusText, includeFocus } = context;
 
@@ -210,7 +220,10 @@ const createGameSlide = (gameConfig = {}, context = {}) => {
   wrapper.append(stage, status);
   slide.appendChild(wrapper);
 
-  const options = sanitizeOptions(gameConfig?.options);
+  const fallbackOptions =
+    findFirstOptionSet(gameConfig?.content) ??
+    findFirstOptionSet(gameConfig?.examples);
+  const options = sanitizeOptions(gameConfig?.options ?? fallbackOptions);
   const examples = normalizeExamples(gameConfig?.examples, options);
   const questions = normalizeQuestions(gameConfig?.content, options);
   const feedbackAssets = cloneFeedbackAssets();
