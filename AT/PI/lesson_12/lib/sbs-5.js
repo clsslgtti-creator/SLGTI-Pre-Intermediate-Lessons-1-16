@@ -43,17 +43,22 @@ const renderEmphasizedText = (element, text) => {
   element.appendChild(fragment);
 };
 
-const collectDialogueEntries = (dialogue = {}) => {
+const collectDialogueEntries = (dialogue = {}, options = {}) => {
+  const { useSpeakingPrompts = false } = options;
   const entries = [];
   LETTER_SUFFIXES.forEach((suffix) => {
     const text = trimString(dialogue?.[`text_${suffix}`]);
     if (!text) {
       return;
     }
+    const speakingText = trimString(dialogue?.[`text_${suffix}_speaking`]);
     const audio = trimString(dialogue?.[`audio_${suffix}`]);
     entries.push({
       key: suffix,
-      text,
+      text: useSpeakingPrompts && speakingText ? speakingText : text,
+      modelText: text,
+      speakingText,
+      hasSpeakingPrompt: Boolean(speakingText),
       audio,
       role: entries.length % 2 === 0 ? 'question' : 'answer',
     });
@@ -66,6 +71,9 @@ const collectDialogueEntries = (dialogue = {}) => {
       entries.push({
         key: 'a',
         text: textA,
+        modelText: textA,
+        speakingText: '',
+        hasSpeakingPrompt: false,
         audio: trimString(dialogue?.audio_a),
         role: 'question',
       });
@@ -74,6 +82,9 @@ const collectDialogueEntries = (dialogue = {}) => {
       entries.push({
         key: 'b',
         text: textB,
+        modelText: textB,
+        speakingText: '',
+        hasSpeakingPrompt: false,
         audio: trimString(dialogue?.audio_b),
         role: 'answer',
       });
@@ -83,8 +94,22 @@ const collectDialogueEntries = (dialogue = {}) => {
   return entries;
 };
 
+const setDialogueEntryText = (entry, text) => {
+  if (!entry?.element) {
+    return;
+  }
+
+  entry.element.textContent = '';
+  renderEmphasizedText(entry.element, text);
+};
+
 const createDialogueCard = (dialogue, options = {}) => {
-  const { showTexts = true, showAnswer = true, classes = [] } = options;
+  const {
+    showTexts = true,
+    showAnswer = true,
+    classes = [],
+    useSpeakingPrompts = false,
+  } = options;
   const wrapper = document.createElement('article');
   wrapper.className = ['dialogue-card', ...classes].join(' ');
   wrapper.dataset.dialogueId = dialogue.id;
@@ -98,7 +123,7 @@ const createDialogueCard = (dialogue, options = {}) => {
     wrapper.appendChild(img);
   }
 
-  const textEntries = collectDialogueEntries(dialogue);
+  const textEntries = collectDialogueEntries(dialogue, { useSpeakingPrompts });
   if (showTexts && textEntries.length) {
     const texts = document.createElement('div');
     texts.className = 'dialogue-card__texts';
@@ -1565,7 +1590,7 @@ const buildSpeakingSlide = (
   const cards = dialogues.map((dialogue, index) => {
     const card = createDialogueCard(dialogue, {
       classes: ['dialogue-card--speaking'],
-      showAnswer: false,
+      useSpeakingPrompts: true,
     });
     const heading = document.createElement('h3');
     heading.className = 'dialogue-card__title';
@@ -1582,7 +1607,7 @@ const buildSpeakingSlide = (
     const entries =
       Array.isArray(card._dialogueEntries) && card._dialogueEntries.length
         ? card._dialogueEntries
-        : collectDialogueEntries(dialogue).map((entry) => {
+        : collectDialogueEntries(dialogue, { useSpeakingPrompts: true }).map((entry) => {
             const element = card.querySelector(
               `.dialogue-card__line[data-dialogue-key="${entry.key}"]`
             );
@@ -1592,31 +1617,35 @@ const buildSpeakingSlide = (
             };
           });
 
-    entries.forEach((entry) => {
-      if (entry.role === 'answer') {
-        entry.element?.classList.add('is-hidden');
-      }
-    });
+    const hasExplicitSpeakingEntries = entries.some((entry) => entry.hasSpeakingPrompt);
 
     const pairs = [];
     let pendingPair = null;
-    entries.forEach((entry) => {
-      if (entry.role === 'question') {
-        if (pendingPair && !pendingPair.answer) {
-          pairs.push(pendingPair);
+    if (!hasExplicitSpeakingEntries) {
+      entries.forEach((entry) => {
+        if (entry.role === 'answer') {
+          entry.element?.classList.add('is-hidden');
         }
-        pendingPair = { question: entry };
-        return;
+      });
+
+      entries.forEach((entry) => {
+        if (entry.role === 'question') {
+          if (pendingPair && !pendingPair.answer) {
+            pairs.push(pendingPair);
+          }
+          pendingPair = { question: entry };
+          return;
+        }
+        if (!pendingPair) {
+          pendingPair = {};
+        }
+        pendingPair.answer = entry;
+        pairs.push(pendingPair);
+        pendingPair = null;
+      });
+      if (pendingPair) {
+        pairs.push(pendingPair);
       }
-      if (!pendingPair) {
-        pendingPair = {};
-      }
-      pendingPair.answer = entry;
-      pairs.push(pendingPair);
-      pendingPair = null;
-    });
-    if (pendingPair) {
-      pairs.push(pendingPair);
     }
 
     return {
@@ -1625,6 +1654,7 @@ const buildSpeakingSlide = (
       prompt,
       entries,
       pairs,
+      hasExplicitSpeakingEntries,
     };
   });
 
@@ -1661,11 +1691,14 @@ const buildSpeakingSlide = (
     });
 
   const resetCards = () => {
-    cards.forEach(({ card, entries }) => {
+    cards.forEach(({ card, entries, hasExplicitSpeakingEntries }) => {
       card.classList.remove('is-active');
       entries.forEach((entry) => {
         entry.element?.classList.remove('is-playing');
-        if (entry.role === 'answer') {
+        if (entry.hasSpeakingPrompt) {
+          setDialogueEntryText(entry, entry.speakingText || entry.modelText);
+          entry.element?.classList.remove('is-hidden');
+        } else if (!hasExplicitSpeakingEntries && entry.role === 'answer') {
           entry.element?.classList.add('is-hidden');
         } else {
           entry.element?.classList.remove('is-hidden');
@@ -1691,72 +1724,141 @@ const buildSpeakingSlide = (
     try {
       for (let index = 0; index < cards.length; index += 1) {
         const item = cards[index];
-        const { card, pairs } = item;
+        const { card, pairs, entries, hasExplicitSpeakingEntries } = item;
         card.classList.add('is-active');
         smoothScrollIntoView(card);
 
-        for (let pairIndex = 0; pairIndex < pairs.length; pairIndex += 1) {
-          const pair = pairs[pairIndex];
-          const questionEntry = pair.question;
-          const answerEntry = pair.answer;
+        if (hasExplicitSpeakingEntries) {
+          for (let entryIndex = 0; entryIndex < entries.length; entryIndex += 1) {
+            const entry = entries[entryIndex];
 
-          if (questionEntry?.element && questionEntry.audio) {
-            questionEntry.element.classList.add('is-playing');
-          }
-          if (questionEntry?.audio) {
-            try {
-              await audioManager.play(questionEntry.audio, { signal });
-            } finally {
-              questionEntry?.element?.classList.remove('is-playing');
-            }
-          }
-          if (signal.aborted) {
-            break;
-          }
-
-          let waitMs = 2000;
-          if (answerEntry?.audio) {
-            try {
-              const duration = await audioManager.getDuration(answerEntry.audio);
-              if (Number.isFinite(duration)) {
-                waitMs = Math.max(1000, Math.round(duration * 1500));
+            if (!entry.hasSpeakingPrompt) {
+              if (entry?.element && entry.audio) {
+                entry.element.classList.add('is-playing');
               }
-            } catch (error) {
-              console.error(error);
+              if (entry?.audio) {
+                status.textContent = 'Playing...';
+                try {
+                  await audioManager.play(entry.audio, { signal });
+                } finally {
+                  entry?.element?.classList.remove('is-playing');
+                }
+              }
+
+              if (signal.aborted) {
+                break;
+              }
+              continue;
+            }
+
+            let waitMs = 2000;
+            if (entry?.audio) {
+              try {
+                const duration = await audioManager.getDuration(entry.audio);
+                if (Number.isFinite(duration)) {
+                  waitMs = Math.max(1000, Math.round(duration * 1500));
+                }
+              } catch (error) {
+                console.error(error);
+              }
+            }
+
+            status.textContent = 'Your turn...';
+            await delay(waitMs, { signal });
+            if (signal.aborted) {
+              break;
+            }
+
+            setDialogueEntryText(entry, entry.modelText);
+
+            if (entry?.audio) {
+              status.textContent = 'Playing...';
+              entry.element?.classList.add('is-playing');
+              try {
+                await audioManager.play(entry.audio, { signal });
+              } finally {
+                entry.element?.classList.remove('is-playing');
+              }
+            }
+            if (signal.aborted) {
+              break;
+            }
+
+            const hasMoreEntries = entryIndex < entries.length - 1;
+            const hasMoreCards = index < cards.length - 1;
+            if (hasMoreEntries || hasMoreCards) {
+              status.textContent = 'Next up...';
+            }
+
+            await delay(400, { signal });
+            if (signal.aborted) {
+              break;
             }
           }
+        } else {
+          for (let pairIndex = 0; pairIndex < pairs.length; pairIndex += 1) {
+            const pair = pairs[pairIndex];
+            const questionEntry = pair.question;
+            const answerEntry = pair.answer;
 
-          status.textContent = 'Your turn...';
-          await delay(waitMs, { signal });
-          if (signal.aborted) {
-            break;
-          }
-
-          if (answerEntry?.element) {
-            answerEntry.element.classList.remove('is-hidden');
-          }
-
-          if (answerEntry?.audio) {
-            answerEntry.element?.classList.add('is-playing');
-            try {
-              await audioManager.play(answerEntry.audio, { signal });
-            } finally {
-              answerEntry.element?.classList.remove('is-playing');
+            if (questionEntry?.element && questionEntry.audio) {
+              questionEntry.element.classList.add('is-playing');
             }
-          }
-          if (signal.aborted) {
-            break;
-          }
+            if (questionEntry?.audio) {
+              try {
+                await audioManager.play(questionEntry.audio, { signal });
+              } finally {
+                questionEntry?.element?.classList.remove('is-playing');
+              }
+            }
+            if (signal.aborted) {
+              break;
+            }
 
-          const hasMorePairs = pairIndex < pairs.length - 1;
-          const hasMoreCards = index < cards.length - 1;
-          if (hasMorePairs || hasMoreCards) {
-            status.textContent = 'Next up...';
-          }
+            let waitMs = 2000;
+            if (answerEntry?.audio) {
+              try {
+                const duration = await audioManager.getDuration(answerEntry.audio);
+                if (Number.isFinite(duration)) {
+                  waitMs = Math.max(1000, Math.round(duration * 1500));
+                }
+              } catch (error) {
+                console.error(error);
+              }
+            }
 
-          await delay(400, { signal });
-          if (signal.aborted) {
-            break;
+            status.textContent = 'Your turn...';
+            await delay(waitMs, { signal });
+            if (signal.aborted) {
+              break;
+            }
+
+            if (answerEntry?.element) {
+              answerEntry.element.classList.remove('is-hidden');
+            }
+
+            if (answerEntry?.audio) {
+              answerEntry.element?.classList.add('is-playing');
+              try {
+                await audioManager.play(answerEntry.audio, { signal });
+              } finally {
+                answerEntry.element?.classList.remove('is-playing');
+              }
+            }
+            if (signal.aborted) {
+              break;
+            }
+
+            const hasMorePairs = pairIndex < pairs.length - 1;
+            const hasMoreCards = index < cards.length - 1;
+            if (hasMorePairs || hasMoreCards) {
+              status.textContent = 'Next up...';
+            }
+
+            await delay(400, { signal });
+            if (signal.aborted) {
+              break;
+            }
           }
         }
 
