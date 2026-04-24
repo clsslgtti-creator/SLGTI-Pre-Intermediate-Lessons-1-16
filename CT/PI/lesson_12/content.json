@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "t'i'ming",
+        "word_text": "t'ie'-beam",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mechanic made good t'i'ming on the sports car during the test drive yesterday morning.",
+        "sentence_text": "The inexperienced crew built the t'ie'-beam slightly angled over the masonry walls.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "fl'y'wheel",
+        "word_text": "dr'y'l'i'ne",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The car shuddered violently when the technician broke the fl'y'wheel suddenly.",
+        "sentence_text": "The mason drew the dr'y'l'i'ne and saw that the plaster edges were straight last evening.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "p'i'pel'i'ne",
+        "word_text": "pr'i'me",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The repair crew found leaks in the p'i'pel'i'ne and attended to them, two days ago.",
+        "sentence_text": "The painter chose a pr'i'mer two days ago and began work on the walls before plastering.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pr'i'mer",
+        "word_text": "r'i'ser",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Painters don’t always choose the pr'i'mer according to the colour of the paint.",
+        "sentence_text": "The plumber didn’t install the r'i'ser in the correct location for plumbing and sewage disposal.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
