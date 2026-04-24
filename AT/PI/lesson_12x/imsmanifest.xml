@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest
+  identifier="MANIFEST-AT-E-LESSON-01"
+  version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+    http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+    http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd"
+>
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <imsmd:lom>
+      <imsmd:general>
+        <imsmd:title>
+          <imsmd:langstring xml:lang="en">Lesson 01</imsmd:langstring>
+        </imsmd:title>
+      </imsmd:general>
+    </imsmd:lom>
+  </metadata>
+  <organizations default="ORG-LESSON-01">
+    <organization identifier="ORG-LESSON-01" structure="hierarchical">
+      <title>Lesson 01</title>
+      <item identifier="ITEM-LESSON-01" identifierref="RES-LESSON-01" isvisible="true">
+        <title>Lesson 01</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-LESSON-01" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html" />
+      <file href="assets/audio/a_2_i_b.mp3" />
+      <file href="assets/audio/a_2_i_c.mp3" />
+      <file href="assets/audio/a_2_i_d.mp3" />
+      <file href="assets/audio/a_1_p_1_a.mp3" />
+      <file href="assets/audio/a_1_p_1_b.mp3" />
+      <file href="assets/img/a_1_p_1.jpeg" />
+      <file href="assets/audio/a_1_p_2_a.mp3" />
+      <file href="assets/audio/a_1_p_2_b.mp3" />
+      <file href="assets/img/a_1_p_2.png" />
+      <file href="assets/audio/a_1_p_3_a.mp3" />
+      <file href="assets/audio/a_1_p_3_b.mp3" />
+      <file href="assets/img/a_1_p_3.jpeg" />
+      <file href="assets/audio/a_1_p_4_a.mp3" />
+      <file href="assets/audio/a_1_p_4_b.mp3" />
+      <file href="assets/img/a_1_p_4.png" />
+      <file href="assets/audio/a_2_i_ex.mp3" />
+      <file href="assets/audio/a_2_i_a.mp3" />
+      <file href="assets/audio/a_2_i_e.mp3" />
+      <file href="assets/img/Monday.png" />
+      <file href="assets/audio/a_2_ex_1_a.mp3" />
+      <file href="assets/audio/a_2_no_i.mp3" />
+      <file href="assets/audio/a_2_ex_1_c.mp3" />
+      <file href="assets/audio/a_2_ex_1_d.mp3" />
+      <file href="assets/img/Wednesday.png" />
+      <file href="assets/audio/a_2_ex_2_a.mp3" />
+      <file href="assets/audio/a_2_ex_2_c.mp3" />
+      <file href="assets/audio/a_2_ex_2_d.mp3" />
+      <file href="assets/img/Saturday.jpeg" />
+      <file href="assets/audio/a_2_ex_3_a.mp3" />
+      <file href="assets/audio/a_2_no_we.mp3" />
+      <file href="assets/audio/a_2_ex_3_c.mp3" />
+      <file href="assets/audio/a_2_ex_3_d.mp3" />
+      <file href="assets/img/Tuesday.jpeg" />
+      <file href="assets/img/Thursday.jpeg" />
+      <file href="assets/img/Friday.jpeg" />
+      <file href="assets/audio/a_2_d_1_a.mp3" />
+      <file href="assets/audio/a_2_no_i_f.mp3" />
+      <file href="assets/audio/a_2_d_1_c.mp3" />
+      <file href="assets/audio/a_2_d_1_d.mp3" />
+      <file href="assets/audio/a_2_d_2_a.mp3" />
+      <file href="assets/audio/a_2_d_2_c.mp3" />
+      <file href="assets/audio/a_2_d_2_d.mp3" />
+      <file href="assets/audio/a_2_d_3_a.mp3" />
+      <file href="assets/audio/a_2_d_3_c.mp3" />
+      <file href="assets/audio/a_2_d_3_d.mp3" />
+      <file href="assets/audio/a_2_d_4_a.mp3" />
+      <file href="assets/audio/a_2_d_4_c.mp3" />
+      <file href="assets/audio/a_2_d_4_d.mp3" />
+      <file href="assets/img/Wednesday-2.png" />
+      <file href="assets/audio/a_2_d_5_a.mp3" />
+      <file href="assets/audio/a_2_d_5_c.mp3" />
+      <file href="assets/audio/a_2_d_5_d.mp3" />
+      <file href="assets/audio/a_2_d_6_a.mp3" />
+      <file href="assets/audio/a_2_d_6_c.mp3" />
+      <file href="assets/audio/a_2_d_6_d.mp3" />
+      <file href="assets/audio/a_3_i_d.mp3" />
+      <file href="assets/img/game/bg-6.jpg" />
+      <file href="assets/audio/a_3_b_1.mp3" />
+      <file href="assets/audio/a_3_b_2.mp3" />
+      <file href="assets/audio/a_3_b_3.mp3" />
+      <file href="assets/audio/a_3_b_4.mp3" />
+      <file href="assets/audio/a_3_b_5.mp3" />
+      <file href="assets/audio/a_3_b_6.mp3" />
+      <file href="assets/audio/a_3_b_7.mp3" />
+      <file href="assets/audio/a_3_b_8.mp3" />
+      <file href="assets/audio/a_3_b_9.mp3" />
+      <file href="assets/audio/a_3_b_10.mp3" />
+      <file href="assets/audio/a_4_i_h.mp3" />
+      <file href="assets/audio/a_4_i_c.mp3" />
+      <file href="assets/audio/a_4_i_f.mp3" />
+      <file href="assets/audio/a_4_i_g.mp3" />
+      <file href="assets/img/a_4.png" />
+      <file href="content.json" />
+    </resource>
+  </resources>
+</manifest>

@@ -1,0 +1,738 @@
+{
+  "meta": {
+    "lesson_no": 12,
+    "level": "Pre-Intermediate",
+    "section": "Electrical Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aɪ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "l'i've",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The electrician found the l'i've conductor an hour ago, and cut power immediately.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "p'i'lot",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "The p'i'lot lamp didn’t light up yesterday evening, indicating that a fuse had blown.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "b'y'pass",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The engineer chose a b'y'pass and kept the system running.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "t'i'mer",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "The technician set the t'i'mer and began the testing cycle.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-5",
+    "focus": "Simple Past Regular and Irregular verbs, Structure while...",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I work every day.", "I worked yesterday."],
+        ["I play the piano every day.", "I played the piano yesterday."],
+        ["I rest every day.", "I rested yesterday."]
+      ],
+      [
+        ["I eat rice every day.", "I ate rice yesterday."],
+        ["I go to the gym everyday.", "I went to the gym yesterday."],
+        ["I meet my friends every day.", "I met my friends yesterday."]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My shoulder hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I strained it while carrying a metal rod.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (strain/carry a metal rod)"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My right arm hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I burned it while frying a big fish.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (burn/fry a big fish)"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My lower back hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I hurt it while lifting a heavy box.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (lift/heavy box)"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "My wrist hurts badly"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "My eye hurts badly"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "My ankle hurts badly"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "My knee hurts badly"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "My neck hurts badly"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "My hand hurts badly"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My wrist hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I sprained it while tightening a bolt.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (sprain/tighten a bolt)"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My eye hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I injured it while machining a metal bracket.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (injure/machine a metal bracket)"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My ankle hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I twisted it while walking down the stairs.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (twist/walk down the stairs)"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My knee hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I hit it while assembling a scaffold.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (hit/assemble a scaffold)"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My neck hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I hurt it while lifting a cement bag.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (hurt/lift a cement bag)"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "Sir, may I leave half an hour earlier today? My hand hurts badly.",
+        "text_b": "What happened?",
+        "text_c": "I bruised it while handling a hammer drill.",
+        "text_d": "We are not very busy today, so you may leave even now, but please see the doctor as soon as possible. It might be something a bit more serious than the last injury.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_x_b.mp3",
+        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_d": "assets/audio/a_2_d_x_d.mp3",
+        "text_c_speaking": "_______________________________  (bruise/handle a hammer drill)"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-9",
+    "instructions": {
+      "activity_a": {
+        "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_h.mp3"
+      },
+      "activity_b": {
+        "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_3_i_h.mp3"
+      },
+      "activity_bc": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-4.jpg",
+        "content": [
+          {
+            "id": "g_a_1",
+            "image": "assets/img/a_3_a_g_1.png",
+            "keyword": "I cut my finger."
+          },
+          {
+            "id": "g_a_2",
+            "image": "assets/img/a_3_a_g_2.png",
+            "keyword": "He bruised his arm."
+          },
+          {
+            "id": "g_a_3",
+            "image": "assets/img/a_3_a_g_3.png",
+            "keyword": "She burned her hand."
+          },
+          {
+            "id": "g_a_4",
+            "image": "assets/img/a_3_a_g_4.png",
+            "keyword": "We sprained our ankles."
+          },
+          {
+            "id": "g_a_5",
+            "image": "assets/img/a_3_a_g_5.png",
+            "keyword": "They strained their backs."
+          },
+          {
+            "id": "g_a_6",
+            "image": "assets/img/a_3_a_g_6.png",
+            "keyword": "He broke his arm."
+          }
+        ]
+      },
+      "activity_b": {
+        "bg_image": "assets/img/game/bg-6.jpg",
+        "content": [
+          {
+            "id": "g_a_7",
+            "image": "assets/img/a_3_a_g_7.png",
+            "keyword": "She dislocated her shoulder."
+          },
+          {
+            "id": "g_a_8",
+            "image": "assets/img/a_3_a_g_8.png",
+            "keyword": "I poked my eye."
+          },
+          {
+            "id": "g_a_9",
+            "image": "assets/img/a_3_a_g_9.png",
+            "keyword": "They hit their heads."
+          },
+          {
+            "id": "g_a_10",
+            "image": "assets/img/a_3_a_g_10.png",
+            "keyword": "We injured our backs."
+          },
+          {
+            "id": "g_a_11",
+            "image": "assets/img/a_3_a_g_11.png",
+            "keyword": "He crushed his finger."
+          },
+          {
+            "id": "g_a_12",
+            "image": "assets/img/a_3_a_g_12.png",
+            "keyword": "She twisted her foot."
+          }
+        ]
+      },
+      "activity_c": [
+        {
+          "id": "g_b_1",
+          "text": "I cut my finger.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "He bruised his arm.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "She burned her hand.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "We sprained our ankles.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "They strained their backs.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "He broke his arm.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "She dislocated her shoulder.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "I poked my eye.",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "They hit their heads.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "We injured our backs.",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_11",
+          "text": "He crushed his finger.",
+          "audio": "assets/audio/g_b_11.mp3"
+        },
+        {
+          "id": "g_b_12",
+          "text": "She twisted her foot.",
+          "audio": "assets/audio/g_b_12.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.wav",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "What suggestion does the supervisor make first for the wrist injury?",
+            "answer": "Apply some Moov.",
+            "options": [
+              "See a doctor immediately.",
+              "Apply some Moov.",
+              "Apply pain relief oil."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What caused the eye problem?",
+            "answer": "Dust inflamed the eye during machining.",
+            "options": [
+              "Dust got into the eye while dismantling a machine.",
+              "Metal oil splashed into the eye.",
+              "Dust inflamed the eye during machining."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "What suggestion does the supervisor make first for the sore back?",
+            "answer": "Apply Siddhalepa balm and rest.",
+            "options": [
+              "Go to the hospital immediately.",
+              "Apply Siddhalepa balm and rest.",
+              "Apply ice and siddhalepa balm."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "What happened to the trainee’s ankle?",
+            "answer": "He twisted it while walking down the stairs.",
+            "options": [
+              "He sprained it while lifting materials.",
+              "He hurt it while walking down a hill.",
+              "He twisted it while walking down the stairs."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "What advice is given for the finger injury?",
+            "answer": "Clean it and apply antiseptic cream.",
+            "options": [
+              "Cover it and keep working.",
+              "Clean it and apply antiseptic cream.",
+              "Apply herbal oil and bandage it tightly."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "What about applying some Moov first?",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "feels very uncomfortable",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "How about washing your eyes with clean water first?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "And why don’t you avoid dusty work for the rest of the day?",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "is really sore.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "How about applying some Siddhalepa balm  and resting today?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "If the pain continues, why don’t you see a doctor this evening?",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "hurts a lot",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "What about using a cold compress and elevating it a bit?",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "And why don’t you use some herbal oil when you get home?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "is very painful",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "How about cleaning it properly and applying an antiseptic cream?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "And why don’t you see a doctor if it becomes red or swollen?",
+          "audio": "assets/audio/t_14.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "What about applying some Moov first?",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "feels very uncomfortable",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "How about washing your eyes with clean water first?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "And why don’t you avoid dusty work for the rest of the day?",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "is really sore.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "How about applying some Siddhalepa balm  and resting today?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "If the pain continues, why don’t you see a doctor this evening?",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "hurts a lot",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "What about using a cold compress and elevating it a bit?",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "And why don’t you use some herbal oil when you get home?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "is very painful",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "How about cleaning it properly and applying an antiseptic cream?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "And why don’t you see a doctor if it becomes red or swollen?",
+          "audio": "assets/audio/t_14.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "What about applying some Moov first?",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "feels very uncomfortable",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "How about washing your eyes with clean water first?",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "And why don’t you avoid dusty work for the rest of the day?",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "is really sore.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "How about applying some Siddhalepa balm  and resting today?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "If the pain continues, why don’t you see a doctor this evening?",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "hurts a lot",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "What about using a cold compress and elevating it a bit?",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "And why don’t you use some herbal oil when you get home?",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "is very painful",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "How about cleaning it properly and applying an antiseptic cream?",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "And why don’t you see a doctor if it becomes red or swollen?",
+          "audio": "assets/audio/t_14.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
