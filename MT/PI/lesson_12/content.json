@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "t'i'ming",
+        "word_text": "fl'y'wheel",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mechanic made good t'i'ming on the sports car during the test drive yesterday morning.",
+        "sentence_text": "The fl'y'wheel spun smoothly during the engine test last week.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "fl'y'wheel",
+        "word_text": "t'ie'-rod",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The car shuddered violently when the technician broke the fl'y'wheel suddenly.",
+        "sentence_text": "The mechanic bent the t'ie'-rod during the alignment check.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "p'i'pel'i'ne",
+        "word_text": "r'i'ser",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The repair crew found leaks in the p'i'pel'i'ne and attended to them, two days ago.",
+        "sentence_text": "The technician installed the r'i'ser near the pump outlet.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pr'i'mer",
+        "word_text": "sl'i'deway",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Painters don’t always choose the pr'i'mer according to the colour of the paint.",
+        "sentence_text": "The operator didn’t clean the sl'i'deway before machining started this morning.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
