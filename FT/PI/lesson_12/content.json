@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "t'i'ming",
+        "word_text": "br'i'ne",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The mechanic made good t'i'ming on the sports car during the test drive yesterday morning.",
+        "sentence_text": "The chef made a strong br'i'ne to cure the fish yesterday morning.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "fl'y'wheel",
+        "word_text": "p'i'pel'i'ne",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "The car shuddered violently when the technician broke the fl'y'wheel suddenly.",
+        "sentence_text": "The technician checked the p'i'pel'i'ne before transferring the liquid oil last week.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "p'i'pel'i'ne",
+        "word_text": "r'i'pen",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The repair crew found leaks in the p'i'pel'i'ne and attended to them, two days ago.",
+        "sentence_text": "The bananas became fully r'i'pe after two days in storage.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "pr'i'mer",
+        "word_text": "'i'ce-line",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Painters don’t always choose the pr'i'mer according to the colour of the paint.",
+        "sentence_text": "The staff didn’t mark the 'i'ce-line clearly in the cold storage room.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
