@@ -265,152 +265,146 @@
     ]
   },
   "activity_3": {
-    "type": "INTERACTIVE-9",
+    "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_3_i_h.mp3"
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
       },
       "activity_b": {
-        "text": "Match the sentences with the pictures.\nපින්තූර සමඟ වාක්‍ය ගැලපෙන්න.\nவாக்கியங்களை படங்களுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_3_i_h.mp3"
-      },
-      "activity_bc": {
         "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
         "audio": "assets/audio/a_2_i_c.mp3"
       }
     },
     "content": {
       "activity_a": {
-        "bg_image": "assets/img/game/bg-4.jpg",
+        "bg_image": "assets/img/game/bg-3.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "___________ were you when the accident happened?",
+            "options": ["How often", "Where", "What time"],
+            "answer": "Where"
+          }
+        ],
         "content": [
           {
-            "id": "g_a_1",
-            "image": "assets/img/a_3_a_g_1.png",
-            "keyword": "I cut my finger."
+            "id": "g_b_1",
+            "sentence": "___________ exactly did the accident happen?",
+            "options": ["How much", "When", "How"],
+            "answer": "When"
           },
           {
-            "id": "g_a_2",
-            "image": "assets/img/a_3_a_g_2.png",
-            "keyword": "He bruised his arm."
+            "id": "g_b_2",
+            "sentence": "___________ got injured?",
+            "options": ["Why", "Where", "Who"],
+            "answer": "Who"
           },
           {
-            "id": "g_a_3",
-            "image": "assets/img/a_3_a_g_3.png",
-            "keyword": "She burned her hand."
+            "id": "g_b_3",
+            "sentence": "___________ did it happen?",
+            "options": ["Where", "What", "When"],
+            "answer": "Where"
           },
           {
-            "id": "g_a_4",
-            "image": "assets/img/a_3_a_g_4.png",
-            "keyword": "We sprained our ankles."
+            "id": "g_b_4",
+            "sentence": "___________ did he get injured?",
+            "options": ["How", "Where", "When"],
+            "answer": "How"
           },
           {
-            "id": "g_a_5",
-            "image": "assets/img/a_3_a_g_5.png",
-            "keyword": "They strained their backs."
+            "id": "g_b_5",
+            "sentence": "___________ hand got injured, the left or the right?",
+            "options": ["What", "Where", "Which"],
+            "answer": "Which"
           },
           {
-            "id": "g_a_6",
-            "image": "assets/img/a_3_a_g_6.png",
-            "keyword": "He broke his arm."
+            "id": "g_b_6",
+            "sentence": "___________ did the instructor do when it happened?",
+            "options": ["Where", "Why", "What"],
+            "answer": "What"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "___________ trainees were present in the welding workshop at the time of the accident?",
+            "options": ["How much", "How many", "How often"],
+            "answer": "How many"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "___________ wasn’t he wearing safety gloves?",
+            "options": ["Where", "Why", "Which"],
+            "answer": "Why"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "___________ did the doctor take to arrive at the welding workshop?",
+            "options": ["How long", "How much", "How far"],
+            "answer": "How long"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "___________ should you stand from machines that are operating?",
+            "options": ["How long", "How far", "How much"],
+            "answer": "How far"
           }
         ]
       },
-      "activity_b": {
-        "bg_image": "assets/img/game/bg-6.jpg",
-        "content": [
-          {
-            "id": "g_a_7",
-            "image": "assets/img/a_3_a_g_7.png",
-            "keyword": "She dislocated her shoulder."
-          },
-          {
-            "id": "g_a_8",
-            "image": "assets/img/a_3_a_g_8.png",
-            "keyword": "I poked my eye."
-          },
-          {
-            "id": "g_a_9",
-            "image": "assets/img/a_3_a_g_9.png",
-            "keyword": "They hit their heads."
-          },
-          {
-            "id": "g_a_10",
-            "image": "assets/img/a_3_a_g_10.png",
-            "keyword": "We injured our backs."
-          },
-          {
-            "id": "g_a_11",
-            "image": "assets/img/a_3_a_g_11.png",
-            "keyword": "He crushed his finger."
-          },
-          {
-            "id": "g_a_12",
-            "image": "assets/img/a_3_a_g_12.png",
-            "keyword": "She twisted her foot."
-          }
-        ]
-      },
-      "activity_c": [
+      "activity_b": [
+        {
+          "id": "g_b_ex",
+          "text": "Where were you when the accident happened?",
+          "audio": "assets/audio/g_b_ex.mp3"
+        },
         {
           "id": "g_b_1",
-          "text": "I cut my finger.",
+          "text": "When exactly did the accident happen?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
           "id": "g_b_2",
-          "text": "He bruised his arm.",
+          "text": "Who got injured?",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
           "id": "g_b_3",
-          "text": "She burned her hand.",
+          "text": "Where did it happen?",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
           "id": "g_b_4",
-          "text": "We sprained our ankles.",
+          "text": "How did he get injured?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
           "id": "g_b_5",
-          "text": "They strained their backs.",
+          "text": "Which hand got injured, the left or the right?",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
           "id": "g_b_6",
-          "text": "He broke his arm.",
+          "text": "What did the instructor do when it happened?",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
           "id": "g_b_7",
-          "text": "She dislocated her shoulder.",
+          "text": "How many trainees were present in the welding workshop at the time of the accident?",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
           "id": "g_b_8",
-          "text": "I poked my eye.",
+          "text": "Why wasn’t he wearing safety gloves?",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
           "id": "g_b_9",
-          "text": "They hit their heads.",
+          "text": "How long did the doctor take to arrive at the welding workshop?",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_10",
-          "text": "We injured our backs.",
+          "text": "How far should you stand from machines that are operating?",
           "audio": "assets/audio/g_b_10.mp3"
-        },
-        {
-          "id": "g_b_11",
-          "text": "He crushed his finger.",
-          "audio": "assets/audio/g_b_11.mp3"
-        },
-        {
-          "id": "g_b_12",
-          "text": "She twisted her foot.",
-          "audio": "assets/audio/g_b_12.mp3"
         }
       ]
     }
@@ -437,56 +431,56 @@
     },
     "content": {
       "activity_a": {
-        "audio": "assets/audio/a_4_l_1.wav",
+        "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "What suggestion does the supervisor make first for the wrist injury?",
-            "answer": "Apply some Moov.",
+            "question": "Why did the safety inspector ask about the accident?",
+            "answer": "To accurately document the incident and submit an accident report.",
             "options": [
-              "See a doctor immediately.",
-              "Apply some Moov.",
-              "Apply pain relief oil."
+              "To find out who was responsible for the accident and submit a report.",
+              "To accurately document the incident and submit an accident report.",
+              "To check if the workshop was overcrowded."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What caused the eye problem?",
-            "answer": "Dust inflamed the eye during machining.",
+            "question": "What detail strongly suggests that the accident could have been prevented?",
+            "answer": "The absence of cut-resistant gloves during machine operation.",
             "options": [
-              "Dust got into the eye while dismantling a machine.",
-              "Metal oil splashed into the eye.",
-              "Dust inflamed the eye during machining."
+              "The absence of two instructors in the room to supervise.",
+              "The absence of cut-resistant gloves during machine operation.",
+              "The use of a bench grinder."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What suggestion does the supervisor make first for the sore back?",
-            "answer": "Apply Siddhalepa balm and rest.",
+            "question": "Which factor directly contributed to the trainee losing control while working?",
+            "answer": "Oil on the equipment surface.",
             "options": [
-              "Go to the hospital immediately.",
-              "Apply Siddhalepa balm and rest.",
-              "Apply ice and siddhalepa balm."
+              "The sharpness of the blade",
+              "Oil on the equipment surface.",
+              "The size of the metal piece"
             ]
           },
           {
             "id": "l_18_4",
-            "question": "What happened to the trainee’s ankle?",
-            "answer": "He twisted it while walking down the stairs.",
+            "question": "What was the immediate response of the instructor that prevented further injury?",
+            "answer": "Stopping the machine.",
             "options": [
-              "He sprained it while lifting materials.",
-              "He hurt it while walking down a hill.",
-              "He twisted it while walking down the stairs."
+              "Clearing the room of the other trainees",
+              "Stopping the machine.",
+              "Informing the doctor"
             ]
           },
           {
             "id": "l_18_5",
-            "question": "What advice is given for the finger injury?",
-            "answer": "Clean it and apply antiseptic cream.",
+            "question": "What does the trainee’s final response show about his attitude after the accident?",
+            "answer": "He understands the importance of personal responsibility and safety compliance.",
             "options": [
-              "Cover it and keep working.",
-              "Clean it and apply antiseptic cream.",
-              "Apply herbal oil and bandage it tightly."
+              "He believes accidents are unavoidable in workplaces.",
+              "He expects stricter supervision from instructors.",
+              "He understands the importance of personal responsibility and safety compliance."
             ]
           }
         ]
@@ -494,217 +488,592 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "What about applying some Moov first?",
+          "text": "Good morning.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
+          "text": "I’m the safety inspector for the Automobile Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "feels very uncomfortable",
+          "text": "Thank you for coming in.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "How about washing your eyes with clean water first?",
+          "text": "I need to ask you a few questions in order to complete the accident report.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "And why don’t you avoid dusty work for the rest of the day?",
+          "text": "Is that okay?",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "is really sore.",
+          "text": "Good morning, sir.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "How about applying some Siddhalepa balm  and resting today?",
+          "text": "Yes, that’s fine.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "If the pain continues, why don’t you see a doctor this evening?",
+          "text": "First of all, could you please tell me your full name?",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "hurts a lot",
+          "text": "My name is Dilshan Perera.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "What about using a cold compress and elevating it a bit?",
+          "text": "Thank you, Dilshan.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "And why don’t you use some herbal oil when you get home?",
+          "text": "I understand there was an accident here yesterday around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "is very painful",
+          "text": "Do you recall the exact time of the accident?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "How about cleaning it properly and applying an antiseptic cream?",
+          "text": "The accident happened yesterday at 10.25 a.m., during the morning practical session.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "And why don’t you see a doctor if it becomes red or swollen?",
+          "text": "And where exactly did it happen?",
           "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "It happened in the automobile training workshop, near the service bench.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Who else was present at that time?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Our instructor and two other trainees were in the room.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "They were working nearby on diesel engines.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "What were you doing just before the accident?",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "I was using the bench grinder to smooth a metal component.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Please describe how the accident happened.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "The rotating wheel injured the tip of my ring finger.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Were you wearing all the required safety equipment?",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Now I know that it wasn’t safe.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Thank you for being honest.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "What did you do immediately after the injury?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "I called the instructor.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Did you receive any further medical attention after that?",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Yes, sir.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "I went to a nearby clinic.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Finally, what can you do to help prevent this type of accident in the future?",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "That sounds sensible.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Thank you for your cooperation.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "I have all the information I need to complete the report.",
+          "audio": "assets/audio/t_39.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "What about applying some Moov first?",
+          "text": "Good morning.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
+          "text": "I’m the safety inspector for the Automobile Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "feels very uncomfortable",
+          "text": "Thank you for coming in.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "How about washing your eyes with clean water first?",
+          "text": "I need to ask you a few questions in order to complete the accident report.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "And why don’t you avoid dusty work for the rest of the day?",
+          "text": "Is that okay?",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "is really sore.",
+          "text": "Good morning, sir.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "How about applying some Siddhalepa balm  and resting today?",
+          "text": "Yes, that’s fine.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "If the pain continues, why don’t you see a doctor this evening?",
+          "text": "First of all, could you please tell me your full name?",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "hurts a lot",
+          "text": "My name is Dilshan Perera.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "What about using a cold compress and elevating it a bit?",
+          "text": "Thank you, Dilshan.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "And why don’t you use some herbal oil when you get home?",
+          "text": "I understand there was an accident here yesterday around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "is very painful",
+          "text": "Do you recall the exact time of the accident?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "How about cleaning it properly and applying an antiseptic cream?",
+          "text": "The accident happened yesterday at 10.25 a.m., during the morning practical session.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "And why don’t you see a doctor if it becomes red or swollen?",
+          "text": "And where exactly did it happen?",
           "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "It happened in the automobile training workshop, near the service bench.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Who else was present at that time?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Our instructor and two other trainees were in the room.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "They were working nearby on diesel engines.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "What were you doing just before the accident?",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "I was using the bench grinder to smooth a metal component.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Please describe how the accident happened.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "The rotating wheel injured the tip of my ring finger.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Were you wearing all the required safety equipment?",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Now I know that it wasn’t safe.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Thank you for being honest.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "What did you do immediately after the injury?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "I called the instructor.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Did you receive any further medical attention after that?",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Yes, sir.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "I went to a nearby clinic.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Finally, what can you do to help prevent this type of accident in the future?",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "That sounds sensible.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Thank you for your cooperation.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "I have all the information I need to complete the report.",
+          "audio": "assets/audio/t_39.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "What about applying some Moov first?",
+          "text": "Good morning.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "If the swelling does not reduce, why don’t you see a doctor tomorrow?",
+          "text": "I’m the safety inspector for the Automobile Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "feels very uncomfortable",
+          "text": "Thank you for coming in.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "How about washing your eyes with clean water first?",
+          "text": "I need to ask you a few questions in order to complete the accident report.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "And why don’t you avoid dusty work for the rest of the day?",
+          "text": "Is that okay?",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "is really sore.",
+          "text": "Good morning, sir.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "How about applying some Siddhalepa balm  and resting today?",
+          "text": "Yes, that’s fine.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "If the pain continues, why don’t you see a doctor this evening?",
+          "text": "First of all, could you please tell me your full name?",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "hurts a lot",
+          "text": "My name is Dilshan Perera.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "What about using a cold compress and elevating it a bit?",
+          "text": "Thank you, Dilshan.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "And why don’t you use some herbal oil when you get home?",
+          "text": "I understand there was an accident here yesterday around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "is very painful",
+          "text": "Do you recall the exact time of the accident?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "How about cleaning it properly and applying an antiseptic cream?",
+          "text": "The accident happened yesterday at 10.25 a.m., during the morning practical session.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "And why don’t you see a doctor if it becomes red or swollen?",
+          "text": "And where exactly did it happen?",
           "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "It happened in the automobile training workshop, near the service bench.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Who else was present at that time?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Our instructor and two other trainees were in the room.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "They were working nearby on diesel engines.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "What were you doing just before the accident?",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "I was using the bench grinder to smooth a metal component.",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Please describe how the accident happened.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "The rotating wheel injured the tip of my ring finger.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "Were you wearing all the required safety equipment?",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Now I know that it wasn’t safe.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "Thank you for being honest.",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "What did you do immediately after the injury?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "I called the instructor.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "Did you receive any further medical attention after that?",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Yes, sir.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "I went to a nearby clinic.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Finally, what can you do to help prevent this type of accident in the future?",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "That sounds sensible.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Thank you for your cooperation.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "I have all the information I need to complete the report.",
+          "audio": "assets/audio/t_39.mp3"
         }
       ]
     }
