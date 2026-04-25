@@ -35,31 +35,31 @@
         "id": "p_1",
         "word_text": "p'oi'nt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Did the mechanic keep the ignition p'oi'nt during the engine tune-up? Yes, he did. He kept the ignition p'oi'nt at the correct setting.",
+        "sentence_text": "Did the mason do proper p'oi'nting on the brick joints yesterday? Yes, he did. He did it well.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "v'oi'd",
+        "word_text": "h'oi'st",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Did the office v'oi'd the warranty on the vehicle? No, it didn’t. It informed the customer that installing non-approved parts may v'oi'd the warranty in the future.",
+        "sentence_text": "Did the crew lift the steel beam with the h'oi'st safely? Yes, they did. They lifted it with the h'oi'st safely at the second attempt.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "j'oi'nt",
-        "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did the mechanic find a loose j'oi'nt during the suspension inspection? Yes, he did. He found a loose j'oi'nt at the beginning of the inspection.",
+        "word_text": "v'oi'd",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "Did the inspector find a v'oi'd inside the concrete slab? Yes, he did. He found the v'oi'd at the beginning of the inspection.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "h'oi'st",
-        "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did the technician lift the vehicle with the h'oi'st safely yesterday? Yes, he did. He lifted it with the h'oi'st safely at the second attempt.",
+        "word_text": "c'oi'r",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Did the workers install c'oi'r mats along the embankment last week? No, they didn’t. They installed the c'oi'r mats yesterday.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -450,17 +450,17 @@
             "options": [
               "The absence of two instructors in the room to supervise.",
               "The absence of cut-resistant gloves during machine operation.",
-              "The use of a bench grinder."
+              "The use of a hand held grinder."
             ]
           },
           {
             "id": "l_18_3",
             "question": "Which factor directly contributed to the trainee losing control while working?",
-            "answer": "Oil on the equipment surface.",
+            "answer": "Moisture on the equipment surface.",
             "options": [
               "The sharpness of the blade",
-              "Oil on the equipment surface.",
-              "The size of the metal piece"
+              "Moisture on the equipment surface.",
+              "The size of the concrete blocks"
             ]
           },
           {
@@ -493,7 +493,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Construction industry division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -538,12 +538,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -558,7 +558,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened at the construction training site, near the mortar laying area.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -573,17 +573,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby, setting out the wall line.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the hand angle grinder to cut concrete blocks.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -593,12 +593,12 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "The grinder had been cleaned with a damp cloth.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "When I adjusted my grip, the grinder slipped and cut my hand near the thumb.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
@@ -608,7 +608,7 @@
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "I wore a safety helmet and safety shoes, but I forgot to wear the cut-resistant protection gloves.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
@@ -633,7 +633,7 @@
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "He stopped the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
           "audio": "assets/audio/t_30.mp3"
         },
         {
@@ -653,7 +653,7 @@
         },
         {
           "id": "t_34",
-          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "text": "The doctor examined the injury, stitched the wound and gave me a tetanus injection.",
           "audio": "assets/audio/t_34.mp3"
         },
         {
@@ -690,7 +690,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Construction industry division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -735,12 +735,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -755,7 +755,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened at the construction training site, near the mortar laying area.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -770,17 +770,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby, setting out the wall line.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the hand angle grinder to cut concrete blocks.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -790,12 +790,12 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "The grinder had been cleaned with a damp cloth.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "When I adjusted my grip, the grinder slipped and cut my hand near the thumb.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
@@ -805,7 +805,7 @@
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "I wore a safety helmet and safety shoes, but I forgot to wear the cut-resistant protection gloves.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
@@ -830,7 +830,7 @@
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "He stopped the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
           "audio": "assets/audio/t_30.mp3"
         },
         {
@@ -850,7 +850,7 @@
         },
         {
           "id": "t_34",
-          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "text": "The doctor examined the injury, stitched the wound and gave me a tetanus injection.",
           "audio": "assets/audio/t_34.mp3"
         },
         {
@@ -887,7 +887,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Construction industry division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -932,12 +932,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -952,7 +952,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened at the construction training site, near the mortar laying area.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -967,17 +967,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby, setting out the wall line.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the hand angle grinder to cut concrete blocks.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -987,12 +987,12 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "The grinder had been cleaned with a damp cloth.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "When I adjusted my grip, the grinder slipped and cut my hand near the thumb.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
@@ -1002,7 +1002,7 @@
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "I wore a safety helmet and safety shoes, but I forgot to wear the cut-resistant protection gloves.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
@@ -1027,7 +1027,7 @@
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "He stopped the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
           "audio": "assets/audio/t_30.mp3"
         },
         {
@@ -1047,7 +1047,7 @@
         },
         {
           "id": "t_34",
-          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "text": "The doctor examined the injury, stitched the wound and gave me a tetanus injection.",
           "audio": "assets/audio/t_34.mp3"
         },
         {
