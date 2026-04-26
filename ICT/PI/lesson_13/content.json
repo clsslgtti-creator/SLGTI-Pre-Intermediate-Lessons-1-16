@@ -35,31 +35,31 @@
         "id": "p_1",
         "word_text": "p'oi'nt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Did the mechanic keep the ignition p'oi'nt during the engine tune-up? Yes, he did. He kept the ignition p'oi'nt at the correct setting.",
+        "sentence_text": "Did the technician find the correct access p'oi'nt during network testing last week? No, he didn’t. He found the correct access p'oi'nt only yesterday.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "v'oi'd",
+        "word_text": "sp'oi'l",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Did the office v'oi'd the warranty on the vehicle? No, it didn’t. It informed the customer that installing non-approved parts may v'oi'd the warranty in the future.",
+        "sentence_text": "Did the power failure sp'oi'l the file during data transfer? Yes, it did. It sp'oi'lt the file and we lost the data.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "j'oi'nt",
+        "word_text": "depl'oy'",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did the mechanic find a loose j'oi'nt during the suspension inspection? Yes, he did. He found a loose j'oi'nt at the beginning of the inspection.",
+        "sentence_text": "Did the administrator make a backup before he depl'oy'ed the new server? Yes, he did. He wisely made a backup before depl'oy'ing.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "h'oi'st",
+        "word_text": "r'oy'alty",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did the technician lift the vehicle with the h'oi'st safely yesterday? Yes, he did. He lifted it with the h'oi'st safely at the second attempt.",
+        "sentence_text": "Did the company pay the software r'oy'alty after it took the licence? Yes, they did. They paid the r'oy'alty soon after obtaining it.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }

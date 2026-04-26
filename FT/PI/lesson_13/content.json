@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "p'oi'nt",
+        "word_text": "f'oi'l",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Did the mechanic keep the ignition p'oi'nt during the engine tune-up? Yes, he did. He kept the ignition p'oi'nt at the correct setting.",
+        "sentence_text": "Did the inspector find f'oi'l insulation behind the service duct yesterday? Yes, he did. He found the f'oi'l insulation at the beginning of the inspection.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "v'oi'd",
+        "word_text": "'oy'ster",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Did the office v'oi'd the warranty on the vehicle? No, it didn’t. It informed the customer that installing non-approved parts may v'oi'd the warranty in the future.",
+        "sentence_text": "Did the chef choose the 'oy'sters at the fresh seafood market this morning? No, he didn’t. He chose the 'oy'sters yesterday and froze them.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "j'oi'nt",
+        "word_text": "p'oi'nt",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did the mechanic find a loose j'oi'nt during the suspension inspection? Yes, he did. He found a loose j'oi'nt at the beginning of the inspection.",
+        "sentence_text": "Did the supervisor take the temperature p'oi'nt before concrete curing started? Yes, he did. He took the temperature p'oi'nt before starting the process.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "h'oi'st",
+        "word_text": "v'oi'd",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did the technician lift the vehicle with the h'oi'st safely yesterday? Yes, he did. He lifted it with the h'oi'st safely at the second attempt.",
+        "sentence_text": "Did the manufacturer v'oi'd the warranty of the sealing machine last week? No, he didn’t. He sent us a warning to use only manufacturer approved materials for sealing.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -445,22 +445,22 @@
           },
           {
             "id": "l_18_2",
-            "question": "What detail strongly suggests that the accident could have been prevented?",
+            "question": "What detail most strongly suggests that the accident could have been prevented?",
             "answer": "The absence of cut-resistant gloves during machine operation.",
             "options": [
               "The absence of two instructors in the room to supervise.",
               "The absence of cut-resistant gloves during machine operation.",
-              "The use of a bench grinder."
+              "The use of a fish-scaling machine nearby."
             ]
           },
           {
             "id": "l_18_3",
             "question": "Which factor directly contributed to the trainee losing control while working?",
-            "answer": "Oil on the equipment surface.",
+            "answer": "Moisture on the equipment surface.",
             "options": [
-              "The sharpness of the blade",
-              "Oil on the equipment surface.",
-              "The size of the metal piece"
+              "The sharpness of the blade.",
+              "Moisture on the equipment surface.",
+              "The size of the pieces of meat."
             ]
           },
           {
@@ -468,7 +468,7 @@
             "question": "What was the immediate response of the instructor that prevented further injury?",
             "answer": "Stopping the machine.",
             "options": [
-              "Clearing the room of the other trainees",
+              "Clearing the room of the other trainees.",
               "Stopping the machine.",
               "Informing the doctor"
             ]
@@ -478,7 +478,7 @@
             "question": "What does the trainee’s final response show about his attitude after the accident?",
             "answer": "He understands the importance of personal responsibility and safety compliance.",
             "options": [
-              "He believes accidents are unavoidable in workplaces.",
+              "He believes accidents are unavoidable in food processing.",
               "He expects stricter supervision from instructors.",
               "He understands the importance of personal responsibility and safety compliance."
             ]
@@ -493,7 +493,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Food Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -538,12 +538,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -558,7 +558,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened in the food processing room, near the meat preparation counter.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -573,17 +573,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby on a fish-scaling machine.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the meat slicer to cut mutton into cubes.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -593,12 +593,12 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "The surface of the meat slicer was slightly wet, and my hand slipped while I guided the meat forward.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "The blade cut the tip of my ring finger.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
@@ -608,7 +608,7 @@
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "I wore a protective apron, a face shield and non-slip safety shoes, but I forgot to wear cut-resistant protection gloves.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
@@ -633,7 +633,7 @@
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "He stopped the machine immediately, cleaned the wound, applied antiseptic solution, and dressed it with cotton and a bandage.",
           "audio": "assets/audio/t_30.mp3"
         },
         {
@@ -663,7 +663,7 @@
         },
         {
           "id": "t_36",
-          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "text": "We should always wear all personal protection equipment, keep work surfaces dry, and follow safety instructions carefully.",
           "audio": "assets/audio/t_36.mp3"
         },
         {
@@ -690,7 +690,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Food Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -735,12 +735,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -755,7 +755,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened in the food processing room, near the meat preparation counter.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -770,17 +770,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby on a fish-scaling machine.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the meat slicer to cut mutton into cubes.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -790,12 +790,12 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "The surface of the meat slicer was slightly wet, and my hand slipped while I guided the meat forward.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "The blade cut the tip of my ring finger.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
@@ -805,7 +805,7 @@
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "I wore a protective apron, a face shield and non-slip safety shoes, but I forgot to wear cut-resistant protection gloves.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
@@ -830,7 +830,7 @@
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "He stopped the machine immediately, cleaned the wound, applied antiseptic solution, and dressed it with cotton and a bandage.",
           "audio": "assets/audio/t_30.mp3"
         },
         {
@@ -860,7 +860,7 @@
         },
         {
           "id": "t_36",
-          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "text": "We should always wear all personal protection equipment, keep work surfaces dry, and follow safety instructions carefully.",
           "audio": "assets/audio/t_36.mp3"
         },
         {
@@ -887,7 +887,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Food Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -932,12 +932,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -952,7 +952,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened in the food processing room, near the meat preparation counter.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -967,17 +967,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby on a fish-scaling machine.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the meat slicer to cut mutton into cubes.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -987,12 +987,12 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "The surface of the meat slicer was slightly wet, and my hand slipped while I guided the meat forward.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "The blade cut the tip of my ring finger.",
           "audio": "assets/audio/t_23.mp3"
         },
         {
@@ -1002,7 +1002,7 @@
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "I wore a protective apron, a face shield and non-slip safety shoes, but I forgot to wear cut-resistant protection gloves.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
@@ -1027,7 +1027,7 @@
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "He stopped the machine immediately, cleaned the wound, applied antiseptic solution, and dressed it with cotton and a bandage.",
           "audio": "assets/audio/t_30.mp3"
         },
         {
@@ -1057,7 +1057,7 @@
         },
         {
           "id": "t_36",
-          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "text": "We should always wear all personal protection equipment, keep work surfaces dry, and follow safety instructions carefully.",
           "audio": "assets/audio/t_36.mp3"
         },
         {
