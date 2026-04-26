@@ -1,0 +1,1279 @@
+{
+  "meta": {
+    "lesson_no": 14,
+    "level": "Pre-Intermediate",
+    "section": "Food Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /aʊ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "clutch h'ou'sing",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "When are you going to replace the damaged clutch h'ou'sing?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "p'ow'er unit",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "Tomorrow we are going to install the new p'ow'er unit.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "breakd'ow'n",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The vehicle might not complete the road test without a breakd'ow'n.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "'ou'tput shaft",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "They are going to inspect the 'ou'tput shaft carefully today.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-3",
+    "focus": "Structures Going to and Might",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["When are", "you", "going to…", "cook / write / play / study ?"],
+        [null, "we", null, null],
+        [null, "they", null, null],
+        ["When is", "he", null, null],
+        [null, "she", null, null],
+        [null, "it", null, null],
+        ["When is", "I", null, null]
+      ],
+      [
+        ["Will", "Definitely"],
+        ["May", "Uncertain"],
+        ["Might", "Uncertain "],
+        ["Won’t", "Impossible"]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "When are you going to register the new business?",
+        "text_b": "I might register it on Friday, or I might register it next week. I really don’t know yet. I just have to wait and see.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3"
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "When are you going to file the annual taxes?",
+        "text_b": "I might file them on Friday, or I might file them next week. I really don’t know yet. I just have to wait and see.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3"
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "When is he going to open the official business bank account?",
+        "text_b": "He might open it on Friday, or he might open it next week. He really doesn’t know yet. He just has to wait and see.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3"
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "apply for the required business licence"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "issue the outstanding invoices"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "finalise the pending contracts"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "review the monthly operating expenses"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "to set up a new accounting system"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "renew the current business registration"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "When is she going to apply for the required business licence?",
+        "text_b": "She might apply for it on Friday, or she might apply for it next week. She really doesn’t know. She just has to wait and see.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3"
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "When are you going to issue the outstanding invoices?",
+        "text_b": "I might issue them on Friday, or I might issue them next week. I really don’t know yet. I just have to wait and see.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3"
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "When are we going to finalise the pending contracts?",
+        "text_b": "We might finalise them on Friday, or we might finalise them next week. We really don’t know yet. We just have to wait and see.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3"
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "When are they going to review the monthly operating expenses?",
+        "text_b": "They might review them on Friday, or they might review them next week. They really don’t know yet. They just have to wait and see.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3"
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "When is he going to set up a new accounting system?",
+        "text_b": "He might set it up on Friday, or he might set it up next week. He really doesn’t know yet. He just has to wait and see.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3"
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "When is she going to renew the current business registration?",
+        "text_b": "She might renew it on Friday, or she might renew it next week. She really doesn’t know yet. She just has to wait and see.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3"
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-7.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "Do we have enough premium lithium-based brake grease for today’s practical session?",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "No, we don’t. We need to order about 8 kg more.",
+              "Yes, it will be much cheaper if we order it by volume.",
+              "Yes, please. We need to send this before the end of the day."
+            ],
+            "answer": "No, we don’t. We need to order about 8 kg more."
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "Do we usually use a large amount of high-performance engine oil every week?",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres.",
+              "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
+              "Yes, please, but just a few. We don’t need that many."
+            ],
+            "answer": "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "Should I order more sturdy plastic oil containers this time?",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday.",
+              "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
+              "No, we don’t. We need to order about 8 kg more."
+            ],
+            "answer": "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Do we order radiator coolant by volume rather than by bottles?",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "Yes, it will be much cheaper if we order it by volume.",
+              "Yes, please. We need to send this before the end of the day.",
+              "Yes, they should. They are used in every session, so we need lots of them."
+            ],
+            "answer": "Yes, it will be much cheaper if we order it by volume."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "Do we need extra heat-resistant protective gloves because the intake is larger this year than last year?",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "Yes, we need about 10 extra pairs for the new trainees.",
+              "Yes, please, but just a few. We don’t need that many.",
+              "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
+            ],
+            "answer": "Yes, we need about 10 extra pairs for the new trainees."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "Is there any industrial-grade workshop cleaning powder left in the storage area?",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
+              "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
+              "Yes, please. Order about 20 more because we often run out of them."
+            ],
+            "answer": "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Should I order a few durable metal parts trays?",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "Yes, please, but just a few. We don’t need that many.",
+              "Yes, they should. They are used in every session, so we need lots of them.",
+              "Yes, it will be much cheaper if we order it by volume."
+            ],
+            "answer": "Yes, please, but just a few. We don’t need that many."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "Should we use the same dependable spare-parts supplier as last time for this order?",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
+              "Yes, please. We need to send this before the end of the day.",
+              "Yes, we need about 10 extra pairs for the new trainees."
+            ],
+            "answer": "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Do you want me to place the order for heavy-duty floor cleaning detergent today?",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "Yes, please. We need to send this before the end of the day.",
+              "No, we don’t. We need to order about 8 kg more.",
+              "Yes, please, but just a few. We don’t need that many."
+            ],
+            "answer": "Yes, please. We need to send this before the end of the day."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Should self-adhesive equipment identification labels be included in this order too?",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "Yes, they should. They are used in every session, so we need lots of them.",
+              "Yes, it will be much cheaper if we order it by volume.",
+              "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
+            ],
+            "answer": "Yes, they should. They are used in every session, so we need lots of them."
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "Do we have enough premium lithium-based brake grease for today’s practical session?",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "No, we don’t. We need to order about 8 kg more.",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "Do we usually use a large amount of high-performance engine oil every week?",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres.",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "Should I order more sturdy plastic oil containers this time?",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday.",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "Do we order radiator coolant by volume rather than by bottles?",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "Yes, it will be much cheaper if we order it by volume.",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "Do we need extra heat-resistant protective gloves because the intake is larger this year than last year?",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "Yes, we need about 10 extra pairs for the new trainees.",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "Is there any industrial-grade workshop cleaning powder left in the storage area?",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "Should I order a few durable metal parts trays?",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "Yes, please, but just a few. We don’t need that many.",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "Should we use the same dependable spare-parts supplier as last time for this order?",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "Do you want me to place the order for heavy-duty floor cleaning detergent today?",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_9_a",
+          "text": "Yes, please. We need to send this before the end of the day.",
+          "audio": "assets/audio/g_b_9_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "Should self-adhesive equipment identification labels be included in this order too?",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "Yes, they should. They are used in every session, so we need lots of them.",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Opening identification",
+            "answer": "This is Coreen calling from the Sri Lanka–Germany Training Institute.",
+            "options": [
+              "This is Coreen calling from the Sri Lanka–Germany Training Institute.",
+              "This is Coreen calling from the Sri Lanka–German Training Institutes.",
+              "This is Kamal calling from the Sri Lanka–German Training Institute."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "Reason for calling",
+            "answer": "I’m calling to check the availability of several stationery items before finalising an order.",
+            "options": [
+              "I’m calling to check the availability of several stationery items before finalising an order.",
+              "I’m calling for check the availability of several stationery items before finalise an order.",
+              "I’m calling to checking availability of several stationery item before finalising order."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "Paper availability",
+            "answer": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
+            "options": [
+              "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
+              "Could you tell me if you currently have A4 copying papers in stock, preferably with high-quality 80 gsm?",
+              "Could you tell me do you have A4 copier paper in stock, preferably in 80 gsm quality packs?"
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "Packaging confirmation",
+            "answer": "And are these supplied in sealed five-ream cartons?",
+            "options": [
+              "And are these supplied in sealed five-ream cartons?",
+              "And are these supply in sealed five ream cartons?",
+              "And these are supplied in sealing five-ream carton?"
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Pens availability",
+            "answer": "Are blue and black medium-tip pens available in boxes of fifty?",
+            "options": [
+              "Are blue and black medium-tip pens available in boxes of fifty?",
+              "Are blue and black medium-tip pen available in box of fifty?",
+              "Are blue and black pens medium-tip available in fifty boxes?"
+            ]
+          },
+          {
+            "id": "l_18_6",
+            "question": "Ink specification",
+            "answer": "Now, about printer ink—do you have standard black cartridges compatible with HP Laser printers MFP 1188a?",
+            "options": [
+              "Now, about printer ink—do you have standard black cartridges compatible with HP Laser printers MFP 1188a?",
+              "Now, about printer inks—do you have standard black cartridge compatible for HP laser printer MFP 1188a?",
+              "Now about the printer ink, you have standard black cartridges compatibility with HP laser printers MFP 1188a?"
+            ]
+          },
+          {
+            "id": "l_18_7",
+            "question": "Staples availability",
+            "answer": "What about the heavy-duty metal staples, sold in bulk boxes?",
+            "options": [
+              "What about the heavy-duty metal staples, sold in bulk boxes?",
+              "What about heavy duty metals staples sold by bulk boxes?",
+              "What about the heavy-duty metal staple, selling in bulk box?"
+            ]
+          },
+          {
+            "id": "l_18_8",
+            "question": "File folders",
+            "answer": "And how about transparent polypropylene file folders?",
+            "options": [
+              "And how about transparent polypropylene file folders?",
+              "And how about transparency polypropylene files folders?",
+              "And how about transparents polypropene folder files?"
+            ]
+          },
+          {
+            "id": "l_18_9",
+            "question": "Method of sending the order",
+            "answer": "Would you prefer me to email the order with exact quantities or send it by WhatsApp?",
+            "options": [
+              "Would you prefer me to email the order with exact quantities or send it by WhatsApp?",
+              "Would you prefer me emailing the order with exact quantity or sending by WhatsApp?",
+              "Would you prefer me to email order with the exact quantities or send them on WhatsApp?"
+            ]
+          },
+          {
+            "id": "l_18_10",
+            "question": "Confirming the action",
+            "answer": "I’ll email the complete order later this afternoon.",
+            "options": [
+              "I’ll email the complete order later this afternoon.",
+              "I will emailing the complete order later at this afternoon.",
+              "I’ll email the completely order on later this afternoon."
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "Good morning, Apex Stationery Supplies.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "This is Nadeesha speaking.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Good morning.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "This is Kamal calling from the Sri Lanka–German Training Institute.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I’m calling to check the availability of several stationery items before finalising an order.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Certainly, sir.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "What would you like to check first?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Yes, we do.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "We have more than one hundred reams available at the moment.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That’s good.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "And are these supplied in sealed five-ream cartons?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Yes, they are.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Great.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "I’d also like to ask about ballpoint pens.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Are blue and black medium-tip pens available in boxes of fifty?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Yes, both colours are available.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We are restocking this morning, so the supply is stable.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Now, about printer ink—do you have standard black cartridges compatible with HP laser printers MFP 1188a?",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Black cartridges are available, but colour cartridges are limited right now.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "A new shipment is arriving early next week.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "That’s fine.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We might only include black ink in this order.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "What about the heavy-duty metal staples, sold in bulk boxes?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Yes, those are in stock.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "And how about transparent polypropylene file folders?",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "Are they still available in packs of twenty?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Yes, they are, but quantities are moving quickly.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Understood.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "I’m noting everything down while we’re speaking.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Some items might be adjusted once departments confirm their requirements.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "No problem at all.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "Once I complete that check, I’m going to prepare the final list.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Would you prefer me to email the order with exact quantities or send it by WhatsApp?",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "Email would be better.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "WhatsApp messages tend to disappear after a while.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Emailing the order helps us reconfirm availability and prepare pricing accurately.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Alright.",
+          "audio": "assets/audio/t_39.mp3"
+        },
+        {
+          "id": "t_40",
+          "text": "I’ll email the complete order later this afternoon.",
+          "audio": "assets/audio/t_40.mp3"
+        },
+        {
+          "id": "t_41",
+          "text": "Perfect.",
+          "audio": "assets/audio/t_41.mp3"
+        },
+        {
+          "id": "t_42",
+          "text": "We’ll respond as soon as we receive it.",
+          "audio": "assets/audio/t_42.mp3"
+        },
+        {
+          "id": "t_43",
+          "text": "Thank you for your assistance.",
+          "audio": "assets/audio/t_43.mp3"
+        },
+        {
+          "id": "t_44",
+          "text": "You’re very welcome.",
+          "audio": "assets/audio/t_44.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "Good morning, Apex Stationery Supplies.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "This is Nadeesha speaking.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Good morning.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "This is Kamal calling from the Sri Lanka–German Training Institute.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I’m calling to check the availability of several stationery items before finalising an order.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Certainly, sir.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "What would you like to check first?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Yes, we do.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "We have more than one hundred reams available at the moment.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That’s good.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "And are these supplied in sealed five-ream cartons?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Yes, they are.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Great.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "I’d also like to ask about ballpoint pens.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Are blue and black medium-tip pens available in boxes of fifty?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Yes, both colours are available.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We are restocking this morning, so the supply is stable.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Now, about printer ink—do you have standard black cartridges compatible with HP laser printers MFP 1188a?",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Black cartridges are available, but colour cartridges are limited right now.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "A new shipment is arriving early next week.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "That’s fine.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We might only include black ink in this order.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "What about the heavy-duty metal staples, sold in bulk boxes?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Yes, those are in stock.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "And how about transparent polypropylene file folders?",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "Are they still available in packs of twenty?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Yes, they are, but quantities are moving quickly.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Understood.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "I’m noting everything down while we’re speaking.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Some items might be adjusted once departments confirm their requirements.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "No problem at all.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "Once I complete that check, I’m going to prepare the final list.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Would you prefer me to email the order with exact quantities or send it by WhatsApp?",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "Email would be better.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "WhatsApp messages tend to disappear after a while.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Emailing the order helps us reconfirm availability and prepare pricing accurately.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Alright.",
+          "audio": "assets/audio/t_39.mp3"
+        },
+        {
+          "id": "t_40",
+          "text": "I’ll email the complete order later this afternoon.",
+          "audio": "assets/audio/t_40.mp3"
+        },
+        {
+          "id": "t_41",
+          "text": "Perfect.",
+          "audio": "assets/audio/t_41.mp3"
+        },
+        {
+          "id": "t_42",
+          "text": "We’ll respond as soon as we receive it.",
+          "audio": "assets/audio/t_42.mp3"
+        },
+        {
+          "id": "t_43",
+          "text": "Thank you for your assistance.",
+          "audio": "assets/audio/t_43.mp3"
+        },
+        {
+          "id": "t_44",
+          "text": "You’re very welcome.",
+          "audio": "assets/audio/t_44.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "Good morning, Apex Stationery Supplies.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "This is Nadeesha speaking.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "Good morning.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "This is Kamal calling from the Sri Lanka–German Training Institute.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I’m calling to check the availability of several stationery items before finalising an order.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Certainly, sir.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "What would you like to check first?",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "Yes, we do.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "We have more than one hundred reams available at the moment.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "That’s good.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "And are these supplied in sealed five-ream cartons?",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "Yes, they are.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "Great.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "I’d also like to ask about ballpoint pens.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "Are blue and black medium-tip pens available in boxes of fifty?",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Yes, both colours are available.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "We are restocking this morning, so the supply is stable.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Excellent.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "Now, about printer ink—do you have standard black cartridges compatible with HP laser printers MFP 1188a?",
+          "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Black cartridges are available, but colour cartridges are limited right now.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "A new shipment is arriving early next week.",
+          "audio": "assets/audio/t_22.mp3"
+        },
+        {
+          "id": "t_23",
+          "text": "That’s fine.",
+          "audio": "assets/audio/t_23.mp3"
+        },
+        {
+          "id": "t_24",
+          "text": "We might only include black ink in this order.",
+          "audio": "assets/audio/t_24.mp3"
+        },
+        {
+          "id": "t_25",
+          "text": "What about the heavy-duty metal staples, sold in bulk boxes?",
+          "audio": "assets/audio/t_25.mp3"
+        },
+        {
+          "id": "t_26",
+          "text": "Yes, those are in stock.",
+          "audio": "assets/audio/t_26.mp3"
+        },
+        {
+          "id": "t_27",
+          "text": "And how about transparent polypropylene file folders?",
+          "audio": "assets/audio/t_27.mp3"
+        },
+        {
+          "id": "t_28",
+          "text": "Are they still available in packs of twenty?",
+          "audio": "assets/audio/t_28.mp3"
+        },
+        {
+          "id": "t_29",
+          "text": "Yes, they are, but quantities are moving quickly.",
+          "audio": "assets/audio/t_29.mp3"
+        },
+        {
+          "id": "t_30",
+          "text": "Understood.",
+          "audio": "assets/audio/t_30.mp3"
+        },
+        {
+          "id": "t_31",
+          "text": "I’m noting everything down while we’re speaking.",
+          "audio": "assets/audio/t_31.mp3"
+        },
+        {
+          "id": "t_32",
+          "text": "Some items might be adjusted once departments confirm their requirements.",
+          "audio": "assets/audio/t_32.mp3"
+        },
+        {
+          "id": "t_33",
+          "text": "No problem at all.",
+          "audio": "assets/audio/t_33.mp3"
+        },
+        {
+          "id": "t_34",
+          "text": "Once I complete that check, I’m going to prepare the final list.",
+          "audio": "assets/audio/t_34.mp3"
+        },
+        {
+          "id": "t_35",
+          "text": "Would you prefer me to email the order with exact quantities or send it by WhatsApp?",
+          "audio": "assets/audio/t_35.mp3"
+        },
+        {
+          "id": "t_36",
+          "text": "Email would be better.",
+          "audio": "assets/audio/t_36.mp3"
+        },
+        {
+          "id": "t_37",
+          "text": "WhatsApp messages tend to disappear after a while.",
+          "audio": "assets/audio/t_37.mp3"
+        },
+        {
+          "id": "t_38",
+          "text": "Emailing the order helps us reconfirm availability and prepare pricing accurately.",
+          "audio": "assets/audio/t_38.mp3"
+        },
+        {
+          "id": "t_39",
+          "text": "Alright.",
+          "audio": "assets/audio/t_39.mp3"
+        },
+        {
+          "id": "t_40",
+          "text": "I’ll email the complete order later this afternoon.",
+          "audio": "assets/audio/t_40.mp3"
+        },
+        {
+          "id": "t_41",
+          "text": "Perfect.",
+          "audio": "assets/audio/t_41.mp3"
+        },
+        {
+          "id": "t_42",
+          "text": "We’ll respond as soon as we receive it.",
+          "audio": "assets/audio/t_42.mp3"
+        },
+        {
+          "id": "t_43",
+          "text": "Thank you for your assistance.",
+          "audio": "assets/audio/t_43.mp3"
+        },
+        {
+          "id": "t_44",
+          "text": "You’re very welcome.",
+          "audio": "assets/audio/t_44.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
