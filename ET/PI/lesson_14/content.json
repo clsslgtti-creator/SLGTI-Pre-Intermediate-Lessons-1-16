@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "clutch h'ou'sing",
+        "word_text": "'ou'tlet",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "When are you going to replace the damaged clutch h'ou'sing?",
+        "sentence_text": "When are you going to mount the 'ou'tlet on the panel?",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "p'ow'er unit",
+        "word_text": "cr'ow'bar",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Tomorrow we are going to install the new p'ow'er unit.",
+        "sentence_text": "The technicians are going to install a cr'ow'bar protection circuit today.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "breakd'ow'n",
+        "word_text": "m'ou'nt",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The vehicle might not complete the road test without a breakd'ow'n.",
+        "sentence_text": "The electrician m'ou'nts devices securely on the control panel frame.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "'ou'tput shaft",
+        "word_text": "breakd'ow'n",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "They are going to inspect the 'ou'tput shaft carefully today.",
+        "sentence_text": "The insulation might not cause a breakd'ow'n during the testing phase.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -238,7 +238,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Do we have enough premium lithium-based brake grease for today’s practical session?",
+            "sentence": "Do we have enough high-quality insulating resin compound for today’s practical session?",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "No, we don’t. We need to order about 8 kg more.",
@@ -249,7 +249,7 @@
           },
           {
             "id": "g_b_2",
-            "sentence": "Do we usually use a large amount of high-performance engine oil every week?",
+            "sentence": "Do we usually use a large amount of refined transformer oil every week?",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
               "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres.",
@@ -260,7 +260,7 @@
           },
           {
             "id": "g_b_3",
-            "sentence": "Should I order more sturdy plastic oil containers this time?",
+            "sentence": "Should I order more durable plastic cable storage containers this time?",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
               "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday.",
@@ -271,7 +271,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "Do we order radiator coolant by volume rather than by bottles?",
+            "sentence": "Do we order electrical equipment cooling fluid by volume rather than by bottles?",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "Yes, it will be much cheaper if we order it by volume.",
@@ -282,7 +282,7 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "Do we need extra heat-resistant protective gloves because the intake is larger this year than last year?",
+            "sentence": "Do we need extra thick insulated safety gloves because the intake is larger this year than last year?",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
               "Yes, we need about 10 extra pairs for the new trainees.",
@@ -293,7 +293,7 @@
           },
           {
             "id": "g_b_6",
-            "sentence": "Is there any industrial-grade workshop cleaning powder left in the storage area?",
+            "sentence": "Is there any industrial electrical cleaning powder left in the storage area?",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
               "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
@@ -304,7 +304,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "Should I order a few durable metal parts trays?",
+            "sentence": "Should I order a few strong metal component trays?",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "Yes, please, but just a few. We don’t need that many.",
@@ -315,7 +315,7 @@
           },
           {
             "id": "g_b_8",
-            "sentence": "Should we use the same dependable spare-parts supplier as last time for this order?",
+            "sentence": "Should we use the same reliable electrical supplier as last time for this order?",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
               "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
@@ -326,7 +326,7 @@
           },
           {
             "id": "g_b_9",
-            "sentence": "Do you want me to place the order for heavy-duty floor cleaning detergent today?",
+            "sentence": "Do you want me to place the order for heavy-duty workshop floor detergent today?",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
               "Yes, please. We need to send this before the end of the day.",
@@ -337,7 +337,7 @@
           },
           {
             "id": "g_b_10",
-            "sentence": "Should self-adhesive equipment identification labels be included in this order too?",
+            "sentence": "Should self-adhesive circuit identification labels be included in this order too?",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
               "Yes, they should. They are used in every session, so we need lots of them.",
@@ -351,7 +351,7 @@
       "activity_b": [
         {
           "id": "g_b_1",
-          "text": "Do we have enough premium lithium-based brake grease for today’s practical session?",
+          "text": "Do we have enough high-quality insulating resin compound for today’s practical session?",
           "audio": "assets/audio/g_b_1.mp3"
         },
         {
@@ -361,7 +361,7 @@
         },
         {
           "id": "g_b_2",
-          "text": "Do we usually use a large amount of high-performance engine oil every week?",
+          "text": "Do we usually use a large amount of refined transformer oil every week?",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
@@ -371,7 +371,7 @@
         },
         {
           "id": "g_b_3",
-          "text": "Should I order more sturdy plastic oil containers this time?",
+          "text": "Should I order more durable plastic cable storage containers this time?",
           "audio": "assets/audio/g_b_3.mp3"
         },
         {
@@ -381,7 +381,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "Do we order radiator coolant by volume rather than by bottles?",
+          "text": "Do we order electrical equipment cooling fluid by volume rather than by bottles?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
@@ -391,7 +391,7 @@
         },
         {
           "id": "g_b_5",
-          "text": "Do we need extra heat-resistant protective gloves because the intake is larger this year than last year?",
+          "text": "Do we need extra thick insulated safety gloves because the intake is larger this year than last year?",
           "audio": "assets/audio/g_b_5.mp3"
         },
         {
@@ -401,7 +401,7 @@
         },
         {
           "id": "g_b_6",
-          "text": "Is there any industrial-grade workshop cleaning powder left in the storage area?",
+          "text": "Is there any industrial electrical cleaning powder left in the storage area?",
           "audio": "assets/audio/g_b_6.mp3"
         },
         {
@@ -411,7 +411,7 @@
         },
         {
           "id": "g_b_7",
-          "text": "Should I order a few durable metal parts trays?",
+          "text": "Should I order a few strong metal component trays?",
           "audio": "assets/audio/g_b_7.mp3"
         },
         {
@@ -421,7 +421,7 @@
         },
         {
           "id": "g_b_8",
-          "text": "Should we use the same dependable spare-parts supplier as last time for this order?",
+          "text": "Should we use the same reliable electrical supplier as last time for this order?",
           "audio": "assets/audio/g_b_8.mp3"
         },
         {
@@ -431,7 +431,7 @@
         },
         {
           "id": "g_b_9",
-          "text": "Do you want me to place the order for heavy-duty floor cleaning detergent today?",
+          "text": "Do you want me to place the order for heavy-duty workshop floor detergent today?",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
@@ -441,7 +441,7 @@
         },
         {
           "id": "g_b_10",
-          "text": "Should self-adhesive equipment identification labels be included in this order too?",
+          "text": "Should self-adhesive circuit identification labels be included in this order too?",
           "audio": "assets/audio/g_b_10.mp3"
         },
         {
