@@ -35,7 +35,7 @@
         "id": "p_1",
         "word_text": "p'oi'nt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Did the mechanic keep the ignition p'oi'nt during the engine tune-up? Yes, he did. He kept the ignition p'oi'nt at the correct setting.",
+        "sentence_text": "Did the technician find a faulty contact p'oi'nt in the switch? Yes, he did. He found the faulty contact p'oi'nt and fixed it.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -43,15 +43,15 @@
         "id": "p_2",
         "word_text": "v'oi'd",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Did the office v'oi'd the warranty on the vehicle? No, it didn’t. It informed the customer that installing non-approved parts may v'oi'd the warranty in the future.",
+        "sentence_text": "Did the inspector see a v'oi'd inside the concrete service duct? Yes, he did. He saw the v'oi'd at the beginning of the inspection.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "j'oi'nt",
+        "word_text": "f'oi'l",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did the mechanic find a loose j'oi'nt during the suspension inspection? Yes, he did. He found a loose j'oi'nt at the beginning of the inspection.",
+        "sentence_text": "Did the electrician install f'oi'l shielding around the control cables yesterday? No, he didn’t. He installed f'oi'l shielding today.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "h'oi'st",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did the technician lift the vehicle with the h'oi'st safely yesterday? Yes, he did. He lifted it with the h'oi'st safely at the second attempt.",
+        "sentence_text": "Did the crew lift the generator using the electric h'oi'st safely? Yes, he did. He lifted it using the electric h'oi'st at the second attempt.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -445,31 +445,31 @@
           },
           {
             "id": "l_18_2",
-            "question": "What detail strongly suggests that the accident could have been prevented?",
-            "answer": "The absence of cut-resistant gloves during machine operation.",
+            "question": "What detail most strongly suggests that the accident could have been prevented?",
+            "answer": "The absence of protective gloves during operation.",
             "options": [
               "The absence of two instructors in the room to supervise.",
-              "The absence of cut-resistant gloves during machine operation.",
-              "The use of a bench grinder."
+              "The absence of protective gloves during operation.",
+              "The use of a multimeter to test voltage."
             ]
           },
           {
             "id": "l_18_3",
             "question": "Which factor directly contributed to the trainee losing control while working?",
-            "answer": "Oil on the equipment surface.",
+            "answer": "Accidentally touching a live wire.",
             "options": [
-              "The sharpness of the blade",
-              "Oil on the equipment surface.",
-              "The size of the metal piece"
+              "The control panel also being repaired at the same time",
+              "Accidentally touching a live wire.",
+              "The control panel being nearby"
             ]
           },
           {
             "id": "l_18_4",
             "question": "What was the immediate response of the instructor that prevented further injury?",
-            "answer": "Stopping the machine.",
+            "answer": "Stopping the power supply.",
             "options": [
               "Clearing the room of the other trainees",
-              "Stopping the machine.",
+              "Stopping the power supply.",
               "Informing the doctor"
             ]
           },
@@ -493,7 +493,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Electrical Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -538,12 +538,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -558,7 +558,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened in the electrical workshop, near the distribution board.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -573,17 +573,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby on a control panel.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the multimeter to check the voltage.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -593,93 +593,88 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "I touched an exposed live terminal while testing the circuit.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "Were you wearing all the required safety equipment?",
           "audio": "assets/audio/t_23.mp3"
         },
         {
           "id": "t_24",
-          "text": "Were you wearing all the required safety equipment?",
+          "text": "I wore the face shield and boots but I forgot to wear the protection gloves.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "Now I know that it wasn’t safe.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "Now I know that it wasn’t safe.",
+          "text": "Thank you for being honest.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
-          "text": "Thank you for being honest.",
+          "text": "What did you do immediately after the injury?",
           "audio": "assets/audio/t_27.mp3"
         },
         {
           "id": "t_28",
-          "text": "What did you do immediately after the injury?",
+          "text": "I called the instructor.",
           "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
-          "text": "I called the instructor.",
+          "text": "He switched off the power supply immediately and poured cold water on the burn.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "Did you receive any further medical attention after that?",
           "audio": "assets/audio/t_30.mp3"
         },
         {
           "id": "t_31",
-          "text": "Did you receive any further medical attention after that?",
+          "text": "Yes, sir.",
           "audio": "assets/audio/t_31.mp3"
         },
         {
           "id": "t_32",
-          "text": "Yes, sir.",
+          "text": "I went to a nearby clinic.",
           "audio": "assets/audio/t_32.mp3"
         },
         {
           "id": "t_33",
-          "text": "I went to a nearby clinic.",
+          "text": "The doctor examined the burn, applied a cream, prescribed some medication, and advised me to rest.",
           "audio": "assets/audio/t_33.mp3"
         },
         {
           "id": "t_34",
-          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "text": "Finally, what can you do to help prevent this type of accident in the future?",
           "audio": "assets/audio/t_34.mp3"
         },
         {
           "id": "t_35",
-          "text": "Finally, what can you do to help prevent this type of accident in the future?",
+          "text": "We should always wear all personal protective equipment and follow safety instructions carefully.",
           "audio": "assets/audio/t_35.mp3"
         },
         {
           "id": "t_36",
-          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "text": "That sounds sensible.",
           "audio": "assets/audio/t_36.mp3"
         },
         {
           "id": "t_37",
-          "text": "That sounds sensible.",
+          "text": "Thank you for your cooperation.",
           "audio": "assets/audio/t_37.mp3"
         },
         {
           "id": "t_38",
-          "text": "Thank you for your cooperation.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
           "text": "I have all the information I need to complete the report.",
-          "audio": "assets/audio/t_39.mp3"
+          "audio": "assets/audio/t_38.mp3"
         }
       ],
       "activity_c": [
@@ -690,7 +685,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Electrical Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -735,12 +730,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -755,7 +750,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened in the electrical workshop, near the distribution board.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -770,17 +765,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby on a control panel.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the multimeter to check the voltage.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -790,93 +785,88 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "I touched an exposed live terminal while testing the circuit.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "Were you wearing all the required safety equipment?",
           "audio": "assets/audio/t_23.mp3"
         },
         {
           "id": "t_24",
-          "text": "Were you wearing all the required safety equipment?",
+          "text": "I wore the face shield and boots but I forgot to wear the protection gloves.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "Now I know that it wasn’t safe.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "Now I know that it wasn’t safe.",
+          "text": "Thank you for being honest.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
-          "text": "Thank you for being honest.",
+          "text": "What did you do immediately after the injury?",
           "audio": "assets/audio/t_27.mp3"
         },
         {
           "id": "t_28",
-          "text": "What did you do immediately after the injury?",
+          "text": "I called the instructor.",
           "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
-          "text": "I called the instructor.",
+          "text": "He switched off the power supply immediately and poured cold water on the burn.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "Did you receive any further medical attention after that?",
           "audio": "assets/audio/t_30.mp3"
         },
         {
           "id": "t_31",
-          "text": "Did you receive any further medical attention after that?",
+          "text": "Yes, sir.",
           "audio": "assets/audio/t_31.mp3"
         },
         {
           "id": "t_32",
-          "text": "Yes, sir.",
+          "text": "I went to a nearby clinic.",
           "audio": "assets/audio/t_32.mp3"
         },
         {
           "id": "t_33",
-          "text": "I went to a nearby clinic.",
+          "text": "The doctor examined the burn, applied a cream, prescribed some medication, and advised me to rest.",
           "audio": "assets/audio/t_33.mp3"
         },
         {
           "id": "t_34",
-          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "text": "Finally, what can you do to help prevent this type of accident in the future?",
           "audio": "assets/audio/t_34.mp3"
         },
         {
           "id": "t_35",
-          "text": "Finally, what can you do to help prevent this type of accident in the future?",
+          "text": "We should always wear all personal protective equipment and follow safety instructions carefully.",
           "audio": "assets/audio/t_35.mp3"
         },
         {
           "id": "t_36",
-          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "text": "That sounds sensible.",
           "audio": "assets/audio/t_36.mp3"
         },
         {
           "id": "t_37",
-          "text": "That sounds sensible.",
+          "text": "Thank you for your cooperation.",
           "audio": "assets/audio/t_37.mp3"
         },
         {
           "id": "t_38",
-          "text": "Thank you for your cooperation.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
           "text": "I have all the information I need to complete the report.",
-          "audio": "assets/audio/t_39.mp3"
+          "audio": "assets/audio/t_38.mp3"
         }
       ],
       "activity_d": [
@@ -887,7 +877,7 @@
         },
         {
           "id": "t_2",
-          "text": "I’m the safety inspector for the Automobile Technology division.",
+          "text": "I’m the safety inspector for the Electrical Technology division.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
@@ -932,12 +922,12 @@
         },
         {
           "id": "t_11",
-          "text": "I understand there was an accident here yesterday around 9 a.m.",
+          "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "Do you recall the exact time of the accident?",
+          "text": "When exactly did the accident take place?",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -952,7 +942,7 @@
         },
         {
           "id": "t_15",
-          "text": "It happened in the automobile training workshop, near the service bench.",
+          "text": "It happened in the electrical workshop, near the distribution board.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
@@ -967,17 +957,17 @@
         },
         {
           "id": "t_18",
-          "text": "They were working nearby on diesel engines.",
+          "text": "They were working nearby on a control panel.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "What were you doing just before the accident?",
+          "text": "What task did you carry out just before the accident?",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I was using the bench grinder to smooth a metal component.",
+          "text": "I used the multimeter to check the voltage.",
           "audio": "assets/audio/t_20.mp3"
         },
         {
@@ -987,93 +977,88 @@
         },
         {
           "id": "t_22",
-          "text": "The surface of the grinder table was slightly oily, and my hand slipped while I held the component.",
+          "text": "I touched an exposed live terminal while testing the circuit.",
           "audio": "assets/audio/t_22.mp3"
         },
         {
           "id": "t_23",
-          "text": "The rotating wheel injured the tip of my ring finger.",
+          "text": "Were you wearing all the required safety equipment?",
           "audio": "assets/audio/t_23.mp3"
         },
         {
           "id": "t_24",
-          "text": "Were you wearing all the required safety equipment?",
+          "text": "I wore the face shield and boots but I forgot to wear the protection gloves.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
-          "text": "I wore the safety helmet and safety boots but I forgot to wear the cut-resistant protection gloves.",
+          "text": "Now I know that it wasn’t safe.",
           "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
-          "text": "Now I know that it wasn’t safe.",
+          "text": "Thank you for being honest.",
           "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
-          "text": "Thank you for being honest.",
+          "text": "What did you do immediately after the injury?",
           "audio": "assets/audio/t_27.mp3"
         },
         {
           "id": "t_28",
-          "text": "What did you do immediately after the injury?",
+          "text": "I called the instructor.",
           "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
-          "text": "I called the instructor.",
+          "text": "He switched off the power supply immediately and poured cold water on the burn.",
           "audio": "assets/audio/t_29.mp3"
         },
         {
           "id": "t_30",
-          "text": "He shut down the machine immediately, applied pressure to stop the bleeding and informed the site supervisor.",
+          "text": "Did you receive any further medical attention after that?",
           "audio": "assets/audio/t_30.mp3"
         },
         {
           "id": "t_31",
-          "text": "Did you receive any further medical attention after that?",
+          "text": "Yes, sir.",
           "audio": "assets/audio/t_31.mp3"
         },
         {
           "id": "t_32",
-          "text": "Yes, sir.",
+          "text": "I went to a nearby clinic.",
           "audio": "assets/audio/t_32.mp3"
         },
         {
           "id": "t_33",
-          "text": "I went to a nearby clinic.",
+          "text": "The doctor examined the burn, applied a cream, prescribed some medication, and advised me to rest.",
           "audio": "assets/audio/t_33.mp3"
         },
         {
           "id": "t_34",
-          "text": "The doctor examined the injury, gave me a tetanus injection, prescribed some medication, and advised me to rest.",
+          "text": "Finally, what can you do to help prevent this type of accident in the future?",
           "audio": "assets/audio/t_34.mp3"
         },
         {
           "id": "t_35",
-          "text": "Finally, what can you do to help prevent this type of accident in the future?",
+          "text": "We should always wear all personal protective equipment and follow safety instructions carefully.",
           "audio": "assets/audio/t_35.mp3"
         },
         {
           "id": "t_36",
-          "text": "We should always wear all personal protection equipment, keep work surfaces dry and follow safety instructions carefully.",
+          "text": "That sounds sensible.",
           "audio": "assets/audio/t_36.mp3"
         },
         {
           "id": "t_37",
-          "text": "That sounds sensible.",
+          "text": "Thank you for your cooperation.",
           "audio": "assets/audio/t_37.mp3"
         },
         {
           "id": "t_38",
-          "text": "Thank you for your cooperation.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
           "text": "I have all the information I need to complete the report.",
-          "audio": "assets/audio/t_39.mp3"
+          "audio": "assets/audio/t_38.mp3"
         }
       ]
     }
