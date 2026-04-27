@@ -1,10 +1,4 @@
-const MAX_OPTION_COUNT = 4;
-const DEFAULT_OPTION_LABELS = [
-  "Option A",
-  "Option B",
-  "Option C",
-  "Option D",
-];
+const DEFAULT_OPTION_LABELS = ["Option A", "Option B", "Option C"];
 
 export const sanitizeOptions = (
   rawOptions = [],
@@ -18,7 +12,7 @@ export const sanitizeOptions = (
 
   const fallbackPool =
     fallback.length >= 2
-      ? fallback.slice(0, MAX_OPTION_COUNT)
+      ? fallback.slice(0, 3)
       : DEFAULT_OPTION_LABELS.slice(0, 2);
 
   if (!Array.isArray(rawOptions)) {
@@ -30,7 +24,7 @@ export const sanitizeOptions = (
     .filter((option) => option.length);
 
   if (trimmed.length >= 2) {
-    return trimmed.slice(0, MAX_OPTION_COUNT);
+    return trimmed.slice(0, 3);
   }
 
   if (trimmed.length === 1) {
@@ -43,30 +37,6 @@ export const sanitizeOptions = (
   return [...fallbackPool];
 };
 
-const normalizeEntrySentence = (item) => {
-  if (typeof item?.sentence === "string") {
-    return item.sentence.trim();
-  }
-  if (typeof item?.text === "string") {
-    return item.text.trim();
-  }
-  return "";
-};
-
-const hasPlayableEntryContent = (item, options = []) => {
-  const sentence = normalizeEntrySentence(item);
-  const hasImage =
-    typeof item?.image === "string" && item.image.trim().length > 0;
-  const hasAudio =
-    typeof item?.audio === "string" && item.audio.trim().length > 0;
-  return Boolean(
-    sentence.length ||
-      hasImage ||
-      hasAudio ||
-      (Array.isArray(options) && options.length)
-  );
-};
-
 export const normalizeExamples = (rawExamples = [], fallbackOptions) => {
   if (!Array.isArray(rawExamples)) {
     return [];
@@ -74,9 +44,9 @@ export const normalizeExamples = (rawExamples = [], fallbackOptions) => {
   const defaultOptions = sanitizeOptions(fallbackOptions);
   return rawExamples
     .map((item, index) => {
-      const sentence = normalizeEntrySentence(item);
-      const options = sanitizeOptions(item?.options, defaultOptions);
-      if (!hasPlayableEntryContent(item, options)) {
+      const sentence =
+        typeof item?.sentence === "string" ? item.sentence.trim() : "";
+      if (!sentence.length) {
         return null;
       }
       const audio =
@@ -87,10 +57,9 @@ export const normalizeExamples = (rawExamples = [], fallbackOptions) => {
         typeof item?.image === "string" && item.image.trim().length
           ? item.image.trim()
           : null;
+      const options = sanitizeOptions(item?.options, defaultOptions);
       const answerCandidate =
         typeof item?.answer === "string" ? item.answer.trim() : "";
-      const hasAnswer = answerCandidate.length > 0;
-      const acceptAnyAnswer = !hasAnswer;
       const answer = options.includes(answerCandidate)
         ? answerCandidate
         : options[0];
@@ -104,7 +73,6 @@ export const normalizeExamples = (rawExamples = [], fallbackOptions) => {
         audioKey,
         image,
         options,
-        acceptAnyAnswer,
       };
     })
     .filter(Boolean);
@@ -134,9 +102,9 @@ export const normalizeQuestions = (rawQuestions = [], fallbackOptions) => {
   const defaultOptions = sanitizeOptions(fallbackOptions);
   return rawQuestions
     .map((item, index) => {
-      const sentence = normalizeEntrySentence(item);
-      const options = sanitizeOptions(item?.options, defaultOptions);
-      if (!hasPlayableEntryContent(item, options)) {
+      const sentence =
+        typeof item?.sentence === "string" ? item.sentence.trim() : "";
+      if (!sentence.length) {
         return null;
       }
       const audio =
@@ -147,10 +115,9 @@ export const normalizeQuestions = (rawQuestions = [], fallbackOptions) => {
         typeof item?.image === "string" && item.image.trim().length
           ? item.image.trim()
           : null;
+      const options = sanitizeOptions(item?.options, defaultOptions);
       const answerCandidate =
         typeof item?.answer === "string" ? item.answer.trim() : "";
-      const hasAnswer = answerCandidate.length > 0;
-      const acceptAnyAnswer = !hasAnswer;
       const answer = options.includes(answerCandidate)
         ? answerCandidate
         : options[0];
@@ -164,7 +131,6 @@ export const normalizeQuestions = (rawQuestions = [], fallbackOptions) => {
         audioKey,
         image,
         options,
-        acceptAnyAnswer,
       };
     })
     .filter(Boolean);
@@ -274,15 +240,6 @@ const createButtonShadow = (scene, width, height, radius, offset = 6) => {
   return shadow;
 };
 
-const shuffleArray = (array) => {
-  const shuffled = [...array];
-  for (let i = shuffled.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-  }
-  return shuffled;
-};
-
 export const createGameScene = (config) => {
   const {
     options,
@@ -308,8 +265,6 @@ export const createGameScene = (config) => {
         const entryOptions = sanitizeOptions(entry.options, fallbackOptions);
         const answerCandidate =
           typeof entry.answer === "string" ? entry.answer.trim() : "";
-        const hasAnswer = answerCandidate.length > 0;
-        const acceptAnyAnswer = Boolean(entry?.acceptAnyAnswer) || !hasAnswer;
         const answer = entryOptions.includes(answerCandidate)
           ? answerCandidate
           : entryOptions[0];
@@ -324,7 +279,6 @@ export const createGameScene = (config) => {
           image: imageSrc,
           imageKey: imageSrc ? `sentence_image_${identifier}` : null,
           answer,
-          acceptAnyAnswer,
           options: entryOptions,
         };
       })
@@ -342,7 +296,6 @@ export const createGameScene = (config) => {
     );
 
   const maxOptionCount = Math.max(
-    MAX_OPTION_COUNT,
     fallbackOptions.length,
     deriveMaxOptionCount(examples),
     deriveMaxOptionCount(questions),
@@ -623,10 +576,10 @@ export const createGameScene = (config) => {
       this.gameUiElements.push(this.scoreBadge);
       this.topHudElements.push(this.scoreBadge);
       this.updateScore();
-      this.updateTimerText("Time: 20.0s");
+      this.updateTimerText("Time: 10.0s");
 
       const sentenceCardWidth = 980;
-      const sentenceCardHeight = 200;
+      const sentenceCardHeight = 300;
       this.sentenceCardWidth = sentenceCardWidth;
       this.sentenceCardHeight = sentenceCardHeight;
       const sentencePanel = createRoundedPanel(
@@ -643,27 +596,25 @@ export const createGameScene = (config) => {
         lineWidth: 4,
       });
       this.sentencePanel = sentencePanel;
-      this.sentenceImageMaxWidth = 220;
-      this.sentenceImageMaxHeight = 180;
-      this.sentenceImageOnlyMaxWidth = sentenceCardWidth - 80;
-      this.sentenceImageOnlyMaxHeight = sentenceCardHeight - 40;
-      this.sentenceImagePadding = 10;
-      this.sentenceTextGap = 24;
+      this.sentenceImageMaxWidth = sentenceCardWidth - 160;
+      this.sentenceImageMaxHeight = 150;
+      this.sentenceImagePadding = 30;
+      this.sentenceTextGap = 50;
       this.sentenceImage = this.add.image(0, -30, "");
       this.sentenceImage.setVisible(false);
       this.sentenceImage.setActive(false);
 
       this.sentenceText = this.add
-        .text(0, 0, "", {
+        .text(0, 10, "", {
           fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
           fontSize: 34,
           color: "#111827",
           align: "center",
           wordWrap: { width: sentenceCardWidth - 40 },
         })
-        .setOrigin(0.5, 0);
+        .setOrigin(0.5);
 
-      this.sentenceCard = this.add.container(-sentenceCardWidth, height / 2 - 50, [
+      this.sentenceCard = this.add.container(-sentenceCardWidth, height / 2, [
         sentencePanel.graphics,
         this.sentenceImage,
         this.sentenceText,
@@ -1280,7 +1231,7 @@ export const createGameScene = (config) => {
       this.resetState();
       this.score = 0;
       this.updateScore();
-      this.updateTimerText("Time: 20.0s");
+      this.updateTimerText("Time: 10.0s");
 
       this.time.delayedCall(120, () => {
         this.runState = "running";
@@ -1299,7 +1250,7 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 20.0s");
+      this.updateTimerText("Time: 10.0s");
       this.hideFeedback();
       this.summaryBackdrop.setVisible(false);
       this.summaryBackdrop.setAlpha(0);
@@ -1324,10 +1275,9 @@ export const createGameScene = (config) => {
     createOptionButtons(width, height, maxOptions) {
       const visibleCount = Math.max(maxOptions || 0, 2);
       const useCompactLayout = visibleCount >= 3;
-      const useExtraCompact = visibleCount >= 4;
-      const buttonWidth = useExtraCompact ? 340 : useCompactLayout ? 380 : 480;
-      const buttonHeight = useExtraCompact ? 240 : 280;
-      const baseY = height - (useExtraCompact ? 126 : 136);
+      const buttonWidth = useCompactLayout ? 307 : 410;
+      const buttonHeight = 120;
+      const baseY = height - 140;
 
       this.optionButtonMetrics = {
         buttonWidth,
@@ -1378,11 +1328,11 @@ export const createGameScene = (config) => {
         const text = this.add
           .text(0, 0, "", {
             fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
-            fontSize: useExtraCompact ? 28 : 32,
+            fontSize: 32,
             color: "#475569",
             align: "center",
             fontStyle: "bold",
-            wordWrap: { width: buttonWidth - 36 },
+            wordWrap: { width: buttonWidth - 40 },
           })
           .setOrigin(0.5);
 
@@ -1496,17 +1446,10 @@ export const createGameScene = (config) => {
         this.scale.gameSize?.height ??
         this.sys.game.config.height;
       const metrics = this.optionButtonMetrics || {};
-      const baseY = metrics.baseY ?? height - 140;
-      const buttonWidth = metrics.buttonWidth ?? 300;
+      const baseY = metrics.baseY ?? height - 100;
 
       let spacing = 0;
-      if (total > 1) {
-        const maxSpacing = Math.max(
-          0,
-          (width - buttonWidth - 200) / (total - 1)
-        );
-        spacing = Math.min(400, maxSpacing);
-      }
+      spacing = 400;
 
       const positions = [];
       const centerIndex = (total - 1) / 2;
@@ -1589,7 +1532,7 @@ export const createGameScene = (config) => {
       this.enableOptionButtons(false);
       this.stopSentenceAudio();
       this.hideFeedback();
-      this.updateTimerText("Time: 20.0s");
+      this.updateTimerText("Time: 10.0s");
 
       if (
         this.examples.length &&
@@ -1649,10 +1592,9 @@ export const createGameScene = (config) => {
         Array.isArray(entry?.options) && entry.options.length
           ? entry.options
           : this.fallbackOptions;
-      const shuffledOptions = shuffleArray(optionLabels);
       this.configureOptionButtons(
-        shuffledOptions,
-        Array.isArray(shuffledOptions) && shuffledOptions.length > 0
+        optionLabels,
+        Array.isArray(optionLabels) && optionLabels.length > 0
       );
 
       this.phaseText.setText(
@@ -1694,10 +1636,6 @@ export const createGameScene = (config) => {
       if (!this.sentenceImage || !this.sentenceText) {
         return;
       }
-      const sentenceText =
-        typeof entry?.sentence === "string" ? entry.sentence.trim() : "";
-      const hasSentence = sentenceText.length > 0;
-      this.sentenceText.setVisible(hasSentence);
       const textureExists =
         entry?.imageKey &&
         entry?.image &&
@@ -1716,27 +1654,12 @@ export const createGameScene = (config) => {
       this.sentenceImage.setScale(1);
       const imgWidth = this.sentenceImage.width || 1;
       const imgHeight = this.sentenceImage.height || 1;
-      const maxWidth = hasSentence
-        ? this.sentenceImageMaxWidth || 400
-        : this.sentenceImageOnlyMaxWidth ||
-          this.sentenceCardWidth ||
-          this.sentenceImageMaxWidth ||
-          400;
-      const maxHeight = hasSentence
-        ? this.sentenceImageMaxHeight || 150
-        : this.sentenceImageOnlyMaxHeight ||
-          this.sentenceCardHeight ||
-          this.sentenceImageMaxHeight ||
-          150;
+      const maxWidth = this.sentenceImageMaxWidth || 400;
+      const maxHeight = this.sentenceImageMaxHeight || 150;
       const scale = Math.min(1, maxWidth / imgWidth, maxHeight / imgHeight);
       this.sentenceImage.setScale(scale);
       const displayHeight = imgHeight * scale;
       const cardHeight = this.sentenceCardHeight || 230;
-      if (!hasSentence) {
-        this.sentenceImage.setY(0);
-        this.sentenceText.setY(0);
-        return;
-      }
       const padding = this.sentenceImagePadding ?? 10;
       const topEdge = -cardHeight / 2;
       const imageY = topEdge + padding + displayHeight / 2;
@@ -1815,9 +1738,9 @@ export const createGameScene = (config) => {
       const targetButton = this.optionButtons.find(
         (btn) => btn.value.toLowerCase() === entry.answer.toLowerCase()
       );
-      const highlightDelay = 5000;
-      const feedbackDelay = highlightDelay + 2000;
-      const advanceDelay = feedbackDelay + 1000;
+      const highlightDelay = 500;
+      const feedbackDelay = highlightDelay + 800;
+      const advanceDelay = feedbackDelay + 900;
 
       this.time.delayedCall(highlightDelay, () => {
         if (this.gameOver) {
@@ -1844,7 +1767,7 @@ export const createGameScene = (config) => {
     }
 
     startResponseTimer() {
-      const durationMs = 20000;
+      const durationMs = 10000;
       const tickInterval = 100;
       let remaining = durationMs;
       this.updateTimerText(`Time: ${(remaining / 1000).toFixed(1)}s`);
@@ -1858,7 +1781,7 @@ export const createGameScene = (config) => {
           if (remaining <= 0) {
             this.timerEvent?.remove();
             this.timerEvent = null;
-            this.updateTimerText("Time: 20.0s");
+            this.updateTimerText("Time: 10.0s");
             this.handleTimeout();
             return;
           }
@@ -1889,14 +1812,11 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 20.0s");
+      this.updateTimerText("Time: 10.0s");
 
       const current = this.questions[this.questionIndex];
-      const acceptsAny = Boolean(current?.acceptAnyAnswer);
       const isCorrect =
-        Boolean(current) &&
-        (acceptsAny ||
-          selected.toLowerCase() === current.answer.toLowerCase());
+        current && selected.toLowerCase() === current.answer.toLowerCase();
       if (isCorrect) {
         this.score += 1;
         this.updateScore();
@@ -1939,7 +1859,7 @@ export const createGameScene = (config) => {
       this.playFeedbackSound("timeout");
       const current = this.questions[this.questionIndex];
       this.showFeedback("timeout", "Time's up!");
-      if (current && !current.acceptAnyAnswer) {
+      if (current) {
         const correctButton = this.optionButtons.find(
           (btn) => btn.value.toLowerCase() === current.answer.toLowerCase()
         );
@@ -2139,7 +2059,7 @@ export const createGameScene = (config) => {
       this.stopSentenceAudio();
       this.timerEvent?.remove();
       this.timerEvent = null;
-      this.updateTimerText("Time: 20.0s");
+      this.updateTimerText("Time: 10.0s");
       this.hideFeedback();
       if (statusElement) {
         statusElement.textContent =
