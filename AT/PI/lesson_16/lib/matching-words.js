@@ -102,6 +102,7 @@ export const buildMatchingWordsSlides = (
 ) => {
   const items = normalizePairs(activityData?.content);
   const audioUrl = trimString(activityData?.audio);
+  const hasAudio = Boolean(audioUrl);
   const marksPerQuestion = getMarksPerQuestion(context);
   const registerActivity =
     typeof assessment?.registerActivity === "function"
@@ -133,20 +134,24 @@ export const buildMatchingWordsSlides = (
     slide.appendChild(marksEl);
   }
 
-  const controls = document.createElement("div");
-  controls.className = "slide__controls";
+  let playBtn = null;
+  let status = null;
+  if (hasAudio) {
+    const controls = document.createElement("div");
+    controls.className = "slide__controls";
 
-  const playBtn = document.createElement("button");
-  playBtn.type = "button";
-  playBtn.className = "primary-btn";
-  playBtn.textContent = "Start";
+    playBtn = document.createElement("button");
+    playBtn.type = "button";
+    playBtn.className = "primary-btn";
+    playBtn.textContent = "Start";
 
-  const status = document.createElement("p");
-  status.className = "playback-status";
-  status.textContent = "";
+    status = document.createElement("p");
+    status.className = "playback-status";
+    status.textContent = "";
 
-  controls.append(playBtn, status);
-  slide.appendChild(controls);
+    controls.append(playBtn, status);
+    slide.appendChild(controls);
+  }
 
   const layout = document.createElement("div");
   layout.className = "listening-word-match";
@@ -192,9 +197,13 @@ export const buildMatchingWordsSlides = (
     emptyState.className = "empty-state";
     emptyState.textContent = "Matching content will be available soon.";
     layout.appendChild(emptyState);
-    playBtn.disabled = true;
+    if (playBtn) {
+      playBtn.disabled = true;
+    }
     submitBtn.disabled = true;
-    status.textContent = audioUrl ? "" : "Audio not available.";
+    if (status) {
+      status.textContent = "";
+    }
     return [
       {
         id: context.key ? `${context.key}-matching` : "activity-matching",
@@ -430,7 +439,7 @@ export const buildMatchingWordsSlides = (
     if (answersChecked || isPlaying) {
       return;
     }
-    if (playbackCount < 2) {
+    if (hasAudio && playbackCount < 2) {
       resultEl.textContent = "Please listen to the audio twice before submitting.";
       resultEl.classList.add("assessment-result--error");
       return;
@@ -554,7 +563,9 @@ export const buildMatchingWordsSlides = (
 
   const handleAudioError = () => {
     isPlaying = false;
-    status.textContent = "Unable to play audio.";
+    if (status) {
+      status.textContent = "Unable to play audio.";
+    }
     updateButtonState();
   };
 
@@ -593,7 +604,9 @@ export const buildMatchingWordsSlides = (
     };
 
     renderCountdown();
-    playBtn.disabled = false;
+    if (playBtn) {
+      playBtn.disabled = false;
+    }
 
     secondPlaybackTimer = window.setTimeout(() => {
       clearSecondPlaybackTimers();
@@ -654,15 +667,21 @@ export const buildMatchingWordsSlides = (
 
   const updatePlaybackStatus = ({ isStarting = false } = {}) => {
     if (instructionsLocked) {
-      status.textContent = "Please listen to the instructions first.";
+      if (status) {
+        status.textContent = "Please listen to the instructions first.";
+      }
       return;
     }
-    if (!audioElement) {
-      status.textContent = "Audio not available.";
+    if (!hasAudio) {
+      if (status) {
+        status.textContent = "";
+      }
       return;
     }
     if (answersChecked) {
-      status.textContent = "Responses submitted.";
+      if (status) {
+        status.textContent = "Responses submitted.";
+      }
       return;
     }
     if (
@@ -670,28 +689,41 @@ export const buildMatchingWordsSlides = (
       !isPlaying &&
       playbackCount < 2
     ) {
-      status.textContent = `Second recording starts in ${secondPlaybackRemaining}s. Click Start to listen sooner.`;
+      if (status) {
+        status.textContent = `Second recording starts in ${secondPlaybackRemaining}s. Click Start to listen sooner.`;
+      }
       return;
     }
     if (isPlaying || isStarting) {
-      status.textContent =
-        playbackCount > 0 ? "Replaying audio..." : "Playing...";
+      if (status) {
+        status.textContent =
+          playbackCount > 0 ? "Replaying audio..." : "Playing...";
+      }
       return;
     }
     if (playbackCount >= 2) {
-      status.textContent = "Audio played twice.";
+      if (status) {
+        status.textContent = "Audio played twice.";
+      }
       return;
     }
-    status.textContent =
-      playbackCount === 0
-        ? "Audio can be played twice."
-        : `You can play ${2 - playbackCount} more time(s).`;
+    if (status) {
+      status.textContent =
+        playbackCount === 0
+          ? "Audio can be played twice."
+          : `You can play ${2 - playbackCount} more time(s).`;
+    }
   };
 
   const updateButtonState = () => {
-    if (!audioUrl) {
+    if (!playBtn) {
+      submitBtn.disabled =
+        answersChecked || isPlaying || instructionsLocked || !items.length;
+      return;
+    }
+    if (!hasAudio) {
       playBtn.disabled = true;
-      playBtn.textContent = "Audio unavailable";
+      playBtn.textContent = "Start";
     } else if (instructionsLocked) {
       playBtn.disabled = true;
       playBtn.textContent = "Start";
@@ -710,7 +742,7 @@ export const buildMatchingWordsSlides = (
     submitBtn.disabled =
       answersChecked ||
       isPlaying ||
-      playbackCount < 2 ||
+      (hasAudio && playbackCount < 2) ||
       instructionsLocked ||
       !items.length;
   };
@@ -736,14 +768,16 @@ export const buildMatchingWordsSlides = (
     );
   }
 
-  playBtn.addEventListener("click", () => {
-    if (isPlaying || playbackCount >= 2) {
-      return;
-    }
-    autoTriggered = true;
-    slide._autoTriggered = true;
-    beginPlayback();
-  });
+  if (playBtn) {
+    playBtn.addEventListener("click", () => {
+      if (isPlaying || playbackCount >= 2) {
+        return;
+      }
+      autoTriggered = true;
+      slide._autoTriggered = true;
+      beginPlayback();
+    });
+  }
 
   submitBtn.addEventListener("click", () => {
     checkAnswers();
@@ -777,7 +811,9 @@ export const buildMatchingWordsSlides = (
     isPlaying = false;
     autoTriggered = false;
     slide._autoTriggered = false;
-    status.textContent = "";
+    if (status) {
+      status.textContent = "";
+    }
     answersChecked = false;
     updateButtonState();
     resetMatching();
@@ -785,25 +821,30 @@ export const buildMatchingWordsSlides = (
 
   resetMatching();
 
-  return [
-    {
-      id: context.key ? `${context.key}-matching` : "activity-matching",
-      element: slide,
-      autoPlay: {
-        button: playBtn,
-        trigger: () => {
-          if (answersChecked || autoTriggered || isPlaying || playbackCount >= 2) {
-            return;
-          }
-          autoTriggered = true;
-          slide._autoTriggered = true;
-          beginPlayback();
-        },
-        status,
+  const slideConfig = {
+    id: context.key ? `${context.key}-matching` : "activity-matching",
+    element: slide,
+    onEnter,
+    onLeave,
+  };
+
+  if (hasAudio) {
+    slideConfig.autoPlay = {
+      button: playBtn,
+      trigger: () => {
+        if (answersChecked || autoTriggered || isPlaying || playbackCount >= 2) {
+          return;
+        }
+        autoTriggered = true;
+        slide._autoTriggered = true;
+        beginPlayback();
       },
-      onEnter,
-      onLeave,
-      instructionCountdownSeconds: 15,
-    },
+      status,
+    };
+    slideConfig.instructionCountdownSeconds = 15;
+  }
+
+  return [
+    slideConfig,
   ];
 };
