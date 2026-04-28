@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pr'o'be",
+        "word_text": "sm'o'ker",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "She uses the pr'o'be accurately when testing sensor signals.",
+        "sentence_text": "The operator usually controls the sm'o'ker manually to flavour the meat evenly.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "l'oa'd bank",
+        "word_text": "l'oa'd cell",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to run the l'oa'd bank to test alternator output tomorrow.",
+        "sentence_text": "The l'oa'd cell took precise weight readings during packaging.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sm'o'ke tester",
+        "word_text": "bl'ow'torch",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The mechanic is using a sm'o'ke tester to find leaks.",
+        "sentence_text": "The chef is going to caramelise the surface using a bl'ow'torch.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'ow' bar",
+        "word_text": "c'oa'ting drum",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He drove the disabled vehicle from the roadside, using a t'ow' bar.",
+        "sentence_text": "The c'oa'ting drum is rotating to coat the snacks thoroughly.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -388,52 +388,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why was the instructor concerned about the engine being left running?",
-            "answer": "It creates a serious safety risk in the workshop area.",
+            "question": "Why was the instructor concerned about the chiller temperature not being monitored?",
+            "answer": "It creates a serious food safety risk during storage.",
             "options": [
-              "It creates a serious safety risk for the service bay area.",
-              "It creates a serious safety risk in the workshop area.",
-              "It delays routine servicing tasks."
+              "It increases electricity usage in the facility.",
+              "It creates a serious food safety risk during storage.",
+              "It creates a risk for the storage facility."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What was the main problem with the wheel nuts?",
-            "answer": "They were tightened below the specified torque value.",
+            "question": "What was the main problem with the ingredient quantities?",
+            "answer": "The amount of flour was higher than specified.",
             "options": [
-              "They were tightened before the vehicle was released safely.",
-              "They were damaged during removal.",
-              "They were tightened below the specified torque value."
+              "The quality of the ingredients was not good enough.",
+              "The wrong type of flour was used.",
+              "The amount of flour was higher than specified."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What mistake did the trainee make when tightening the wheel nuts?",
-            "answer": "He set the torque wrench incorrectly and did not recheck the value.",
+            "question": "What mistake did the trainee make when weighing the ingredients?",
+            "answer": "He misread the digital scale and did not recheck the measurement.",
             "options": [
-              "He set the value incorrectly and did not recheck the torque wrench.",
-              "He unfastened the torque wrench incorrectly.",
-              "He set the torque wrench incorrectly and did not recheck the value."
+              "He used the wrong measuring container and did not recheck.",
+              "He misread the measurement and did not check the digital scale.",
+              "He misread the digital scale and did not recheck the measurement."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why is an oil spill under a vehicle dangerous?",
-            "answer": "It creates a slipping hazard for people working nearby.",
+            "question": "Why is a spill in the processing area dangerous?",
+            "answer": "It creates a slipping hazard and hygiene risk.",
             "options": [
-              "It stains the workshop floor permanently.",
-              "It creates a slipping hazard for people working nearby.",
-              "People working nearby can’t do the housekeeping without slipping."
+              "It changes the taste of the food.",
+              "It creates a slipping hazard and hygiene risk.",
+              "Because the processing floor has not been marked."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Which response best reflects professional acceptance of an apology in a workshop context?",
+            "question": "Which response best reflects professional acceptance of an apology in a workshop or lab context?",
             "answer": "“Thank you for explaining. Please correct it and follow the procedure.”",
             "options": [
               "“Thank you for explaining. Please correct it and follow the procedure.”",
-              "“That should never happen in this workshop.”",
-              "“This problem can be ignored for now.”"
+              "“That kind of mistake is unacceptable here.”",
+              "“This issue can be ignored for now.”"
             ]
           }
         ]
@@ -441,17 +441,17 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I checked the cold storage area, I noticed the chiller temperature had not been recorded and the display showed a higher reading than allowed.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear food safety risk during storage.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You usually follow hygiene and monitoring procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -461,32 +461,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was assisting with preparation work and did not record the temperature at the scheduled time.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will ensure the chiller temperature is checked and logged regularly before continuing any food handling tasks.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "These ingredients do not match the quantities stated in the recipe sheet.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The amount of flour is higher than required, which can affect the quality and consistency of the final product.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in Food Technology work, so we need to address how this happened.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -496,7 +496,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I misread the digital scale and did not recheck the measurement before mixing.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -506,22 +506,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will carefully verify all ingredient weights before starting the preparation process in the future.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "There is liquid spilled on the processing room floor, and the area has not been cleaned or marked.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a slipping hazard and a hygiene concern for anyone working nearby.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Maintaining proper cleanliness is an essential part of food safety practice.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -536,24 +536,24 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will clean the spill immediately and make sure all work areas are kept clean and safe at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I checked the cold storage area, I noticed the chiller temperature had not been recorded and the display showed a higher reading than allowed.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear food safety risk during storage.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You usually follow hygiene and monitoring procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -563,32 +563,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was assisting with preparation work and did not record the temperature at the scheduled time.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will ensure the chiller temperature is checked and logged regularly before continuing any food handling tasks.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "These ingredients do not match the quantities stated in the recipe sheet.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The amount of flour is higher than required, which can affect the quality and consistency of the final product.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in Food Technology work, so we need to address how this happened.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -598,7 +598,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I misread the digital scale and did not recheck the measurement before mixing.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -608,22 +608,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will carefully verify all ingredient weights before starting the preparation process in the future.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "There is liquid spilled on the processing room floor, and the area has not been cleaned or marked.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a slipping hazard and a hygiene concern for anyone working nearby.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Maintaining proper cleanliness is an essential part of food safety practice.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -638,24 +638,24 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will clean the spill immediately and make sure all work areas are kept clean and safe at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I checked the cold storage area, I noticed the chiller temperature had not been recorded and the display showed a higher reading than allowed.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear food safety risk during storage.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You usually follow hygiene and monitoring procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -665,32 +665,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was assisting with preparation work and did not record the temperature at the scheduled time.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will ensure the chiller temperature is checked and logged regularly before continuing any food handling tasks.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "These ingredients do not match the quantities stated in the recipe sheet.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The amount of flour is higher than required, which can affect the quality and consistency of the final product.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in Food Technology work, so we need to address how this happened.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -700,7 +700,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I misread the digital scale and did not recheck the measurement before mixing.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -710,22 +710,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will carefully verify all ingredient weights before starting the preparation process in the future.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "There is liquid spilled on the processing room floor, and the area has not been cleaned or marked.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a slipping hazard and a hygiene concern for anyone working nearby.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Maintaining proper cleanliness is an essential part of food safety practice.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -740,7 +740,7 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will clean the spill immediately and make sure all work areas are kept clean and safe at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ]
