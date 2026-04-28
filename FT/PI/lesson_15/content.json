@@ -1,0 +1,779 @@
+{
+  "meta": {
+    "lesson_no": 15,
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "type": "PRONUNCIATION",
+    "focus": "Diphthong /əʊ/",
+    "instructions": {
+      "activity_1_a": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_b": {
+        "text": "Listen and repeat.\nසවන් දී වචන නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_c": {
+        "text": "Listen.\nසවන් දෙන්න.\nகேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_1_d": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_1_e": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "p_1",
+        "word_text": "pr'o'be",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "She uses the pr'o'be accurately when testing sensor signals.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
+      },
+      {
+        "id": "p_2",
+        "word_text": "l'oa'd bank",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "sentence_text": "They are going to run the l'oa'd bank to test alternator output tomorrow.",
+        "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
+        "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "sm'o'ke tester",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "The mechanic is using a sm'o'ke tester to find leaks.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_4",
+        "word_text": "t'ow' bar",
+        "word_audio": "assets/audio/a_1_p_4_a.mp3",
+        "sentence_text": "He drove the disabled vehicle from the roadside, using a t'ow' bar.",
+        "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
+        "image": "assets/img/a_1_p_4.png"
+      }
+    ]
+  },
+  "activity_2": {
+    "type": "SBS-5",
+    "focus": "Revision of tenses",
+    "instructions": {
+      "example": {
+        "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
+        "audio": "assets/audio/a_2_i_ex.mp3"
+      },
+      "activity_2_a": {
+        "text": "Match the words with the pictures.\nපින්තූර සමඟ වචන ගලපන්න.\nசொற்களைப் படங்களுடன் பொருத்துங்கள்.",
+        "audio": "assets/audio/a_2_i_a.mp3"
+      },
+      "activity_2_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_2_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_2_d": {
+        "text": "Read along.\nපිටපත සමඟ කියවන්න.\nஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      },
+      "activity_2_e": {
+        "text": "Listen to each question, use the pause to answer it, then compare your response with the model answer.\nසෑම ප්‍රශ්නයකටම සවන් දෙන්න, පිළිතුරු දීමට විරාමය භාවිතා කරන්න, ඉන්පසු ඔබේ පිළිතුර ආදර්ශ පිළිතුර සමඟ සසඳන්න.\nஒவ்வொரு கேள்வியையும் கவனமாகக் கேட்டு, இடைநிறுத்தத்தின் போது பதிலளிக்கவும், அதன் பிறகு உங்கள் பதிலை மாதிரிப் பதிலுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+        "audio": "assets/audio/a_2_i_e.mp3"
+      }
+    },
+    "tables": [
+      [
+        ["I work every Monday.", "I am going to work next Monday."],
+        [
+          "I play the piano every morning.",
+          "I am going to play the piano tomorrow morning."
+        ],
+        ["I rest every day.", "I am going to rest this weekend."]
+      ]
+    ],
+    "example_dialogues": [
+      {
+        "id": "d_1",
+        "img": "assets/img/a_2_d_1.png",
+        "text_a": "What do you like to do on the weekend?",
+        "text_b": "I like to cook Pakistani food. I usually cook two new dishes every Saturday, but this Saturday I am going to cook four new Pakistani dishes.",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
+        "audio_b": "assets/audio/a_2_d_1_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually cook two new dishes every Saturday, but this Saturday I am going to cook four new Pakistani dishes."
+      },
+      {
+        "id": "d_2",
+        "img": "assets/img/a_2_d_2.png",
+        "text_a": "What do you like to do after work?",
+        "text_b": "I like to play badminton. I usually play with my friends, but today I am going to play with my boss and his children.",
+        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_b": "assets/audio/a_2_d_2_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually play with my friends, but today I am going to play with my boss and his children."
+      },
+      {
+        "id": "d_3",
+        "img": "assets/img/a_2_d_3.png",
+        "text_a": "What do you like to do on Sundays?",
+        "text_b": "I like to work in my home garden. I usually work in my home garden in the afternoon, but this Sunday I am going to work in the morning.",
+        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_b": "assets/audio/a_2_d_3_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually work in my home garden in the afternoon, but this Sunday I am going to work in the morning."
+      }
+    ],
+    "keywords": [
+      {
+        "id": "k_1",
+        "image": "assets/img/a_2_d_4.png",
+        "word": "play the trumpet"
+      },
+      {
+        "id": "k_2",
+        "image": "assets/img/a_2_d_5.png",
+        "word": "lift weights"
+      },
+      {
+        "id": "k_3",
+        "image": "assets/img/a_2_d_6.png",
+        "word": "watch documentaries"
+      },
+      {
+        "id": "k_4",
+        "image": "assets/img/a_2_d_7.png",
+        "word": "drink tea and check my messages"
+      },
+      {
+        "id": "k_5",
+        "image": "assets/img/a_2_d_8.png",
+        "word": "chat with my friends"
+      },
+      {
+        "id": "k_6",
+        "image": "assets/img/a_2_d_9.png",
+        "word": "be outdoors"
+      }
+    ],
+    "dialogues": [
+      {
+        "id": "d_4",
+        "img": "assets/img/a_2_d_4.png",
+        "text_a": "What do you like to do in the evenings?",
+        "text_b": "I like to play the trumpet. I usually play after dinner, but tonight I am going to play before dinner.",
+        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_b": "assets/audio/a_2_d_4_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually play after dinner, but tonight I am going to play before dinner."
+      },
+      {
+        "id": "d_5",
+        "img": "assets/img/a_2_d_5.png",
+        "text_a": "What do you like to do after class?",
+        "text_b": "I like to lift weights. I usually lift weights in the gym nearby, but today I am going to lift them in the gym in the city centre.",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
+        "audio_b": "assets/audio/a_2_d_5_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually lift weights in the gym nearby, but today I am going to lift them in the gym in the city centre."
+      },
+      {
+        "id": "d_6",
+        "img": "assets/img/a_2_d_6.png",
+        "text_a": "What do you like to do on Friday nights?",
+        "text_b": "I like to watch documentaries. I usually watch them at home, but this Friday I am going to watch a documentary on the life of Barack Obama at the cinema.",
+        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_b": "assets/audio/a_2_d_6_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually watch them at home, but this Friday I am going to watch a documentary on the life of Barack Obama at the cinema."
+      },
+      {
+        "id": "d_7",
+        "img": "assets/img/a_2_d_7.png",
+        "text_a": "What do you like to do in the morning?",
+        "text_b": "I like to drink tea and check my messages. I usually do this at home, but this morning I am going to do it at the workshop.",
+        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_b": "assets/audio/a_2_d_7_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually do this at home, but this morning I am going to do it at the workshop."
+      },
+      {
+        "id": "d_8",
+        "img": "assets/img/a_2_d_8.png",
+        "text_a": "What do you like to do during your lunch break?",
+        "text_b": "I like to chat with my friends. I usually chat with them in the classroom, but today I am going to chat with them in the school canteen.",
+        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_b": "assets/audio/a_2_d_8_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually chat with them in the classroom, but today I am going to chat with them in the school canteen."
+      },
+      {
+        "id": "d_9",
+        "img": "assets/img/a_2_d_9.png",
+        "text_a": "What do you like to do on holidays?",
+        "text_b": "I like to be outdoors. I usually go to nearby parks, but this holiday I am going to visit a national park.",
+        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_b": "assets/audio/a_2_d_9_b.mp3",
+        "text_b_speaking": "I like to ________________. I usually go to nearby parks, but this holiday I am going to visit a national park."
+      }
+    ]
+  },
+  "activity_3": {
+    "type": "INTERACTIVE-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Choose the correct answer.\n නිවැරදි පිළිතුර තෝරන්න.\n சரியான பதிலைத் தேர்ந்தெடுக்கவும்.",
+        "audio": "assets/audio/a_3_i_d.mp3"
+      },
+      "activity_b": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "bg_image": "assets/img/game/bg-3.jpg",
+        "content": [
+          {
+            "id": "g_b_1",
+            "sentence": "These days, many office workers in Colombo __________ from home because of traffic congestion.",
+            "options": ["work", "are working", "worked"],
+            "answer": "are working"
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "I __________ the supervisor about the breakout yesterday but he did not take any action.",
+            "options": ["inform", "informed", "am informing"],
+            "answer": "informed"
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "Look at the sky — it __________ heavily within the next few minutes.",
+            "options": ["rains", "is raining", "is going to rain"],
+            "answer": "is going to rain"
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "She usually __________ her emails once a day, but today she __________ keep checking them often, for an important message.",
+            "options": [
+              "check / checking",
+              "checks / has to",
+              "checked / are check"
+            ],
+            "answer": "checks / has to"
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "We __________ the site inspection this afternoon, so please bring your safety helmet.",
+            "options": ["do", "are doing", "are go to do"],
+            "answer": "are doing"
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "He __________ drive fast on this road because it’s narrow and very crowded.",
+            "options": ["can", "shouldn’t", "isn’t"],
+            "answer": "shouldn’t"
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "The instructor __________ the safety rules a while ago, and all the trainees listened carefully.",
+            "options": ["explains", "is explaining", "explained"],
+            "answer": "explained"
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "__________ you __________ the equipment checklist every morning before starting work?",
+            "options": [
+              "Are / go through",
+              "Did / go through",
+              "Do / go through"
+            ],
+            "answer": "Do / go through"
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "They __________ attend the meeting tomorrow morning because the manager is unavailable.",
+            "options": ["aren’t", "aren’t going to", "can"],
+            "answer": "aren’t going to"
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Last week, the team __________ a serious delay due to unexpected power cuts.",
+            "options": ["experiences", "is experiencing", "experienced"],
+            "answer": "experienced"
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "g_b_1",
+          "text": "These days, many office workers in Colombo are working from home because of traffic congestion.",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "I informed the supervisor about the breakout yesterday but he did not take any action.",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "Look at the sky — it is going to rain heavily within the next few minutes.",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "She usually checks her emails once a day, but today she has to keep checking them often, for an important message.",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "We are doing the site inspection this afternoon, so please bring your safety helmet.",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "He shouldn’t drive fast on this road because it’s narrow and very crowded.",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "The instructor explained the safety rules a while ago, and all the trainees listened carefully.",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "Do you go through the equipment checklist every morning before starting work?",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "They aren’t going to attend the meeting tomorrow morning because the manager is unavailable.",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "Last week, the team experienced a serious delay due to unexpected power cuts.",
+          "audio": "assets/audio/g_b_10.mp3"
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "type": "LISTENING-2",
+    "instructions": {
+      "activity_a": {
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "audio": "assets/audio/a_4_i_a.mp3"
+      },
+      "activity_b": {
+        "text": "Listen.\nகேளுங்கள்.\nසවන් දෙන්න.",
+        "audio": "assets/audio/a_2_i_b.mp3"
+      },
+      "activity_c": {
+        "text": "Listen and repeat.\nසවන් දී වාක්‍ය නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+        "audio": "assets/audio/a_2_i_c.mp3"
+      },
+      "activity_d": {
+        "text": "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்.",
+        "audio": "assets/audio/a_2_i_d.mp3"
+      }
+    },
+    "content": {
+      "activity_a": {
+        "audio": "assets/audio/a_4_l_1.mp3",
+        "Questions": [
+          {
+            "id": "l_18_1",
+            "question": "Why was the instructor concerned about the engine being left running?",
+            "answer": "It creates a serious safety risk in the workshop area.",
+            "options": [
+              "It creates a serious safety risk for the service bay area.",
+              "It creates a serious safety risk in the workshop area.",
+              "It delays routine servicing tasks."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What was the main problem with the wheel nuts?",
+            "answer": "They were tightened below the specified torque value.",
+            "options": [
+              "They were tightened before the vehicle was released safely.",
+              "They were damaged during removal.",
+              "They were tightened below the specified torque value."
+            ]
+          },
+          {
+            "id": "l_18_3",
+            "question": "What mistake did the trainee make when tightening the wheel nuts?",
+            "answer": "He set the torque wrench incorrectly and did not recheck the value.",
+            "options": [
+              "He set the value incorrectly and did not recheck the torque wrench.",
+              "He unfastened the torque wrench incorrectly.",
+              "He set the torque wrench incorrectly and did not recheck the value."
+            ]
+          },
+          {
+            "id": "l_18_4",
+            "question": "Why is an oil spill under a vehicle dangerous?",
+            "answer": "It creates a slipping hazard for people working nearby.",
+            "options": [
+              "It stains the workshop floor permanently.",
+              "It creates a slipping hazard for people working nearby.",
+              "People working nearby can’t do the housekeeping without slipping."
+            ]
+          },
+          {
+            "id": "l_18_5",
+            "question": "Which response best reflects professional acceptance of an apology in a workshop context?",
+            "answer": "“Thank you for explaining. Please correct it and follow the procedure.”",
+            "options": [
+              "“Thank you for explaining. Please correct it and follow the procedure.”",
+              "“That should never happen in this workshop.”",
+              "“This problem can be ignored for now.”"
+            ]
+          }
+        ]
+      },
+      "activity_b": [
+        {
+          "id": "t_1",
+          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "That creates a clear safety risk in the workshop area.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I’m very sorry about that, sir.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Thank you for highlighting the issue.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I apologise for the mistake, sir.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "I appreciate your guidance.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "I regret the oversight, sir.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Thank you for bringing it to my attention promptly.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "audio": "assets/audio/t_20.mp3"
+        }
+      ],
+      "activity_c": [
+        {
+          "id": "t_1",
+          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "That creates a clear safety risk in the workshop area.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I’m very sorry about that, sir.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Thank you for highlighting the issue.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I apologise for the mistake, sir.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "I appreciate your guidance.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "I regret the oversight, sir.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Thank you for bringing it to my attention promptly.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "audio": "assets/audio/t_20.mp3"
+        }
+      ],
+      "activity_d": [
+        {
+          "id": "t_1",
+          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "audio": "assets/audio/t_1.mp3"
+        },
+        {
+          "id": "t_2",
+          "text": "That creates a clear safety risk in the workshop area.",
+          "audio": "assets/audio/t_2.mp3"
+        },
+        {
+          "id": "t_3",
+          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "audio": "assets/audio/t_3.mp3"
+        },
+        {
+          "id": "t_4",
+          "text": "I’m very sorry about that, sir.",
+          "audio": "assets/audio/t_4.mp3"
+        },
+        {
+          "id": "t_5",
+          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "audio": "assets/audio/t_5.mp3"
+        },
+        {
+          "id": "t_6",
+          "text": "Thank you for highlighting the issue.",
+          "audio": "assets/audio/t_6.mp3"
+        },
+        {
+          "id": "t_7",
+          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "audio": "assets/audio/t_7.mp3"
+        },
+        {
+          "id": "t_8",
+          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "audio": "assets/audio/t_8.mp3"
+        },
+        {
+          "id": "t_9",
+          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "audio": "assets/audio/t_9.mp3"
+        },
+        {
+          "id": "t_10",
+          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "audio": "assets/audio/t_10.mp3"
+        },
+        {
+          "id": "t_11",
+          "text": "I apologise for the mistake, sir.",
+          "audio": "assets/audio/t_11.mp3"
+        },
+        {
+          "id": "t_12",
+          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "audio": "assets/audio/t_12.mp3"
+        },
+        {
+          "id": "t_13",
+          "text": "I appreciate your guidance.",
+          "audio": "assets/audio/t_13.mp3"
+        },
+        {
+          "id": "t_14",
+          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "audio": "assets/audio/t_14.mp3"
+        },
+        {
+          "id": "t_15",
+          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "audio": "assets/audio/t_15.mp3"
+        },
+        {
+          "id": "t_16",
+          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "audio": "assets/audio/t_16.mp3"
+        },
+        {
+          "id": "t_17",
+          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "audio": "assets/audio/t_17.mp3"
+        },
+        {
+          "id": "t_18",
+          "text": "I regret the oversight, sir.",
+          "audio": "assets/audio/t_18.mp3"
+        },
+        {
+          "id": "t_19",
+          "text": "Thank you for bringing it to my attention promptly.",
+          "audio": "assets/audio/t_19.mp3"
+        },
+        {
+          "id": "t_20",
+          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "audio": "assets/audio/t_20.mp3"
+        }
+      ]
+    }
+  },
+  "activity_5": {
+    "type": "VIDEOS",
+    "instrctions": {
+      "instrction_a": {
+        "text": "Watch this video to help you better understand today’s lesson.\nඅද පාඩම හොඳින් අවබෝධ කර ගැනීමට මෙම වීඩියෝව බලන්න.\nஇன்றைய பாடத்தை நன்றாக புரிந்துகொள்ள இந்த வீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_a.mp3"
+      },
+      "instruction_b": {
+        "text": "These steps will help you to learn English from this video.\nමෙම වීඩියෝවෙන් ඉංග්‍රීසි ඉගෙන ගැනීමට මෙම පියවර ඔබට උපකාරී වනු ඇත.\nஇந்த வீடியோவிலிருந்து ஆங்கிலம் கற்க இந்த படிகள் உங்களுக்கு உதவும்.",
+        "steps": [
+          "Watch the video 2 times.\nමේ වීඩියෝ එක දෙවරක් බලන්න.\nவீடியோவை இரண்டு முறைப் பாருங்கள்.",
+          "Learn new words using Google Translate.\nGoogle පරිවර්තකය භාවිතයෙන් නව වචන ඉගෙන ගන්න.\nகூகுள் ட்ரான்ஸ்லேட் பயன்படுத்தி புதிய சொற்களைக் கற்றுக்கொள்ளுங்கள்.",
+          "Listen and repeat.\nසවන් දී නැවත කියන්න.\nகேட்டு மீண்டும் சொல்லுங்கள்.",
+          "Read along. පිටපත සමඟ කියවන්න. ஒரே நேரத்தில் வாசியுங்கள்."
+        ],
+        "audio": "assets/audio/a_5_i_b.mp3"
+      },
+      "instrction_c": {
+        "text": "Watch the video.\nවීඩියෝව බලන්න.\nவீடியோவைப் பாருங்கள்.",
+        "audio": "assets/audio/a_5_i_c.mp3"
+      }
+    },
+    "content": [
+      {
+        "id": "v_1",
+        "audio": "assets/videos/1B.mp4",
+        "instrction": "instrction_b"
+      }
+    ]
+  }
+}
