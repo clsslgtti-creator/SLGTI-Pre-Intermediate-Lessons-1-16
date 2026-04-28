@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pr'o'be",
+        "word_text": "r'o'tating shafts",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "She uses the pr'o'be accurately when testing sensor signals.",
+        "sentence_text": "The coupling connects two r'o'tating shafts during machine operation.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "l'oa'd bank",
+        "word_text": "l'oa'd pin",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to run the l'oa'd bank to test alternator output tomorrow.",
+        "sentence_text": "The l'oa'd pin held the press safely under heavy load.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sm'o'ke tester",
+        "word_text": "c'o'ld saw",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The mechanic is using a sm'o'ke tester to find leaks.",
+        "sentence_text": "The operator is going to cut the metal accurately using the c'o'ld saw.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'ow' bar",
+        "word_text": "r'o'ller guide",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He drove the disabled vehicle from the roadside, using a t'ow' bar.",
+        "sentence_text": "The r'o'ller guide is supporting the moving belt during operation.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -388,52 +388,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why was the instructor concerned about the engine being left running?",
-            "answer": "It creates a serious safety risk in the workshop area.",
+            "question": "Why was the instructor concerned about the lathe being left running?",
+            "answer": "It creates a serious safety risk for anyone on the workshop floor.",
             "options": [
-              "It creates a serious safety risk for the service bay area.",
-              "It creates a serious safety risk in the workshop area.",
-              "It delays routine servicing tasks."
+              "It unnecessarily increases electricity consumption in the workshop.",
+              "It creates a serious safety risk for anyone on the workshop floor.",
+              "It creates a serious safety risk for the production line staff on the workshop floor."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What was the main problem with the wheel nuts?",
-            "answer": "They were tightened below the specified torque value.",
+            "question": "What was the main reason the shafts could not be used?",
+            "answer": "They were cut slightly shorter than the required dimension.",
             "options": [
-              "They were tightened before the vehicle was released safely.",
-              "They were damaged during removal.",
-              "They were tightened below the specified torque value."
+              "They were made from the wrong type of metal.",
+              "They had rough surface finishes.",
+              "They were cut slightly shorter than the required dimension."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What mistake did the trainee make when tightening the wheel nuts?",
-            "answer": "He set the torque wrench incorrectly and did not recheck the value.",
+            "question": "What mistake did the trainee make when measuring the shafts?",
+            "answer": "He misread the vernier caliper and did not recheck the measurement.",
             "options": [
-              "He set the value incorrectly and did not recheck the torque wrench.",
-              "He unfastened the torque wrench incorrectly.",
-              "He set the torque wrench incorrectly and did not recheck the value."
+              "He used the wrong measuring tool for the task.",
+              "He misread the vernier caliper and did not recheck the measurement.",
+              "He misread the vernier caliper but verified the measurements before cutting."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why is an oil spill under a vehicle dangerous?",
-            "answer": "It creates a slipping hazard for people working nearby.",
+            "question": "Why is an oil spill near the press especially dangerous?",
+            "answer": "It creates a slipping hazard for people working in the area.",
             "options": [
-              "It stains the workshop floor permanently.",
-              "It creates a slipping hazard for people working nearby.",
-              "People working nearby can’t do the housekeeping without slipping."
+              "It can damage the press components over time.",
+              "It slows down production in the workshop.",
+              "It creates a slipping hazard for people working in the area."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Which response best reflects professional acceptance of an apology in a workshop context?",
-            "answer": "“Thank you for explaining. Please correct it and follow the procedure.”",
+            "question": "Which response best shows acceptance of an apology in a workshop context?",
+            "answer": "“Thank you for taking responsibility. Please correct it immediately.”",
             "options": [
-              "“Thank you for explaining. Please correct it and follow the procedure.”",
-              "“That should never happen in this workshop.”",
-              "“This problem can be ignored for now.”"
+              "“That’s unacceptable and should never happen again.”",
+              "“Thank you for taking responsibility. Please correct it immediately.”",
+              "“You should already know how to handle this situation.”"
             ]
           }
         ]
@@ -441,307 +441,337 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I inspected the machining area, I noticed the lathe was still running and the chuck was left uncovered.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That presents a clear safety risk on the workshop floor.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You normally follow correct procedures, so I’d like to understand what caused this lapse.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I’m very sorry about that, sir.",
+          "text": "I apologise for that, sir.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was briefly interrupted and failed to complete the shutdown procedure properly.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "I accept responsibility for the oversight.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "Thank you for bringing it to my attention.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "I will ensure the machine is fully stopped and secured before leaving the workstation in the future.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "These shafts do not conform to the dimensions specified in the technical drawing.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "They are slightly shorter than required, which means they cannot be used for this assembly.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I apologise for the mistake, sir.",
+          "text": "Precision is essential in Mechanical Technology tasks, so we must address the cause.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I understand, sir, and I’m sorry for the mistake.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "I appreciate your guidance.",
+          "text": "I didn’t read the vernier caliper scale carefully and did not verify the measurements before cutting.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I appreciate your feedback.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "I will take more time to cross-check all measurements before proceeding with machining operations.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "There is hydraulic oil on the floor near the press area, and it has not yet been cleaned or marked.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "This creates a potential slipping hazard for anyone working nearby.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "I regret the oversight, sir.",
+          "text": "Maintaining proper housekeeping standards is a key part of workshop safety.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Thank you for bringing it to my attention promptly.",
+          "text": "You’re absolutely right, sir.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I apologise for the oversight and for leaving the area unsafe.",
           "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Thank you for pointing it out promptly.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "I will clean the spill immediately and ensure that all leaks or spills are addressed without delay in the future.",
+          "audio": "assets/audio/t_22.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I inspected the machining area, I noticed the lathe was still running and the chuck was left uncovered.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That presents a clear safety risk on the workshop floor.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You normally follow correct procedures, so I’d like to understand what caused this lapse.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I’m very sorry about that, sir.",
+          "text": "I apologise for that, sir.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was briefly interrupted and failed to complete the shutdown procedure properly.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "I accept responsibility for the oversight.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "Thank you for bringing it to my attention.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "I will ensure the machine is fully stopped and secured before leaving the workstation in the future.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "These shafts do not conform to the dimensions specified in the technical drawing.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "They are slightly shorter than required, which means they cannot be used for this assembly.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I apologise for the mistake, sir.",
+          "text": "Precision is essential in Mechanical Technology tasks, so we must address the cause.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I understand, sir, and I’m sorry for the mistake.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "I appreciate your guidance.",
+          "text": "I didn’t read the vernier caliper scale carefully and did not verify the measurements before cutting.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I appreciate your feedback.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "I will take more time to cross-check all measurements before proceeding with machining operations.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "There is hydraulic oil on the floor near the press area, and it has not yet been cleaned or marked.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "This creates a potential slipping hazard for anyone working nearby.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "I regret the oversight, sir.",
+          "text": "Maintaining proper housekeeping standards is a key part of workshop safety.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Thank you for bringing it to my attention promptly.",
+          "text": "You’re absolutely right, sir.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I apologise for the oversight and for leaving the area unsafe.",
           "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Thank you for pointing it out promptly.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "I will clean the spill immediately and ensure that all leaks or spills are addressed without delay in the future.",
+          "audio": "assets/audio/t_22.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I inspected the machining area, I noticed the lathe was still running and the chuck was left uncovered.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That presents a clear safety risk on the workshop floor.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You normally follow correct procedures, so I’d like to understand what caused this lapse.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
           "id": "t_4",
-          "text": "I’m very sorry about that, sir.",
+          "text": "I apologise for that, sir.",
           "audio": "assets/audio/t_4.mp3"
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was briefly interrupted and failed to complete the shutdown procedure properly.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "I accept responsibility for the oversight.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "Thank you for bringing it to my attention.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "I will ensure the machine is fully stopped and secured before leaving the workstation in the future.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "These shafts do not conform to the dimensions specified in the technical drawing.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "They are slightly shorter than required, which means they cannot be used for this assembly.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
           "id": "t_11",
-          "text": "I apologise for the mistake, sir.",
+          "text": "Precision is essential in Mechanical Technology tasks, so we must address the cause.",
           "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I understand, sir, and I’m sorry for the mistake.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
-          "text": "I appreciate your guidance.",
+          "text": "I didn’t read the vernier caliper scale carefully and did not verify the measurements before cutting.",
           "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I appreciate your feedback.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "I will take more time to cross-check all measurements before proceeding with machining operations.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "There is hydraulic oil on the floor near the press area, and it has not yet been cleaned or marked.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "This creates a potential slipping hazard for anyone working nearby.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
-          "text": "I regret the oversight, sir.",
+          "text": "Maintaining proper housekeeping standards is a key part of workshop safety.",
           "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
-          "text": "Thank you for bringing it to my attention promptly.",
+          "text": "You’re absolutely right, sir.",
           "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I apologise for the oversight and for leaving the area unsafe.",
           "audio": "assets/audio/t_20.mp3"
+        },
+        {
+          "id": "t_21",
+          "text": "Thank you for pointing it out promptly.",
+          "audio": "assets/audio/t_21.mp3"
+        },
+        {
+          "id": "t_22",
+          "text": "I will clean the spill immediately and ensure that all leaks or spills are addressed without delay in the future.",
+          "audio": "assets/audio/t_22.mp3"
         }
       ]
     }
