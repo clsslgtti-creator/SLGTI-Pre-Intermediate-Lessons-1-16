@@ -33,33 +33,33 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pr'o'be",
+        "word_text": "b'o'lt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "She uses the pr'o'be accurately when testing sensor signals.",
+        "sentence_text": "He always tightens this b'o'lt before starting the concrete mixer.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_2",
-        "word_text": "l'oa'd bank",
+        "word_text": "t'o'w",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to run the l'oa'd bank to test alternator output tomorrow.",
+        "sentence_text": "The mechanic used a t'o'w truck to tow the broken car to the workshop.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sm'o'ke tester",
+        "word_text": "r'o'ad roller",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The mechanic is using a sm'o'ke tester to find leaks.",
+        "sentence_text": "The operator drove the r'o'ad roller across the gravel base.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'ow' bar",
+        "word_text": "pr'o'be",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He drove the disabled vehicle from the roadside, using a t'ow' bar.",
+        "sentence_text": "The technician is going to check the pr'o'be before testing the soil.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -388,52 +388,52 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why was the instructor concerned about the engine being left running?",
-            "answer": "It creates a serious safety risk in the workshop area.",
+            "question": "Why was the instructor concerned about the scaffolding being left unsecured?",
+            "answer": "It creates a serious safety risk on the construction site.",
             "options": [
-              "It creates a serious safety risk for the service bay area.",
-              "It creates a serious safety risk in the workshop area.",
-              "It delays routine servicing tasks."
+              "It delays the progress of construction work.",
+              "It creates a serious safety risk on the construction site.",
+              "It causes a serious safety risk when accessing the ladder."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What was the main problem with the wheel nuts?",
-            "answer": "They were tightened below the specified torque value.",
+            "question": "What was the main problem with the concrete mix?",
+            "answer": "The cement content was lower than specified.",
             "options": [
-              "They were tightened before the vehicle was released safely.",
-              "They were damaged during removal.",
-              "They were tightened below the specified torque value."
+              "It contained the wrong type of aggregate.",
+              "The concrete and the strength did not match.",
+              "The cement content was lower than specified."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What mistake did the trainee make when tightening the wheel nuts?",
-            "answer": "He set the torque wrench incorrectly and did not recheck the value.",
+            "question": "What mistake did the trainee make when preparing the concrete?",
+            "answer": "He misread the mix ratio and did not verify it.",
             "options": [
-              "He set the value incorrectly and did not recheck the torque wrench.",
-              "He unfastened the torque wrench incorrectly.",
-              "He set the torque wrench incorrectly and did not recheck the value."
+              "He misread the batching materials.",
+              "He followed the schedule but changed the ratio.",
+              "He misread the mix ratio and did not verify it."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why is an oil spill under a vehicle dangerous?",
-            "answer": "It creates a slipping hazard for people working nearby.",
+            "question": "Why is debris left on a walkway dangerous?",
+            "answer": "It creates a tripping hazard for people working nearby.",
             "options": [
-              "It stains the workshop floor permanently.",
-              "It creates a slipping hazard for people working nearby.",
-              "People working nearby can’t do the housekeeping without slipping."
+              "It increases material wastage on site.",
+              "It creates a tripping hazard for people working nearby.",
+              "It creates a housekeeping issue for the construction crew."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Which response best reflects professional acceptance of an apology in a workshop context?",
+            "question": "Which response best reflects professional acceptance of an apology in a workshop or site context?",
             "answer": "“Thank you for explaining. Please correct it and follow the procedure.”",
             "options": [
               "“Thank you for explaining. Please correct it and follow the procedure.”",
-              "“That should never happen in this workshop.”",
-              "“This problem can be ignored for now.”"
+              "“That kind of mistake is unacceptable here.”",
+              "“This issue can be ignored for now.”"
             ]
           }
         ]
@@ -441,17 +441,17 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I inspected the construction area, I noticed the scaffolding was left unsecured and the access ladder was not properly fixed.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear safety risk on the site.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You normally follow safety procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -461,32 +461,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was asked to assist another team and did not secure the scaffold before leaving the area.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will ensure all scaffolding is properly secured and checked before moving away from the work zone in the future.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "This concrete mix does not match the ratio specified in the work schedule.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The cement content is lower than required, which means the concrete may not achieve the correct strength.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in Construction Technology work, so we need to address how this happened.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -496,7 +496,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I misread the mix ratio and did not verify it before batching the materials.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -506,22 +506,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will double-check all mix proportions before preparing concrete in future tasks.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "There is loose debris left on the main walkway, and the area has not been cleared or marked.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a tripping hazard for anyone moving around the site.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Maintaining good housekeeping is an essential part of construction site safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -536,24 +536,24 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will clear the debris immediately and ensure walkways are kept clean and safe at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I inspected the construction area, I noticed the scaffolding was left unsecured and the access ladder was not properly fixed.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear safety risk on the site.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You normally follow safety procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -563,32 +563,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was asked to assist another team and did not secure the scaffold before leaving the area.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will ensure all scaffolding is properly secured and checked before moving away from the work zone in the future.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "This concrete mix does not match the ratio specified in the work schedule.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The cement content is lower than required, which means the concrete may not achieve the correct strength.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in Construction Technology work, so we need to address how this happened.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -598,7 +598,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I misread the mix ratio and did not verify it before batching the materials.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -608,22 +608,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will double-check all mix proportions before preparing concrete in future tasks.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "There is loose debris left on the main walkway, and the area has not been cleared or marked.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a tripping hazard for anyone moving around the site.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Maintaining good housekeeping is an essential part of construction site safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -638,24 +638,24 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will clear the debris immediately and ensure walkways are kept clean and safe at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I inspected the construction area, I noticed the scaffolding was left unsecured and the access ladder was not properly fixed.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear safety risk on the site.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You normally follow safety procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -665,32 +665,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I was asked to assist another team and did not secure the scaffold before leaving the area.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will ensure all scaffolding is properly secured and checked before moving away from the work zone in the future.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "This concrete mix does not match the ratio specified in the work schedule.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The cement content is lower than required, which means the concrete may not achieve the correct strength.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in Construction Technology work, so we need to address how this happened.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -700,7 +700,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I misread the mix ratio and did not verify it before batching the materials.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -710,22 +710,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will double-check all mix proportions before preparing concrete in future tasks.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "There is loose debris left on the main walkway, and the area has not been cleared or marked.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a tripping hazard for anyone moving around the site.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Maintaining good housekeeping is an essential part of construction site safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -740,7 +740,7 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will clear the debris immediately and ensure walkways are kept clean and safe at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ]
