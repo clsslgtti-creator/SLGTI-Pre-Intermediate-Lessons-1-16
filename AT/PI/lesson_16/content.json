@@ -1,0 +1,585 @@
+{
+  "meta": {
+    "lesson_no": "16 - Assessment No. 2 ",
+    "level": "Pre-Intermediate",
+    "section": "Automobile Technology",
+    "prepared_by": "Colombo Language School"
+  },
+  "activity_1": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Choose the correct verb/word to fill in the blank in each sentence. \nසෑම වාක්‍යයකම හිස්තැන පිරවීම සඳහා නිවැරදි ක්‍රියා පදය/වචනය තෝරන්න.\nஒவ்வொரு வாக்கியத்திலும் வெற்றிடத்தை நிரப்ப சரியான வினைச்சொல்/சொல்லை தேர்ந்தெடுக்கவும்.",
+      "audio": "assets/audio/a_1_i.mp3"
+    },
+    "content": [
+      {
+        "question": "He routinely ______ the fuel injection system before every diagnostic test.",
+        "options": ["calibrate", "calibrates", "calibrated", "is calibrating"],
+        "answer": "calibrates"
+      },
+      {
+        "question": "She ______ ignore unusual engine vibrations during road testing but checks it out.",
+        "options": ["don’t", "did", "does", "doesn’t"],
+        "answer": "doesn’t"
+      },
+      {
+        "question": "The mechanic ______ the vehicle carefully onto the hydraulic lift yesterday.",
+        "options": ["drove", "drives", "is driving", "has driving"],
+        "answer": "drove"
+      },
+      {
+        "question": "The engine ______ responding correctly at the moment, during the acceleration test.",
+        "options": ["aren’t", "isn’t", "doesn’t", "don’t"],
+        "answer": "isn’t"
+      },
+      {
+        "question": "They ______ tighten the wheel nuts according to the service manual at the last service.",
+        "options": ["don’t", "doesn’t", "did’nt", "didn’t"],
+        "answer": "didn’t"
+      },
+      {
+        "question": "We ______ usually inspect the brake calipers after a test stop.",
+        "options": ["didn’t", "don’t", "doesn’t", "did"],
+        "answer": "don’t"
+      },
+      {
+        "question": "______ the instructor ______ the transmission fault to the trainees right now?",
+        "options": [
+          "Is/ explaining",
+          "are /explaining",
+          "don’t /explain",
+          "did/ explaining"
+        ],
+        "answer": "Is/ explaining"
+      },
+      {
+        "question": "______ the apprentice ______ the damaged spark plugs yesterday?",
+        "options": [
+          "Do/ replaced",
+          "Did/ replaces",
+          "Did/ replace",
+          "Is/ replacing"
+        ],
+        "answer": "Did/ replace"
+      },
+      {
+        "question": "The technician ______ live sensor data on the scan tool right now.",
+        "options": [
+          "has monitored",
+          "is monitoring",
+          "are monitering",
+          "monitored"
+        ],
+        "answer": "is monitoring"
+      },
+      {
+        "question": "The technician ______ to correct the torque setting for the cylinder head next week.",
+        "options": ["was going", "goes", "is going", "has gone"],
+        "answer": "is going"
+      }
+    ]
+  },
+  "activity_2": {
+    "marks_for_each_q": 1,
+    "type": "MCQ",
+    "instruction": {
+      "text": "Click on the correct answer.\nනිවැරදි පිළිතුර මත ක්ලික් කරන්න.\nசரியான பதிலில் கிளிக் செய்யவும்.",
+      "audio": "assets/audio/a_2_i.mp3"
+    },
+    "content": [
+      {
+        "question": "",
+        "options": [
+          "I am crying because I was sad.",
+          "I always cry when I am sad.",
+          "I am sad because I am crying."
+        ],
+        "answer": "I always cry when I am sad."
+      },
+      {
+        "question": "",
+        "options": [
+          "I usually sweep the garden after the rain.",
+          "I am sweeping the garden yesterday because it rained.",
+          "It rained so I am sweeping the garden yesterday."
+        ],
+        "answer": "I usually sweep the garden after the rain."
+      },
+      {
+        "question": "",
+        "options": [
+          "I am using the desktop today because my laptop is not booting up.",
+          "I use the desktop when my laptop didn’t boot up.",
+          "I use the laptop when my desktop was not booting up."
+        ],
+        "answer": "I am using the desktop today because my laptop is not booting up."
+      },
+      {
+        "question": "",
+        "options": [
+          "I drive to work because I got up late.",
+          "I am driving to work today because I was late getting up.",
+          "I drive to work after I am late getting up."
+        ],
+        "answer": "I am driving to work today because I was late getting up."
+      },
+      {
+        "question": "Can you use PowerPoint for a presentation?",
+        "options": [
+          "Yes, I use power point. In fact, I am always using power point for my presentations.",
+          "Yes, I do. I always used power point for my presentations.",
+          "Yes I can. In fact, I always use power point for my presentations."
+        ],
+        "answer": "Yes I can. In fact, I always use power point for my presentations."
+      },
+      {
+        "question": "Can she scan a document on both sides?",
+        "options": [
+          "Yes, she scans. In fact, she always scanned documents on both sides.",
+          "Yes, she can. In fact, she often scans documents on both sides.",
+          "Yes, she does. In fact, she is always scanning documents on both sides."
+        ],
+        "answer": "Yes, she can. In fact, she often scans documents on both sides."
+      },
+      {
+        "question": "Can you help us organize the auditorium for the seminar this evening?",
+        "options": [
+          "I’m afraid I can’t. I have to get the participant list ready.",
+          "I’m afraid I was not available to help. I have to get the participant list ready.",
+          "I’m afraid I’m not helping. Because I have to help with the participant list."
+        ],
+        "answer": "I’m afraid I can’t. I have to get the participant list ready."
+      },
+      {
+        "question": "Can your secretary assist us in getting the registration forms ready for the seminar?",
+        "options": [
+          "I’m afraid she will not able to help. Because she has to do hall arrangements.",
+          "I’m afraid she can’t. She has to see to the hall arrangements and the head table.",
+          "I’m afraid she won’t. She has to staple the participants’ folders."
+        ],
+        "answer": "I’m afraid she can’t. She has to see to the hall arrangements and the head table."
+      },
+      {
+        "question": "What happened to your leg?",
+        "options": [
+          "I sprained it yesterday when I fell over a concrete block.",
+          "I sprain it yesterday after falling over a concrete block.",
+          "I am spraining a ligament yesterday after I fell on a concrete block."
+        ],
+        "answer": "I sprained it yesterday when I fell over a concrete block."
+      },
+      {
+        "question": "Why is her hand in a plaster cast?",
+        "options": [
+          "She broked her forearm when she tried to shift the inverter motor last week.",
+          "She broke her forearm while trying to shift the inverter motor last week.",
+          "She had broke her forearm when she was shifting the inverter motor last week."
+        ],
+        "answer": "She broke her forearm while trying to shift the inverter motor last week."
+      },
+      {
+        "question": "Why is the mechanic absent today?",
+        "options": [
+          "He is absent because the forklift was bruising his toes two days ago.",
+          "He is absent because the forklift bruised his toes two days ago.",
+          "He is absent because the forklift bruises his toes two days ago."
+        ],
+        "answer": "He is absent because the forklift bruised his toes two days ago."
+      },
+      {
+        "question": "Why is the welder absent today?",
+        "options": [
+          "He is absent because the angle grinder was lacerating his fingers yesterday morning.",
+          "He is absent because the angle grinder had lacerates his fingers yesterday morning.",
+          "He is absent because the angle grinder lacerated his fingers yesterday morning."
+        ],
+        "answer": "He is absent because the angle grinder lacerated his fingers yesterday morning."
+      },
+      {
+        "question": "When are you going to compile the reports?",
+        "options": [
+          "I might be compiling it on Friday or I might be compiling it next week. I really don’t know yet. I just have to wait and see.",
+          "I might compiled it on Friday or I might compiled it next week. I really don’t know yet. I just have to wait and see.",
+          "I might compile it on Friday or I might compile it next week. I really don’t know yet. I just have to wait and see."
+        ],
+        "answer": "I might compile it on Friday or I might compile it next week. I really don’t know yet. I just have to wait and see."
+      },
+      {
+        "question": "When are you going to renew your license?",
+        "options": [
+          "I might renew it tomorrow or I might renew it the day after. I really don’t know yet. I just have to wait and see.",
+          "I might renewed it tomorrow or I might renewed it the day after. I really don’t know yet. I just have to wait and see.",
+          "I might be renewing it tomorrow or I might be renewing it the day after. I really don’t know yet. I just have to wait and see."
+        ],
+        "answer": "I might renew it tomorrow or I might renew it the day after. I really don’t know yet. I just have to wait and see."
+      },
+      {
+        "question": "What do you like to do on weekends?",
+        "options": [
+          "I like doing gardening. I usually do in the mornings, but today I’m doing in the evening.",
+          "I like to do some gardening. I usually do it in the morning, but today I’m going to do it in the evening.",
+          "I like doing the garden. I usually do it morning time, but today I’m doing evening time."
+        ],
+        "answer": "I like to do some gardening. I usually do it in the morning, but today I’m going to do it in the evening."
+      },
+      {
+        "question": "What do you like to do after work?",
+        "options": [
+          "I like to be doing reading. I’m usually reading fiction, but today I’m reading a biography.",
+          "I like to read a good book. I usually read fiction, but today I’m going to read a biography.",
+          "I like to do reading a good book. I usually read fiction, but today I’m going to read a biography."
+        ],
+        "answer": "I like to read a good book. I usually read fiction, but today I’m going to read a biography."
+      }
+    ]
+  },
+  "activity_3": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "JUMBLED",
+      "instruction": {
+        "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+        "audio": "assets/audio/a_3_i.mp3"
+      },
+      "content": [
+        {
+          "id": "n_3_a_1",
+          "audio": "assets/audio/a_3_1.mp3",
+          "words": [
+            "Do",
+            "technicians",
+            "always",
+            "follow",
+            "correct",
+            "torque",
+            "specifications",
+            "?"
+          ],
+          "sentence": "Do technicians always follow correct torque specifications?"
+        },
+        {
+          "id": "n_3_a_2",
+          "audio": "assets/audio/a_3_2.mp3",
+          "words": [
+            "Are",
+            "they",
+            "following",
+            "safety",
+            "regulations",
+            "right",
+            "now",
+            "?"
+          ],
+          "sentence": "Are they following safety regulations right now?"
+        },
+        {
+          "id": "n_3_a_3",
+          "audio": "assets/audio/a_3_3.mp3",
+          "words": [
+            "Why",
+            "should",
+            "operators",
+            "check",
+            "alignment",
+            "before",
+            "startup",
+            "?"
+          ],
+          "sentence": "Why should operators check alignment before startup?"
+        },
+        {
+          "id": "n_3_a_4",
+          "audio": "assets/audio/a_3_4.mp3",
+          "words": [
+            "Do",
+            "technicians",
+            "store",
+            "calibrated",
+            "tools",
+            "safely",
+            "after",
+            "use",
+            "?"
+          ],
+          "sentence": "Do technicians store calibrated tools safely after use?"
+        },
+        {
+          "id": "n_3_a_5",
+          "audio": "assets/audio/a_3_5.mp3",
+          "words": [
+            "Can",
+            "excessive",
+            "vibration",
+            "damage",
+            "critical",
+            "rotating",
+            "components",
+            "?"
+          ],
+          "sentence": "Can excessive vibration damage critical rotating components?"
+        }
+      ]
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "JUMBLED",
+      "instruction": {
+        "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+        "audio": "assets/audio/a_3_i.mp3"
+      },
+      "content": [
+        {
+          "id": "n_3_a_6",
+          "audio": "assets/audio/a_3_6.mp3",
+          "words": [
+            "Technicians",
+            "should",
+            "not",
+            "ignore",
+            "safety",
+            "procedures",
+            "."
+          ],
+          "sentence": "Technicians should not ignore safety procedures."
+        },
+        {
+          "id": "n_3_a_7",
+          "audio": "assets/audio/a_3_7.mp3",
+          "words": [
+            "Machines",
+            "should",
+            "not",
+            "run",
+            "without",
+            "proper",
+            "lubrication",
+            "."
+          ],
+          "sentence": "Machines should not run without proper lubrication."
+        },
+        {
+          "id": "n_3_a_8",
+          "audio": "assets/audio/a_3_8.mp3",
+          "words": [
+            "Operators",
+            "do",
+            "not",
+            "work",
+            "without",
+            "protective",
+            "equipment",
+            "."
+          ],
+          "sentence": "Operators do not work without protective equipment."
+        },
+        {
+          "id": "n_3_a_9",
+          "audio": "assets/audio/a_3_9.mp3",
+          "words": [
+            "Workers",
+            "should",
+            "not",
+            "exceed",
+            "specified",
+            "load",
+            "limits",
+            "."
+          ],
+          "sentence": "Workers should not exceed specified load limits."
+        },
+        {
+          "id": "n_3_a_10",
+          "audio": "assets/audio/a_3_10.mp3",
+          "words": [
+            "Supervisors",
+            "do",
+            "not",
+            "approve",
+            "unsafe",
+            "maintenance",
+            "practices",
+            "."
+          ],
+          "sentence": "Supervisors do not approve unsafe maintenance practices."
+        }
+      ]
+    },
+    "c": {
+      "marks_for_each_q": 1,
+      "type": "JUMBLED",
+      "instruction": {
+        "text": "Rearrange these sentences in the correct order. The first word of each sentence starts with a capital letter.\nමෙම වාක්‍යයන් නිවැරදි අනුපිළිවෙලට නැවත සකසන්න. සෑම වාක්‍යයකම පළමු වචනය විශාල අකුරින් ආරම්භ වේ.\nஇந்த வாக்கியங்களை சரியான வரிசையில் மறுசீரமைக்கவும். ஒவ்வொரு வாக்கியத்தின் முதல் வார்த்தையும் பெரிய எழுத்தில் தொடங்குகிறது.",
+        "audio": "assets/audio/a_3_i.mp3"
+      },
+      "content": [
+        {
+          "id": "n_3_a_11",
+          "audio": "assets/audio/a_3_11.mp3",
+          "words": [
+            "Technicians",
+            "always",
+            "inspect",
+            "equipment",
+            "before",
+            "starting",
+            "operations",
+            "."
+          ],
+          "sentence": "Technicians always inspect equipment before starting operations."
+        },
+        {
+          "id": "n_3_a_12",
+          "audio": "assets/audio/a_3_12.mp3",
+          "words": [
+            "Operators",
+            "often",
+            "follow",
+            "standard",
+            "maintenance",
+            "procedures",
+            "carefully",
+            "."
+          ],
+          "sentence": "Operators often follow standard maintenance procedures carefully."
+        },
+        {
+          "id": "n_3_a_13",
+          "audio": "assets/audio/a_3_13.mp3",
+          "words": [
+            "Supervisors",
+            "rarely",
+            "approve",
+            "unsafe",
+            "repair",
+            "methods",
+            "."
+          ],
+          "sentence": "Supervisors rarely approve unsafe repair methods."
+        },
+        {
+          "id": "n_3_a_14",
+          "audio": "assets/audio/a_3_14.mp3",
+          "words": [
+            "Workers",
+            "never",
+            "ignore",
+            "mandatory",
+            "safety",
+            "instructions",
+            "."
+          ],
+          "sentence": "Workers never ignore mandatory safety instructions."
+        },
+        {
+          "id": "n_3_a_15",
+          "audio": "assets/audio/a_3_15.mp3",
+          "words": [
+            "Machines",
+            "sometimes",
+            "require",
+            "additional",
+            "lubrication",
+            "during",
+            "operation",
+            "."
+          ],
+          "sentence": "Machines sometimes require additional lubrication during operation."
+        }
+      ]
+    }
+  },
+  "activity_4": {
+    "a": {
+      "marks_for_each_q": 1,
+      "type": "MATCHING-WORDS",
+      "instruction": {
+        "text": "Match the answers with the correct questions. \nපිළිතුරු නිවැරදි ප්‍රශ්න සමඟ යා කරන්න.\nபதில்களைச் சரியான கேள்விகளுடன் பொருத்துக.",
+        "audio": "assets/audio/a_4_i_b.mp3"
+      },
+      "content": [
+        {
+          "id": "n_4_a_1",
+          "item_b": "What happened on the factory floor today?",
+          "item_a": "A worker slipped near the machine"
+        },
+        {
+          "id": "n_4_a_2",
+          "item_b": "Why did he slip?",
+          "item_a": "The floor was wet."
+        },
+        {
+          "id": "n_4_a_3",
+          "item_b": "Who was involved in the incident?",
+          "item_a": "One operator and two trainees."
+        },
+        {
+          "id": "n_4_a_4",
+          "item_b": "Where did the incident occur?",
+          "item_a": "It happened near the packing area."
+        },
+        {
+          "id": "n_4_a_5",
+          "item_b": "How was the situation handled afterward?",
+          "item_a": "The supervisor stopped the work."
+        }
+      ]
+    },
+    "b": {
+      "marks_for_each_q": 1,
+      "type": "LISTENING",
+      "instruction": {
+        "text": "Listen to the audio which will be played twice. Then click on the correct answer. Read the questions first. \nපළමුව ප්‍රශ්න කියවන්න. පසුව දෙවරක් වාදනය වන දෙබසට සවන් දෙන්න. ඉන්පසු නිවැරදි පිළිතුර ක්ලික් කරන්න.\nபதிவை இரண்டு முறை கேட்பீர்கள், கவனமாகக் கேளுங்கள். பிறகு சரியான பதிலைக் கிளிக் செய்யவும். முதலில் கேள்விகளை வாசிக்கவும்.",
+        "audio": "assets/audio/a_4_i.mp3"
+      },
+      "audio": "assets/audio/a_4_q.mp3",
+      "content": [
+        {
+          "question": "What was the main safety failure that led to the incident?",
+          "answer": "Work continued without checking floor conditions.",
+          "options": [
+            "A machine malfunctioned during production",
+            "Work continued without checking floor conditions.",
+            "The operator ignored emergency instructions"
+          ]
+        },
+        {
+          "question": "Why was the supervisor partly responsible for the accident?",
+          "answer": "The supervisor allowed work to go on, even with the wet floor.",
+          "options": [
+            "The supervisor caused the floor to become wet",
+            "The supervisor failed to report the incident immediately",
+            "The supervisor allowed work to go on, even with the wet floor."
+          ]
+        },
+        {
+          "question": "What role did training play in the safety issue?",
+          "answer": "Safety rules were known but not properly followed.",
+          "options": [
+            "The trainees were not trained at all",
+            "Safety rules were known but not properly followed.",
+            "Training focused only on machine operation"
+          ]
+        },
+        {
+          "question": "Which action best shows responsibility by factory staff?",
+          "answer": "Admitting mistakes and apologising for not following regulations.",
+          "options": [
+            "Restarting production quickly",
+            "Issuing a written warning to workers",
+            "Admitting mistakes and apologising for not following regulations."
+          ]
+        },
+        {
+          "question": "What was the most effective immediate response after the accident?",
+          "answer": "Stopping work and securing the area before restarting production.",
+          "options": [
+            "Completing the shift before cleaning the area",
+            "Sending the trainee home",
+            "Stopping work and securing the area before restarting production."
+          ]
+        }
+      ]
+    }
+  }
+}
