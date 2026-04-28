@@ -33,9 +33,9 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "pr'o'be",
+        "word_text": "n'o'de",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "She uses the pr'o'be accurately when testing sensor signals.",
+        "sentence_text": "The system administrator regularly monitors each n'o'de for network stability.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -43,23 +43,23 @@
         "id": "p_2",
         "word_text": "l'oa'd bank",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "They are going to run the l'oa'd bank to test alternator output tomorrow.",
+        "sentence_text": "The l'oa'd balancer sent traffic to a backup server automatically.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "sm'o'ke tester",
+        "word_text": "c'o'ld boot",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "The mechanic is using a sm'o'ke tester to find leaks.",
+        "sentence_text": "The technician is going to perform a c'o'ld boot after the system failure.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
       {
         "id": "p_4",
-        "word_text": "t'ow' bar",
+        "word_text": "cons'o'le",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "He drove the disabled vehicle from the roadside, using a t'ow' bar.",
+        "sentence_text": "The engineer is configuring the cons'o'le to manage server settings.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -388,51 +388,51 @@
         "Questions": [
           {
             "id": "l_18_1",
-            "question": "Why was the instructor concerned about the engine being left running?",
-            "answer": "It creates a serious safety risk in the workshop area.",
+            "question": "Why was the instructor concerned about the server being left logged in?",
+            "answer": "It creates a serious security risk for the system and network.",
             "options": [
-              "It creates a serious safety risk for the service bay area.",
-              "It creates a serious safety risk in the workshop area.",
-              "It delays routine servicing tasks."
+              "It causes the system and network to log in to the server console.",
+              "It creates a serious security risk for the system and network.",
+              "It increases electricity consumption in the lab."
             ]
           },
           {
             "id": "l_18_2",
-            "question": "What was the main problem with the wheel nuts?",
-            "answer": "They were tightened below the specified torque value.",
+            "question": "What was the main problem with the network configuration?",
+            "answer": "The IP settings did not match the configuration guide.",
             "options": [
-              "They were tightened before the vehicle was released safely.",
-              "They were damaged during removal.",
-              "They were tightened below the specified torque value."
+              "The systems cannot access the setup guide.",
+              "The computers are communicating with the network as expected.",
+              "The IP settings did not match the configuration guide."
             ]
           },
           {
             "id": "l_18_3",
-            "question": "What mistake did the trainee make when tightening the wheel nuts?",
-            "answer": "He set the torque wrench incorrectly and did not recheck the value.",
+            "question": "What mistake did the trainee make when configuring the network?",
+            "answer": "He entered the IP address without cross-checking it.",
             "options": [
-              "He set the value incorrectly and did not recheck the torque wrench.",
-              "He unfastened the torque wrench incorrectly.",
-              "He set the torque wrench incorrectly and did not recheck the value."
+              "He ignored the setup guide completely.",
+              "He configured the system but did not check the network.",
+              "He entered the IP address without cross-checking it."
             ]
           },
           {
             "id": "l_18_4",
-            "question": "Why is an oil spill under a vehicle dangerous?",
-            "answer": "It creates a slipping hazard for people working nearby.",
+            "question": "Why are cables left across the lab floor dangerous?",
+            "answer": "They create a tripping hazard for people in the lab.",
             "options": [
-              "It stains the workshop floor permanently.",
-              "It creates a slipping hazard for people working nearby.",
-              "People working nearby can’t do the housekeeping without slipping."
+              "They create warning signs for housekeeping.",
+              "They create a tripping hazard for people in the lab.",
+              "They make the lab look untidy."
             ]
           },
           {
             "id": "l_18_5",
-            "question": "Which response best reflects professional acceptance of an apology in a workshop context?",
+            "question": "Which response best reflects professional acceptance of an apology in a workshop or lab context?",
             "answer": "“Thank you for explaining. Please correct it and follow the procedure.”",
             "options": [
               "“Thank you for explaining. Please correct it and follow the procedure.”",
-              "“That should never happen in this workshop.”",
+              "“That mistake should never happen here.”",
               "“This problem can be ignored for now.”"
             ]
           }
@@ -441,17 +441,17 @@
       "activity_b": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I checked the ICT lab, I noticed the server console was still logged in and unattended.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear security risk for the system and the network.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You usually follow access control procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -461,32 +461,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I stepped away to assist another student and did not log out of the system properly.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will make sure all sessions are logged out and secured before leaving the workstation in the future.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "These computers are not communicating with the network as expected.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The IP settings do not match the configuration given in the setup guide, which means the systems cannot access shared resources.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in ICT work, so we need to identify how this error occurred.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -496,7 +496,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I entered the IP address manually and did not cross-check it with the configuration sheet.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -506,22 +506,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will verify all network settings carefully before completing any configuration tasks in the future.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "I can see network cables left across the lab floor without any warning signs or cable covers.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a tripping hazard for anyone moving around the room.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Good housekeeping is an essential part of ICT lab safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -536,24 +536,24 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will route the cables properly and ensure all walkways are kept clear at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ],
       "activity_c": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I checked the ICT lab, I noticed the server console was still logged in and unattended.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear security risk for the system and the network.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You usually follow access control procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -563,32 +563,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I stepped away to assist another student and did not log out of the system properly.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will make sure all sessions are logged out and secured before leaving the workstation in the future.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "These computers are not communicating with the network as expected.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The IP settings do not match the configuration given in the setup guide, which means the systems cannot access shared resources.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in ICT work, so we need to identify how this error occurred.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -598,7 +598,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I entered the IP address manually and did not cross-check it with the configuration sheet.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -608,22 +608,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will verify all network settings carefully before completing any configuration tasks in the future.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "I can see network cables left across the lab floor without any warning signs or cable covers.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a tripping hazard for anyone moving around the room.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Good housekeeping is an essential part of ICT lab safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -638,24 +638,24 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will route the cables properly and ensure all walkways are kept clear at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ],
       "activity_d": [
         {
           "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
+          "text": "When I checked the ICT lab, I noticed the server console was still logged in and unattended.",
           "audio": "assets/audio/t_1.mp3"
         },
         {
           "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
+          "text": "That creates a clear security risk for the system and the network.",
           "audio": "assets/audio/t_2.mp3"
         },
         {
           "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
+          "text": "You usually follow access control procedures, so I would like to understand what caused this situation.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -665,32 +665,32 @@
         },
         {
           "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
+          "text": "I stepped away to assist another student and did not log out of the system properly.",
           "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
-          "text": "Thank you for highlighting the issue.",
+          "text": "Thank you for pointing it out.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
           "id": "t_7",
-          "text": "I will ensure the engine is fully shut down and the vehicle is secured before leaving the bay in the future.",
+          "text": "I will make sure all sessions are logged out and secured before leaving the workstation in the future.",
           "audio": "assets/audio/t_7.mp3"
         },
         {
           "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
+          "text": "These computers are not communicating with the network as expected.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
+          "text": "The IP settings do not match the configuration given in the setup guide, which means the systems cannot access shared resources.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
           "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
+          "text": "Accuracy is critical in ICT work, so we need to identify how this error occurred.",
           "audio": "assets/audio/t_10.mp3"
         },
         {
@@ -700,7 +700,7 @@
         },
         {
           "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
+          "text": "I entered the IP address manually and did not cross-check it with the configuration sheet.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -710,22 +710,22 @@
         },
         {
           "id": "t_14",
-          "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
+          "text": "I will verify all network settings carefully before completing any configuration tasks in the future.",
           "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
+          "text": "I can see network cables left across the lab floor without any warning signs or cable covers.",
           "audio": "assets/audio/t_15.mp3"
         },
         {
           "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
+          "text": "This creates a tripping hazard for anyone moving around the room.",
           "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
+          "text": "Good housekeeping is an essential part of ICT lab safety.",
           "audio": "assets/audio/t_17.mp3"
         },
         {
@@ -740,7 +740,7 @@
         },
         {
           "id": "t_20",
-          "text": "I will clean the spill immediately and make sure any fluid leaks are dealt with without delay from now on.",
+          "text": "I will route the cables properly and ensure all walkways are kept clear at all times.",
           "audio": "assets/audio/t_20.mp3"
         }
       ]
