@@ -727,7 +727,7 @@ const buildListeningSlide = (
     const card = createDialogueCard(dialogue, { classes: ['dialogue-card--listening'] });
     const heading = document.createElement('h3');
     heading.className = 'dialogue-card__title';
-    heading.textContent = `Dialogue ${index + 1}`;
+    heading.textContent = ` `;
     card.prepend(heading);
     list.appendChild(card);
     return {
@@ -918,7 +918,7 @@ const buildListenAndRepeatSlide = (
     const card = createDialogueCard(dialogue, { classes: ['dialogue-card--listen-repeat'] });
     const heading = document.createElement('h3');
     heading.className = 'dialogue-card__title';
-    heading.textContent = `Dialogue ${index + 1}`;
+    heading.textContent = ` `;
     card.prepend(heading);
     list.appendChild(card);
     return {
@@ -1129,7 +1129,7 @@ const buildReadingSlide = (
     const card = createDialogueCard(dialogue, { classes: ['dialogue-card--reading'] });
     const heading = document.createElement('h3');
     heading.className = 'dialogue-card__title';
-    heading.textContent = `Dialogue ${index + 1}`;
+    heading.textContent = ` `;
     card.prepend(heading);
     grid.appendChild(card);
     return {
@@ -1333,7 +1333,7 @@ const buildSpeakingSlide = (
     });
     const heading = document.createElement('h3');
     heading.className = 'dialogue-card__title';
-    heading.textContent = `Dialogue ${index + 1}`;
+    heading.textContent = ` `;
     card.prepend(heading);
 
     const prompt = document.createElement('p');

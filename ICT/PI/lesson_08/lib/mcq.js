@@ -208,7 +208,7 @@ export const buildMcqSlides = (
 
     const title = document.createElement("h3");
     title.className = "dialogue-card__title";
-    title.textContent = `Question ${index + 1}`;
+    title.textContent = `${index + 1}`;
     card.appendChild(title);
 
     const prompt = document.createElement("p");

@@ -269,7 +269,7 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
 
     const title = document.createElement("h3");
     title.className = "dialogue-card__title";
-    title.textContent = `Question ${index + 1}`;
+    title.textContent = `${index + 1}`;
     card.appendChild(title);
 
     const prompt = document.createElement("p");
@@ -668,7 +668,7 @@ const buildMcqSlide = (questions = [], context = {}) => {
 
     const title = document.createElement("h3");
     title.className = "dialogue-card__title";
-    title.textContent = `Question ${index + 1}`;
+    title.textContent = `${index + 1}`;
     card.appendChild(title);
 
     const optionGroup = document.createElement("div");
@@ -809,8 +809,8 @@ const buildMcqSlide = (questions = [], context = {}) => {
       }
       status.textContent =
         pass === 0
-          ? `Question ${index + 1} of ${total}: playing`
-          : `Question ${index + 1} of ${total}: replaying`;
+          ? `${index + 1} of ${total}: playing`
+          : `${index + 1} of ${total}: replaying`;
       try {
         await audioManager.play(audio, { signal });
       } catch (error) {
@@ -1155,7 +1155,7 @@ const createSequencedTextSlide = (
     if (showLineNumbers) {
       const title = document.createElement("h3");
       title.className = "dialogue-card__title";
-      title.textContent = `Line ${index + 1}`;
+      title.textContent = `${index + 1}`;
       card.appendChild(title);
     }
 
@@ -1520,7 +1520,7 @@ export const buildListeningSevenSlides = (activityData = {}, context = {}) => {
         autoDelayMs: 5000,
         repeatPauseMs,
         groupedEntries: true,
-        groupLabel: "Set",
+        groupLabel: "",
         showLineNumbers: false,
       }
     ),

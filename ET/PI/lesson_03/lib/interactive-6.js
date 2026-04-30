@@ -308,7 +308,7 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
     header.className = "interactive6-sentence-header";
 
     const title = document.createElement("h3");
-    title.textContent = `Sentence ${index + 1}`;
+    title.textContent = `${index + 1}`;
 
     const timer = document.createElement("span");
     timer.className = "interactive6-timer";
@@ -618,7 +618,7 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
       let remaining = totalSeconds;
 
       const updateStatus = () => {
-        status.textContent = `Sentence ${index + 1} of ${
+        status.textContent = `${index + 1} of ${
           matchingItems.length
         }: Drag the image (${remaining}s)`;
         if (timerEls[index]) {
@@ -692,7 +692,7 @@ const buildTimedImageMatchingSlide = (data = {}, context = {}) => {
           block: "center",
         });
         setInteractionEnabled(false);
-        status.textContent = `Sentence ${index + 1} of ${
+        status.textContent = `${index + 1} of ${
           matchingItems.length
         }: Listening...`;
 
@@ -976,7 +976,7 @@ const createSequencedTextSlide = (
     if (showLineNumbers) {
       const title = document.createElement("h3");
       title.className = "dialogue-card__title";
-      title.textContent = `Line ${index + 1}`;
+      title.textContent = `${index + 1}`;
       card.appendChild(title);
     }
 
