@@ -211,7 +211,7 @@ export const buildMatchingWordsSlides = (
     card.className = "word-match-sentence";
 
     const title = document.createElement("h3");
-    title.textContent = `Pair ${index + 1}`;
+    title.textContent = `${index + 1}`;
     card.appendChild(title);
 
     const body = document.createElement("p");

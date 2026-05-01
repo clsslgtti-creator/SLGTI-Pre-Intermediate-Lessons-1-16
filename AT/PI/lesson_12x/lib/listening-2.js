@@ -266,7 +266,7 @@ const buildComprehensionSlide = (data = {}, context = {}) => {
 
     const title = document.createElement("h3");
     title.className = "dialogue-card__title";
-    title.textContent = `Question ${index + 1}`;
+    title.textContent = `${index + 1}`;
     card.appendChild(title);
 
     const prompt = document.createElement("p");
@@ -743,7 +743,7 @@ const createSequencedTextSlide = (
     if (showLineNumbers) {
       const title = document.createElement("h3");
       title.className = "dialogue-card__title";
-      title.textContent = `Line ${index + 1}`;
+      title.textContent = `${index + 1}`;
       card.appendChild(title);
     }
 
@@ -1106,7 +1106,7 @@ export const buildListeningTwoSlides = (activityData = {}, context = {}) => {
         autoDelayMs: 5000,
         repeatPauseMs,
         groupedEntries: true,
-        groupLabel: "Set",
+        groupLabel: "",
         showLineNumbers: false,
       }
     ),

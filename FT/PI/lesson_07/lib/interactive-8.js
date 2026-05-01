@@ -722,7 +722,7 @@ const createSequencedTextSlide = (
     if (showLineNumbers) {
       const cardTitle = document.createElement("h3");
       cardTitle.className = "dialogue-card__title";
-      cardTitle.textContent = `Line ${index + 1}`;
+      cardTitle.textContent = `${index + 1}`;
       card.appendChild(cardTitle);
     }
 
@@ -1213,7 +1213,7 @@ export const buildInteractive8Slides = (activityData = {}, context = {}) => {
         mode: "read",
         autoDelayMs: 5000,
         groupedEntries: true,
-        groupLabel: "Set",
+        groupLabel: "",
         showLineNumbers: false,
       })
     );

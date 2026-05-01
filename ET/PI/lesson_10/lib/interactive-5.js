@@ -368,7 +368,7 @@ const createListenRepeatSlide = (
 
     const cardTitle = document.createElement("h3");
     cardTitle.className = "dialogue-card__title";
-    cardTitle.textContent = `Line ${index + 1}`;
+    cardTitle.textContent = `${index + 1}`;
     card.appendChild(cardTitle);
 
     const wrapper = document.createElement("div");

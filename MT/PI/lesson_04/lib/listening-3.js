@@ -352,7 +352,7 @@ const buildMatchingGridSlide = (data = {}, context = {}) => {
       media.className = "pre-listening-card__media";
       const img = document.createElement("img");
       img.src = item.image;
-      img.alt = `Object ${index + 1}`;
+      img.alt = `${index + 1}`;
       img.loading = "lazy";
       media.appendChild(img);
 
@@ -789,7 +789,7 @@ const createSequencedTextSlide = (
     if (showLineNumbers) {
       const title = document.createElement("h3");
       title.className = "dialogue-card__title";
-      title.textContent = `Line ${index + 1}`;
+      title.textContent = `${index + 1}`;
       card.appendChild(title);
     }
 

@@ -550,7 +550,7 @@ const createListenRepeatSlide = (
 
     const cardTitle = document.createElement("h3");
     cardTitle.className = "dialogue-card__title";
-    cardTitle.textContent = `Line ${index + 1}`;
+    cardTitle.textContent = `${index + 1}`;
     card.appendChild(cardTitle);
 
     const wrapper = document.createElement("div");
@@ -883,7 +883,7 @@ const buildKeywordMatchSlide = (pairs = [], context = {}) => {
     card.className = "word-match-sentence";
 
     const heading = document.createElement("h3");
-    heading.textContent = `Sentence ${index + 1}`;
+    heading.textContent = `${index + 1}`;
     card.appendChild(heading);
 
     const body = document.createElement("p");
