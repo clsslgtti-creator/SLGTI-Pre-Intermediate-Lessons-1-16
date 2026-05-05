@@ -89,7 +89,7 @@
     },
     "content": [
       {
-        "question": "",
+        "question": "Click on the correct sentence/ answer. ",
         "options": [
           "I am crying because I was sad.",
           "I always cry when I am sad.",
@@ -98,7 +98,7 @@
         "answer": "I always cry when I am sad."
       },
       {
-        "question": "",
+        "question": "Click on the correct sentence/ answer. ",
         "options": [
           "I usually sweep the garden after the rain.",
           "I am sweeping the garden yesterday because it rained.",
@@ -107,7 +107,7 @@
         "answer": "I usually sweep the garden after the rain."
       },
       {
-        "question": "",
+        "question": "Click on the correct sentence/ answer. ",
         "options": [
           "I am using the desktop today because my laptop is not booting up.",
           "I use the desktop when my laptop didn’t boot up.",
@@ -116,7 +116,7 @@
         "answer": "I am using the desktop today because my laptop is not booting up."
       },
       {
-        "question": "",
+        "question": "Click on the correct sentence/ answer. ",
         "options": [
           "I drive to work because I got up late.",
           "I am driving to work today because I was late getting up.",
