@@ -361,43 +361,43 @@
         "content": [
           {
             "id": "g_a_1",
-            "colunm_a": "firm",
-            "colunm_b": "holding its shape well; not soft or loose"
+            "colunm_a": "holding its shape well; not soft or loose",
+            "colunm_b": "firm"
           },
           {
             "id": "g_a_2",
-            "colunm_a": "moist",
-            "colunm_b": "slightly wet; containing a small amount of water"
+            "colunm_a": "slightly wet; containing a small amount of water",
+            "colunm_b": "moist"
           },
           {
             "id": "g_a_3",
-            "colunm_a": "rough",
-            "colunm_b": "not smooth; uneven to touch"
+            "colunm_a": "not smooth; uneven to touch",
+            "colunm_b": "rough"
           },
           {
             "id": "g_a_4",
-            "colunm_a": "durable",
-            "colunm_b": "able to withstand handling and storage without damage"
+            "colunm_a": "able to withstand handling and storage without damage",
+            "colunm_b": "durable"
           },
           {
             "id": "g_a_5",
-            "colunm_a": "processed",
-            "colunm_b": "treated or prepared using specific methods"
+            "colunm_a": "treated or prepared using specific methods",
+            "colunm_b": "processed"
           },
           {
             "id": "g_a_6",
-            "colunm_a": "preserved",
-            "colunm_b": "treated to prevent spoilage and extend shelf life"
+            "colunm_a": "treated to prevent spoilage and extend shelf life",
+            "colunm_b": "preserved"
           },
           {
             "id": "g_a_7",
-            "colunm_a": "hygienic",
-            "colunm_b": "clean and safe for handling food"
+            "colunm_a": "clean and safe for handling food",
+            "colunm_b": "hygienic"
           },
           {
             "id": "g_a_8",
-            "colunm_a": "contaminated",
-            "colunm_b": "containing harmful substances or germs"
+            "colunm_a": "containing harmful substances or germs",
+            "colunm_b": "contaminated"
           }
         ]
       },

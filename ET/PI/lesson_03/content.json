@@ -361,43 +361,43 @@
         "content": [
           {
             "id": "g_a_1",
-            "colunm_a": "flexible",
-            "colunm_b": "can bend easily without breaking"
+            "colunm_a": "can bend easily without breaking",
+            "colunm_b": "flexible"
           },
           {
             "id": "g_a_2",
-            "colunm_a": "smooth",
-            "colunm_b": "has no rough or uneven parts"
+            "colunm_a": "has no rough or uneven parts",
+            "colunm_b": "smooth"
           },
           {
             "id": "g_a_3",
-            "colunm_a": "firm",
-            "colunm_b": "fixed strongly and securely"
+            "colunm_a": "fixed strongly and securely",
+            "colunm_b": "firm"
           },
           {
             "id": "g_a_4",
-            "colunm_a": "loose",
-            "colunm_b": "not fixed firmly; can move easily"
+            "colunm_a": "not fixed firmly; can move easily",
+            "colunm_b": "loose"
           },
           {
             "id": "g_a_5",
-            "colunm_a": "insulated",
-            "colunm_b": "covered to prevent electric current from passing through"
+            "colunm_a": "covered to prevent electric current from passing through",
+            "colunm_b": "insulated"
           },
           {
             "id": "g_a_6",
-            "colunm_a": "exposed",
-            "colunm_b": "not covered or protected"
+            "colunm_a": "not covered or protected",
+            "colunm_b": "exposed"
           },
           {
             "id": "g_a_7",
-            "colunm_a": "live",
-            "colunm_b": "carrying electric current"
+            "colunm_a": "carrying electric current",
+            "colunm_b": "live"
           },
           {
             "id": "g_a_8",
-            "colunm_a": "damaged",
-            "colunm_b": "broken or faulty so it does not work safely"
+            "colunm_a": "broken or faulty so it does not work safely",
+            "colunm_b": "damaged"
           }
         ]
       },

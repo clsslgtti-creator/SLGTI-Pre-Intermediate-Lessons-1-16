@@ -361,43 +361,43 @@
         "content": [
           {
             "id": "g_a_1",
-            "colunm_a": "flexible",
-            "colunm_b": "can bend easily without breaking"
+            "colunm_a": "can bend easily without breaking",
+            "colunm_b": "flexible"
           },
           {
             "id": "g_a_2",
-            "colunm_a": "smooth",
-            "colunm_b": "has no rough or uneven parts"
+            "colunm_a": "has no rough or uneven parts",
+            "colunm_b": "smooth"
           },
           {
             "id": "g_a_3",
-            "colunm_a": "straight",
-            "colunm_b": "not bent or curved"
+            "colunm_a": "not bent or curved",
+            "colunm_b": "straight"
           },
           {
             "id": "g_a_4",
-            "colunm_a": "firm",
-            "colunm_b": "fixed strongly and securely"
+            "colunm_a": "fixed strongly and securely",
+            "colunm_b": "firm"
           },
           {
             "id": "g_a_5",
-            "colunm_a": "hard",
-            "colunm_b": "solid and difficult to press or cut"
+            "colunm_a": "solid and difficult to press or cut",
+            "colunm_b": "hard"
           },
           {
             "id": "g_a_6",
-            "colunm_a": "rough",
-            "colunm_b": "not smooth; uneven to touch"
+            "colunm_a": "not smooth; uneven to touch",
+            "colunm_b": "rough"
           },
           {
             "id": "g_a_7",
-            "colunm_a": "loose",
-            "colunm_b": "not fixed firmly; can move easily"
+            "colunm_a": "not fixed firmly; can move easily",
+            "colunm_b": "loose"
           },
           {
             "id": "g_a_8",
-            "colunm_a": "worn",
-            "colunm_b": "damaged or weakened by long use"
+            "colunm_a": "damaged or weakened by long use",
+            "colunm_b": "worn"
           }
         ]
       },

@@ -361,43 +361,43 @@
         "content": [
           {
             "id": "g_a_1",
-            "colunm_a": "straight",
-            "colunm_b": "not bent or curved"
+            "colunm_a": "not bent or curved",
+            "colunm_b": "straight"
           },
           {
             "id": "g_a_2",
-            "colunm_a": "firm",
-            "colunm_b": "fixed strongly and securely"
+            "colunm_a": "fixed strongly and securely",
+            "colunm_b": "firm"
           },
           {
             "id": "g_a_3",
-            "colunm_a": "rough",
-            "colunm_b": "not smooth; uneven to touch"
+            "colunm_a": "not smooth; uneven to touch",
+            "colunm_b": "rough"
           },
           {
             "id": "g_a_4",
-            "colunm_a": "level",
-            "colunm_b": "flat and even; not sloping"
+            "colunm_a": "flat and even; not sloping",
+            "colunm_b": "level"
           },
           {
             "id": "g_a_5",
-            "colunm_a": "stable",
-            "colunm_b": "strong and not likely to move or collapse"
+            "colunm_a": "strong and not likely to move or collapse",
+            "colunm_b": "stable"
           },
           {
             "id": "g_a_6",
-            "colunm_a": "moist",
-            "colunm_b": "slightly wet; containing a small amount of water"
+            "colunm_a": "slightly wet; containing a small amount of water",
+            "colunm_b": "moist"
           },
           {
             "id": "g_a_7",
-            "colunm_a": "aligned",
-            "colunm_b": "positioned correctly in relation to other parts"
+            "colunm_a": "positioned correctly in relation to other parts",
+            "colunm_b": "aligned"
           },
           {
             "id": "g_a_8",
-            "colunm_a": "reinforced",
-            "colunm_b": "strengthened with steel or other supporting material"
+            "colunm_a": "strengthened with steel or other supporting material",
+            "colunm_b": "reinforced"
           }
         ]
       },

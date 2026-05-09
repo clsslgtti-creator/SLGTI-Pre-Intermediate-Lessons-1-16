@@ -361,43 +361,43 @@
         "content": [
           {
             "id": "g_a_1",
-            "colunm_a": "secure",
-            "colunm_b": "protected against unauthorised access or misuse"
+            "colunm_a": "protected against unauthorised access or misuse",
+            "colunm_b": "secure"
           },
           {
             "id": "g_a_2",
-            "colunm_a": "damaged",
-            "colunm_b": "broken or faulty so it does not work properly"
+            "colunm_a": "broken or faulty so it does not work properly",
+            "colunm_b": "damaged"
           },
           {
             "id": "g_a_3",
-            "colunm_a": "loose",
-            "colunm_b": "not firmly connected; can disconnect easily"
+            "colunm_a": "not firmly connected; can disconnect easily",
+            "colunm_b": "loose"
           },
           {
             "id": "g_a_4",
-            "colunm_a": "insulated",
-            "colunm_b": "covered to prevent unwanted electrical contact"
+            "colunm_a": "covered to prevent unwanted electrical contact",
+            "colunm_b": "insulated"
           },
           {
             "id": "g_a_5",
-            "colunm_a": "active",
-            "colunm_b": "currently running or in use"
+            "colunm_a": "currently running or in use",
+            "colunm_b": "active"
           },
           {
             "id": "g_a_6",
-            "colunm_a": "offline",
-            "colunm_b": "not connected to a network or the internet"
+            "colunm_a": "not connected to a network or the internet",
+            "colunm_b": "offline"
           },
           {
             "id": "g_a_7",
-            "colunm_a": "configured",
-            "colunm_b": "set up correctly for proper operation"
+            "colunm_a": "set up correctly for proper operation",
+            "colunm_b": "configured"
           },
           {
             "id": "g_a_8",
-            "colunm_a": "compatible",
-            "colunm_b": "able to work correctly with another system or device"
+            "colunm_a": "able to work correctly with another system or device",
+            "colunm_b": "compatible"
           }
         ]
       },
