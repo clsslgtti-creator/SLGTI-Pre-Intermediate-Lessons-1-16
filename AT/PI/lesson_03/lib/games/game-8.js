@@ -634,8 +634,8 @@ export const createWordMatchingGameScene = (config = {}) => {
       const rightWidth = 200;
       const leftFontSize = Math.max(18, Math.min(28, Math.floor(leftWidth / 18)));
       const rightFontSize = Math.max(
-        18,
-        Math.min(26, Math.floor(rightWidth / 18))
+        20,
+        Math.min(30, Math.floor(rightWidth / 7))
       );
 
       const rowHeights = leftOrder.map((pair, index) => {
