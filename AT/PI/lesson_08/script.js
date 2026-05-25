@@ -1642,6 +1642,7 @@ const showSlide = (nextIndex) => {
   nextSlide.onEnter?.();
 
   nextSlide._instructionComplete = false;
+  nextSlide._autoTriggered = false;
   handleInstructionForSlide(nextSlide);
   nextSlide.element.scrollTop = 0;
   nextSlide.element.querySelectorAll(".dialogue-grid").forEach((grid) => {
