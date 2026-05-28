@@ -179,33 +179,33 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.png",
-        "word": "words-x1"
+        "image": "assets/img/a_2_d_1.png",
+        "word": "inspecting the faulty fire extinguishers"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_5.png",
-        "word": "words-x2"
+        "image": "assets/img/a_2_d_2.png",
+        "word": "explaining how to use the hydraulic coconut milk press"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.png",
-        "word": "words-x3"
+        "image": "assets/img/a_2_d_3.png",
+        "word": "taking notes"
       },
       {
         "id": "k_4",
-        "image": "assets/img/a_2_d_7.png",
-        "word": "words-x4"
+        "image": "assets/img/a_2_d_4.png",
+        "word": "checking the power supply"
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_8.png",
-        "word": "words-x5"
+        "image": "assets/img/a_2_d_6.png",
+        "word": "listening to the safety briefing"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "words-x6"
+        "word": "paying for shorteats"
       }
     ],
     "dialogues": [
@@ -279,7 +279,7 @@
         "text_e": "Where is he now?",
         "text_f": "He is in the industrial wiring section.",
         "text_g": "What is he doing?",
-        "text_h": "He is answering emails.",
+        "text_h": "He is replying emails.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3",
@@ -402,7 +402,7 @@
         ]
       },
       "activity_b": {
-        "bg_image": "assets/img/game/bg-5.jpg",
+        "bg_image": "assets/img/game/bg-4.jpg",
         "time_per_question_ms": 30000,
         "content": [
           {
@@ -432,7 +432,7 @@
           },
           {
             "id": "g_b_6",
-            "question": "The soil was not __________, so the instructor postponed concrete pouring until proper conditions were met.",
+            "question": "The soil was not __________, so the instructor postponed concrete pouring until proper conditions were met. (slightly wet; containing a small amount of water)",
             "answer": "moist"
           },
           {
