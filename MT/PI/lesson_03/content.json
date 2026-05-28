@@ -179,33 +179,33 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.png",
-        "word": "words-x1"
+        "image": "assets/img/a_2_d_1.png",
+        "word": "inspecting the faulty fire extinguishers"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_5.png",
-        "word": "words-x2"
+        "image": "assets/img/a_2_d_2.png",
+        "word": "explaining how to use the hydraulic coconut milk press"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.png",
-        "word": "words-x3"
+        "image": "assets/img/a_2_d_3.png",
+        "word": "taking notes"
       },
       {
         "id": "k_4",
-        "image": "assets/img/a_2_d_7.png",
-        "word": "words-x4"
+        "image": "assets/img/a_2_d_4.png",
+        "word": "checking the power supply"
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_8.png",
-        "word": "words-x5"
+        "image": "assets/img/a_2_d_6.png",
+        "word": "listening to the safety briefing"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.png",
-        "word": "words-x6"
+        "word": "paying for shorteats"
       }
     ],
     "dialogues": [
