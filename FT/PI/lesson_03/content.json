@@ -49,9 +49,9 @@
       },
       {
         "id": "p_3",
-        "word_text": "gr'a'ter",
+        "word_text": "cont'a'minant",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Shredding vegetables on a gr'a'ter makes them very fine and thin.",
+        "sentence_text": "The cont'a'minant sample is hazardous for workers in the processing area.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -402,7 +402,7 @@
         ]
       },
       "activity_b": {
-        "bg_image": "assets/img/game/bg-5.jpg",
+        "bg_image": "assets/img/game/bg-4.jpg",
         "time_per_question_ms": 30000,
         "content": [
           {
