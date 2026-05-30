@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "sp'a'tula",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "The sp'a'tulas are flexible, flat spoons, used for mixing sauces in large bowls.",
+        "sentence_text": "Sp'a'tulas are flexible, flat spoons, used for mixing sauces in large bowls.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -485,7 +485,7 @@
         },
         {
           "id": "a_3_b_g_8",
-          "text": "Were the salad ingredients contaminated after prolonged exposure to open air in the kitchen?",
+          "text": "Were the salad ingredients contaminated after prolonged exposure to the open air in the kitchen?",
           "audio": "assets/audio/a_3_b_g_8.mp3"
         }
       ],
