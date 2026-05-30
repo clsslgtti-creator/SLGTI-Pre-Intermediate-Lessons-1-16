@@ -366,7 +366,7 @@
     "type": "LISTENING-2",
     "instructions": {
       "activity_a": {
-        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nඔබට සෑම පටිගත කිරීමක්ම දෙවරක් ඇසෙනු ඇත. නිවැරදි පිළිතුර ක්ලික් කරන්න. රෙකෝඩින් එක අහන්නට පෙර ප්‍රශ්නය කියවීම ඉතාමත් වැදගත්ය.\nஒவ்வொரு ஒலிப்பதிவையும் நீங்கள் இருமுறை கேட்கலாம். கேட்ட எண்களை குறித்து எழுதுங்கள். பதிவைக் கேட்பதற்கு முன் கேள்விகளைப் படிப்பது மிகவும் முக்கியம்.",
+        "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nදෙවරක් වාදනය වන පටිගත කිරීමට සවන් දී නිවැරදි පිළිතුර මත ක්ලික් කරන්න. පටිගත කිරීමට සවන් දීමට පෙර, ප්‍රශ්න කියවීම ඉතා වැදගත් වේ.\nபதிவை இரண்டு முறை கேட்பீர்கள், அதைக் கேட்டு சரியான பதிலைக் கிளிக் செய்யவும். நீங்கள் பதிவைக் கேட்பதற்கு முன்னதாகவே கேள்விகளை வாசிப்பது மிகவும் அவசியமாகும்.",
         "audio": "assets/audio/a_4_i_a.mp3"
       },
       "activity_b": {
