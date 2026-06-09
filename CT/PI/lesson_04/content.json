@@ -110,7 +110,7 @@
         "text_d": "Leave it on the site table, next to the laser distance measurer, please.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
-        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_1_d.mp3"
       },
       {
@@ -180,7 +180,7 @@
         "text_d": "Leave it on the workbench, in front of the marking chalk reel, please.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
-        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_3_d.mp3"
       },
       {
@@ -192,7 +192,7 @@
         "text_d": "Leave it inside the locker, between the high-visibility vest and the protective footwear, please.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3"
       },
       {
@@ -204,7 +204,7 @@
         "text_d": "Leave them on the material rack, next to the reinforcing mesh panels, please.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
-        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_6_d.mp3"
       },
       {
@@ -213,10 +213,10 @@
         "text_a": "What are these?",
         "text_b": "They are Ravi’s wooden planks.",
         "text_c": "Where should I leave them?",
-        "text_d": "Leave them on the stacking area, in front of the scaffolding frame, please.",
+        "text_d": "Leave them in the stacking area, in front of the scaffolding frame, please.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
-        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_7_d.mp3"
       },
       {
@@ -228,7 +228,7 @@
         "text_d": "Leave them on the tool rack, above the material transport trolley, please.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
-        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_8_d.mp3"
       },
       {
@@ -240,7 +240,7 @@
         "text_d": "Leave them on the table, next to the claw hammer, please.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
-        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_9_d.mp3"
       }
     ]
