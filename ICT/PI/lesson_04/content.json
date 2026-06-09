@@ -589,29 +589,9 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "Hi Anura, you look tired and a bit stressed today.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "What’s going on?",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Are you working on something urgent, or is it just one of those long days?",
           "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "Hi Nimal.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Yes, it’s been a hectic morning.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -629,29 +609,9 @@
           "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_9",
-          "text": "Oh dear!",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "When technology acts up, everything feels harder.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "Are you staying late at the office this evening to finish everything, or are you leaving on time?",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "No, I’m not staying late.",
-          "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "I have to leave by six.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -659,24 +619,9 @@
           "audio": "assets/audio/t_14.mp3"
         },
         {
-          "id": "t_15",
-          "text": "We often go home together for the weekend.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
           "id": "t_16",
           "text": "Today, too, we’re catching the same bus and heading straight home.",
           "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "That sounds nice.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Are you spending the whole weekend there, or are you coming back to Colombo early?",
-          "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
@@ -699,89 +644,14 @@
           "audio": "assets/audio/t_22.mp3"
         },
         {
-          "id": "t_23",
-          "text": "I can imagine.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
           "id": "t_24",
           "text": "Family events are always fun.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
-          "id": "t_25",
-          "text": "So, what are your plans for Sunday then?",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
           "id": "t_26",
           "text": "Are you meeting friends, or are you just taking it easy with your family?",
           "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "On Sunday morning, I’m visiting my uncle, and I’m helping him with some paperwork.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "He doesn’t know how to use a computer, so I usually sort these things out for him.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "After that, I’m returning to Colombo.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "A friend is giving me a ride, so I hope to be back in Colombo by seven.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "And then?",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Do you have anything planned for the evening?",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "In the evening, I might watch a movie with friends or go out to Galle Face—I’m not sure yet.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
-          "id": "t_34",
-          "text": "But I’m not staying out late because I’m starting work at six a.m. on Monday.",
-          "audio": "assets/audio/t_34.mp3"
-        },
-        {
-          "id": "t_35",
-          "text": "Alright then.",
-          "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "Have a good weekend, and I’ll see you on Monday.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Thanks, Nimal.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "You too.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
-          "text": "See you on Monday.",
-          "audio": "assets/audio/t_39.mp3"
         }
       ],
       "activity_c": [
