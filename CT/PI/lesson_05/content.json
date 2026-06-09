@@ -430,7 +430,7 @@
             "words": "multimedia projector / top shelf / steel cabinet",
             "txt_question": "Is there a new multimedia projector on the top shelf of the steel cabinet?",
             "audio_question": "assets/audio/a_3_c_ex_q_1.mp3",
-            "image": "assets/img/a_3_c_g_ex.jpeg"
+            "image": "assets/img/a_3_c_g_ex.png"
           }
         ],
         "content": [
@@ -479,7 +479,7 @@
             "words": "MT section register / table / classroom no 5 / yesterday",
             "txt_question": "Was there an MT section register on the table in classroom no. 5 yesterday?",
             "audio_question": "assets/audio/a_3_d_ex_q_1.mp3",
-            "image": "assets/img/a_3_d_g_ex.jpeg"
+            "image": "assets/img/a_3_d_g_ex.png"
           }
         ],
         "content": [
