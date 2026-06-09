@@ -31,14 +31,7 @@
       }
     },
     "content": [
-      {
-        "id": "p_1",
-        "word_text": "b'o'llard",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The b'o'llard is not protecting the pedestrian walkway properly.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
+      
       {
         "id": "p_2",
         "word_text": "h'o'pper",
@@ -54,6 +47,14 @@
         "sentence_text": "The operator is checking the p'o'd before starting the system.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "b'o'llard",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The b'o'llard is not protecting the pedestrian walkway properly.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_4",
