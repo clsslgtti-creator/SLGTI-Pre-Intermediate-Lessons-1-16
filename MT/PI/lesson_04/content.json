@@ -120,7 +120,7 @@
         "text_b": "It is the instructor’s dipstick.",
         "text_c": "Where should I leave it?",
         "text_d": "Leave it on the engine stand, beside the oil filter, please.",
-        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_2_d.mp3"
@@ -178,7 +178,7 @@
         "text_b": "It is the technician’s oil funnel.",
         "text_c": "Where should I leave it?",
         "text_d": "Leave it on the workbench, in front of the torque wrench, please.",
-        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3",
         "audio_d": "assets/audio/a_2_d_3_d.mp3"
@@ -190,7 +190,7 @@
         "text_b": "It is the foreman’s spark plug.",
         "text_c": "Where should I leave it?",
         "text_d": "Leave it inside the cabinet, between the gasket set and the bearing puller, please.",
-        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3"
