@@ -120,7 +120,7 @@
         "text_b": "It is the instructor’s cutting board.",
         "text_c": "Where should I leave it?",
         "text_d": "Leave it near the washing area, beside the hand-wash basin, please.",
-        "audio_a": "assets/audio/a_2_d_2_a.mp3",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_2_d.mp3"
@@ -134,7 +134,7 @@
         "text_d": "Leave them on the rack, just beside the blast chiller, please.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
-        "audio_c": "assets/audio/a_2_d_5_c.mp3",
+        "audio_c": "assets/audio/a_2_d_7_c.mp3",
         "audio_d": "assets/audio/a_2_d_5_d.mp3"
       }
     ],
@@ -178,7 +178,7 @@
         "text_b": "It is the food technician’s piping bag.",
         "text_c": "Where should I leave it?",
         "text_d": "Leave it on the workbench, in front of the tabletop mixer, please.",
-        "audio_a": "assets/audio/a_2_d_3_a.mp3",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_3_c.mp3",
         "audio_d": "assets/audio/a_2_d_3_d.mp3"
@@ -190,7 +190,7 @@
         "text_b": "It is the lab supervisor’s thermometer.",
         "text_c": "Where should I leave it?",
         "text_d": "Leave it inside the storage cabinet, between the temperature probe and the food-grade timer, please.",
-        "audio_a": "assets/audio/a_2_d_4_a.mp3",
+        "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_4_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3"
