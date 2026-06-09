@@ -110,7 +110,7 @@
         "text_d": "Leave it on the desk, next to the portable drive, please.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
-        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_1_d.mp3"
       },
       {
@@ -180,7 +180,7 @@
         "text_d": "Leave it on the workbench, in front of the flat-screen monitor, please.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
-        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_3_d.mp3"
       },
       {
@@ -192,7 +192,7 @@
         "text_d": "Leave it inside the drawer, between the input keyboard and the optical mouse, please.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3"
       },
       {
@@ -202,7 +202,7 @@
         "text_b": "They are the instructor’s power adapters.",
         "text_c": "Where should I leave them?",
         "text_d": "Leave them in the drawer, next to the surge-protected extension socket, please.",
-        "audio_a": "assets/audio/a_2_d_6_a.mp3",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_6_c.mp3",
         "audio_d": "assets/audio/a_2_d_6_d.mp3"
@@ -214,7 +214,7 @@
         "text_b": "They are Ravi’s memory cards.",
         "text_c": "Where should I leave them?",
         "text_d": "Leave them on the storage tray, in front of the multi-format card reader, please.",
-        "audio_a": "assets/audio/a_2_d_7_a.mp3",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_7_c.mp3",
         "audio_d": "assets/audio/a_2_d_7_d.mp3"
@@ -226,7 +226,7 @@
         "text_b": "They are the support specialist’s keyboards.",
         "text_c": "Where should I leave them?",
         "text_d": "Leave them on the shelf, above the desktop tower unit, please.",
-        "audio_a": "assets/audio/a_2_d_8_a.mp3",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_8_c.mp3",
         "audio_d": "assets/audio/a_2_d_8_d.mp3"
@@ -238,7 +238,7 @@
         "text_b": "They are the software assistant’s USB cables.",
         "text_c": "Where should I leave them?",
         "text_d": "Leave them on the table, next to the powered charging station, please.",
-        "audio_a": "assets/audio/a_2_d_9_a.mp3",
+        "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_9_c.mp3",
         "audio_d": "assets/audio/a_2_d_9_d.mp3"
