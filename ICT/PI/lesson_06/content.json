@@ -336,14 +336,14 @@
           },
           {
             "id": "g_b_9",
-            "sentence": "Alice rides a motorbike from Colombo to Moratuwa every morning.",
+            "sentence": "Alice rides a motorbike from Colombo to Mount Lavinia every morning.",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
-              "Alice don’t ride a motorbike from Colombo to Moratuwa every morning.",
-              "Alice isn’t ride a motorbike from Colombo to Moratuwa every morning.",
-              "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning."
+              "Alice don’t ride a motorbike from Colombo to Mount Lavinia every morning.",
+              "Alice isn’t ride a motorbike from Colombo to Mount Lavinia every morning.",
+              "Alice doesn’t ride a motorbike from Colombo to Mount Lavinia every morning."
             ],
-            "answer": "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning."
+            "answer": "Alice doesn’t ride a motorbike from Colombo to Mount Lavinia every morning."
           },
           {
             "id": "g_b_10",
@@ -451,12 +451,12 @@
         },
         {
           "id": "g_b_9",
-          "text": "Alice rides a motorbike from Colombo to Moratuwa every morning.",
+          "text": "Alice rides a motorbike from Colombo to Mount Lavinia every morning.",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_9_a",
-          "text": "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning.",
+          "text": "Alice doesn’t ride a motorbike from Colombo to Mount Lavinia every morning.",
           "audio": "assets/audio/g_b_9_a.mp3"
         },
         {
