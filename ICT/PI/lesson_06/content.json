@@ -32,20 +32,20 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "c'o're module",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The central unit controls the c'o're module functions during system startup processes.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "storage v'au'lt",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "Administrators secure the storage v'au'lt properly for sensitive data protection.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "c'o're module",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "The central unit controls the c'o're module functions during system startup processes.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_3",
