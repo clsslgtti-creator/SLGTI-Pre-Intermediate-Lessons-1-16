@@ -42,7 +42,7 @@
       {
         "id": "p_2",
         "word_text": "c'o're shaft",
-        "word_audio": "assets/audio/a_1_p_2_a.mp3",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "Operators inspect the c'o're shaft carefully during routine machine maintenance.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
@@ -50,7 +50,7 @@
       {
         "id": "p_3",
         "word_text": "j'aw' chuck",
-        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "Machinists clamp the j'aw' chuck firmly to keep the rotating workpieces in place.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
