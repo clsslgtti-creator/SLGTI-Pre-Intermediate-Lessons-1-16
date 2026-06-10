@@ -32,20 +32,20 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "c'o're tester",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Technicians calibrate the c'o're tester accurately before transformer testing sessions.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "w'a'rning",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "A technician checks the w'a'rning indicator during routine inspection procedures.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "c'o're tester",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Trainees calibrate the c'o're tester accurately before transformer testing sessions.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_3",
