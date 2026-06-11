@@ -588,16 +588,6 @@
       },
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Let’s get started.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Today, I want to explain two routine processes that we practise in the Automobile Technology section.",
           "audio": "assets/audio/t_3.mp3"
@@ -613,19 +603,9 @@
           "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_6",
-          "text": "Please listen carefully and follow the order of the steps.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
           "id": "t_7",
           "text": "First, let’s look at the engine oil service.",
           "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "In our workshop, vehicles usually arrive early in the morning.",
-          "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
@@ -633,29 +613,9 @@
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "This helps us understand the oil condition and the quantity.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "If the oil looks very dark or smells burnt, it usually means the oil must be changed.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
           "id": "t_12",
           "text": "Next, we place an oil tray under the engine.",
           "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "Then, we drain the used engine oil.",
-          "audio": "assets/audio/t_13.mp3"
-        },
-        {
-          "id": "t_14",
-          "text": "We wait until all the oil flows out.",
-          "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
@@ -668,26 +628,6 @@
           "audio": "assets/audio/t_16.mp3"
         },
         {
-          "id": "t_17",
-          "text": "The filter often contains dirty oil, so we handle it slowly to avoid spilling oil on the floor.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Then, we fit a new oil filter.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "We tighten it by hand only.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "We do not use too much force, because overtightening can damage the rubber seal.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
           "id": "t_21",
           "text": "Next, we tighten the drain plug properly and refill the engine with the correct grade of oil.",
           "audio": "assets/audio/t_21.mp3"
@@ -698,29 +638,9 @@
           "audio": "assets/audio/t_22.mp3"
         },
         {
-          "id": "t_23",
-          "text": "If there are no leaks, the oil service is complete.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "Now, let’s move to the brake inspection process.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
-          "id": "t_25",
-          "text": "This inspection is usually done before a test drive.",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
           "id": "t_26",
           "text": "First, we check the brake fluid level in the reservoir.",
           "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "If the level is low, there may be brake pad wear or a small leak.",
-          "audio": "assets/audio/t_27.mp3"
         },
         {
           "id": "t_28",
@@ -733,24 +653,9 @@
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_30",
-          "text": "We look at the thickness and check for uneven wear.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
           "id": "t_31",
           "text": "Finally, we refit the wheel and tighten the wheel nuts evenly.",
           "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "We always follow these steps carefully, because brake safety is very important.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "Missing a step can cause serious problems later.",
-          "audio": "assets/audio/t_33.mp3"
         }
       ],
       "activity_d": [

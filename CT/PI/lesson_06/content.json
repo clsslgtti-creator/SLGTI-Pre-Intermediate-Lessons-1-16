@@ -588,16 +588,6 @@
       },
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Let’s get started.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Today, I want to explain two routine processes that we practise in the Construction Technology section.",
           "audio": "assets/audio/t_3.mp3"
@@ -613,19 +603,9 @@
           "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_6",
-          "text": "Please listen carefully and follow the steps in the correct order.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
           "id": "t_7",
           "text": "First, let’s look at the concrete footing process.",
           "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "At our training site, work usually begins early in the morning to avoid strong heat later in the day.",
-          "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
@@ -633,24 +613,9 @@
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "These markings come from the drawing and show the exact location of the footing.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "Next, we measure the excavation depth with a tape.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "The depth must match the drawing, because an incorrect depth can reduce the strength of the structure.",
-          "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "After that, we prepare the concrete.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -658,19 +623,9 @@
           "audio": "assets/audio/t_14.mp3"
         },
         {
-          "id": "t_15",
-          "text": "We do not add extra water, because that weakens the concrete and affects the final strength.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
           "id": "t_16",
           "text": "Once the mix is ready, we pour concrete into the footing trench carefully.",
           "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "We make sure the concrete spreads into all corners and does not trap air.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -678,29 +633,9 @@
           "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_19",
-          "text": "This helps us achieve a flat and even finish.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
           "id": "t_20",
           "text": "Finally, we keep the concrete surface moist during curing.",
           "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "We do this by sprinkling water regularly.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "This step is important, because proper curing helps the concrete gain strength.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "We never rush this stage, because rushing causes cracks later.",
-          "audio": "assets/audio/t_23.mp3"
         },
         {
           "id": "t_24",
@@ -708,44 +643,9 @@
           "audio": "assets/audio/t_24.mp3"
         },
         {
-          "id": "t_25",
-          "text": "This work usually starts after the footing has cured.",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "First, we check the blocks and remove any broken or damaged ones.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "Next, we prepare the mortar and check its consistency.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "It should not be too dry or too wet.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "After that, we set out the first course using string lines.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "This helps us keep the wall straight.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
           "id": "t_31",
           "text": "Before continuing, we check the level and alignment again.",
           "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "We always follow this order, because mistakes at the beginning cause bigger problems later on.",
-          "audio": "assets/audio/t_32.mp3"
         }
       ],
       "activity_d": [

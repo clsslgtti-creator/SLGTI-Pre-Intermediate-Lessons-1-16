@@ -588,16 +588,6 @@
       },
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Let’s get started.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Today, I want to explain two routine processes that we practise in the ICT section.",
           "audio": "assets/audio/t_3.mp3"
@@ -613,19 +603,9 @@
           "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_6",
-          "text": "Please listen carefully and follow the order of the steps.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
           "id": "t_7",
           "text": "First, let’s look at the network troubleshooting process.",
           "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "In our computer lab, network issues are common during daily use.",
-          "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
@@ -633,24 +613,9 @@
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "A loose cable is often the main cause of network problems.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "Next, we restart the computer system.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "This clears temporary errors and refreshes the system.",
-          "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "We wait until the system starts fully before continuing.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -658,24 +623,9 @@
           "audio": "assets/audio/t_14.mp3"
         },
         {
-          "id": "t_15",
-          "text": "Here, we check whether the system detects the network properly.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
           "id": "t_16",
           "text": "Then, we configure the IP address according to the lab network settings.",
           "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "We make sure the address is correct and not duplicated.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "If the IP settings are wrong, the computer cannot communicate with the network.",
-          "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
@@ -683,29 +633,14 @@
           "audio": "assets/audio/t_19.mp3"
         },
         {
-          "id": "t_20",
-          "text": "If the connection works normally, the problem is resolved.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
           "id": "t_21",
           "text": "Now, let’s move on to the system maintenance check.",
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "This process is usually done at the end of the day.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
           "id": "t_23",
           "text": "First, we check available storage space and remove unnecessary files.",
           "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "Next, we check that antivirus protection is active and up to date.",
-          "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
@@ -716,16 +651,6 @@
           "id": "t_26",
           "text": "Finally, we document the issue clearly in the maintenance log.",
           "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "This helps other technicians understand what was done and prevents repeated problems.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "We always follow these steps carefully, because proper documentation and correct order save time and reduce future errors.",
-          "audio": "assets/audio/t_28.mp3"
         }
       ],
       "activity_d": [

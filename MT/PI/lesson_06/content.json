@@ -588,16 +588,6 @@
       },
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Let’s get started.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Today, I want to explain two routine processes that we practise in the Mechanical Technology section.",
           "audio": "assets/audio/t_3.mp3"
@@ -613,19 +603,9 @@
           "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_6",
-          "text": "Please listen carefully and follow the steps in the correct order.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
           "id": "t_7",
           "text": "First, let’s look at the cutting tool change process.",
           "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "In our workshop, this task is usually done before a machining job begins.",
-          "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
@@ -633,19 +613,9 @@
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "The guard must be in the correct position to protect the operator.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "Next, we switch off the main power supply.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "This step is very important, and we never skip it, even if the machine is not running.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -653,19 +623,9 @@
           "audio": "assets/audio/t_13.mp3"
         },
         {
-          "id": "t_14",
-          "text": "We do this slowly and carefully to avoid sudden movement.",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
           "id": "t_15",
           "text": "Once the chuck is loose, we remove the worn cutting tool from the tool holder.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "A worn tool affects surface finish and accuracy.",
-          "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
@@ -683,34 +643,9 @@
           "audio": "assets/audio/t_19.mp3"
         },
         {
-          "id": "t_20",
-          "text": "This allows us to check for vibration or unusual noise before starting full operation.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "If everything looks normal, the tool change is complete.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
           "id": "t_22",
           "text": "Now, let’s move on to the machine safety inspection process.",
           "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "This inspection is usually done at the start of the day.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "First, we visually inspect the machine body and controls.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
-          "id": "t_25",
-          "text": "Next, we check that emergency stop buttons are working correctly.",
-          "audio": "assets/audio/t_25.mp3"
         },
         {
           "id": "t_26",
@@ -721,16 +656,6 @@
           "id": "t_27",
           "text": "Finally, we clean the work area and remove unnecessary tools.",
           "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "We always follow this order, because safety checks reduce accidents and machine damage.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "Missing a step can cause serious problems later.",
-          "audio": "assets/audio/t_29.mp3"
         }
       ],
       "activity_d": [

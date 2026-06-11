@@ -588,16 +588,6 @@
       },
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Let’s get started.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Today, I want to explain two routine processes that we practise in the Food Technology section.",
           "audio": "assets/audio/t_3.mp3"
@@ -608,44 +598,14 @@
           "audio": "assets/audio/t_4.mp3"
         },
         {
-          "id": "t_5",
-          "text": "Please listen carefully to the steps.",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
           "id": "t_6",
           "text": "First, let’s look at the seafood handling process.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
-          "id": "t_7",
-          "text": "In our unit, we receive fresh fish early in the day, usually from local suppliers.",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
           "id": "t_8",
           "text": "Before anything else, we check the quality.",
           "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "We look at the eyes, we smell the fish, and we press the flesh lightly.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "If the fish smells unpleasant or feels too soft, we do not accept it.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "Next, we wash the fish with clean, cold water.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "This step removes dirt and surface bacteria.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -663,49 +623,9 @@
           "audio": "assets/audio/t_15.mp3"
         },
         {
-          "id": "t_16",
-          "text": "This keeps the temperature low and slows bacterial growth.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "During this stage, I often ask questions:",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Do you wear gloves?",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Does the fish stay cold enough?",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "If the temperature rises, the quality drops quickly, so we monitor it throughout the process.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "Now, let’s move to the bakery section.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "This is where we prepare dough every morning.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
           "id": "t_23",
           "text": "First, we measure the flour carefully.",
           "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "We don’t guess the quantities, because accuracy matters in baking.",
-          "audio": "assets/audio/t_24.mp3"
         },
         {
           "id": "t_25",
@@ -718,39 +638,9 @@
           "audio": "assets/audio/t_26.mp3"
         },
         {
-          "id": "t_27",
-          "text": "Why do we start slowly?",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "Because it prevents flour from spilling.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
           "id": "t_29",
           "text": "After a short time, the dough begins to form, and we check the texture by hand.",
           "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "Is it smooth?",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Does it stretch well?",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "If it feels too dry, we add a little water.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "If it sticks too much, we add some flour.",
-          "audio": "assets/audio/t_33.mp3"
         },
         {
           "id": "t_34",
@@ -761,11 +651,6 @@
           "id": "t_35",
           "text": "During this time, the yeast produces gas, and the dough rises naturally.",
           "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "We do not rush this stage, because good bread depends on proper fermentation.",
-          "audio": "assets/audio/t_36.mp3"
         },
         {
           "id": "t_37",
