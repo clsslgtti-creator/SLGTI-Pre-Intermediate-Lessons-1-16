@@ -1036,11 +1036,23 @@ export const createGameScene = (config = {}) => {
         this.exampleSentenceText.setVisible(true);
       }
 
+      const firstWord = words[0] ?? null;
+      let hintApplied = false;
       this.bankTokens = scrambled.map((word, index) => {
         const token = createToken(this, word, index, null);
         token.state = "bank";
         token.container.disableInteractive();
-        token.text.setFontStyle("normal");
+        const shouldHighlight = Boolean(
+          !hintApplied && firstWord && token.word === firstWord
+        );
+        if (shouldHighlight) {
+          token.text.setFontStyle("bold");
+          token.isHint = true;
+          hintApplied = true;
+        } else {
+          token.text.setFontStyle("normal");
+          token.isHint = false;
+        }
         setTokenStyle(token, "bank");
         this.bankContainer.add(token.container);
         return token;
