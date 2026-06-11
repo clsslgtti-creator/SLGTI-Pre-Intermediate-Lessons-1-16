@@ -32,14 +32,6 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "c'ou'pling",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Do trainees always align the c'ou'pling before starting engine tests?",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "pl'u'nger",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
@@ -48,12 +40,12 @@
         "image": "assets/img/a_1_p_2.png"
       },
       {
-        "id": "p_3",
-        "word_text": "g'u'sset",
-        "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Welders often reinforce the g'u'sset to improve the strength of the chassis.",
-        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
-        "image": "assets/img/a_1_p_3.png"
+        "id": "p_1",
+        "word_text": "c'ou'pling",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Do trainees always align the c'ou'pling before starting engine tests?",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_4",
@@ -62,6 +54,14 @@
         "sentence_text": "Teams usually use the sh'u'nter to reposition heavy components safely.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
+      },
+      {
+        "id": "p_3",
+        "word_text": "g'u'sset",
+        "word_audio": "assets/audio/a_1_p_3_a.mp3",
+        "sentence_text": "Welders often reinforce the g'u'sset to improve the strength of the chassis.",
+        "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
+        "image": "assets/img/a_1_p_3.png"
       }
     ]
   },
@@ -577,29 +577,9 @@
       },
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Before we start today’s practical session, is everything okay in your area?",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "I know that you always check the setup early in the morning, so I just wanted to ask you a few questions before everyone begins work.",
           "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "Good morning, sir.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Actually, I wanted to mention two things.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -612,39 +592,14 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "Okay, thanks for telling me.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
           "id": "t_9",
           "text": "What exactly is the problem with the extension cable?",
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "The cable still works, but the outer cover is damaged and worn out in several places.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "We use it every day, and people frequently pull it across the floor instead of lifting it properly.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
           "id": "t_12",
           "text": "The plug sometimes feels loose as well, but we rarely notice it until someone points it out during work.",
           "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "Right, that doesn’t sound safe at all.",
-          "audio": "assets/audio/t_13.mp3"
-        },
-        {
-          "id": "t_14",
-          "text": "Loose connections can easily cause accidents.",
-          "audio": "assets/audio/t_14.mp3"
         },
         {
           "id": "t_15",
@@ -682,34 +637,9 @@
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "We rarely stop work to report small faults because we don’t want to delay the tasks assigned to us in the morning.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "We often assume the maintenance team will notice it later during inspections.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "I’m glad you reported it now.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
           "id": "t_25",
           "text": "Small problems often become serious if we ignore them for too long.",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "I’ll arrange repairs today and ask maintenance to replace both the cable and the socket.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "As we say, a stitch in time saves nine.",
-          "audio": "assets/audio/t_27.mp3"
         }
       ],
       "activity_d": [
