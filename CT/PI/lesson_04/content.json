@@ -110,7 +110,7 @@
         "text_d": "Leave it on the site table, next to the laser distance measurer, please.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
-        "audio_c": "assets/audio/a_2_d_1_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_1_d.mp3"
       },
       {
@@ -180,7 +180,7 @@
         "text_d": "Leave it on the workbench, in front of the marking chalk reel, please.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
-        "audio_c": "assets/audio/a_2_d_3_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_3_d.mp3"
       },
       {
@@ -192,7 +192,7 @@
         "text_d": "Leave it inside the locker, between the high-visibility vest and the protective footwear, please.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
-        "audio_c": "assets/audio/a_2_d_4_c.mp3",
+        "audio_c": "assets/audio/a_2_d_2_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3"
       },
       {
@@ -204,7 +204,7 @@
         "text_d": "Leave them on the material rack, next to the reinforcing mesh panels, please.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
-        "audio_c": "assets/audio/a_2_d_6_c.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_6_d.mp3"
       },
       {
@@ -213,10 +213,10 @@
         "text_a": "What are these?",
         "text_b": "They are Ravi’s wooden planks.",
         "text_c": "Where should I leave them?",
-        "text_d": "Leave them on the stacking area, in front of the scaffolding frame, please.",
+        "text_d": "Leave them in the stacking area, in front of the scaffolding frame, please.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
-        "audio_c": "assets/audio/a_2_d_7_c.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_7_d.mp3"
       },
       {
@@ -228,7 +228,7 @@
         "text_d": "Leave them on the tool rack, above the material transport trolley, please.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
-        "audio_c": "assets/audio/a_2_d_8_c.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_8_d.mp3"
       },
       {
@@ -240,7 +240,7 @@
         "text_d": "Leave them on the table, next to the claw hammer, please.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
-        "audio_c": "assets/audio/a_2_d_9_c.mp3",
+        "audio_c": "assets/audio/a_2_d_5_c.mp3",
         "audio_d": "assets/audio/a_2_d_9_d.mp3"
       }
     ]
@@ -400,58 +400,113 @@
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "They are not testing the network connection in the lab right now. Are they testing the network connection in the lab right now?",
-          "audio": "assets/audio/a_3_b_1.mp3"
+          "text": "They are not testing the network connection in the lab right now.",
+          "audio": "assets/audio/a_3_b_1_q.mp3"
+        },
+        {
+          "id": "n_3_1",
+          "text": "Are they testing the network connection in the lab right now?",
+          "audio": "assets/audio/a_3_b_1_a.mp3"
         },
         {
           "id": "n_3_2",
-          "text": "She is not sketching a new logo on her tablet right now. Is she sketching a new logo on her tablet right now?",
-          "audio": "assets/audio/a_3_b_2.mp3"
+          "text": "She is not sketching a new logo on her tablet right now.",
+          "audio": "assets/audio/a_3_b_2_q.mp3"
+        },
+        {
+          "id": "n_3_2",
+          "text": "Is she sketching a new logo on her tablet right now?",
+          "audio": "assets/audio/a_3_b_2_a.mp3"
         },
         {
           "id": "n_3_3",
-          "text": "The children are not building a sandcastle near the water now. Are the children building a sandcastle near the water now?",
-          "audio": "assets/audio/a_3_b_3.mp3"
+          "text": "The children are not building a sandcastle near the water now.",
+          "audio": "assets/audio/a_3_b_3_q.mp3"
+        },
+        {
+          "id": "n_3_3",
+          "text": "Are the children building a sandcastle near the water now?",
+          "audio": "assets/audio/a_3_b_3_a.mp3"
         },
         {
           "id": "n_3_4",
-          "text": "I am not reviewing the final report before sending it. Am I reviewing the final report before sending it?",
-          "audio": "assets/audio/a_3_b_4.mp3"
+          "text": "I am not reviewing the final report before sending it.",
+          "audio": "assets/audio/a_3_b_4_q.mp3"
+        },
+        {
+          "id": "n_3_4",
+          "text": "Am I reviewing the final report before sending it?",
+          "audio": "assets/audio/a_3_b_4_a.mp3"
         },
         {
           "id": "n_3_5",
-          "text": "They are not organizing a swim in the sea this evening. Are they organizing a swim in the sea this evening?",
-          "audio": "assets/audio/a_3_b_5.mp3"
+          "text": "They are not organizing a swim in the sea this evening.",
+          "audio": "assets/audio/a_3_b_5_q.mp3"
+        },
+        {
+          "id": "n_3_5",
+          "text": "Are they organizing a swim in the sea this evening?",
+          "audio": "assets/audio/a_3_b_5_a.mp3"
         },
         {
           "id": "n_3_6",
-          "text": "He is not spray-painting his bicycle in the garage now. Is he spray-painting his bicycle in the garage now?",
-          "audio": "assets/audio/a_3_b_6.mp3"
+          "text": "He is not spray-painting his bicycle in the garage now.",
+          "audio": "assets/audio/a_3_b_6_q.mp3"
+        },
+        {
+          "id": "n_3_6",
+          "text": "Is he spray-painting his bicycle in the garage now?",
+          "audio": "assets/audio/a_3_b_6_a.mp3"
         },
         {
           "id": "n_3_7",
-          "text": "We are not arranging the meeting room for the presentation right now. Are we arranging the meeting room for the presentation right now?",
-          "audio": "assets/audio/a_3_b_7.mp3"
+          "text": "We are not arranging the meeting room for the presentation right now.",
+          "audio": "assets/audio/a_3_b_7_q.mp3"
+        },
+        {
+          "id": "n_3_7",
+          "text": "Are we arranging the meeting room for the presentation right now?",
+          "audio": "assets/audio/a_3_b_7_a.mp3"
         },
         {
           "id": "n_3_8",
-          "text": "The chef is not tasting the soup now to adjust the seasoning. Is the chef tasting the soup now to adjust the seasoning?",
-          "audio": "assets/audio/a_3_b_8.mp3"
+          "text": "The chef is not tasting the soup now to adjust the seasoning.",
+          "audio": "assets/audio/a_3_b_8_q.mp3"
+        },
+        {
+          "id": "n_3_8",
+          "text": "Is the chef tasting the soup now to adjust the seasoning?",
+          "audio": "assets/audio/a_3_b_8_a.mp3"
         },
         {
           "id": "n_3_9",
-          "text": "She is not meeting a former colleague at a quiet café this Saturday. Is she meeting a former colleague at a quiet café this Saturday?",
-          "audio": "assets/audio/a_3_b_9.mp3"
+          "text": "She is not meeting a former colleague at a quiet café this Saturday.",
+          "audio": "assets/audio/a_3_b_9_q.mp3"
+        },
+        {
+          "id": "n_3_9",
+          "text": "Is she meeting a former colleague at a quiet café this Saturday?",
+          "audio": "assets/audio/a_3_b_9_a.mp3"
         },
         {
           "id": "n_3_10",
-          "text": "I am not finishing this email in a few minutes. Am I finishing this email in a few minutes?",
-          "audio": "assets/audio/a_3_b_10.mp3"
+          "text": "I am not finishing this email in a few minutes.",
+          "audio": "assets/audio/a_3_b_10_q.mp3"
+        },
+        {
+          "id": "n_3_10",
+          "text": "Am I finishing this email in a few minutes?",
+          "audio": "assets/audio/a_3_b_10_a.mp3"
         },
         {
           "id": "n_3_11",
-          "text": "They are not planting young trees near the school entrance this Saturday. Are they planting young trees near the school entrance this Saturday?",
-          "audio": "assets/audio/a_3_b_11.mp3"
+          "text": "They are not planting young trees near the school entrance this Saturday.",
+          "audio": "assets/audio/a_3_b_11_q.mp3"
+        },
+        {
+          "id": "n_3_11",
+          "text": "Are they planting young trees near the school entrance this Saturday?",
+          "audio": "assets/audio/a_3_b_11_a.mp3"
         }
       ]
     }
@@ -534,29 +589,9 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "Hi Anura, you look tired and a bit stressed today.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "What’s going on?",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "Are you working on something urgent, or is it just one of those long days?",
           "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "Hi Nimal.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Yes, it’s been a hectic morning.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -574,29 +609,9 @@
           "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_9",
-          "text": "Oh dear!",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "When technology acts up, everything feels harder.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "Are you staying late at the office this evening to finish everything, or are you leaving on time?",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "No, I’m not staying late.",
-          "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "I have to leave by six.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -604,24 +619,9 @@
           "audio": "assets/audio/t_14.mp3"
         },
         {
-          "id": "t_15",
-          "text": "We often go home together for the weekend.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
           "id": "t_16",
           "text": "Today, too, we’re catching the same bus and heading straight home.",
           "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "That sounds nice.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Are you spending the whole weekend there, or are you coming back to Colombo early?",
-          "audio": "assets/audio/t_18.mp3"
         },
         {
           "id": "t_19",
@@ -644,89 +644,14 @@
           "audio": "assets/audio/t_22.mp3"
         },
         {
-          "id": "t_23",
-          "text": "I can imagine.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
           "id": "t_24",
           "text": "Family events are always fun.",
           "audio": "assets/audio/t_24.mp3"
         },
         {
-          "id": "t_25",
-          "text": "So, what are your plans for Sunday then?",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
           "id": "t_26",
           "text": "Are you meeting friends, or are you just taking it easy with your family?",
           "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "On Sunday morning, I’m visiting my uncle, and I’m helping him with some paperwork.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "He doesn’t know how to use a computer, so I usually sort these things out for him.",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "After that, I’m returning to Colombo.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "A friend is giving me a ride, so I hope to be back in Colombo by seven.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "And then?",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Do you have anything planned for the evening?",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "In the evening, I might watch a movie with friends or go out to Galle Face—I’m not sure yet.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
-          "id": "t_34",
-          "text": "But I’m not staying out late because I’m starting work at six a.m. on Monday.",
-          "audio": "assets/audio/t_34.mp3"
-        },
-        {
-          "id": "t_35",
-          "text": "Alright then.",
-          "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "Have a good weekend, and I’ll see you on Monday.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Thanks, Nimal.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "You too.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
-          "text": "See you on Monday.",
-          "audio": "assets/audio/t_39.mp3"
         }
       ],
       "activity_c": [

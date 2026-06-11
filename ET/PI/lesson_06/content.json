@@ -32,20 +32,20 @@
     },
     "content": [
       {
-        "id": "p_1",
-        "word_text": "c'o're tester",
-        "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Technicians calibrate the c'o're tester accurately before transformer testing sessions.",
-        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
-        "image": "assets/img/a_1_p_1.png"
-      },
-      {
         "id": "p_2",
         "word_text": "w'a'rning",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
         "sentence_text": "A technician checks the w'a'rning indicator during routine inspection procedures.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
+      },
+      {
+        "id": "p_1",
+        "word_text": "c'o're tester",
+        "word_audio": "assets/audio/a_1_p_1_a.mp3",
+        "sentence_text": "Trainees calibrate the c'o're tester accurately before transformer testing sessions.",
+        "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
+        "image": "assets/img/a_1_p_1.png"
       },
       {
         "id": "p_3",
@@ -336,14 +336,14 @@
           },
           {
             "id": "g_b_9",
-            "sentence": "Alice rides a motorbike from Colombo to Moratuwa every morning.",
+            "sentence": "Alice rides a motorbike from Colombo to Mount Lavinia every morning.",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
-              "Alice don’t ride a motorbike from Colombo to Moratuwa every morning.",
-              "Alice isn’t ride a motorbike from Colombo to Moratuwa every morning.",
-              "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning."
+              "Alice don’t ride a motorbike from Colombo to Mount Lavinia every morning.",
+              "Alice isn’t ride a motorbike from Colombo to Mount Lavinia every morning.",
+              "Alice doesn’t ride a motorbike from Colombo to Mount Lavinia every morning."
             ],
-            "answer": "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning."
+            "answer": "Alice doesn’t ride a motorbike from Colombo to Mount Lavinia every morning."
           },
           {
             "id": "g_b_10",
@@ -451,12 +451,12 @@
         },
         {
           "id": "g_b_9",
-          "text": "Alice rides a motorbike from Colombo to Moratuwa every morning.",
+          "text": "Alice rides a motorbike from Colombo to Mount Lavinia every morning.",
           "audio": "assets/audio/g_b_9.mp3"
         },
         {
           "id": "g_b_9_a",
-          "text": "Alice doesn’t ride a motorbike from Colombo to Moratuwa every morning.",
+          "text": "Alice doesn’t ride a motorbike from Colombo to Mount Lavinia every morning.",
           "audio": "assets/audio/g_b_9_a.mp3"
         },
         {
@@ -588,16 +588,6 @@
       },
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "Let’s begin today’s practical session.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
           "id": "t_3",
           "text": "I want to explain two routine processes that we practise in the Electrical Technology section.",
           "audio": "assets/audio/t_3.mp3"
@@ -613,19 +603,9 @@
           "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_6",
-          "text": "Please listen carefully and follow the steps in order.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
           "id": "t_7",
           "text": "First, let’s look at the socket repair procedure.",
           "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "In our electrical lab, faults are often reported during daily use.",
-          "audio": "assets/audio/t_8.mp3"
         },
         {
           "id": "t_9",
@@ -633,19 +613,9 @@
           "audio": "assets/audio/t_9.mp3"
         },
         {
-          "id": "t_10",
-          "text": "This is the most important safety step, and we never skip it.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "Next, we test the circuit with a tester to confirm that there is no current.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "Even if the switch is off, we always check, because safety comes first.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -653,34 +623,9 @@
           "audio": "assets/audio/t_13.mp3"
         },
         {
-          "id": "t_14",
-          "text": "Inside, we check the terminal connections.",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
           "id": "t_15",
           "text": "If the screws are loose, we tighten the terminal screws using the correct screwdriver.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "Loose connections can cause heating and spark faults.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Next, we inspect the cables.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "If a cable is damaged or cracked, we replace the damaged cable with a new one of the correct rating.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "We do not use temporary fixes, because they are unsafe.",
-          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
@@ -693,39 +638,9 @@
           "audio": "assets/audio/t_21.mp3"
         },
         {
-          "id": "t_22",
-          "text": "If the socket works correctly and there is no heat or smell, the repair is complete.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Now, let’s move on to the circuit testing process.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "This process is usually done after installation work.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
           "id": "t_25",
           "text": "First, we visually inspect the circuit layout.",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "We check that all components are connected according to the wiring diagram.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "Next, we test the circuit with a tester to confirm continuity.",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "After that, we switch on the power supply and observe the circuit operation.",
-          "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
@@ -733,19 +648,9 @@
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_30",
-          "text": "If something does not work as expected, we switch off the power immediately and recheck the connections.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
           "id": "t_31",
           "text": "We always follow this order, because electrical faults can be dangerous.",
           "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Missing a step can lead to equipment damage or personal injury later.",
-          "audio": "assets/audio/t_32.mp3"
         }
       ],
       "activity_d": [
