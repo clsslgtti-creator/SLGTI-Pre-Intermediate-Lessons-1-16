@@ -476,7 +476,7 @@
     "type": "LISTENING-6",
     "instructions": {
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "text": "Use the correct verb. නිවැරදි ක්‍රියාපදය භාවිතා කරන්න. சரியான வினைச்சொல்லைப் பயன்படுத்துக.",
         "audio": "assets/audio/a_4_i_c.mp3"
       },
       "activity_b": {
