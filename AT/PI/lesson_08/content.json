@@ -55,8 +55,8 @@
       },
       {
         "question": "___________ they inspecting the coolant level this morning?",
-        "options": ["Is", "Are", "Was", "Were"],
-        "answer": "Are"
+        "options": ["Is", "Have", "Was", "Were"],
+        "answer": "Were"
       },
       {
         "question": "___________ there any calibrated fuel filters in the storeroom at the moment?",
@@ -270,7 +270,10 @@
           "connection",
           "."
         ],
-        "sentence": "The battery terminal was secure and ensured a stable connection."
+        "sentence": "The battery terminal was secure and ensured a stable connection.",
+        "alternative_answers": [
+          "The battery terminal was stable and ensured a secure connection."
+        ]
       },
       {
         "words": [

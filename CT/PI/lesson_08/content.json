@@ -270,7 +270,10 @@
           "connection",
           "."
         ],
-        "sentence": "The battery terminal was secure and ensured a stable connection."
+        "sentence": "The battery terminal was secure and ensured a stable connection.",
+        "alternative_answers": [
+          "The battery terminal was stable and ensured a secure connection."
+        ]
       },
       {
         "words": [
