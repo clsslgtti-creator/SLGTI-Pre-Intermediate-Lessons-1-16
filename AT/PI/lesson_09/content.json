@@ -252,7 +252,7 @@
           {
             "id": "g_b_3",
             "sentence": "Mechanics usually __________ lubricant during the final assembly stages.",
-            "options": ["apply", "are applying", "apply"],
+            "options": ["applies", "are applying", "apply"],
             "answer": "apply"
           },
           {
@@ -469,21 +469,6 @@
       },
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Thank you for calling the Inland Revenue Department.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "This recorded message will guide you through the process of applying for a Taxpayer Identification Number, also known as a TIN.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Please listen carefully, as the steps must be followed in the correct order.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "First, decide why you need to apply for a TIN.",
           "audio": "assets/audio/t_4.mp3"
@@ -504,11 +489,6 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "You can download this form from the Inland Revenue Department website or collect it from a regional office.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
           "id": "t_9",
           "text": "Before you begin filling in the form, make sure you have all the necessary information ready.",
           "audio": "assets/audio/t_9.mp3"
@@ -517,16 +497,6 @@
           "id": "t_10",
           "text": "Next, complete the application form carefully.",
           "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "You must provide personal information, such as your full name, address, and NIC number.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "During this step, check that all details are accurate, as mistakes can delay the process.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -549,11 +519,6 @@
           "audio": "assets/audio/t_16.mp3"
         },
         {
-          "id": "t_17",
-          "text": "You may submit it online or hand it in at the relevant office.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
           "id": "t_18",
           "text": "During submission, an officer may ask questions to verify identity details.",
           "audio": "assets/audio/t_18.mp3"
@@ -569,24 +534,9 @@
           "audio": "assets/audio/t_20.mp3"
         },
         {
-          "id": "t_21",
-          "text": "This may take several working days, depending on the workload.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
           "id": "t_22",
           "text": "Finally, keep your TIN number safely.",
           "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "You will need it for banking, tax payments, and future business activities.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "Thank you for listening, and we wish you success with your new business.",
-          "audio": "assets/audio/t_24.mp3"
         }
       ],
       "activity_d": [

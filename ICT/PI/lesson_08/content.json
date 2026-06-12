@@ -264,7 +264,12 @@
           "router",
           "."
         ],
-        "sentence": "The network cable is damaged near the router."
+        "sentence": "The network cable is damaged near the router.",
+        "alternative_answers": [
+          "The network cable is near the damaged router.",
+          "The router is near the damaged network cable.",
+          "The router is damaged near the network cable."
+        ]
       },
       {
         "words": [
@@ -332,7 +337,10 @@
           "hardware",
           "."
         ],
-        "sentence": "The software does not support older hardware."
+        "sentence": "The software does not support older hardware.",
+        "alternative_answers": [
+          "The hardware does not support older software ."
+        ]
       },
       {
         "words": [

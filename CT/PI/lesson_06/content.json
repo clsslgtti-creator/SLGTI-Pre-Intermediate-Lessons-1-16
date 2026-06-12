@@ -476,8 +476,8 @@
     "type": "LISTENING-6",
     "instructions": {
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
-        "audio": "assets/audio/a_4_i_c.mp3"
+        "text": "Use the correct verb. නිවැරදි ක්‍රියාපදය භාවිතා කරන්න. சரியான வினைச்சொல்லைப் பயன்படுத்துக.",
+        "audio": "assets/audio/a_4_i_m.mp3"
       },
       "activity_b": {
         "text": "Listen to the audio which will be played twice and click on the correct answer. It is very important that you read the questions before you listen to the recording.\nදෙවරක් වාදනය වන පටිගත කිරීමට සවන් දී නිවැරදි පිළිතුර මත ක්ලික් කරන්න. පටිගත කිරීමට සවන් දීමට පෙර, ප්‍රශ්න කියවීම ඉතා වැදගත් වේ.\nபதிவை இரண்டு முறை கேட்பீர்கள், அதைக் கேட்டு சரியான பதிலைக் கிளிக் செய்யவும். நீங்கள் பதிவைக் கேட்பதற்கு முன்னதாகவே கேள்விகளை வாசிப்பது மிகவும் அவசியமாகும்.",

@@ -250,7 +250,10 @@
           "preparation",
           "."
         ],
-        "sentence": "Workers handle diced meat carefully during food preparation."
+        "sentence": "Workers handle diced meat carefully during food preparation.",
+        "alternative_answers": [
+          "Workers carefully handle diced meat during food preparation."
+        ]
       },
       {
         "words": [
