@@ -252,7 +252,7 @@
           {
             "id": "g_b_3",
             "sentence": "Food processing staff __________ hygiene procedures at every shift change.",
-            "options": ["follows", "are following", "follow"],
+            "options": ["is following", "are following", "follow"],
             "answer": "follow"
           },
           {

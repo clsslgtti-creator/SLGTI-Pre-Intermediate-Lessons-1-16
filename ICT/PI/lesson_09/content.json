@@ -252,7 +252,7 @@
           {
             "id": "g_b_3",
             "sentence": "ICT staff usually __________ configuration logs after each system update.",
-            "options": ["records", "are recording", "record"],
+            "options": ["is recording", "are recording", "record"],
             "answer": "record"
           },
           {

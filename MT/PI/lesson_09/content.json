@@ -264,7 +264,7 @@
           {
             "id": "g_b_5",
             "sentence": "Maintenance staff usually __________ belt tension before machine startup.",
-            "options": ["checks", "are checking", "check"],
+            "options": ["is checking", "are checking", "check"],
             "answer": "check"
           },
           {
