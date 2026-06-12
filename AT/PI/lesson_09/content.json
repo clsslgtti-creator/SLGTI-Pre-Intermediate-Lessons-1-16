@@ -252,7 +252,7 @@
           {
             "id": "g_b_3",
             "sentence": "Mechanics usually __________ lubricant during the final assembly stages.",
-            "options": ["apply", "are applying", "apply"],
+            "options": ["applies", "are applying", "apply"],
             "answer": "apply"
           },
           {
