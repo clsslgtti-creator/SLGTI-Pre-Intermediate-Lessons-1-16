@@ -1378,8 +1378,8 @@ export const createGameScene = (config) => {
         const text = this.add
           .text(0, 0, "", {
             fontFamily: 'Segoe UI, "Helvetica Neue", Arial, sans-serif',
-            fontSize: useExtraCompact ? 28 : 32,
-            color: "#475569",
+            fontSize: useExtraCompact ? 24 : 28,
+            color: "#171818",
             align: "center",
             fontStyle: "bold",
             wordWrap: { width: buttonWidth - 36 },
