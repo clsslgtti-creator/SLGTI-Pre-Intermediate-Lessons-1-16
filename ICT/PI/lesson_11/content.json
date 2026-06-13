@@ -546,8 +546,8 @@
             "question": "Why are network cables labelled clearly?",
             "answer": "Because labels reduce confusion during troubleshooting.",
             "options": [
-              "Because labels reduce cable speed during troubleshooting.",
               "Because labels reduce confusion during troubleshooting.",
+              "Because labels reduce cable speed during troubleshooting.",
               "Because labels protect the cables during troubleshooting."
             ]
           },
@@ -557,8 +557,8 @@
             "answer": "Because physical connections must be completed first.",
             "options": [
               "Because electrical connections must be connected first.",
-              "Because physical connections must be completed first.",
-              "Because devices are not labelled."
+              "Because devices are not labelled.",
+              "Because physical connections must be completed first."
             ]
           },
           {
@@ -576,8 +576,8 @@
             "question": "Why aren’t advanced network services installed during this session?",
             "answer": "Because the session focuses only on setup and testing.",
             "options": [
-              "Because the session is only testing setups.",
               "Because the session focuses only on setup and testing.",
+              "Because the session is only testing setups.",
               "Because advanced network service is unreliable."
             ]
           }
@@ -702,11 +702,6 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a common and important process that you regularly practise in the ICT laboratory.",
           "audio": "assets/audio/t_2.mp3"
@@ -785,45 +780,10 @@
           "id": "t_17",
           "text": "Correct physical connections support stable network communication.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Finally, you have to power on the network devices in the correct order to allow proper startup.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Then, you have to test network connectivity using basic commands to confirm communication between devices.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "After that, you have to check indicator lights on the switch and router to identify connection status.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "Any faults should be reported clearly so that corrective action can be taken.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You shouldn’t install advanced network services at this stage, because the session focuses only on setup and testing.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures a reliable, stable, and functional network.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a common and important process that you regularly practise in the ICT laboratory.",
           "audio": "assets/audio/t_2.mp3"
@@ -902,36 +862,6 @@
           "id": "t_17",
           "text": "Correct physical connections support stable network communication.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Finally, you have to power on the network devices in the correct order to allow proper startup.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Then, you have to test network connectivity using basic commands to confirm communication between devices.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "After that, you have to check indicator lights on the switch and router to identify connection status.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "Any faults should be reported clearly so that corrective action can be taken.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You shouldn’t install advanced network services at this stage, because the session focuses only on setup and testing.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures a reliable, stable, and functional network.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ]
     }
