@@ -218,7 +218,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "text": "Choose the correct negative sentence or question. නිවැරදි නිශේධාර්ථ වාක්‍යය හෝ ප්‍රශ්නය තෝරන්න. சரியான எதிர்மறை வாக்கியத்தை அல்லது வினாவைத் தேர்ந்தெடுக்கவும்.",
         "audio": "assets/audio/a_3_i_m.mp3"
       },
       "activity_b": {
