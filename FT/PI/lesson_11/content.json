@@ -218,7 +218,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "text": "Choose the correct negative sentence or question. නිවැරදි නිශේධාර්ථ වාක්‍යය හෝ ප්‍රශ්නය තෝරන්න. சரியான எதிர்மறை வாக்கியத்தை அல்லது வினாவைத் தேர்ந்தெடுக்கவும்.",
         "audio": "assets/audio/a_3_i_m.mp3"
       },
       "activity_b": {
@@ -536,8 +536,8 @@
             "question": "Why does the technician check the storage temperature first?",
             "answer": "Because temperature control is critical for food safety.",
             "options": [
-              "Because food tastes better at low temperatures.",
               "Because temperature control is critical for food safety.",
+              "Because food tastes better at low temperatures.",
               "Because temperature control is critical calibration."
             ]
           },
@@ -557,8 +557,8 @@
             "answer": "To ensure food is cooked or cooled safely.",
             "options": [
               "To ensure food is cooked and cooking time is fixed safely.",
-              "To ensure food is cooked or cooled safely.",
-              "To ensure safety of cooling and cooking time."
+              "To ensure safety of cooling and cooking time.",
+              "To ensure food is cooked or cooled safely."
             ]
           },
           {
@@ -567,8 +567,8 @@
             "answer": "Because accurate readings are necessary for food safety.",
             "options": [
               "Because hot and cold zones have to be distributed evenly.",
-              "Because accurate readings are necessary for food safety.",
-              "Because food temperature changes slowly."
+              "Because food temperature changes slowly.",
+              "Because accurate readings are necessary for food safety."
             ]
           },
           {
@@ -576,8 +576,8 @@
             "question": "Why isn’t the food served immediately after checking temperature?",
             "answer": "Because proper cooling or holding time is required.",
             "options": [
-              "Because the food must be labelled.",
               "Because proper cooling or holding time is required.",
+              "Because the food must be labelled.",
               "Because the work area has to be cleaned and sanitised."
             ]
           }
@@ -707,11 +707,6 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain an essential process that you regularly practise in Food Technology.",
           "audio": "assets/audio/t_2.mp3"
@@ -790,50 +785,10 @@
           "id": "t_17",
           "text": "You shouldn’t rely on guesswork, because accurate readings are necessary for food safety.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Careful monitoring reduces contamination risks.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Finally, you have to check the final temperature before moving food to storage to confirm it is within safe limits.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "Then, you have to label food containers clearly so that storage time can be tracked easily.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "After that, you have to place food in the correct storage unit to maintain temperature stability.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You also have to clean and sanitise work areas to prepare for the next task.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "You shouldn’t serve the food immediately, because proper cooling or holding time is required.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "Following this sequence ensures safe and hygienic food handling.",
-          "audio": "assets/audio/t_24.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain an essential process that you regularly practise in Food Technology.",
           "audio": "assets/audio/t_2.mp3"
@@ -912,41 +867,6 @@
           "id": "t_17",
           "text": "You shouldn’t rely on guesswork, because accurate readings are necessary for food safety.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Careful monitoring reduces contamination risks.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Finally, you have to check the final temperature before moving food to storage to confirm it is within safe limits.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "Then, you have to label food containers clearly so that storage time can be tracked easily.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "After that, you have to place food in the correct storage unit to maintain temperature stability.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You also have to clean and sanitise work areas to prepare for the next task.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "You shouldn’t serve the food immediately, because proper cooling or holding time is required.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "Following this sequence ensures safe and hygienic food handling.",
-          "audio": "assets/audio/t_24.mp3"
         }
       ]
     }

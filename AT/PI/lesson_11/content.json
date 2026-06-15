@@ -218,7 +218,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "text": "Choose the correct negative sentence or question. නිවැරදි නිශේධාර්ථ වාක්‍යය හෝ ප්‍රශ්නය තෝරන්න. சரியான எதிர்மறை வாக்கியத்தை அல்லது வினாவைத் தேர்ந்தெடுக்கவும்.",
         "audio": "assets/audio/a_3_i_m.mp3"
       },
       "activity_b": {
@@ -537,8 +537,8 @@
             "answer": "Because low fluid can allow air into the system.",
             "options": [
               "Because low fluid can allow brake air into the system.",
-              "Because low fluid can allow air into the system.",
-              "Because low air can allow fluid into the system."
+              "Because low air can allow fluid into the system.",
+              "Because low fluid can allow air into the system."
             ]
           },
           {
@@ -556,8 +556,8 @@
             "question": "Why is the bleed screw tightened before releasing the pedal?",
             "answer": "So that air does not re-enter the system.",
             "options": [
-              "So that the screws don’t leak.",
               "So that air does not re-enter the system.",
+              "So that the screws don’t leak.",
               "So that fluid pressure re-enters the system."
             ]
           },
@@ -566,8 +566,8 @@
             "question": "Why is the brake pedal pressed slowly?",
             "answer": "Because slow pressure removes air more effectively.",
             "options": [
-              "Because slow air increases pressure more effectively.",
               "Because slow pressure removes air more effectively.",
+              "Because slow air increases pressure more effectively.",
               "Because quick movement removes air more effectively."
             ]
           },
@@ -702,11 +702,6 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
@@ -785,45 +780,10 @@
           "id": "t_17",
           "text": "This process is repeated until no air bubbles appear in the hose.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a routine but very important procedure in the Automobile Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
@@ -902,36 +862,6 @@
           "id": "t_17",
           "text": "This process is repeated until no air bubbles appear in the hose.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Finally, you have to refill the brake fluid reservoir to the correct level to maintain proper hydraulic pressure.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Then, you have to test the brake pedal firmness to confirm that the system works correctly.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "You also need to inspect all bleed screws for leaks so that braking performance remains safe.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "After that, clean any spilled brake fluid to protect painted surfaces.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You shouldn’t carry out a road test at this stage, because this session focuses only on the bleeding procedure.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence ensures reliable braking and vehicle safety.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ]
     }

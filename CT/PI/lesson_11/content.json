@@ -218,7 +218,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "text": "Choose the correct negative sentence or question. නිවැරදි නිශේධාර්ථ වාක්‍යය හෝ ප්‍රශ්නය තෝරන්න. சரியான எதிர்மறை வாக்கியத்தை அல்லது வினாவைத் தேர்ந்தெடுக்கவும்.",
         "audio": "assets/audio/a_3_i_m.mp3"
       },
       "activity_b": {
@@ -546,8 +546,8 @@
             "question": "Why are damaged scaffold components not used?",
             "answer": "Because defective parts can cause structural failure.",
             "options": [
-              "Because structural parts can cause defects.",
               "Because defective parts can cause structural failure.",
+              "Because structural parts can cause defects.",
               "Because they are difficult to assemble."
             ]
           },
@@ -557,8 +557,8 @@
             "answer": "Because they keep the scaffold rigid and stable.",
             "options": [
               "Because they support workers directly.",
-              "Because they keep the scaffold rigid and stable.",
-              "Because they keep the alignment smooth."
+              "Because they keep the alignment smooth.",
+              "Because they keep the scaffold rigid and stable."
             ]
           },
           {
@@ -577,8 +577,8 @@
             "answer": "Because approval must be given after inspection.",
             "options": [
               "Because the safety supervisor has to indicate the platform.",
-              "Because approval must be given after inspection.",
-              "Because materials are heavy."
+              "Because materials are heavy.",
+              "Because approval must be given after inspection."
             ]
           }
         ]
@@ -702,11 +702,6 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a routine but very important construction process that you regularly practise in Construction Technology.",
           "audio": "assets/audio/t_2.mp3"
@@ -785,45 +780,10 @@
           "id": "t_17",
           "text": "Proper preparation ensures safe working conditions at height.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Finally, you have to recheck all connections to confirm that bolts and couplers are tight.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Then, you have to inspect the working platform to make sure it is level and secure.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "After that, you have to place safety tags clearly to indicate the scaffold status.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "You also have to inform the site supervisor before use so that approval is recorded.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You shouldn’t load materials onto the scaffold immediately, because permission must be given after inspection.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence helps prevent accidents and ensures site safety.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a routine but very important construction process that you regularly practise in Construction Technology.",
           "audio": "assets/audio/t_2.mp3"
@@ -902,36 +862,6 @@
           "id": "t_17",
           "text": "Proper preparation ensures safe working conditions at height.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Finally, you have to recheck all connections to confirm that bolts and couplers are tight.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Then, you have to inspect the working platform to make sure it is level and secure.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "After that, you have to place safety tags clearly to indicate the scaffold status.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "You also have to inform the site supervisor before use so that approval is recorded.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "You shouldn’t load materials onto the scaffold immediately, because permission must be given after inspection.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "Following this sequence helps prevent accidents and ensures site safety.",
-          "audio": "assets/audio/t_23.mp3"
         }
       ]
     }

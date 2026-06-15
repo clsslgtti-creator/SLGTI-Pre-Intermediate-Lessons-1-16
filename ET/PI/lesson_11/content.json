@@ -218,7 +218,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "text": "Choose the correct negative sentence or question. නිවැරදි නිශේධාර්ථ වාක්‍යය හෝ ප්‍රශ්නය තෝරන්න. சரியான எதிர்மறை வாக்கியத்தை அல்லது வினாவைத் தேர்ந்தெடுக்கவும்.",
         "audio": "assets/audio/a_3_i_m.mp3"
       },
       "activity_b": {
@@ -547,8 +547,8 @@
             "answer": "To confirm the board is safe to work on.",
             "options": [
               "To confirm the voltage is safe to work with.",
-              "To confirm the board is safe to work on.",
-              "To test breaker speed is safe to work with."
+              "To test breaker speed is safe to work with.",
+              "To confirm the board is safe to work on."
             ]
           },
           {
@@ -566,8 +566,8 @@
             "question": "Why doesn’t the technician replace components immediately?",
             "answer": "Because defects are reported for scheduled maintenance.",
             "options": [
-              "Because replacements are reported for inspection.",
               "Because defects are reported for scheduled maintenance.",
+              "Because replacements are reported for inspection.",
               "Because components are defective."
             ]
           },
@@ -697,11 +697,6 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a routine but essential procedure that you regularly practise in the Electrical Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
@@ -780,40 +775,10 @@
           "id": "t_17",
           "text": "Finally, you have to close the distribution board securely to protect internal components from dust and contact.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Then, you have to restore the power supply gradually so that the system can be observed safely.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "After that, you have to monitor the board briefly to confirm normal operation.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "You also have to clean the work area to maintain workshop standards.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "You don’t have to carry out load testing at this stage, because the session focuses only on inspection procedures.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Following this sequence ensures electrical safety, system reliability, and correct maintenance practice.",
-          "audio": "assets/audio/t_22.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a routine but essential procedure that you regularly practise in the Electrical Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
@@ -845,7 +810,7 @@
         },
         {
           "id": "t_8",
-          "text": "After that, you have to wear insulated gloves and suitable safety equipment to reduce the risk of injury.",
+          "text": "After that, you put on insulated gloves and suitable safety equipment to reduce the risk of injury.",
           "audio": "assets/audio/t_8.mp3"
         },
         {
@@ -892,31 +857,6 @@
           "id": "t_17",
           "text": "Finally, you have to close the distribution board securely to protect internal components from dust and contact.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Then, you have to restore the power supply gradually so that the system can be observed safely.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "After that, you have to monitor the board briefly to confirm normal operation.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "You also have to clean the work area to maintain workshop standards.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "You don’t have to carry out load testing at this stage, because the session focuses only on inspection procedures.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Following this sequence ensures electrical safety, system reliability, and correct maintenance practice.",
-          "audio": "assets/audio/t_22.mp3"
         }
       ]
     }

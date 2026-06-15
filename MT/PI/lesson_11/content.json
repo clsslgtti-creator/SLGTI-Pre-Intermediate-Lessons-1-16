@@ -218,7 +218,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Choose the correct negative sentence.  නිවැරදි වාක්‍යය තෝරන්න.  சரியான எதிர்மறை வாக்கியத்தைத் தேர்ந்தெடுக்கவும்.",
+        "text": "Choose the correct negative sentence or question. නිවැරදි නිශේධාර්ථ වාක්‍යය හෝ ප්‍රශ්නය තෝරන්න. சரியான எதிர்மறை வாக்கியத்தை அல்லது வினாவைத் தேர்ந்தெடுக்கவும்.",
         "audio": "assets/audio/a_3_i_m.mp3"
       },
       "activity_b": {
@@ -547,8 +547,8 @@
             "answer": "Because incorrect tools can damage the shaft.",
             "options": [
               "Because incorrect tools can increase machine speed.",
-              "Because incorrect tools can damage the shaft.",
-              "Because incorrect tools can damage the preparation."
+              "Because incorrect tools can damage the preparation.",
+              "Because incorrect tools can damage the shaft."
             ]
           },
           {
@@ -556,8 +556,8 @@
             "question": "Why is pressure applied evenly when fitting the new bearing?",
             "answer": "So that the bearing sits correctly in position.",
             "options": [
-              "Because bearings are soft.",
               "So that the bearing sits correctly in position.",
+              "Because bearings are soft.",
               "So that bolts loosen easily."
             ]
           },
@@ -577,8 +577,8 @@
             "answer": "Because gradual loading confirms correct installation.",
             "options": [
               "Because correct installation confirms gradual loading.",
-              "Because gradual loading confirms correct installation.",
-              "Because gradual lubrication confirms correct installation."
+              "Because gradual lubrication confirms correct installation.",
+              "Because gradual loading confirms correct installation."
             ]
           }
         ]
@@ -697,11 +697,6 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a common mechanical maintenance task that you often practise in the Mechanical Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
@@ -780,40 +775,10 @@
           "id": "t_17",
           "text": "Finally, you have to tighten all fasteners to the specified torque so that the assembly remains secure.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Then, you must lubricate the bearing in order to reduce friction and heat during operation.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "After that, you have to rotate the shaft by hand to confirm free movement.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "You also need to observe the bearing area during the initial startup to check for abnormal or unusual noise.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "You shouldn't run the machine at full load immediately, because gradual loading helps confirm correct installation.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Following this sequence ensures safe and efficient machine operation.",
-          "audio": "assets/audio/t_22.mp3"
         }
       ],
       "activity_e": [
         {
-          "id": "t_1",
-          "text": "Good morning, everyone.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
           "id": "t_2",
           "text": "Today I am going to explain a common mechanical maintenance task that you often practise in the Mechanical Technology workshop.",
           "audio": "assets/audio/t_2.mp3"
@@ -892,31 +857,6 @@
           "id": "t_17",
           "text": "Finally, you have to tighten all fasteners to the specified torque so that the assembly remains secure.",
           "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Then, you must lubricate the bearing in order to reduce friction and heat during operation.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "After that, you have to rotate the shaft by hand to confirm free movement.",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
-          "id": "t_20",
-          "text": "You also need to observe the bearing area during the initial startup to check for abnormal or unusual noise.",
-          "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "You shouldn't run the machine at full load immediately, because gradual loading helps confirm correct installation.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "Following this sequence ensures safe and efficient machine operation.",
-          "audio": "assets/audio/t_22.mp3"
         }
       ]
     }

@@ -433,7 +433,7 @@
     },
     "content": {
       "activity_a": {
-        "audio": "assets/audio/a_4_l_1.wav",
+        "audio": "assets/audio/a_4_l_1.mp3",
         "Questions": [
           {
             "id": "l_18_1",
@@ -500,7 +500,7 @@
         },
         {
           "id": "t_3",
-          "text": "feels very uncomfortable",
+          "text": "My eye feels very uncomfortable today.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -515,7 +515,7 @@
         },
         {
           "id": "t_6",
-          "text": "is really sore.",
+          "text": "My lower back is really sore.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
@@ -530,7 +530,7 @@
         },
         {
           "id": "t_9",
-          "text": "hurts a lot",
+          "text": "My ankle hurts a lot, and I can’t walk fast.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
@@ -545,7 +545,7 @@
         },
         {
           "id": "t_12",
-          "text": "is very painful",
+          "text": "My finger is very painful today.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -572,7 +572,7 @@
         },
         {
           "id": "t_3",
-          "text": "feels very uncomfortable",
+          "text": "My eye feels very uncomfortable today.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -587,7 +587,7 @@
         },
         {
           "id": "t_6",
-          "text": "is really sore.",
+          "text": "My lower back is really sore.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
@@ -602,7 +602,7 @@
         },
         {
           "id": "t_9",
-          "text": "hurts a lot",
+          "text": "My ankle hurts a lot, and I can’t walk fast.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
@@ -617,7 +617,7 @@
         },
         {
           "id": "t_12",
-          "text": "is very painful",
+          "text": "My finger is very painful today.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
@@ -644,7 +644,7 @@
         },
         {
           "id": "t_3",
-          "text": "feels very uncomfortable",
+          "text": "My eye feels very uncomfortable today.",
           "audio": "assets/audio/t_3.mp3"
         },
         {
@@ -659,7 +659,7 @@
         },
         {
           "id": "t_6",
-          "text": "is really sore.",
+          "text": "My lower back is really sore.",
           "audio": "assets/audio/t_6.mp3"
         },
         {
@@ -674,7 +674,7 @@
         },
         {
           "id": "t_9",
-          "text": "hurts a lot",
+          "text": "My ankle hurts a lot, and I can’t walk fast.",
           "audio": "assets/audio/t_9.mp3"
         },
         {
@@ -689,7 +689,7 @@
         },
         {
           "id": "t_12",
-          "text": "is very painful",
+          "text": "My finger is very painful today.",
           "audio": "assets/audio/t_12.mp3"
         },
         {
