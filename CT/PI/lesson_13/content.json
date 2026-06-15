@@ -158,7 +158,7 @@
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.jpeg",
+        "image": "assets/img/a_2_d_6.png",
         "word": "A machine belt trapped her sleeve and sprained her arm."
       },
       {
@@ -196,7 +196,7 @@
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "Why is Tharindu absent today?",
-        "text_b": "He is absent because he had an accident three days ago.",
+        "text_b": "He is absent because he had an accident two days ago.",
         "text_c": "What happened?",
         "text_d": "A heavy beam fell on his left leg.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
@@ -208,7 +208,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "Why is Shamika absent today?",
         "text_b": "She is absent because she had an accident this morning.",
         "text_c": "What happened?",
