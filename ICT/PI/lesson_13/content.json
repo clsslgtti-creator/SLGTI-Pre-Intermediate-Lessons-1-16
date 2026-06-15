@@ -439,8 +439,8 @@
             "answer": "To accurately document the incident and submit an accident report.",
             "options": [
               "To find out who was responsible for the accident and submit a report.",
-              "To accurately document the incident and submit an accident report.",
-              "To check if the workshop was overcrowded."
+              "To check if the workshop was overcrowded.",
+              "To accurately document the incident and submit an accident report."
             ]
           },
           {
@@ -459,8 +459,8 @@
             "answer": "Accidentally touching a live wire.",
             "options": [
               "The length of the power cables",
-              "Accidentally touching a live wire.",
-              "The number of cables to connect"
+              "The number of cables to connect",
+              "Accidentally touching a live wire."
             ]
           },
           {
@@ -478,8 +478,8 @@
             "question": "What does the trainee’s final response show about his attitude after the accident?",
             "answer": "He understands the importance of personal responsibility and safety compliance.",
             "options": [
-              "He believes accidents are unavoidable in workplaces.",
               "He expects stricter supervision from instructors.",
+              "He believes accidents are unavoidable in workplaces.",
               "He understands the importance of personal responsibility and safety compliance."
             ]
           }
@@ -679,56 +679,6 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "I’m the safety inspector for the ICT division.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Thank you for coming in.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "I need to ask you a few questions in order to complete the accident report.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Is that okay?",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "Good morning, sir.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "Yes, that’s fine.",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "First of all, could you please tell me your full name?",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "My name is Dilshan Perera.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Thank you, Dilshan.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
@@ -744,19 +694,9 @@
           "audio": "assets/audio/t_13.mp3"
         },
         {
-          "id": "t_14",
-          "text": "And where exactly did it happen?",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
           "id": "t_15",
           "text": "It happened in the computer laboratory, near the server rack.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "Who else was present at that time?",
-          "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
@@ -769,19 +709,9 @@
           "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_19",
-          "text": "What task did you carry out just before the accident?",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
           "id": "t_20",
           "text": "I was connecting the system to the mains power supply using the power cable.",
           "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "Please describe how the accident happened.",
-          "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
@@ -789,34 +719,9 @@
           "audio": "assets/audio/t_22.mp3"
         },
         {
-          "id": "t_23",
-          "text": "Were you wearing all the required safety equipment?",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
           "id": "t_24",
           "text": "I wore anti-static footwear but forgot to wear insulated gloves.",
           "audio": "assets/audio/t_24.mp3"
-        },
-        {
-          "id": "t_25",
-          "text": "Now I know that it wasn’t safe.",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "Thank you for being honest.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "What did you do immediately after the injury?",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "I called the instructor.",
-          "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
@@ -824,103 +729,18 @@
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_30",
-          "text": "Did you receive any further medical attention after that?",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "I went to a nearby clinic.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
           "id": "t_33",
           "text": "The doctor examined the injury, applied a cream and prescribed some medication, and advised me to rest.",
           "audio": "assets/audio/t_33.mp3"
         },
         {
-          "id": "t_34",
-          "text": "Finally, what can you do to help prevent this type of accident in the future?",
-          "audio": "assets/audio/t_34.mp3"
-        },
-        {
           "id": "t_35",
           "text": "We should always wear all personal protective equipment and follow safety instructions carefully.",
           "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "That sounds sensible.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Thank you for your cooperation.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "I have all the information I need to complete the report.",
-          "audio": "assets/audio/t_38.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "I’m the safety inspector for the ICT division.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Thank you for coming in.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "I need to ask you a few questions in order to complete the accident report.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Is that okay?",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "Good morning, sir.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "Yes, that’s fine.",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "First of all, could you please tell me your full name?",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "My name is Dilshan Perera.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Thank you, Dilshan.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
@@ -936,19 +756,9 @@
           "audio": "assets/audio/t_13.mp3"
         },
         {
-          "id": "t_14",
-          "text": "And where exactly did it happen?",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
           "id": "t_15",
           "text": "It happened in the computer laboratory, near the server rack.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "Who else was present at that time?",
-          "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
@@ -961,19 +771,9 @@
           "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_19",
-          "text": "What task did you carry out just before the accident?",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
           "id": "t_20",
           "text": "I was connecting the system to the mains power supply using the power cable.",
           "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "Please describe how the accident happened.",
-          "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
@@ -981,34 +781,9 @@
           "audio": "assets/audio/t_22.mp3"
         },
         {
-          "id": "t_23",
-          "text": "Were you wearing all the required safety equipment?",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
           "id": "t_24",
           "text": "I wore anti-static footwear but forgot to wear insulated gloves.",
           "audio": "assets/audio/t_24.mp3"
-        },
-        {
-          "id": "t_25",
-          "text": "Now I know that it wasn’t safe.",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "Thank you for being honest.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "What did you do immediately after the injury?",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "I called the instructor.",
-          "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
@@ -1016,49 +791,14 @@
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_30",
-          "text": "Did you receive any further medical attention after that?",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "I went to a nearby clinic.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
           "id": "t_33",
           "text": "The doctor examined the injury, applied a cream and prescribed some medication, and advised me to rest.",
           "audio": "assets/audio/t_33.mp3"
         },
         {
-          "id": "t_34",
-          "text": "Finally, what can you do to help prevent this type of accident in the future?",
-          "audio": "assets/audio/t_34.mp3"
-        },
-        {
           "id": "t_35",
           "text": "We should always wear all personal protective equipment and follow safety instructions carefully.",
           "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "That sounds sensible.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Thank you for your cooperation.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "I have all the information I need to complete the report.",
-          "audio": "assets/audio/t_38.mp3"
         }
       ]
     }
