@@ -303,7 +303,10 @@
             "correctly",
             "?"
           ],
-          "sentence": "Does the assistant log the calibrated sensors correctly?"
+          "sentence": "Does the assistant log the calibrated sensors correctly?",
+          "alternative_answers": [
+            "Does the assistant correctly log the calibrated sensors?"
+          ]
         },
         {
           "id": "n_3_a_5",

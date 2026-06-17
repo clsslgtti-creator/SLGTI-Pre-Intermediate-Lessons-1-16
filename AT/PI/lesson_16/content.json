@@ -302,7 +302,10 @@
             "use",
             "?"
           ],
-          "sentence": "Do technicians store calibrated tools safely after use?"
+          "sentence": "Do technicians store calibrated tools safely after use?",
+          "alternative_answers": [
+            "Do technicians safely store calibrated tools after use?"
+          ]
         },
         {
           "id": "n_3_a_5",
@@ -441,7 +444,10 @@
             "carefully",
             "."
           ],
-          "sentence": "Operators often follow standard maintenance procedures carefully."
+          "sentence": "Operators often follow standard maintenance procedures carefully.",
+          "alternative_answers": [
+            "Operators often carefully follow standard maintenance procedures."
+          ]
         },
         {
           "id": "n_3_a_13",
@@ -484,7 +490,10 @@
             "operation",
             "."
           ],
-          "sentence": "Machines sometimes require additional lubrication during operation."
+          "sentence": "Machines sometimes require additional lubrication during operation.",
+          "alternative_answers": [
+            "Machines require additional lubrication sometimes during operation."
+          ]
         }
       ]
     }
