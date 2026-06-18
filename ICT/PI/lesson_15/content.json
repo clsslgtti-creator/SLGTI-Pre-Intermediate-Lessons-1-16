@@ -440,29 +440,9 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "When I checked the ICT lab, I noticed the server console was still logged in and unattended.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear security risk for the system and the network.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You usually follow access control procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I stepped away to assist another student and did not log out of the system properly.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -475,29 +455,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These computers are not communicating with the network as expected.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The IP settings do not match the configuration given in the setup guide, which means the systems cannot access shared resources.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in ICT work, so we need to identify how this error occurred.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I entered the IP address manually and did not cross-check it with the configuration sheet.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -508,21 +468,6 @@
           "id": "t_14",
           "text": "I will verify all network settings carefully before completing any configuration tasks in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "I can see network cables left across the lab floor without any warning signs or cable covers.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a tripping hazard for anyone moving around the room.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Good housekeeping is an essential part of ICT lab safety.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -542,29 +487,9 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "When I checked the ICT lab, I noticed the server console was still logged in and unattended.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear security risk for the system and the network.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You usually follow access control procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I stepped away to assist another student and did not log out of the system properly.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -577,29 +502,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These computers are not communicating with the network as expected.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The IP settings do not match the configuration given in the setup guide, which means the systems cannot access shared resources.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in ICT work, so we need to identify how this error occurred.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I entered the IP address manually and did not cross-check it with the configuration sheet.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -610,21 +515,6 @@
           "id": "t_14",
           "text": "I will verify all network settings carefully before completing any configuration tasks in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "I can see network cables left across the lab floor without any warning signs or cable covers.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a tripping hazard for anyone moving around the room.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Good housekeeping is an essential part of ICT lab safety.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -644,29 +534,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "When I checked the ICT lab, I noticed the server console was still logged in and unattended.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear security risk for the system and the network.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You usually follow access control procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I stepped away to assist another student and did not log out of the system properly.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -679,29 +549,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These computers are not communicating with the network as expected.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The IP settings do not match the configuration given in the setup guide, which means the systems cannot access shared resources.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in ICT work, so we need to identify how this error occurred.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I entered the IP address manually and did not cross-check it with the configuration sheet.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -712,21 +562,6 @@
           "id": "t_14",
           "text": "I will verify all network settings carefully before completing any configuration tasks in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "I can see network cables left across the lab floor without any warning signs or cable covers.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a tripping hazard for anyone moving around the room.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Good housekeeping is an essential part of ICT lab safety.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",

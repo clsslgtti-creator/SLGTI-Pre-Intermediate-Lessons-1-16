@@ -440,29 +440,9 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "When I inspected the machining area, I noticed the lathe was still running and the chuck was left uncovered.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That presents a clear safety risk on the workshop floor.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow correct procedures, so I’d like to understand what caused this lapse.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I apologise for that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was briefly interrupted and failed to complete the shutdown procedure properly.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -480,29 +460,9 @@
           "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_9",
-          "text": "These shafts do not conform to the dimensions specified in the technical drawing.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "They are slightly shorter than required, which means they cannot be used for this assembly.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "Precision is essential in Mechanical Technology tasks, so we must address the cause.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
           "id": "t_12",
           "text": "I understand, sir, and I’m sorry for the mistake.",
           "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "I didn’t read the vernier caliper scale carefully and did not verify the measurements before cutting.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -513,26 +473,6 @@
           "id": "t_15",
           "text": "I will take more time to cross-check all measurements before proceeding with machining operations.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "There is hydraulic oil on the floor near the press area, and it has not yet been cleaned or marked.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "This creates a potential slipping hazard for anyone working nearby.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Maintaining proper housekeeping standards is a key part of workshop safety.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "You’re absolutely right, sir.",
-          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
@@ -552,29 +492,9 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "When I inspected the machining area, I noticed the lathe was still running and the chuck was left uncovered.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That presents a clear safety risk on the workshop floor.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow correct procedures, so I’d like to understand what caused this lapse.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I apologise for that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was briefly interrupted and failed to complete the shutdown procedure properly.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -592,29 +512,9 @@
           "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_9",
-          "text": "These shafts do not conform to the dimensions specified in the technical drawing.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "They are slightly shorter than required, which means they cannot be used for this assembly.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "Precision is essential in Mechanical Technology tasks, so we must address the cause.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
           "id": "t_12",
           "text": "I understand, sir, and I’m sorry for the mistake.",
           "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "I didn’t read the vernier caliper scale carefully and did not verify the measurements before cutting.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -625,26 +525,6 @@
           "id": "t_15",
           "text": "I will take more time to cross-check all measurements before proceeding with machining operations.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "There is hydraulic oil on the floor near the press area, and it has not yet been cleaned or marked.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "This creates a potential slipping hazard for anyone working nearby.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Maintaining proper housekeeping standards is a key part of workshop safety.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "You’re absolutely right, sir.",
-          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
@@ -664,29 +544,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "When I inspected the machining area, I noticed the lathe was still running and the chuck was left uncovered.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That presents a clear safety risk on the workshop floor.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow correct procedures, so I’d like to understand what caused this lapse.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I apologise for that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was briefly interrupted and failed to complete the shutdown procedure properly.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -704,29 +564,9 @@
           "audio": "assets/audio/t_8.mp3"
         },
         {
-          "id": "t_9",
-          "text": "These shafts do not conform to the dimensions specified in the technical drawing.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "They are slightly shorter than required, which means they cannot be used for this assembly.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "Precision is essential in Mechanical Technology tasks, so we must address the cause.",
-          "audio": "assets/audio/t_11.mp3"
-        },
-        {
           "id": "t_12",
           "text": "I understand, sir, and I’m sorry for the mistake.",
           "audio": "assets/audio/t_12.mp3"
-        },
-        {
-          "id": "t_13",
-          "text": "I didn’t read the vernier caliper scale carefully and did not verify the measurements before cutting.",
-          "audio": "assets/audio/t_13.mp3"
         },
         {
           "id": "t_14",
@@ -737,26 +577,6 @@
           "id": "t_15",
           "text": "I will take more time to cross-check all measurements before proceeding with machining operations.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "There is hydraulic oil on the floor near the press area, and it has not yet been cleaned or marked.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "This creates a potential slipping hazard for anyone working nearby.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "Maintaining proper housekeeping standards is a key part of workshop safety.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "You’re absolutely right, sir.",
-          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",

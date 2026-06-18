@@ -440,29 +440,9 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -475,29 +455,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -508,21 +468,6 @@
           "id": "t_14",
           "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -542,29 +487,9 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -577,29 +502,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -610,21 +515,6 @@
           "id": "t_14",
           "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -644,29 +534,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "When I inspected the service bay, I noticed the engine was still running and the vehicle was unattended.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear safety risk in the workshop area.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow shutdown procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I stepped away briefly to collect tools and did not switch off the engine as required.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -679,29 +549,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These wheel nuts do not meet the torque values specified in the service manual.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "They are under-tightened, which means the vehicle cannot be released safely.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Automobile Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I set the torque wrench incorrectly and did not recheck the specification before tightening.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -712,21 +562,6 @@
           "id": "t_14",
           "text": "I will carefully confirm torque values before carrying out any fastening work in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "There is engine oil spilled beneath the vehicle, and the area has not been cleaned or marked.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a slipping hazard for anyone moving through the workshop.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of automotive safety practice.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",

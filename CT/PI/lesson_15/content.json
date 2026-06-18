@@ -440,29 +440,9 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "When I inspected the construction area, I noticed the scaffolding was left unsecured and the access ladder was not properly fixed.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear safety risk on the site.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow safety procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was asked to assist another team and did not secure the scaffold before leaving the area.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -475,29 +455,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "This concrete mix does not match the ratio specified in the work schedule.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The cement content is lower than required, which means the concrete may not achieve the correct strength.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Construction Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I misread the mix ratio and did not verify it before batching the materials.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -513,16 +473,6 @@
           "id": "t_15",
           "text": "There is loose debris left on the main walkway, and the area has not been cleared or marked.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a tripping hazard for anyone moving around the site.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of construction site safety.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -542,29 +492,9 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "When I inspected the construction area, I noticed the scaffolding was left unsecured and the access ladder was not properly fixed.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear safety risk on the site.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow safety procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was asked to assist another team and did not secure the scaffold before leaving the area.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -577,29 +507,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "This concrete mix does not match the ratio specified in the work schedule.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The cement content is lower than required, which means the concrete may not achieve the correct strength.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Construction Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I misread the mix ratio and did not verify it before batching the materials.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -615,16 +525,6 @@
           "id": "t_15",
           "text": "There is loose debris left on the main walkway, and the area has not been cleared or marked.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a tripping hazard for anyone moving around the site.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of construction site safety.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -644,29 +544,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "When I inspected the construction area, I noticed the scaffolding was left unsecured and the access ladder was not properly fixed.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear safety risk on the site.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You normally follow safety procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was asked to assist another team and did not secure the scaffold before leaving the area.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -679,29 +559,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "This concrete mix does not match the ratio specified in the work schedule.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The cement content is lower than required, which means the concrete may not achieve the correct strength.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Construction Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I misread the mix ratio and did not verify it before batching the materials.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -717,16 +577,6 @@
           "id": "t_15",
           "text": "There is loose debris left on the main walkway, and the area has not been cleared or marked.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a tripping hazard for anyone moving around the site.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining good housekeeping is an essential part of construction site safety.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",

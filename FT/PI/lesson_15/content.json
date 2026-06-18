@@ -440,29 +440,9 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "When I checked the cold storage area, I noticed the chiller temperature had not been recorded and the display showed a higher reading than allowed.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear food safety risk during storage.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You usually follow hygiene and monitoring procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was assisting with preparation work and did not record the temperature at the scheduled time.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -475,29 +455,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These ingredients do not match the quantities stated in the recipe sheet.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The amount of flour is higher than required, which can affect the quality and consistency of the final product.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Food Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I misread the digital scale and did not recheck the measurement before mixing.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -508,21 +468,6 @@
           "id": "t_14",
           "text": "I will carefully verify all ingredient weights before starting the preparation process in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "There is liquid spilled on the processing room floor, and the area has not been cleaned or marked.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a slipping hazard and a hygiene concern for anyone working nearby.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining proper cleanliness is an essential part of food safety practice.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -542,29 +487,9 @@
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "When I checked the cold storage area, I noticed the chiller temperature had not been recorded and the display showed a higher reading than allowed.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear food safety risk during storage.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You usually follow hygiene and monitoring procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was assisting with preparation work and did not record the temperature at the scheduled time.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -577,29 +502,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These ingredients do not match the quantities stated in the recipe sheet.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The amount of flour is higher than required, which can affect the quality and consistency of the final product.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Food Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I misread the digital scale and did not recheck the measurement before mixing.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -610,21 +515,6 @@
           "id": "t_14",
           "text": "I will carefully verify all ingredient weights before starting the preparation process in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "There is liquid spilled on the processing room floor, and the area has not been cleaned or marked.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a slipping hazard and a hygiene concern for anyone working nearby.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining proper cleanliness is an essential part of food safety practice.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
@@ -644,29 +534,9 @@
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "When I checked the cold storage area, I noticed the chiller temperature had not been recorded and the display showed a higher reading than allowed.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "That creates a clear food safety risk during storage.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "You usually follow hygiene and monitoring procedures, so I would like to understand what caused this situation.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "I’m very sorry about that, sir.",
           "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "I was assisting with preparation work and did not record the temperature at the scheduled time.",
-          "audio": "assets/audio/t_5.mp3"
         },
         {
           "id": "t_6",
@@ -679,29 +549,9 @@
           "audio": "assets/audio/t_7.mp3"
         },
         {
-          "id": "t_8",
-          "text": "These ingredients do not match the quantities stated in the recipe sheet.",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "The amount of flour is higher than required, which can affect the quality and consistency of the final product.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Accuracy is critical in Food Technology work, so we need to address how this happened.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I apologise for the mistake, sir.",
           "audio": "assets/audio/t_11.mp3"
-        },
-        {
-          "id": "t_12",
-          "text": "I misread the digital scale and did not recheck the measurement before mixing.",
-          "audio": "assets/audio/t_12.mp3"
         },
         {
           "id": "t_13",
@@ -712,21 +562,6 @@
           "id": "t_14",
           "text": "I will carefully verify all ingredient weights before starting the preparation process in the future.",
           "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "There is liquid spilled on the processing room floor, and the area has not been cleaned or marked.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "This creates a slipping hazard and a hygiene concern for anyone working nearby.",
-          "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Maintaining proper cleanliness is an essential part of food safety practice.",
-          "audio": "assets/audio/t_17.mp3"
         },
         {
           "id": "t_18",
