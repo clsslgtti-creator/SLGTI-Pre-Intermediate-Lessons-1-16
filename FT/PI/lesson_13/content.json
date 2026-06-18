@@ -35,7 +35,7 @@
         "id": "p_1",
         "word_text": "f'oi'l",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Did the inspector find f'oi'l insulation behind the service duct yesterday? Yes, he did. He found the f'oi'l insulation at the beginning of the inspection.",
+        "sentence_text": "Did the inspector find f'oi'l insulation behind the service duct yesterday? \n\n Yes, he did. He found the f'oi'l insulation at the beginning of the inspection.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -43,7 +43,7 @@
         "id": "p_2",
         "word_text": "'oy'ster",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Did the chef choose the 'oy'sters at the fresh seafood market this morning? No, he didn’t. He chose the 'oy'sters yesterday and froze them.",
+        "sentence_text": "Did the chef choose the 'oy'sters at the fresh seafood market this morning? \n\n No, he didn’t. He chose the 'oy'sters yesterday and froze them.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "p'oi'nt",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did the supervisor check the fermentation p'o'int before preparing the dosa batter? Yes, he did. He checked the fermentation p'o'int before starting the process.",
+        "sentence_text": "Did the supervisor check the fermentation p'o'int before preparing the dosa batter? \n\n Yes, he did. He checked the fermentation p'o'int before starting the process.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "v'oi'd",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did the manufacturer v'oi'd the warranty of the sealing machine last week? No, he didn’t. He sent us a warning to use only manufacturer approved materials for sealing.",
+        "sentence_text": "Did the manufacturer v'oi'd the warranty of the sealing machine last week? \n\n No, he didn’t. He sent us a warning to use only manufacturer approved materials for sealing.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -282,7 +282,7 @@
         "examples": [
           {
             "id": "g_b_ex",
-            "sentence": "___________ were you when the accident happened?",
+            "sentence": "___________ were you when the accident happened? \n\n  In the dough processing section , close to the fermentation room.",
             "options": ["How often", "Where", "What time"],
             "answer": "Where"
           }
@@ -290,61 +290,61 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "___________ exactly did the accident happen?",
+            "sentence": "___________ exactly did the accident happen? \n\n It was around noon, just before the lunch break bell.",
             "options": ["How much", "When", "How"],
             "answer": "When"
           },
           {
             "id": "g_b_2",
-            "sentence": "___________ got injured?",
+            "sentence": "___________ got injured? \n\n A trainee from the new batch.",
             "options": ["Why", "Where", "Who"],
             "answer": "Who"
           },
           {
             "id": "g_b_3",
-            "sentence": "___________ did it happen?",
+            "sentence": "___________ did it happen? \n\n It happened in the welding workshop, next to the emergency exit.",
             "options": ["Where", "What", "When"],
             "answer": "Where"
           },
           {
             "id": "g_b_4",
-            "sentence": "___________ did he get injured?",
+            "sentence": "___________ did he get injured? \n\n The trainee put his hand too close to the grinder.",
             "options": ["How", "Where", "When"],
             "answer": "How"
           },
           {
             "id": "g_b_5",
-            "sentence": "___________ hand got injured, the left or the right?",
+            "sentence": "___________ hand got injured, the left or the right? \n\n The fingers of his right hand were cut.",
             "options": ["What", "Where", "Which"],
             "answer": "Which"
           },
           {
             "id": "g_b_6",
-            "sentence": "___________ did the instructor do when it happened?",
+            "sentence": "___________ did the instructor do when it happened? \n\n The instructor switched off the machine and moved the students away.",
             "options": ["Where", "Why", "What"],
             "answer": "What"
           },
           {
             "id": "g_b_7",
-            "sentence": "___________ trainees were present in the welding workshop at the time of the accident?",
+            "sentence": "___________ trainees were present in the welding workshop at the time of the accident? \n\n All 35 trainees were present.",
             "options": ["How much", "How many", "How often"],
             "answer": "How many"
           },
           {
             "id": "g_b_8",
-            "sentence": "___________ wasn’t he wearing safety gloves?",
+            "sentence": "___________ wasn’t he wearing safety gloves? \n\n The instructor forgot to give them at the start of the class.",
             "options": ["Where", "Why", "Which"],
             "answer": "Why"
           },
           {
             "id": "g_b_9",
-            "sentence": "___________ did the doctor take to arrive at the welding workshop?",
+            "sentence": "___________ did the doctor take to arrive at the welding workshop? \n\n The doctor arrived within five minutes of the call.",
             "options": ["How long", "How much", "How far"],
             "answer": "How long"
           },
           {
             "id": "g_b_10",
-            "sentence": "___________ should you stand from machines that are operating?",
+            "sentence": "___________ should you stand from machines that are operating? \n\n The safety rules say we must stand at least one metre away.",
             "options": ["How long", "How far", "How much"],
             "answer": "How far"
           }
