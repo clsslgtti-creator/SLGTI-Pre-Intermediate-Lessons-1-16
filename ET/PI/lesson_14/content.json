@@ -580,21 +580,6 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "Good morning, Apex Stationery Supplies.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "This is Nadeesha speaking.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Good morning.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "This is Kamal calling from the Sri Lanka–German Training Institute.",
           "audio": "assets/audio/t_4.mp3"
@@ -605,34 +590,9 @@
           "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_6",
-          "text": "Certainly, sir.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "What would you like to check first?",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
           "id": "t_8",
           "text": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
           "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "Yes, we do.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "We have more than one hundred reams available at the moment.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "That’s good.",
-          "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
@@ -640,39 +600,9 @@
           "audio": "assets/audio/t_12.mp3"
         },
         {
-          "id": "t_13",
-          "text": "Yes, they are.",
-          "audio": "assets/audio/t_13.mp3"
-        },
-        {
-          "id": "t_14",
-          "text": "Great.",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "I’d also like to ask about ballpoint pens.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
           "id": "t_16",
           "text": "Are blue and black medium-tip pens available in boxes of fifty?",
           "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Yes, both colours are available.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "We are restocking this morning, so the supply is stable.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
@@ -680,34 +610,9 @@
           "audio": "assets/audio/t_20.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Black cartridges are available, but colour cartridges are limited right now.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "A new shipment is arriving early next week.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "That’s fine.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "We might only include black ink in this order.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
           "id": "t_25",
           "text": "What about the heavy-duty metal staples, sold in bulk boxes?",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "Yes, those are in stock.",
-          "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
@@ -715,108 +620,18 @@
           "audio": "assets/audio/t_27.mp3"
         },
         {
-          "id": "t_28",
-          "text": "Are they still available in packs of twenty?",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "Yes, they are, but quantities are moving quickly.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "Understood.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "I’m noting everything down while we’re speaking.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Some items might be adjusted once departments confirm their requirements.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "No problem at all.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
-          "id": "t_34",
-          "text": "Once I complete that check, I’m going to prepare the final list.",
-          "audio": "assets/audio/t_34.mp3"
-        },
-        {
           "id": "t_35",
           "text": "Would you prefer me to email the order with exact quantities or send it by WhatsApp?",
           "audio": "assets/audio/t_35.mp3"
         },
         {
-          "id": "t_36",
-          "text": "Email would be better.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "WhatsApp messages tend to disappear after a while.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "Emailing the order helps us reconfirm availability and prepare pricing accurately.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
-          "text": "Alright.",
-          "audio": "assets/audio/t_39.mp3"
-        },
-        {
           "id": "t_40",
           "text": "I’ll email the complete order later this afternoon.",
           "audio": "assets/audio/t_40.mp3"
-        },
-        {
-          "id": "t_41",
-          "text": "Perfect.",
-          "audio": "assets/audio/t_41.mp3"
-        },
-        {
-          "id": "t_42",
-          "text": "We’ll respond as soon as we receive it.",
-          "audio": "assets/audio/t_42.mp3"
-        },
-        {
-          "id": "t_43",
-          "text": "Thank you for your assistance.",
-          "audio": "assets/audio/t_43.mp3"
-        },
-        {
-          "id": "t_44",
-          "text": "You’re very welcome.",
-          "audio": "assets/audio/t_44.mp3"
         }
       ],
       "activity_c": [
         {
-          "id": "t_1",
-          "text": "Good morning, Apex Stationery Supplies.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "This is Nadeesha speaking.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Good morning.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "This is Kamal calling from the Sri Lanka–German Training Institute.",
           "audio": "assets/audio/t_4.mp3"
@@ -827,34 +642,9 @@
           "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_6",
-          "text": "Certainly, sir.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "What would you like to check first?",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
           "id": "t_8",
           "text": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
           "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "Yes, we do.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "We have more than one hundred reams available at the moment.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "That’s good.",
-          "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
@@ -862,39 +652,9 @@
           "audio": "assets/audio/t_12.mp3"
         },
         {
-          "id": "t_13",
-          "text": "Yes, they are.",
-          "audio": "assets/audio/t_13.mp3"
-        },
-        {
-          "id": "t_14",
-          "text": "Great.",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "I’d also like to ask about ballpoint pens.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
           "id": "t_16",
           "text": "Are blue and black medium-tip pens available in boxes of fifty?",
           "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Yes, both colours are available.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "We are restocking this morning, so the supply is stable.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
@@ -902,34 +662,9 @@
           "audio": "assets/audio/t_20.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Black cartridges are available, but colour cartridges are limited right now.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "A new shipment is arriving early next week.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "That’s fine.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "We might only include black ink in this order.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
           "id": "t_25",
           "text": "What about the heavy-duty metal staples, sold in bulk boxes?",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "Yes, those are in stock.",
-          "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
@@ -937,108 +672,18 @@
           "audio": "assets/audio/t_27.mp3"
         },
         {
-          "id": "t_28",
-          "text": "Are they still available in packs of twenty?",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "Yes, they are, but quantities are moving quickly.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "Understood.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "I’m noting everything down while we’re speaking.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Some items might be adjusted once departments confirm their requirements.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "No problem at all.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
-          "id": "t_34",
-          "text": "Once I complete that check, I’m going to prepare the final list.",
-          "audio": "assets/audio/t_34.mp3"
-        },
-        {
           "id": "t_35",
           "text": "Would you prefer me to email the order with exact quantities or send it by WhatsApp?",
           "audio": "assets/audio/t_35.mp3"
         },
         {
-          "id": "t_36",
-          "text": "Email would be better.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "WhatsApp messages tend to disappear after a while.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "Emailing the order helps us reconfirm availability and prepare pricing accurately.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
-          "text": "Alright.",
-          "audio": "assets/audio/t_39.mp3"
-        },
-        {
           "id": "t_40",
           "text": "I’ll email the complete order later this afternoon.",
           "audio": "assets/audio/t_40.mp3"
-        },
-        {
-          "id": "t_41",
-          "text": "Perfect.",
-          "audio": "assets/audio/t_41.mp3"
-        },
-        {
-          "id": "t_42",
-          "text": "We’ll respond as soon as we receive it.",
-          "audio": "assets/audio/t_42.mp3"
-        },
-        {
-          "id": "t_43",
-          "text": "Thank you for your assistance.",
-          "audio": "assets/audio/t_43.mp3"
-        },
-        {
-          "id": "t_44",
-          "text": "You’re very welcome.",
-          "audio": "assets/audio/t_44.mp3"
         }
       ],
       "activity_d": [
         {
-          "id": "t_1",
-          "text": "Good morning, Apex Stationery Supplies.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "This is Nadeesha speaking.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Good morning.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
           "id": "t_4",
           "text": "This is Kamal calling from the Sri Lanka–German Training Institute.",
           "audio": "assets/audio/t_4.mp3"
@@ -1049,34 +694,9 @@
           "audio": "assets/audio/t_5.mp3"
         },
         {
-          "id": "t_6",
-          "text": "Certainly, sir.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "What would you like to check first?",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
           "id": "t_8",
           "text": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
           "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "Yes, we do.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "We have more than one hundred reams available at the moment.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
-          "id": "t_11",
-          "text": "That’s good.",
-          "audio": "assets/audio/t_11.mp3"
         },
         {
           "id": "t_12",
@@ -1084,39 +704,9 @@
           "audio": "assets/audio/t_12.mp3"
         },
         {
-          "id": "t_13",
-          "text": "Yes, they are.",
-          "audio": "assets/audio/t_13.mp3"
-        },
-        {
-          "id": "t_14",
-          "text": "Great.",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
-          "id": "t_15",
-          "text": "I’d also like to ask about ballpoint pens.",
-          "audio": "assets/audio/t_15.mp3"
-        },
-        {
           "id": "t_16",
           "text": "Are blue and black medium-tip pens available in boxes of fifty?",
           "audio": "assets/audio/t_16.mp3"
-        },
-        {
-          "id": "t_17",
-          "text": "Yes, both colours are available.",
-          "audio": "assets/audio/t_17.mp3"
-        },
-        {
-          "id": "t_18",
-          "text": "We are restocking this morning, so the supply is stable.",
-          "audio": "assets/audio/t_18.mp3"
-        },
-        {
-          "id": "t_19",
-          "text": "Excellent.",
-          "audio": "assets/audio/t_19.mp3"
         },
         {
           "id": "t_20",
@@ -1124,34 +714,9 @@
           "audio": "assets/audio/t_20.mp3"
         },
         {
-          "id": "t_21",
-          "text": "Black cartridges are available, but colour cartridges are limited right now.",
-          "audio": "assets/audio/t_21.mp3"
-        },
-        {
-          "id": "t_22",
-          "text": "A new shipment is arriving early next week.",
-          "audio": "assets/audio/t_22.mp3"
-        },
-        {
-          "id": "t_23",
-          "text": "That’s fine.",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
-          "id": "t_24",
-          "text": "We might only include black ink in this order.",
-          "audio": "assets/audio/t_24.mp3"
-        },
-        {
           "id": "t_25",
           "text": "What about the heavy-duty metal staples, sold in bulk boxes?",
           "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "Yes, those are in stock.",
-          "audio": "assets/audio/t_26.mp3"
         },
         {
           "id": "t_27",
@@ -1159,89 +724,14 @@
           "audio": "assets/audio/t_27.mp3"
         },
         {
-          "id": "t_28",
-          "text": "Are they still available in packs of twenty?",
-          "audio": "assets/audio/t_28.mp3"
-        },
-        {
-          "id": "t_29",
-          "text": "Yes, they are, but quantities are moving quickly.",
-          "audio": "assets/audio/t_29.mp3"
-        },
-        {
-          "id": "t_30",
-          "text": "Understood.",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "I’m noting everything down while we’re speaking.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "Some items might be adjusted once departments confirm their requirements.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
-          "id": "t_33",
-          "text": "No problem at all.",
-          "audio": "assets/audio/t_33.mp3"
-        },
-        {
-          "id": "t_34",
-          "text": "Once I complete that check, I’m going to prepare the final list.",
-          "audio": "assets/audio/t_34.mp3"
-        },
-        {
           "id": "t_35",
           "text": "Would you prefer me to email the order with exact quantities or send it by WhatsApp?",
           "audio": "assets/audio/t_35.mp3"
         },
         {
-          "id": "t_36",
-          "text": "Email would be better.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "WhatsApp messages tend to disappear after a while.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "Emailing the order helps us reconfirm availability and prepare pricing accurately.",
-          "audio": "assets/audio/t_38.mp3"
-        },
-        {
-          "id": "t_39",
-          "text": "Alright.",
-          "audio": "assets/audio/t_39.mp3"
-        },
-        {
           "id": "t_40",
           "text": "I’ll email the complete order later this afternoon.",
           "audio": "assets/audio/t_40.mp3"
-        },
-        {
-          "id": "t_41",
-          "text": "Perfect.",
-          "audio": "assets/audio/t_41.mp3"
-        },
-        {
-          "id": "t_42",
-          "text": "We’ll respond as soon as we receive it.",
-          "audio": "assets/audio/t_42.mp3"
-        },
-        {
-          "id": "t_43",
-          "text": "Thank you for your assistance.",
-          "audio": "assets/audio/t_43.mp3"
-        },
-        {
-          "id": "t_44",
-          "text": "You’re very welcome.",
-          "audio": "assets/audio/t_44.mp3"
         }
       ]
     }
