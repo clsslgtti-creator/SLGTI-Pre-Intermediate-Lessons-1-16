@@ -626,7 +626,7 @@ export const createGameScene = (config) => {
       this.updateTimerText("Time: 20.0s");
 
       const sentenceCardWidth = 980;
-      const sentenceCardHeight = 200;
+      const sentenceCardHeight = 300;
       this.sentenceCardWidth = sentenceCardWidth;
       this.sentenceCardHeight = sentenceCardHeight;
       const sentencePanel = createRoundedPanel(
@@ -1326,7 +1326,7 @@ export const createGameScene = (config) => {
       const useCompactLayout = visibleCount >= 3;
       const useExtraCompact = visibleCount >= 4;
       const buttonWidth = useExtraCompact ? 340 : useCompactLayout ? 380 : 480;
-      const buttonHeight = useExtraCompact ? 240 : 280;
+      const buttonHeight = useExtraCompact ? 140 : 180;
       const baseY = height - (useExtraCompact ? 126 : 136);
 
       this.optionButtonMetrics = {

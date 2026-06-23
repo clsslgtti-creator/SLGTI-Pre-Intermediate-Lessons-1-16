@@ -292,7 +292,10 @@
             "weighing",
             "?"
           ],
-          "sentence": "Do the trainees clear the calibrated scales regularly after weighing?"
+          "sentence": "Do the trainees clear the calibrated scales regularly after weighing?",
+          "alternative_answers": [
+            "Do the trainees regularly clear the calibrated scales after weighing?"
+          ]
         },
         {
           "id": "n_3_a_4",
@@ -448,7 +451,10 @@
             "carefully",
             "."
           ],
-          "sentence": "Operators often follow standard sanitation procedures carefully."
+          "sentence": "Operators often follow standard sanitation procedures carefully.",
+          "alternative_answers": [
+            "Operators often carefully follow standard sanitation procedures."
+          ]
         },
         {
           "id": "n_3_a_13",
@@ -491,7 +497,10 @@
             "production",
             "."
           ],
-          "sentence": "Machines sometimes require additional cleaning during production."
+          "sentence": "Machines sometimes require additional cleaning during production.",
+          "alternative_answers": [
+            "Machines require additional cleaning sometimes during production."
+          ]
         }
       ]
     }

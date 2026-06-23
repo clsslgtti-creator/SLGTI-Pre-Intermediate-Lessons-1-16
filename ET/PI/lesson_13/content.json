@@ -35,7 +35,7 @@
         "id": "p_1",
         "word_text": "p'oi'nt",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "Did the technician find a faulty contact p'oi'nt in the switch? Yes, he did. He found the faulty contact p'oi'nt and fixed it.",
+        "sentence_text": "Did the technician find a faulty contact p'oi'nt in the switch? \n\n Yes, he did. He found the faulty contact p'oi'nt and fixed it.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -43,7 +43,7 @@
         "id": "p_2",
         "word_text": "v'oi'd",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "Did the inspector see a v'oi'd inside the concrete service duct? Yes, he did. He saw the v'oi'd at the beginning of the inspection.",
+        "sentence_text": "Did the inspector see a v'oi'd inside the concrete service duct? \n\n Yes, he did. He saw the v'oi'd at the beginning of the inspection.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
@@ -51,7 +51,7 @@
         "id": "p_3",
         "word_text": "f'oi'l",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "Did the electrician install f'oi'l shielding around the control cables yesterday? No, he didn’t. He installed f'oi'l shielding today.",
+        "sentence_text": "Did the electrician install f'oi'l shielding around the control cables yesterday? \n\n No, he didn’t. He installed f'oi'l shielding today.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "h'oi'st",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did the crew lift the generator using the electric h'oi'st safely? Yes, he did. He lifted it using the electric h'oi'st at the second attempt.",
+        "sentence_text": "Did the crew lift the generator using the electric h'oi'st safely? \n\n Yes, he did. He lifted it using the electric h'oi'st at the second attempt.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -282,7 +282,7 @@
         "examples": [
           {
             "id": "g_b_ex",
-            "sentence": "___________ were you when the accident happened?",
+            "sentence": "___________ were you when the accident happened? \n\n  In the dough processing section , close to the fermentation room.",
             "options": ["How often", "Where", "What time"],
             "answer": "Where"
           }
@@ -290,61 +290,61 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "___________ exactly did the accident happen?",
+            "sentence": "___________ exactly did the accident happen? \n\n It was around noon, just before the lunch break bell.",
             "options": ["How much", "When", "How"],
             "answer": "When"
           },
           {
             "id": "g_b_2",
-            "sentence": "___________ got injured?",
+            "sentence": "___________ got injured? \n\n A trainee from the new batch.",
             "options": ["Why", "Where", "Who"],
             "answer": "Who"
           },
           {
             "id": "g_b_3",
-            "sentence": "___________ did it happen?",
+            "sentence": "___________ did it happen? \n\n It happened in the welding workshop, next to the emergency exit.",
             "options": ["Where", "What", "When"],
             "answer": "Where"
           },
           {
             "id": "g_b_4",
-            "sentence": "___________ did he get injured?",
+            "sentence": "___________ did he get injured? \n\n The trainee put his hand too close to the grinder.",
             "options": ["How", "Where", "When"],
             "answer": "How"
           },
           {
             "id": "g_b_5",
-            "sentence": "___________ hand got injured, the left or the right?",
+            "sentence": "___________ hand got injured, the left or the right? \n\n The fingers of his right hand were cut.",
             "options": ["What", "Where", "Which"],
             "answer": "Which"
           },
           {
             "id": "g_b_6",
-            "sentence": "___________ did the instructor do when it happened?",
+            "sentence": "___________ did the instructor do when it happened? \n\n The instructor switched off the machine and moved the students away.",
             "options": ["Where", "Why", "What"],
             "answer": "What"
           },
           {
             "id": "g_b_7",
-            "sentence": "___________ trainees were present in the welding workshop at the time of the accident?",
+            "sentence": "___________ trainees were present in the welding workshop at the time of the accident? \n\n All 35 trainees were present.",
             "options": ["How much", "How many", "How often"],
             "answer": "How many"
           },
           {
             "id": "g_b_8",
-            "sentence": "___________ wasn’t he wearing safety gloves?",
+            "sentence": "___________ wasn’t he wearing safety gloves? \n\n The instructor forgot to give them at the start of the class.",
             "options": ["Where", "Why", "Which"],
             "answer": "Why"
           },
           {
             "id": "g_b_9",
-            "sentence": "___________ did the doctor take to arrive at the welding workshop?",
+            "sentence": "___________ did the doctor take to arrive at the welding workshop? \n\n The doctor arrived within five minutes of the call.",
             "options": ["How long", "How much", "How far"],
             "answer": "How long"
           },
           {
             "id": "g_b_10",
-            "sentence": "___________ should you stand from machines that are operating?",
+            "sentence": "___________ should you stand from machines that are operating? \n\n The safety rules say we must stand at least one metre away.",
             "options": ["How long", "How far", "How much"],
             "answer": "How far"
           }
@@ -487,56 +487,6 @@
       },
       "activity_b": [
         {
-          "id": "t_1",
-          "text": "Good morning.",
-          "audio": "assets/audio/t_1.mp3"
-        },
-        {
-          "id": "t_2",
-          "text": "I’m the safety inspector for the Electrical Technology division.",
-          "audio": "assets/audio/t_2.mp3"
-        },
-        {
-          "id": "t_3",
-          "text": "Thank you for coming in.",
-          "audio": "assets/audio/t_3.mp3"
-        },
-        {
-          "id": "t_4",
-          "text": "I need to ask you a few questions in order to complete the accident report.",
-          "audio": "assets/audio/t_4.mp3"
-        },
-        {
-          "id": "t_5",
-          "text": "Is that okay?",
-          "audio": "assets/audio/t_5.mp3"
-        },
-        {
-          "id": "t_6",
-          "text": "Good morning, sir.",
-          "audio": "assets/audio/t_6.mp3"
-        },
-        {
-          "id": "t_7",
-          "text": "Yes, that’s fine.",
-          "audio": "assets/audio/t_7.mp3"
-        },
-        {
-          "id": "t_8",
-          "text": "First of all, could you please tell me your full name?",
-          "audio": "assets/audio/t_8.mp3"
-        },
-        {
-          "id": "t_9",
-          "text": "My name is Dilshan Perera.",
-          "audio": "assets/audio/t_9.mp3"
-        },
-        {
-          "id": "t_10",
-          "text": "Thank you, Dilshan.",
-          "audio": "assets/audio/t_10.mp3"
-        },
-        {
           "id": "t_11",
           "text": "I understand there was an accident here yesterday at around 9 a.m.",
           "audio": "assets/audio/t_11.mp3"
@@ -552,19 +502,9 @@
           "audio": "assets/audio/t_13.mp3"
         },
         {
-          "id": "t_14",
-          "text": "And where exactly did it happen?",
-          "audio": "assets/audio/t_14.mp3"
-        },
-        {
           "id": "t_15",
           "text": "It happened in the electrical workshop, near the distribution board.",
           "audio": "assets/audio/t_15.mp3"
-        },
-        {
-          "id": "t_16",
-          "text": "Who else was present at that time?",
-          "audio": "assets/audio/t_16.mp3"
         },
         {
           "id": "t_17",
@@ -577,19 +517,9 @@
           "audio": "assets/audio/t_18.mp3"
         },
         {
-          "id": "t_19",
-          "text": "What task did you carry out just before the accident?",
-          "audio": "assets/audio/t_19.mp3"
-        },
-        {
           "id": "t_20",
           "text": "I used the multimeter to check the voltage.",
           "audio": "assets/audio/t_20.mp3"
-        },
-        {
-          "id": "t_21",
-          "text": "Please describe how the accident happened.",
-          "audio": "assets/audio/t_21.mp3"
         },
         {
           "id": "t_22",
@@ -597,34 +527,9 @@
           "audio": "assets/audio/t_22.mp3"
         },
         {
-          "id": "t_23",
-          "text": "Were you wearing all the required safety equipment?",
-          "audio": "assets/audio/t_23.mp3"
-        },
-        {
           "id": "t_24",
           "text": "I wore the face shield and boots but I forgot to wear the protection gloves.",
           "audio": "assets/audio/t_24.mp3"
-        },
-        {
-          "id": "t_25",
-          "text": "Now I know that it wasn’t safe.",
-          "audio": "assets/audio/t_25.mp3"
-        },
-        {
-          "id": "t_26",
-          "text": "Thank you for being honest.",
-          "audio": "assets/audio/t_26.mp3"
-        },
-        {
-          "id": "t_27",
-          "text": "What did you do immediately after the injury?",
-          "audio": "assets/audio/t_27.mp3"
-        },
-        {
-          "id": "t_28",
-          "text": "I called the instructor.",
-          "audio": "assets/audio/t_28.mp3"
         },
         {
           "id": "t_29",
@@ -632,49 +537,14 @@
           "audio": "assets/audio/t_29.mp3"
         },
         {
-          "id": "t_30",
-          "text": "Did you receive any further medical attention after that?",
-          "audio": "assets/audio/t_30.mp3"
-        },
-        {
-          "id": "t_31",
-          "text": "Yes, sir.",
-          "audio": "assets/audio/t_31.mp3"
-        },
-        {
-          "id": "t_32",
-          "text": "I went to a nearby clinic.",
-          "audio": "assets/audio/t_32.mp3"
-        },
-        {
           "id": "t_33",
           "text": "The doctor examined the burn, applied a cream, prescribed some medication, and advised me to rest.",
           "audio": "assets/audio/t_33.mp3"
         },
         {
-          "id": "t_34",
-          "text": "Finally, what can you do to help prevent this type of accident in the future?",
-          "audio": "assets/audio/t_34.mp3"
-        },
-        {
           "id": "t_35",
           "text": "We should always wear all personal protective equipment and follow safety instructions carefully.",
           "audio": "assets/audio/t_35.mp3"
-        },
-        {
-          "id": "t_36",
-          "text": "That sounds sensible.",
-          "audio": "assets/audio/t_36.mp3"
-        },
-        {
-          "id": "t_37",
-          "text": "Thank you for your cooperation.",
-          "audio": "assets/audio/t_37.mp3"
-        },
-        {
-          "id": "t_38",
-          "text": "I have all the information I need to complete the report.",
-          "audio": "assets/audio/t_38.mp3"
         }
       ],
       "activity_c": [

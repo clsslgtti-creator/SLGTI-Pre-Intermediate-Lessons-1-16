@@ -94,11 +94,13 @@ const escapeHtml = (text) => {
 };
 
 const formatPronunciationText = (text) => {
-  const escaped = escapeHtml(text);
-  return escaped.replace(
+  const normalized = typeof text === "string" ? text.replace(/\r\n?/g, "\n") : "";
+  const escaped = escapeHtml(normalized);
+  const withFocusMarkup = escaped.replace(
     /'([^']+)'/g,
     (_, focus) => `<span class="pronunciation-focus">${focus}</span>`
   );
+  return withFocusMarkup.replace(/\n/g, "<br>");
 };
 
 const getRepeatPauseMs = (activityData) => {
