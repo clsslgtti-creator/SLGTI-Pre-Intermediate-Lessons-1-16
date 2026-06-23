@@ -114,7 +114,7 @@
     "example_dialogues": [
       {
         "id": "d_1",
-        "img": "assets/img/a_2_d_1.png",
+        "img": "assets/img/a_2_d_1.jpeg",
         "text_a": "When are you going to register the new business?",
         "text_b": "I might register it on Friday, or I might register it next week. I really don’t know yet. I just have to wait and see.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
@@ -122,7 +122,7 @@
       },
       {
         "id": "d_2",
-        "img": "assets/img/a_2_d_2.png",
+        "img": "assets/img/a_2_d_2.jpeg",
         "text_a": "When are you going to file the annual taxes?",
         "text_b": "I might file them on Friday, or I might file them next week. I really don’t know yet. I just have to wait and see.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
@@ -130,7 +130,7 @@
       },
       {
         "id": "d_3",
-        "img": "assets/img/a_2_d_3.png",
+        "img": "assets/img/a_2_d_3.jpeg",
         "text_a": "When is he going to open the official business bank account?",
         "text_b": "He might open it on Friday, or he might open it next week. He really doesn’t know yet. He just has to wait and see.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
@@ -140,39 +140,39 @@
     "keywords": [
       {
         "id": "k_1",
-        "image": "assets/img/a_2_d_4.png",
+        "image": "assets/img/a_2_d_4.jpeg",
         "word": "apply for the required business licence"
       },
       {
         "id": "k_2",
-        "image": "assets/img/a_2_d_5.png",
+        "image": "assets/img/a_2_d_5.jpeg",
         "word": "issue the outstanding invoices"
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.png",
+        "image": "assets/img/a_2_d_6.jpeg",
         "word": "finalise the pending contracts"
       },
       {
         "id": "k_4",
-        "image": "assets/img/a_2_d_7.png",
+        "image": "assets/img/a_2_d_7.jpeg",
         "word": "review the monthly operating expenses"
       },
       {
         "id": "k_5",
-        "image": "assets/img/a_2_d_8.png",
+        "image": "assets/img/a_2_d_8.jpeg",
         "word": "to set up a new accounting system"
       },
       {
         "id": "k_6",
-        "image": "assets/img/a_2_d_9.png",
+        "image": "assets/img/a_2_d_9.jpeg",
         "word": "renew the current business registration"
       }
     ],
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.png",
+        "img": "assets/img/a_2_d_4.jpeg",
         "text_a": "When is she going to apply for the required business licence?",
         "text_b": "She might apply for it on Friday, or she might apply for it next week. She really doesn’t know yet. She just has to wait and see.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
@@ -180,7 +180,7 @@
       },
       {
         "id": "d_5",
-        "img": "assets/img/a_2_d_5.png",
+        "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "When are you going to issue the outstanding invoices?",
         "text_b": "I might issue them on Friday, or I might issue them next week. I really don’t know yet. I just have to wait and see.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
@@ -188,7 +188,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.png",
+        "img": "assets/img/a_2_d_6.jpeg",
         "text_a": "When are we going to finalise the pending contracts?",
         "text_b": "We might finalise them on Friday, or we might finalise them next week. We really don’t know yet. We just have to wait and see.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
@@ -196,7 +196,7 @@
       },
       {
         "id": "d_7",
-        "img": "assets/img/a_2_d_7.png",
+        "img": "assets/img/a_2_d_7.jpeg",
         "text_a": "When are they going to review the monthly operating expenses?",
         "text_b": "They might review them on Friday, or they might review them next week. They really don’t know yet. They just have to wait and see.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
@@ -204,7 +204,7 @@
       },
       {
         "id": "d_8",
-        "img": "assets/img/a_2_d_8.png",
+        "img": "assets/img/a_2_d_8.jpeg",
         "text_a": "When is he going to set up a new accounting system?",
         "text_b": "He might set it up on Friday, or he might set it up next week. He really doesn’t know yet. He just has to wait and see.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
@@ -212,7 +212,7 @@
       },
       {
         "id": "d_9",
-        "img": "assets/img/a_2_d_9.png",
+        "img": "assets/img/a_2_d_9.jpeg",
         "text_a": "When is she going to renew the current business registration?",
         "text_b": "She might renew it on Friday, or she might renew it next week. She really doesn’t know yet. She just has to wait and see.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
