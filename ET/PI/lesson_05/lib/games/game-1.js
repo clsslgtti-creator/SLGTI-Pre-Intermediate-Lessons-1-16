@@ -1767,7 +1767,7 @@ export const createGameScene = (config) => {
     }
 
     startResponseTimer() {
-      const durationMs = 10000;
+      const durationMs = 15000;
       const tickInterval = 100;
       let remaining = durationMs;
       this.updateTimerText(`Time: ${(remaining / 1000).toFixed(1)}s`);
