@@ -99,7 +99,7 @@
         ["I always cry when I’m sad.", "I’m crying because I’m sad."],
         [
           "I never sweep the garden after the rains.",
-          "I’m crying because I’m sad."
+          "I’m sweeping the garden today after the rains."
         ]
       ]
     ],
@@ -216,7 +216,7 @@
     "type": "INTERACTIVE-2",
     "instructions": {
       "activity_a": {
-        "text": "Fill in the blanks with the correct form of the verb. නිවැරදි ක්‍රියා පදය යොදා හිස්තැන් පුරවන්න. வினைச்சொல்லின் சரியான வடிவத்தை பயன்படுத்தி வெற்றிடங்களை நிரப்பவும்.",
+        "text": "Fill in the blanks with the correct form of the verb. වචන ඒවායේ අර්ථ දැක්වීම් වලට ගලපන්න. வினைச்சொல்லின் சரியான வடிவத்தை பயன்படுத்தி வெற்றிடங்களை நிரப்பவும்.",
         "audio": "assets/audio/a_3_i_n.mp3"
       },
       "activity_b": {
