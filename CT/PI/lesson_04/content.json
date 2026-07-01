@@ -400,7 +400,7 @@
       "activity_b": [
         {
           "id": "n_3_1",
-          "text": "They are not testing the network connection in the lab right now.",
+          "text": "They are testing the network connection in the lab right now.",
           "audio": "assets/audio/a_3_b_1_q.mp3"
         },
         {
@@ -410,7 +410,7 @@
         },
         {
           "id": "n_3_2",
-          "text": "She is not sketching a new logo on her tablet right now.",
+          "text": "She is sketching a new logo on her tablet right now.",
           "audio": "assets/audio/a_3_b_2_q.mp3"
         },
         {
@@ -420,7 +420,7 @@
         },
         {
           "id": "n_3_3",
-          "text": "The children are not building a sandcastle near the water now.",
+          "text": "The children are building a sandcastle near the water now.",
           "audio": "assets/audio/a_3_b_3_q.mp3"
         },
         {
@@ -430,7 +430,7 @@
         },
         {
           "id": "n_3_4",
-          "text": "I am not reviewing the final report before sending it.",
+          "text": "I am reviewing the final report before sending it.",
           "audio": "assets/audio/a_3_b_4_q.mp3"
         },
         {
@@ -440,7 +440,7 @@
         },
         {
           "id": "n_3_5",
-          "text": "They are not organizing a swim in the sea this evening.",
+          "text": "They are organizing a swim in the sea this evening.",
           "audio": "assets/audio/a_3_b_5_q.mp3"
         },
         {
@@ -450,7 +450,7 @@
         },
         {
           "id": "n_3_6",
-          "text": "He is not spray-painting his bicycle in the garage now.",
+          "text": "He is spray-painting his bicycle in the garage now.",
           "audio": "assets/audio/a_3_b_6_q.mp3"
         },
         {
@@ -460,7 +460,7 @@
         },
         {
           "id": "n_3_7",
-          "text": "We are not arranging the meeting room for the presentation right now.",
+          "text": "We are arranging the meeting room for the presentation right now.",
           "audio": "assets/audio/a_3_b_7_q.mp3"
         },
         {
@@ -470,7 +470,7 @@
         },
         {
           "id": "n_3_8",
-          "text": "The chef is not tasting the soup now to adjust the seasoning.",
+          "text": "The chef is tasting the soup now to adjust the seasoning.",
           "audio": "assets/audio/a_3_b_8_q.mp3"
         },
         {
@@ -480,7 +480,7 @@
         },
         {
           "id": "n_3_9",
-          "text": "She is not meeting a former colleague at a quiet café this Saturday.",
+          "text": "She is meeting a former colleague at a quiet café this Saturday.",
           "audio": "assets/audio/a_3_b_9_q.mp3"
         },
         {
@@ -490,7 +490,7 @@
         },
         {
           "id": "n_3_10",
-          "text": "I am not finishing this email in a few minutes.",
+          "text": "I am finishing this email in a few minutes, so please wait.",
           "audio": "assets/audio/a_3_b_10_q.mp3"
         },
         {
@@ -500,7 +500,7 @@
         },
         {
           "id": "n_3_11",
-          "text": "They are not planting young trees near the school entrance this Saturday.",
+          "text": "They are planting young trees near the school entrance this Saturday.",
           "audio": "assets/audio/a_3_b_11_q.mp3"
         },
         {

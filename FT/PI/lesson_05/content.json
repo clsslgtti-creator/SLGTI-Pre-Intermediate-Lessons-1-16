@@ -140,32 +140,32 @@
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "foreman’s spark plug"
+        "word": "heat-resistant saucepan"
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "feeler gauges"
+        "word": "temperature-controlled storage rack"
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "sockets"
+        "word": "functioning high-pressure spray unit"
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "glow plugs"
+        "word": "food-grade insulated holding tray"
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "spanners"
+        "word": "precision digital weighing scale"
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "hex keys"
+        "word": "disposable protective head cover"
       }
     ],
     "dialogues": [
@@ -299,7 +299,7 @@
               "Yes, there is.",
               "No, there aren’t."
             ],
-            "answer": "Yes, there is."
+            "answer": "No, there aren’t."
           }
         ],
         "content": [
@@ -324,7 +324,7 @@
               "No, there aren’t.",
               "Yes, there are."
             ],
-            "answer": "Yes, there are.",
+            "answer": "No, there aren’t.",
             "image": "assets/img/a_3_b_g_2.png"
           },
           {
@@ -426,7 +426,7 @@
         "examples": [
           {
             "id": "ex_c_1",
-            "words": "multimedia projector / top shelf / steel cabinet",
+            "words": "new multimedia projector / top shelf / steel cabinet",
             "txt_question": "Is there a new multimedia projector on the top shelf of the steel cabinet?",
             "audio_question": "assets/audio/a_3_c_ex_q_1.mp3",
             "image": "assets/img/a_3_c_g_ex.png"
