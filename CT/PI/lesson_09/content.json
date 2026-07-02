@@ -33,9 +33,9 @@
     "content": [
       {
         "id": "p_1",
-        "word_text": "b'u'lldozer",
+        "word_text": "cr'ew'",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This operator drives a b'u'lldozer every day, but today he is driving a backhoe.",
+        "sentence_text": "This cr'ew' usually uses an excavator, but today they are using a bulldozer.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -252,7 +252,7 @@
           {
             "id": "g_b_3",
             "sentence": "Masons __________ concrete blocks following the marked alignment lines.",
-            "options": ["places", "are placing", "place"],
+            "options": ["places", "is placing", "place"],
             "answer": "place"
           },
           {
