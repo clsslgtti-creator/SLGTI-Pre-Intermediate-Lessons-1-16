@@ -15,7 +15,7 @@
     "content": [
       {
         "question": "The wheel spanners and torque wrenches ___________ very heavy.",
-        "options": ["are usually", "is", "usually are", "were"],
+        "options": ["are usually", "is", "usually are", "was"],
         "answer": "are usually"
       },
       {
@@ -199,14 +199,14 @@
         "answer": "No, we don’t. But we order them on Wednesdays as we have more time than on Mondays."
       },
       {
-        "question": "Does she usually enter the log book on Thursday afternoons?",
+        "question": "Does she usually update the log book on Thursday afternoons?",
         "options": [
-          "No, she rarely enter the log book in Thursday afternoons. She usually enter it in Friday afternoons.",
-          "No, she rarely enters the log book on Thursday afternoons. She usually enters it on Friday afternoons.",
-          "No, she rarely is entering the log book on Thursday afternoons. She usually is entering it on Friday afternoons.",
-          "No, she rarely entered the log book on Thursday afternoon. She usually entered it on Friday afternoon."
+          "No, she rarely update the log book in Thursday afternoons. She usually update it in Friday afternoons.",
+          "No, she rarely updates the log book on Thursday afternoons. She usually updates it on Friday afternoons.",
+          "No, she rarely is updating the log book on Thursday afternoons. She usually is updating it on Friday afternoons.",
+          "No, she rarely updated the log book on Thursday afternoon. She usually updated it on Friday afternoon."
         ],
-        "answer": "No, she rarely enters the log book on Thursday afternoons. She usually enters it on Friday afternoons."
+        "answer": "No, she rarely updates the log book on Thursday afternoons. She usually updates it on Friday afternoons."
       },
       {
         "question": "Does the safety inspector usually visit the site on Mondays?",

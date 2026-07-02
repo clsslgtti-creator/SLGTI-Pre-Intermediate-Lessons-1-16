@@ -35,7 +35,7 @@
         "id": "p_1",
         "word_text": "sp'oo'l",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "This technician usually adjusts the sp'oo'l, but today he is replacing it.",
+        "sentence_text": "This technician usually adjusts the sp'oo'ls, but today he is replacing them.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -43,15 +43,15 @@
         "id": "p_2",
         "word_text": "gr'oo've",
         "word_audio": "assets/audio/a_1_p_2_a.mp3",
-        "sentence_text": "This machinist always cuts the gr'oo've, but today he is measuring it.",
+        "sentence_text": "This machinist always cuts the gr'oo'ves, but today he is measuring them.",
         "sentence_audio": "assets/audio/a_1_p_2_b.mp3",
         "image": "assets/img/a_1_p_2.png"
       },
       {
         "id": "p_3",
-        "word_text": "b'u'shing",
+        "word_text": "rem'o've",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
-        "sentence_text": "This machinist often checks the b'u'shing, but today he is polishing it.",
+        "sentence_text": "This mechanic usually rem'o'ves old bearings, but today he is rem'o'ving the pulley.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
         "image": "assets/img/a_1_p_3.png"
       },
@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "tr'u'ing tool",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "This technician usually uses the tr'u'ing tool, but today he is cleaning it.",
+        "sentence_text": "This technician usually inspects the tr'u'ing tools, but today he is cleaning them.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
