@@ -263,6 +263,7 @@
               "I",
               "always",
               "clean",
+              "the",
               "wooden",
               "boards",
               "after",
@@ -270,7 +271,7 @@
               "sessions",
               "."
             ],
-            "sentence": "I always clean wooden boards after practical sessions."
+            "sentence": "I always clean the wooden boards after practical sessions."
           },
           {
             "id": "n_3_a_3",
@@ -415,7 +416,7 @@
         },
         {
           "id": "a_3_2",
-          "text": "I always clean wooden boards after practical sessions.",
+          "text": "I always clean the wooden boards after practical sessions.",
           "audio": "assets/audio/a_3_2.mp3"
         },
         {
