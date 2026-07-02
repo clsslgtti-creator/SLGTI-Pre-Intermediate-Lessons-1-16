@@ -15,7 +15,7 @@
     "content": [
       {
         "question": "The heat-resistant gloves and safety aprons ___________ very heavy.",
-        "options": ["are usually", "is", "usually are", "were"],
+        "options": ["are usually", "is", "usually are", "was"],
         "answer": "are usually"
       },
       {
@@ -291,13 +291,13 @@
           "trainees",
           "preserve",
           "lime",
-          "pickles",
+          "pickle",
           "in",
           "sealed",
           "containers",
           "."
         ],
-        "sentence": "The trainees preserve lime pickles in sealed containers."
+        "sentence": "The trainees preserve lime pickle in sealed containers."
       },
       {
         "words": [
@@ -368,7 +368,10 @@
           "broken",
           "."
         ],
-        "sentence": "The mixing paddle was rough and broken."
+        "sentence": "The mixing paddle was rough and broken.",
+        "alternative_answers": [
+          "The mixing paddle was broken and rough."
+        ]
       },
       {
         "words": [
