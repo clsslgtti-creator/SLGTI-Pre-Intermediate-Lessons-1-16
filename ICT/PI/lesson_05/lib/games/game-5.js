@@ -760,7 +760,7 @@ export const createPracticeGameScene = (config = {}) => {
       };
       this.transitionCardContent(updateCard);
       this.instructionText.setText(
-        "Use these words to make a yes/no question. You have 10 seconds."
+        "Use these words to make a yes/no question. You have 15 seconds."
       );
       this.stagePhase = "words";
       this.emitRoundUpdate({
