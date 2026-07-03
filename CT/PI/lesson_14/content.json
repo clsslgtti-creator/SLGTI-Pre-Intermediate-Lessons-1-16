@@ -108,7 +108,7 @@
         ["Will", "Definitely"],
         ["May", "Uncertain"],
         ["Might", "Uncertain "],
-        ["Won’t", "Impossible"]
+        ["Won’t", "Unlikely / Not possible"]
       ]
     ],
     "example_dialogues": [
@@ -271,7 +271,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "Do we order concrete curing compound by volume rather than by bottles?",
+            "sentence": "Should we order concrete curing compound by volume rather than by bottles?",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "Yes, it will be much cheaper if we order it by volume.",
@@ -381,7 +381,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "Do we order concrete curing compound by volume rather than by bottles?",
+          "text": "Should we order concrete curing compound by volume rather than by bottles?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
@@ -479,7 +479,7 @@
           {
             "id": "l_18_1",
             "question": "Opening identification",
-            "answer": "This is Coreen calling from the Sri Lanka–Germany Training Institute.",
+            "answer": "This is Kamal calling from the Sri Lanka–German Training Institute.",
             "options": [
               "This is Coreen calling from the Sri Lanka–Germany Training Institute.",
               "This is Coreen calling from the Sri Lanka–German Training Institutes.",
@@ -538,7 +538,7 @@
           },
           {
             "id": "l_18_7",
-            "question": "Staples availability",
+            "question": "Availability of staples",
             "answer": "What about the heavy-duty metal staples, sold in bulk boxes?",
             "options": [
               "What about the heavy-duty metal staples, sold in bulk boxes?",
