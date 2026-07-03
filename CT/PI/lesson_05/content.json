@@ -306,7 +306,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Is there a large notice board near the main entrance of the school?",
+            "sentence": "Is there a large notice board near the main entrance of this school?",
             "audio": "assets/audio/a_3_b_g_1.mp3",
             "options": [
               "Yes, there is.",
@@ -318,7 +318,7 @@
           },
           {
             "id": "g_b_2",
-            "sentence": "Are there any bright safety signs above the doors in the workshop?",
+            "sentence": "Are there any bright safety signs above the doors in this workshop?",
             "audio": "assets/audio/a_3_b_g_2.mp3",
             "options": [
               "Yes, there is.",
@@ -330,7 +330,7 @@
           },
           {
             "id": "g_b_3",
-            "sentence": "Was there a clean drinking tap beside the dusty playground last week?",
+            "sentence": "Was there a clean drinking tap beside this dusty playground last week?",
             "audio": "assets/audio/a_3_b_g_3.mp3",
             "options": [
               "Yes, there was.",
@@ -342,7 +342,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "Are there any tall coconut trees behind the small seaside hotel?",
+            "sentence": "Are there any tall coconut trees behind this small seaside hotel?",
             "audio": "assets/audio/a_3_b_g_4.mp3",
             "options": [
               "No, there is.",
@@ -354,7 +354,7 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "Is there a wide staircase inside the modern office building?",
+            "sentence": "Is there a wide staircase inside this modern office building?",
             "audio": "assets/audio/a_3_b_g_5.mp3",
             "options": [
               "Yes, there is.",
@@ -366,7 +366,7 @@
           },
           {
             "id": "g_b_6",
-            "sentence": "Were there any parked coaches outside the busy town library yesterday?",
+            "sentence": "Were there any parked coaches outside this busy town library yesterday?",
             "audio": "assets/audio/a_3_b_g_6.mp3",
             "options": [
               "Yes, there was.",
@@ -378,7 +378,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "Is there a shaded bus shelter along the busy roadside?",
+            "sentence": "Is there a shaded bus stop along this busy roadside?",
             "audio": "assets/audio/a_3_b_g_7.mp3",
             "options": [
               "Yes, there are.",
@@ -390,7 +390,7 @@
           },
           {
             "id": "g_b_8",
-            "sentence": "Are there any open food stalls in the crowded market area?",
+            "sentence": "Are there any open food stalls in this crowded market area?",
             "audio": "assets/audio/a_3_b_g_8.mp3",
             "options": ["Yes, there is.", "No, there are.", "Yes, there are."],
             "answer": "Yes, there are.",
@@ -398,7 +398,7 @@
           },
           {
             "id": "g_b_9",
-            "sentence": "Is there a glass display cabinet in the quiet reception area?",
+            "sentence": "Is there a glass display cabinet in this quiet reception area?",
             "audio": "assets/audio/a_3_b_g_9.mp3",
             "options": [
               "Yes, there is.",
@@ -410,7 +410,7 @@
           },
           {
             "id": "g_b_10",
-            "sentence": "Are there any clear directional arrows on the floor of the airport hall?",
+            "sentence": "Are there any clear directional arrows on the floor of this airport hall?",
             "audio": "assets/audio/a_3_b_g_10.mp3",
             "options": [
               "Yes, there are.",
@@ -427,8 +427,8 @@
         "examples": [
           {
             "id": "ex_c_1",
-            "words": "new multimedia projector / top shelf / steel cabinet",
-            "txt_question": "Is there a new multimedia projector on the top shelf of the steel cabinet?",
+            "words": "new multimedia projector / top shelf / this steel cabinet",
+            "txt_question": "Is there a new multimedia projector on the top shelf of this steel cabinet?",
             "audio_question": "assets/audio/a_3_c_ex_q_1.mp3",
             "image": "assets/img/a_3_c_g_ex.png"
           }
@@ -436,36 +436,36 @@
         "content": [
           {
             "id": "g_c_1",
-            "words": "large notice board / main entrance / school",
-            "txt_question": "Is there a large notice board at the main entrance of the school?",
+            "words": "large notice board / main entrance / this school",
+            "txt_question": "Is there a large notice board at the main entrance of this school?",
             "audio_question": "assets/audio/a_3_c_g_q_1.mp3",
             "image": "assets/img/a_3_b_g_1.png"
           },
           {
             "id": "g_c_2",
-            "words": "bright safety signs / above the doors / workshop",
-            "txt_question": "Are there bright safety signs above the doors in the workshop?",
+            "words": "bright safety signs / above the doors / this workshop",
+            "txt_question": "Are there bright safety signs above the doors in this workshop?",
             "audio_question": "assets/audio/a_3_c_g_q_2.mp3",
             "image": "assets/img/a_3_b_g_2.png"
           },
           {
             "id": "g_c_3",
-            "words": "clean drinking tap / beside the playground / school",
-            "txt_question": "Is there a clean drinking tap beside the playground at the school?",
+            "words": "clean drinking tap / beside the playground / this school",
+            "txt_question": "Is there a clean drinking tap beside the playground at this school?",
             "audio_question": "assets/audio/a_3_c_g_q_3.mp3",
             "image": "assets/img/a_3_b_g_3.png"
           },
           {
             "id": "g_c_4",
-            "words": "tall coconut trees / behind the seaside hotel / beach area",
-            "txt_question": "Are there tall coconut trees behind the seaside hotel in the beach area?",
+            "words": "tall coconut trees / behind the swimming pool / this hotel",
+            "txt_question": "Are there any tall coconut trees behind the swimming pool of this hotel?",
             "audio_question": "assets/audio/a_3_c_g_q_4.mp3",
             "image": "assets/img/aa_3_b_g_4.png"
           },
           {
             "id": "g_c_5",
-            "words": "wide staircase / inside the office building / city centre",
-            "txt_question": "Is there a wide staircase inside the office building in the city centre?",
+            "words": "wide staircase / inside the main hall  / this office complex",
+            "txt_question": "Is there a wide staircase inside the main hall of this office complex?",
             "audio_question": "assets/audio/a_3_c_g_q_5.mp3",
             "image": "assets/img/a_3_b_g_5.png"
           }
@@ -476,47 +476,47 @@
         "examples": [
           {
             "id": "ex_d_1",
-            "words": "MT section register / table / classroom no 5 / yesterday",
-            "txt_question": "Was there an MT section register on the table in classroom no. 5 yesterday?",
+            "words": "new multimedia projector / the top shelf / this steel cabinet / yesterday morning",
+            "txt_question": "Was there a new multimedia projector on the top shelf of this steel cabinet yesterday morning?",
             "audio_question": "assets/audio/a_3_d_ex_q_1.mp3",
-            "image": "assets/img/a_3_d_g_ex.png"
+            "image": "assets/img/a_3_c_g_ex.png"
           }
         ],
         "content": [
           {
             "id": "g_d_1",
-            "words": "parked coaches / outside the town library / bus area / last week",
-            "txt_question": "Were there any parked coaches outside the town library in the bus area last week?",
+            "words": "large notice board / at the main entrance / this school / last week",
+            "txt_question": "Was there a large notice board at the main entrance of this school last week?",
             "audio_question": "assets/audio/a_3_d_g_q_1.mp3",
-            "image": "assets/img/a_3_b_g_6.png"
+            "image": "assets/img/a_3_b_g_1.png"
           },
           {
             "id": "g_d_2",
-            "words": "shaded bus shelter / along the roadside / town / two days ago",
-            "txt_question": "Was there a shaded bus shelter along the roadside in the town two days ago?",
+            "words": "bright safety signs / above the doors / this workshop / last month",
+            "txt_question": "Were there any bright safety signs above the doors of this workshop last month?",
             "audio_question": "assets/audio/a_3_d_g_q_2.mp3",
-            "image": "assets/img/a_3_b_g_7.png"
+            "image": "assets/img/a_3_b_g_2.png"
           },
           {
             "id": "g_d_3",
-            "words": "open food stalls / in the market area / city / last Tuesday",
-            "txt_question": "Were there any open food stalls in the market area of the city last Tuesday?",
+            "words": "clean drinking tap / beside the playground / this school / two days ago",
+            "txt_question": "Was there a clean drinking tap beside the playground of this school two days ago?",
             "audio_question": "assets/audio/a_3_d_g_q_3.mp3",
-            "image": "assets/img/a_3_b_g_8.png"
+            "image": "assets/img/a_3_b_g_3.png"
           },
           {
             "id": "g_d_4",
-            "words": "glass display cabinet / in the reception area / building / yesterday morning",
-            "txt_question": "Was there a glass display cabinet in the reception area of the building yesterday morning?",
+            "words": "tall coconut trees / behind the swimming pool / this hotel / in 1999",
+            "txt_question": "Were there any tall coconut trees behind the swimming pool of this hotel in 1999?",
             "audio_question": "assets/audio/a_3_d_g_q_4.mp3",
-            "image": "assets/img/a_3_b_g_9.png"
+            "image": "assets/img/a_3_b_g_4.png"
           },
           {
             "id": "g_d_5",
-            "words": "clear directional arrows / on the floor / airport hall / last year",
-            "txt_question": "Were there any clear directional arrows on the floor in the airport hall last year?",
+            "words": "wide staircase / inside the main hall  / this office complex / a hundred years ago",
+            "txt_question": "Was there a wide staircase inside the main hall of the office complex a hundred years ago?",
             "audio_question": "assets/audio/a_3_d_g_q_5.mp3",
-            "image": "assets/img/a_3_b_g_10.png"
+            "image": "assets/img/a_3_b_g_5.png"
           }
         ]
       }
