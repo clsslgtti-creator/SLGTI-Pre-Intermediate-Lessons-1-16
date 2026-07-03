@@ -59,7 +59,7 @@
         "id": "p_4",
         "word_text": "h'oi'st",
         "word_audio": "assets/audio/a_1_p_4_a.mp3",
-        "sentence_text": "Did the crew lift the generator using the electric h'oi'st safely? \n\n Yes, he did. He lifted it using the electric h'oi'st at the second attempt.",
+        "sentence_text": "Did the crew lift the generator using the electric h'oi'st safely? \n\n Yes, it did. It lifted it using the electric h'oi'st at the second attempt.",
         "sentence_audio": "assets/audio/a_1_p_4_b.mp3",
         "image": "assets/img/a_1_p_4.png"
       }
@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-5",
-    "focus": "Simple Past Regular and Irregular verbs, Structure while...",
+    "focus": "Simple Past Regular and Irregular Verbs",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -282,7 +282,7 @@
         "examples": [
           {
             "id": "g_b_ex",
-            "sentence": "___________ were you when the accident happened? \n\n  In the dough processing section , close to the fermentation room.",
+            "sentence": "___________ were you when the accident happened? \n\n  In the dough processing section, close to the fermentation room.",
             "options": ["How often", "Where", "What time"],
             "answer": "Where"
           }
