@@ -49,7 +49,7 @@
       },
       {
         "id": "p_3",
-        "word_text": "r'o'ad roller",
+        "word_text": "r'o'ad r'o'ller",
         "word_audio": "assets/audio/a_1_p_3_a.mp3",
         "sentence_text": "The operator drove the r'o'ad roller across the gravel base.",
         "sentence_audio": "assets/audio/a_1_p_3_b.mp3",
@@ -241,12 +241,12 @@
           {
             "id": "g_b_1",
             "sentence": "These days, many office workers in Colombo __________ from home because of traffic congestion.",
-            "options": ["work", "are working", "worked"],
+            "options": ["works", "are working", "worked"],
             "answer": "are working"
           },
           {
             "id": "g_b_2",
-            "sentence": "I __________ the supervisor about the breakout yesterday but he did not take any action.",
+            "sentence": "I __________ the supervisor about the breakdown yesterday but he did not take any action.",
             "options": ["inform", "informed", "am informing"],
             "answer": "informed"
           },
@@ -316,7 +316,7 @@
         },
         {
           "id": "g_b_2",
-          "text": "I informed the supervisor about the breakout yesterday but he did not take any action.",
+          "text": "I informed the supervisor about the breakdown yesterday but he did not take any action.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {
