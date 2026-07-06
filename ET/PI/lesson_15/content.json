@@ -237,16 +237,24 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-3.jpg",
+        "examples": [
+          {
+            "id": "g_b_1",
+            "sentence": "My colleague __________ all workshops on safety conducted by government officials.",
+            "options": ["attend", "are attending", "attends"],
+            "answer": "attends"
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",
             "sentence": "These days, many office workers in Colombo __________ from home because of traffic congestion.",
-            "options": ["work", "are working", "worked"],
+            "options": ["works", "are working", "worked"],
             "answer": "are working"
           },
           {
             "id": "g_b_2",
-            "sentence": "I __________ the supervisor about the breakout yesterday but he did not take any action.",
+            "sentence": "I __________ the supervisor about the breakdown yesterday but he did not take any action.",
             "options": ["inform", "informed", "am informing"],
             "answer": "informed"
           },
@@ -316,7 +324,7 @@
         },
         {
           "id": "g_b_2",
-          "text": "I informed the supervisor about the breakout yesterday but he did not take any action.",
+          "text": "I informed the supervisor about the breakdown yesterday but he did not take any action.",
           "audio": "assets/audio/g_b_2.mp3"
         },
         {

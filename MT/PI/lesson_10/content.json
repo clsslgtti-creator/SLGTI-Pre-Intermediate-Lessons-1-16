@@ -35,7 +35,7 @@
         "id": "p_1",
         "word_text": "s'ur'face",
         "word_audio": "assets/audio/a_1_p_1_a.mp3",
-        "sentence_text": "The s'ur'face reduces friction during precision machining operations processes.",
+        "sentence_text": "The polished s'ur'face reduces friction during machining operations.",
         "sentence_audio": "assets/audio/a_1_p_1_b.mp3",
         "image": "assets/img/a_1_p_1.png"
       },
@@ -235,7 +235,7 @@
         "examples": [
           {
             "id": "g_b_ex",
-            "sentence": "Which sentence best describe the skills and duties of a carpenter?",
+            "sentence": "Which sentence best describes the skills and duties of a carpenter?",
             "audio": "assets/audio/g_b_ex.mp3",
             "options": [
               "The carpenter can measure, cut and assemble wooden components accurately. He diagnoses mechanical faults in wooden automobiles.",
@@ -248,7 +248,7 @@
         "content": [
           {
             "id": "g_b_1",
-            "sentence": "Which sentence best describe the skills and duties of a vehicle service technician?",
+            "sentence": "Which sentence best describes the skills and duties of a vehicle service technician?",
             "audio": "assets/audio/g_b_1.mp3",
             "options": [
               "The vehicle service technician can use hand tools safely and follow workshop safety rules. He prepares ingredients and follows hygiene rules.",
@@ -259,7 +259,7 @@
           },
           {
             "id": "g_b_2",
-            "sentence": "Which sentence best describe the skills and duties of a concrete work supervisor?",
+            "sentence": "Which sentence best describes the skills and duties of a concrete work supervisor?",
             "audio": "assets/audio/g_b_2.mp3",
             "options": [
               "The concrete work supervisor can read drawings and check work quality on site. He repairs engines and replaces brake components.",
@@ -270,7 +270,7 @@
           },
           {
             "id": "g_b_3",
-            "sentence": "Which sentence best describe the skills and duties of a distribution board installer?",
+            "sentence": "Which sentence best describes the skills and duties of a distribution board installer?",
             "audio": "assets/audio/g_b_3.mp3",
             "options": [
               "The distribution board installer can use insulated tools and follow electrical safety procedures. He prepares tools for kitchen practical sessions.",
@@ -281,7 +281,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "Which sentence best describe the skills and duties of a machine assembly technician?",
+            "sentence": "Which sentence best describes the skills and duties of a machine assembly technician?",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "The machine assembly technician can use measuring tools and follow assembly drawings. He manages staff leave records and HR files.",
@@ -292,7 +292,7 @@
           },
           {
             "id": "g_b_5",
-            "sentence": "Which sentence best describe the skills and duties of a bakery production assistant?",
+            "sentence": "Which sentence best describes the skills and duties of a bakery production assistant?",
             "audio": "assets/audio/g_b_5.mp3",
             "options": [
               "The bakery production assistant can measure ingredients accurately and follow hygiene rules. He repairs engines and services heavy vehicles.",
@@ -303,7 +303,7 @@
           },
           {
             "id": "g_b_6",
-            "sentence": "Which sentence best describe the skills and duties of a network support technician?",
+            "sentence": "Which sentence best describes the skills and duties of a network support technician?",
             "audio": "assets/audio/g_b_6.mp3",
             "options": [
               "The network support technician can identify basic faults and follow troubleshooting steps. He lays bricks and finishes block walls.",
@@ -314,7 +314,7 @@
           },
           {
             "id": "g_b_7",
-            "sentence": "Which sentence best describe the skills and duties of a formwork installation supervisor?",
+            "sentence": "Which sentence best describes the skills and duties of a formwork installation supervisor?",
             "audio": "assets/audio/g_b_7.mp3",
             "options": [
               "The formwork installation supervisor can read drawings and supervise site workers. He programs software and updates systems.",
@@ -325,7 +325,7 @@
           },
           {
             "id": "g_b_8",
-            "sentence": "Which sentence best describe the skills and duties of a cable jointing technician?",
+            "sentence": "Which sentence best describes the skills and duties of a cable jointing technician?",
             "audio": "assets/audio/g_b_8.mp3",
             "options": [
               "The cable jointing technician can use hand tools correctly and follow safety instructions. He prepares dry ingredients in the kitchen.",
@@ -336,7 +336,7 @@
           },
           {
             "id": "g_b_9",
-            "sentence": "Which sentence best describe the skills and duties of a maintenance fitting technician?",
+            "sentence": "Which sentence best describes the skills and duties of a maintenance fitting technician?",
             "audio": "assets/audio/g_b_9.mp3",
             "options": [
               "The maintenance fitting technician can identify worn parts and follow maintenance schedules. He manages HR documents.",
@@ -347,7 +347,7 @@
           },
           {
             "id": "g_b_10",
-            "sentence": "Which sentence best describe the skills and duties of a food quality control assistant?",
+            "sentence": "Which sentence best describes the skills and duties of a food quality control assistant?",
             "audio": "assets/audio/g_b_10.mp3",
             "options": [
               "The food quality control assistant can record data accurately and follow hygiene standards. He repairs engines and gearboxes.",

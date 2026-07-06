@@ -108,7 +108,7 @@
         ["Will", "Definitely"],
         ["May", "Uncertain"],
         ["Might", "Uncertain "],
-        ["Won’t", "Impossible"]
+        ["Won’t", "Unlikely / Not possible"]
       ]
     ],
     "example_dialogues": [
@@ -235,6 +235,19 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-7.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "Do we need extra baking powder for this week’s wedding order?",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "No, we don’t. We need to order about 8 kg more.",
+              "Yes, we do. We need at least 5 kg extra.",
+              "Yes, we do. We need at least a litre extra."
+            ],
+            "answer": "Yes, we do. We need at least 5 kg extra."
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",
@@ -271,7 +284,7 @@
           },
           {
             "id": "g_b_4",
-            "sentence": "Do we order cider vinegar by volume rather than by bottles?",
+            "sentence": "Should we order cider vinegar by volume rather than by bottles?",
             "audio": "assets/audio/g_b_4.mp3",
             "options": [
               "Yes, it will be much cheaper if we order it by volume.",
@@ -381,7 +394,7 @@
         },
         {
           "id": "g_b_4",
-          "text": "Do we order cider vinegar by volume rather than by bottles?",
+          "text": "Should we order cider vinegar by volume rather than by bottles?",
           "audio": "assets/audio/g_b_4.mp3"
         },
         {
@@ -479,7 +492,7 @@
           {
             "id": "l_18_1",
             "question": "Opening identification",
-            "answer": "This is Coreen calling from the Sri Lanka–Germany Training Institute.",
+            "answer": "This is Kamal calling from the Sri Lanka–German Training Institute.",
             "options": [
               "This is Coreen calling from the Sri Lanka–Germany Training Institute.",
               "This is Coreen calling from the Sri Lanka–German Training Institutes.",
@@ -501,9 +514,9 @@
             "question": "Paper availability",
             "answer": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
             "options": [
-              "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
               "Could you tell me if you currently have A4 copying papers in stock, preferably with high-quality 80 gsm?",
-              "Could you tell me do you have A4 copier paper in stock, preferably in 80 gsm quality packs?"
+              "Could you tell me do you have A4 copier paper in stock, preferably in 80 gsm quality packs?",
+              "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?"
             ]
           },
           {
@@ -511,8 +524,8 @@
             "question": "Packaging confirmation",
             "answer": "And are these supplied in sealed five-ream cartons?",
             "options": [
-              "And are these supplied in sealed five-ream cartons?",
               "And are these supply in sealed five ream cartons?",
+              "And are these supplied in sealed five-ream cartons?",
               "And these are supplied in sealing five-ream carton?"
             ]
           },
@@ -521,9 +534,9 @@
             "question": "Pens availability",
             "answer": "Are blue and black medium-tip pens available in boxes of fifty?",
             "options": [
-              "Are blue and black medium-tip pens available in boxes of fifty?",
               "Are blue and black medium-tip pen available in box of fifty?",
-              "Are blue and black pens medium-tip available in fifty boxes?"
+              "Are blue and black pens medium-tip available in fifty boxes?",
+              "Are blue and black medium-tip pens available in boxes of fifty?"
             ]
           },
           {
@@ -538,11 +551,11 @@
           },
           {
             "id": "l_18_7",
-            "question": "Staples availability",
+            "question": "Availability of staples",
             "answer": "What about the heavy-duty metal staples, sold in bulk boxes?",
             "options": [
-              "What about the heavy-duty metal staples, sold in bulk boxes?",
               "What about heavy duty metals staples sold by bulk boxes?",
+              "What about the heavy-duty metal staples, sold in bulk boxes?",
               "What about the heavy-duty metal staple, selling in bulk box?"
             ]
           },
@@ -551,9 +564,9 @@
             "question": "File folders",
             "answer": "And how about transparent polypropylene file folders?",
             "options": [
-              "And how about transparent polypropylene file folders?",
               "And how about transparency polypropylene files folders?",
-              "And how about transparents polypropene folder files?"
+              "And how about transparents polypropene folder files?",
+              "And how about transparent polypropylene file folders?"
             ]
           },
           {
@@ -571,9 +584,9 @@
             "question": "Confirming the action",
             "answer": "I’ll email the complete order later this afternoon.",
             "options": [
-              "I’ll email the complete order later this afternoon.",
               "I will emailing the complete order later at this afternoon.",
-              "I’ll email the completely order on later this afternoon."
+              "I’ll email the completely order on later this afternoon.",
+              "I’ll email the complete order later this afternoon."
             ]
           }
         ]

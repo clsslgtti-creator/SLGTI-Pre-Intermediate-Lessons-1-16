@@ -67,7 +67,7 @@
   },
   "activity_2": {
     "type": "SBS-5",
-    "focus": "Simple Past Regular and Irregular verbs, Structure while...",
+    "focus": "Simple Past Regular and Irregular Verbs",
     "instructions": {
       "example": {
         "text": "Listen to the model dialogues.\nආදර්ශ සංවාදවලට සවන් දෙන්න.\nமாதிரி உரையாடல்களை கேளுங்கள்.",
@@ -282,7 +282,7 @@
         "examples": [
           {
             "id": "g_b_ex",
-            "sentence": "___________ were you when the accident happened? \n\n  In the dough processing section , close to the fermentation room.",
+            "sentence": "___________ were you when the accident happened? \n\n  In the dough processing section, close to the fermentation room.",
             "options": ["How often", "Where", "What time"],
             "answer": "Where"
           }

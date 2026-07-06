@@ -15,7 +15,7 @@
     "content": [
       {
         "question": "He routinely ______ the laser level before setting out the foundation lines.",
-        "options": ["align", "aligns", "aligned", "is aligning"],
+        "options": ["align", "aligns", "are aligned", "is aligning"],
         "answer": "aligns"
       },
       {
@@ -89,7 +89,7 @@
     },
     "content": [
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence. ",
         "options": [
           "I am crying because I was sad.",
           "I always cry when I am sad.",
@@ -98,7 +98,7 @@
         "answer": "I always cry when I am sad."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence. ",
         "options": [
           "I usually sweep the garden after the rain.",
           "I am sweeping the garden yesterday because it rained.",
@@ -107,7 +107,7 @@
         "answer": "I usually sweep the garden after the rain."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence. ",
         "options": [
           "I am using the desktop today because my laptop is not booting up.",
           "I use the desktop when my laptop didn’t boot up.",
@@ -116,7 +116,7 @@
         "answer": "I am using the desktop today because my laptop is not booting up."
       },
       {
-        "question": "Click on the correct sentence/ answer. ",
+        "question": "Click on the correct sentence. ",
         "options": [
           "I drive to work because I got up late.",
           "I am driving to work today because I was late getting up.",
@@ -143,7 +143,7 @@
         "answer": "Yes, she can. In fact, she often scans documents on both sides."
       },
       {
-        "question": "Can you help us organize the auditorium for the seminar this evening?",
+        "question": "Can you help us organise the auditorium for the seminar this evening?",
         "options": [
           "I’m afraid I can’t. I have to get the participant list ready.",
           "I’m afraid I was not available to help. I have to get the participant list ready.",
