@@ -235,6 +235,19 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-7.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "Do we need any extra computer bags for our new clients?",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "No, we don’t. We need to order about 8 kg more.",
+              "Yes, we do. About 30 new bags will do.",
+              "Yes, we do. We need at least a litre extra."
+            ],
+            "answer": "Yes, we do. About 30 new bags will do."
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",

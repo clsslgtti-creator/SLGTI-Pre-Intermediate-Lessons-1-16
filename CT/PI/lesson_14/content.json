@@ -235,6 +235,19 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-7.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "Do we need extra light weight cement blocks for the bathrooms?",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "No, we don’t. We need to order about 8 kg more.",
+              "Yes, we do. We need at least 20 of them.",
+              "Yes, we do. We need at least a litre extra."
+            ],
+            "answer": "Yes, we do. We need at least 20 of them."
+          }
+        ],
         "content": [
           {
             "id": "g_b_1",

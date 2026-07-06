@@ -235,221 +235,234 @@
     "content": {
       "activity_a": {
         "bg_image": "assets/img/game/bg-7.jpg",
+        "examples": [
+          {
+            "id": "g_b_ex",
+            "sentence": "Do we need extra 5 mm stainless-steel bearings?",
+            "audio": "assets/audio/g_b_ex.mp3",
+            "options": [
+              "No, we don’t. We need to order about 8 kg more.",
+              "Yes, we do. We need at least 200 of them.",
+              "Yes, we do. We need at least a litre extra."
+            ],
+            "answer": "Yes, we do. We need at least 200 of them."
+          }
+        ],
         "content": [
-  {
-    "id": "g_b_1",
-    "sentence": "Do we have enough high-temperature bearing grease for today’s practical session?",
-    "audio": "assets/audio/g_b_1.mp3",
-    "options": [
-      "No, we don’t. We need to order about 8 kg more.",
-      "Yes, it will be much cheaper if we order it by volume.",
-      "Yes, please. We need to send this before the end of the day."
-    ],
-    "answer": "No, we don’t. We need to order about 8 kg more."
-  },
-  {
-    "id": "g_b_2",
-    "sentence": "Do we usually use a large amount of industrial hydraulic oil every week?",
-    "audio": "assets/audio/g_b_2.mp3",
-    "options": [
-      "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres.",
-      "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
-      "Yes, please, but just a few. We don’t need that many."
-    ],
-    "answer": "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
-  },
-  {
-    "id": "g_b_3",
-    "sentence": "Should I order more durable plastic lubricant containers this time?",
-    "audio": "assets/audio/g_b_3.mp3",
-    "options": [
-      "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday.",
-      "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
-      "No, we don’t. We need to order about 8 kg more."
-    ],
-    "answer": "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday."
-  },
-  {
-    "id": "g_b_4",
-    "sentence": "Should we order coolant concentrate by volume rather than by bottles?",
-    "audio": "assets/audio/g_b_4.mp3",
-    "options": [
-      "Yes, it will be much cheaper if we order it by volume.",
-      "Yes, please. We need to send this before the end of the day.",
-      "Yes, they should. They are used in every session, so we need lots of them."
-    ],
-    "answer": "Yes, it will be much cheaper if we order it by volume."
-  },
-  {
-    "id": "g_b_5",
-    "sentence": "Do we need extra reinforced heat-resistant work gloves because the intake is larger this year than last year?",
-    "audio": "assets/audio/g_b_5.mp3",
-    "options": [
-      "Yes, we need about 10 extra pairs for the new trainees.",
-      "Yes, please, but just a few. We don’t need that many.",
-      "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
-    ],
-    "answer": "Yes, we need about 10 extra pairs for the new trainees."
-  },
-  {
-    "id": "g_b_6",
-    "sentence": "Is there any heavy-duty machine cleaning powder left in the storage area?",
-    "audio": "assets/audio/g_b_6.mp3",
-    "options": [
-      "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
-      "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
-      "Yes, please. Order about 20 more because we often run out of them."
-    ],
-    "answer": "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags."
-  },
-  {
-    "id": "g_b_7",
-    "sentence": "Should I order a few stainless steel component trays?",
-    "audio": "assets/audio/g_b_7.mp3",
-    "options": [
-      "Yes, please, but just a few. We don’t need that many.",
-      "Yes, they should. They are used in every session, so we need lots of them.",
-      "Yes, it will be much cheaper if we order it by volume."
-    ],
-    "answer": "Yes, please, but just a few. We don’t need that many."
-  },
-  {
-    "id": "g_b_8",
-    "sentence": "Should we use the same reliable machinery supplier as last time for this order?",
-    "audio": "assets/audio/g_b_8.mp3",
-    "options": [
-      "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
-      "Yes, please. We need to send this before the end of the day.",
-      "Yes, we need about 10 extra pairs for the new trainees."
-    ],
-    "answer": "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time."
-  },
-  {
-    "id": "g_b_9",
-    "sentence": "Do you want me to place the order for industrial floor cleaning detergent today?",
-    "audio": "assets/audio/g_b_9.mp3",
-    "options": [
-      "Yes, please. We need to send this before the end of the day.",
-      "No, we don’t. We need to order about 8 kg more.",
-      "Yes, please, but just a few. We don’t need that many."
-    ],
-    "answer": "Yes, please. We need to send this before the end of the day."
-  },
-  {
-    "id": "g_b_10",
-    "sentence": "Should self-adhesive equipment identification labels be included in this order too?",
-    "audio": "assets/audio/g_b_10.mp3",
-    "options": [
-      "Yes, they should. They are used in every session, so we need lots of them.",
-      "Yes, it will be much cheaper if we order it by volume.",
-      "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
-    ],
-    "answer": "Yes, they should. They are used in every session, so we need lots of them."
-  }
-]
+          {
+            "id": "g_b_1",
+            "sentence": "Do we have enough high-temperature bearing grease for today’s practical session?",
+            "audio": "assets/audio/g_b_1.mp3",
+            "options": [
+              "No, we don’t. We need to order about 8 kg more.",
+              "Yes, it will be much cheaper if we order it by volume.",
+              "Yes, please. We need to send this before the end of the day."
+            ],
+            "answer": "No, we don’t. We need to order about 8 kg more."
+          },
+          {
+            "id": "g_b_2",
+            "sentence": "Do we usually use a large amount of industrial hydraulic oil every week?",
+            "audio": "assets/audio/g_b_2.mp3",
+            "options": [
+              "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres.",
+              "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
+              "Yes, please, but just a few. We don’t need that many."
+            ],
+            "answer": "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
+          },
+          {
+            "id": "g_b_3",
+            "sentence": "Should I order more durable plastic lubricant containers this time?",
+            "audio": "assets/audio/g_b_3.mp3",
+            "options": [
+              "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday.",
+              "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
+              "No, we don’t. We need to order about 8 kg more."
+            ],
+            "answer": "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday."
+          },
+          {
+            "id": "g_b_4",
+            "sentence": "Should we order coolant concentrate by volume rather than by bottles?",
+            "audio": "assets/audio/g_b_4.mp3",
+            "options": [
+              "Yes, it will be much cheaper if we order it by volume.",
+              "Yes, please. We need to send this before the end of the day.",
+              "Yes, they should. They are used in every session, so we need lots of them."
+            ],
+            "answer": "Yes, it will be much cheaper if we order it by volume."
+          },
+          {
+            "id": "g_b_5",
+            "sentence": "Do we need extra reinforced heat-resistant work gloves because the intake is larger this year than last year?",
+            "audio": "assets/audio/g_b_5.mp3",
+            "options": [
+              "Yes, we need about 10 extra pairs for the new trainees.",
+              "Yes, please, but just a few. We don’t need that many.",
+              "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
+            ],
+            "answer": "Yes, we need about 10 extra pairs for the new trainees."
+          },
+          {
+            "id": "g_b_6",
+            "sentence": "Is there any heavy-duty machine cleaning powder left in the storage area?",
+            "audio": "assets/audio/g_b_6.mp3",
+            "options": [
+              "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
+              "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
+              "Yes, please. Order about 20 more because we often run out of them."
+            ],
+            "answer": "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags."
+          },
+          {
+            "id": "g_b_7",
+            "sentence": "Should I order a few stainless steel component trays?",
+            "audio": "assets/audio/g_b_7.mp3",
+            "options": [
+              "Yes, please, but just a few. We don’t need that many.",
+              "Yes, they should. They are used in every session, so we need lots of them.",
+              "Yes, it will be much cheaper if we order it by volume."
+            ],
+            "answer": "Yes, please, but just a few. We don’t need that many."
+          },
+          {
+            "id": "g_b_8",
+            "sentence": "Should we use the same reliable machinery supplier as last time for this order?",
+            "audio": "assets/audio/g_b_8.mp3",
+            "options": [
+              "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
+              "Yes, please. We need to send this before the end of the day.",
+              "Yes, we need about 10 extra pairs for the new trainees."
+            ],
+            "answer": "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time."
+          },
+          {
+            "id": "g_b_9",
+            "sentence": "Do you want me to place the order for industrial floor cleaning detergent today?",
+            "audio": "assets/audio/g_b_9.mp3",
+            "options": [
+              "Yes, please. We need to send this before the end of the day.",
+              "No, we don’t. We need to order about 8 kg more.",
+              "Yes, please, but just a few. We don’t need that many."
+            ],
+            "answer": "Yes, please. We need to send this before the end of the day."
+          },
+          {
+            "id": "g_b_10",
+            "sentence": "Should self-adhesive equipment identification labels be included in this order too?",
+            "audio": "assets/audio/g_b_10.mp3",
+            "options": [
+              "Yes, they should. They are used in every session, so we need lots of them.",
+              "Yes, it will be much cheaper if we order it by volume.",
+              "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres."
+            ],
+            "answer": "Yes, they should. They are used in every session, so we need lots of them."
+          }
+        ]
       },
       "activity_b": [
-  {
-    "id": "g_b_1",
-    "text": "Do we have enough high-temperature bearing grease for today’s practical session?",
-    "audio": "assets/audio/g_b_1.mp3"
-  },
-  {
-    "id": "g_b_1_a",
-    "text": "No, we don’t. We need to order about 8 kg more.",
-    "audio": "assets/audio/g_b_1_a.mp3"
-  },
-  {
-    "id": "g_b_2",
-    "text": "Do we usually use a large amount of industrial hydraulic oil every week?",
-    "audio": "assets/audio/g_b_2.mp3"
-  },
-  {
-    "id": "g_b_2_a",
-    "text": "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres.",
-    "audio": "assets/audio/g_b_2_a.mp3"
-  },
-  {
-    "id": "g_b_3",
-    "text": "Should I order more durable plastic lubricant containers this time?",
-    "audio": "assets/audio/g_b_3.mp3"
-  },
-  {
-    "id": "g_b_3_a",
-    "text": "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday.",
-    "audio": "assets/audio/g_b_3_a.mp3"
-  },
-  {
-    "id": "g_b_4",
-    "text": "Should we order coolant concentrate by volume rather than by bottles?",
-    "audio": "assets/audio/g_b_4.mp3"
-  },
-  {
-    "id": "g_b_4_a",
-    "text": "Yes, it will be much cheaper if we order it by volume.",
-    "audio": "assets/audio/g_b_4_a.mp3"
-  },
-  {
-    "id": "g_b_5",
-    "text": "Do we need extra reinforced heat-resistant work gloves because the intake is larger this year than last year?",
-    "audio": "assets/audio/g_b_5.mp3"
-  },
-  {
-    "id": "g_b_5_a",
-    "text": "Yes, we need about 10 extra pairs for the new trainees.",
-    "audio": "assets/audio/g_b_5_a.mp3"
-  },
-  {
-    "id": "g_b_6",
-    "text": "Is there any heavy-duty machine cleaning powder left in the storage area?",
-    "audio": "assets/audio/g_b_6.mp3"
-  },
-  {
-    "id": "g_b_6_a",
-    "text": "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
-    "audio": "assets/audio/g_b_6_a.mp3"
-  },
-  {
-    "id": "g_b_7",
-    "text": "Should I order a few stainless steel component trays?",
-    "audio": "assets/audio/g_b_7.mp3"
-  },
-  {
-    "id": "g_b_7_a",
-    "text": "Yes, please, but just a few. We don’t need that many.",
-    "audio": "assets/audio/g_b_7_a.mp3"
-  },
-  {
-    "id": "g_b_8",
-    "text": "Should we use the same reliable machinery supplier as last time for this order?",
-    "audio": "assets/audio/g_b_8.mp3"
-  },
-  {
-    "id": "g_b_8_a",
-    "text": "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
-    "audio": "assets/audio/g_b_8_a.mp3"
-  },
-  {
-    "id": "g_b_9",
-    "text": "Do you want me to place the order for industrial floor cleaning detergent today?",
-    "audio": "assets/audio/g_b_9.mp3"
-  },
-  {
-    "id": "g_b_9_a",
-    "text": "Yes, please. We need to send this before the end of the day.",
-    "audio": "assets/audio/g_b_9_a.mp3"
-  },
-  {
-    "id": "g_b_10",
-    "text": "Should self-adhesive equipment identification labels be included in this order too?",
-    "audio": "assets/audio/g_b_10.mp3"
-  },
-  {
-    "id": "g_b_10_a",
-    "text": "Yes, they should. They are used in every session, so we need lots of them.",
-    "audio": "assets/audio/g_b_10_a.mp3"
-  }
-]
+        {
+          "id": "g_b_1",
+          "text": "Do we have enough high-temperature bearing grease for today’s practical session?",
+          "audio": "assets/audio/g_b_1.mp3"
+        },
+        {
+          "id": "g_b_1_a",
+          "text": "No, we don’t. We need to order about 8 kg more.",
+          "audio": "assets/audio/g_b_1_a.mp3"
+        },
+        {
+          "id": "g_b_2",
+          "text": "Do we usually use a large amount of industrial hydraulic oil every week?",
+          "audio": "assets/audio/g_b_2.mp3"
+        },
+        {
+          "id": "g_b_2_a",
+          "text": "Yes. More than 30 litres, but there are weeks when we even exceed 40 litres.",
+          "audio": "assets/audio/g_b_2_a.mp3"
+        },
+        {
+          "id": "g_b_3",
+          "text": "Should I order more durable plastic lubricant containers this time?",
+          "audio": "assets/audio/g_b_3.mp3"
+        },
+        {
+          "id": "g_b_3_a",
+          "text": "Yes, please. Order about 20 more because we often run out of them, especially when we get a big order like yesterday.",
+          "audio": "assets/audio/g_b_3_a.mp3"
+        },
+        {
+          "id": "g_b_4",
+          "text": "Should we order coolant concentrate by volume rather than by bottles?",
+          "audio": "assets/audio/g_b_4.mp3"
+        },
+        {
+          "id": "g_b_4_a",
+          "text": "Yes, it will be much cheaper if we order it by volume.",
+          "audio": "assets/audio/g_b_4_a.mp3"
+        },
+        {
+          "id": "g_b_5",
+          "text": "Do we need extra reinforced heat-resistant work gloves because the intake is larger this year than last year?",
+          "audio": "assets/audio/g_b_5.mp3"
+        },
+        {
+          "id": "g_b_5_a",
+          "text": "Yes, we need about 10 extra pairs for the new trainees.",
+          "audio": "assets/audio/g_b_5_a.mp3"
+        },
+        {
+          "id": "g_b_6",
+          "text": "Is there any heavy-duty machine cleaning powder left in the storage area?",
+          "audio": "assets/audio/g_b_6.mp3"
+        },
+        {
+          "id": "g_b_6_a",
+          "text": "Yes, there is, but only a small amount. It looks like we need four five-kilogram bags.",
+          "audio": "assets/audio/g_b_6_a.mp3"
+        },
+        {
+          "id": "g_b_7",
+          "text": "Should I order a few stainless steel component trays?",
+          "audio": "assets/audio/g_b_7.mp3"
+        },
+        {
+          "id": "g_b_7_a",
+          "text": "Yes, please, but just a few. We don’t need that many.",
+          "audio": "assets/audio/g_b_7_a.mp3"
+        },
+        {
+          "id": "g_b_8",
+          "text": "Should we use the same reliable machinery supplier as last time for this order?",
+          "audio": "assets/audio/g_b_8.mp3"
+        },
+        {
+          "id": "g_b_8_a",
+          "text": "Yes. He was very competitive on price, the quality was excellent, and all the goods arrived on time.",
+          "audio": "assets/audio/g_b_8_a.mp3"
+        },
+        {
+          "id": "g_b_9",
+          "text": "Do you want me to place the order for industrial floor cleaning detergent today?",
+          "audio": "assets/audio/g_b_9.mp3"
+        },
+        {
+          "id": "g_b_9_a",
+          "text": "Yes, please. We need to send this before the end of the day.",
+          "audio": "assets/audio/g_b_9_a.mp3"
+        },
+        {
+          "id": "g_b_10",
+          "text": "Should self-adhesive equipment identification labels be included in this order too?",
+          "audio": "assets/audio/g_b_10.mp3"
+        },
+        {
+          "id": "g_b_10_a",
+          "text": "Yes, they should. They are used in every session, so we need lots of them.",
+          "audio": "assets/audio/g_b_10_a.mp3"
+        }
+      ]
     }
   },
   "activity_4": {
