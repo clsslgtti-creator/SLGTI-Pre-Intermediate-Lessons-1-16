@@ -357,7 +357,7 @@
     "type": "LISTENING-6",
     "instructions": {
       "activity_a": {
-        "text": "Match the words to their definitions.\nපදයන් ඔවුන්ගේ අර්ථයන්ට ගැලපෙන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
+        "text": "Match the words to their definitions.\nවචන ඒවායේ අර්ථ දැක්වීම් වලට ගලපන්න.\nசொற்களை அவற்றின் வரையறைகளுடன் பொருத்துங்கள்.",
         "audio": "assets/audio/a_4_i_c.mp3"
       },
       "activity_b": {
