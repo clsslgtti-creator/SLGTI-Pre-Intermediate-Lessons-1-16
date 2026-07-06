@@ -514,9 +514,9 @@
             "question": "Paper availability",
             "answer": "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
             "options": [
-              "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?",
               "Could you tell me if you currently have A4 copying papers in stock, preferably with high-quality 80 gsm?",
-              "Could you tell me do you have A4 copier paper in stock, preferably in 80 gsm quality packs?"
+              "Could you tell me do you have A4 copier paper in stock, preferably in 80 gsm quality packs?",
+              "Could you tell me if you currently have A4 copier paper in stock, preferably in high-quality 80 gsm packs?"
             ]
           },
           {
@@ -524,8 +524,8 @@
             "question": "Packaging confirmation",
             "answer": "And are these supplied in sealed five-ream cartons?",
             "options": [
-              "And are these supplied in sealed five-ream cartons?",
               "And are these supply in sealed five ream cartons?",
+              "And are these supplied in sealed five-ream cartons?",
               "And these are supplied in sealing five-ream carton?"
             ]
           },
@@ -534,9 +534,9 @@
             "question": "Pens availability",
             "answer": "Are blue and black medium-tip pens available in boxes of fifty?",
             "options": [
-              "Are blue and black medium-tip pens available in boxes of fifty?",
               "Are blue and black medium-tip pen available in box of fifty?",
-              "Are blue and black pens medium-tip available in fifty boxes?"
+              "Are blue and black pens medium-tip available in fifty boxes?",
+              "Are blue and black medium-tip pens available in boxes of fifty?"
             ]
           },
           {
@@ -554,8 +554,8 @@
             "question": "Availability of staples",
             "answer": "What about the heavy-duty metal staples, sold in bulk boxes?",
             "options": [
-              "What about the heavy-duty metal staples, sold in bulk boxes?",
               "What about heavy duty metals staples sold by bulk boxes?",
+              "What about the heavy-duty metal staples, sold in bulk boxes?",
               "What about the heavy-duty metal staple, selling in bulk box?"
             ]
           },
@@ -564,9 +564,9 @@
             "question": "File folders",
             "answer": "And how about transparent polypropylene file folders?",
             "options": [
-              "And how about transparent polypropylene file folders?",
               "And how about transparency polypropylene files folders?",
-              "And how about transparents polypropene folder files?"
+              "And how about transparents polypropene folder files?",
+              "And how about transparent polypropylene file folders?"
             ]
           },
           {
@@ -584,9 +584,9 @@
             "question": "Confirming the action",
             "answer": "I’ll email the complete order later this afternoon.",
             "options": [
-              "I’ll email the complete order later this afternoon.",
               "I will emailing the complete order later at this afternoon.",
-              "I’ll email the completely order on later this afternoon."
+              "I’ll email the completely order on later this afternoon.",
+              "I’ll email the complete order later this afternoon."
             ]
           }
         ]
