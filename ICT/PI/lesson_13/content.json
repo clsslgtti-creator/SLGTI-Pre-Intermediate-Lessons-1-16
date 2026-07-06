@@ -108,13 +108,13 @@
         "text_a": "Why is Nimal absent today?",
         "text_b": "He is absent because he had an accident yesterday.",
         "text_c": "What happened?",
-        "text_d": "The lathe machine lacerated his index finger.",
+        "text_d": "A server rack door cut his index finger.",
         "audio_a": "assets/audio/a_2_d_1_a.mp3",
         "audio_b": "assets/audio/a_2_d_1_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_1_d.mp3",
         "text_b_speaking": "He is absent _________________________ .",
-        "text_d_speaking": "The lathe machine _________________________ ."
+        "text_d_speaking": "A server rack door _________________________ ."
       },
       {
         "id": "d_2",
@@ -122,13 +122,13 @@
         "text_a": "Why is Kamal absent today?",
         "text_b": "He is absent because he had an accident the day before yesterday.",
         "text_c": "What happened?",
-        "text_d": "A forklift bruised his toes.",
+        "text_d": "A desktop computer fell on his toes.",
         "audio_a": "assets/audio/a_2_d_2_a.mp3",
         "audio_b": "assets/audio/a_2_d_2_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_2_d.mp3",
         "text_b_speaking": "He is absent _________________________ .",
-        "text_d_speaking": "A forklift _________________________ ."
+        "text_d_speaking": "A desktop computer _________________________ ."
       },
       {
         "id": "d_3",
@@ -136,45 +136,45 @@
         "text_a": "Why is Anila absent today?",
         "text_b": "She is absent because she had an accident last Monday.",
         "text_c": "What happened?",
-        "text_d": "A grinder scraped her left hand.",
+        "text_d": "A cable tie scraped her left hand.",
         "audio_a": "assets/audio/a_2_d_3_a.mp3",
         "audio_b": "assets/audio/a_2_d_3_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_3_d.mp3",
         "text_b_speaking": "She is absent _________________________ .",
-        "text_d_speaking": "A grinder _________________________ ."
+        "text_d_speaking": "A cable tie _________________________ ."
       }
     ],
     "keywords": [
       {
         "id": "k_1",
         "image": "assets/img/a_2_d_4.jpeg",
-        "word": "A welding spark hit his right eye."
+        "word": "A soldering iron burned his right hand."
       },
       {
         "id": "k_2",
         "image": "assets/img/a_2_d_5.jpeg",
-        "word": "A heavy beam fell on his left leg."
+        "word": "A server battery injured his left foot."
       },
       {
         "id": "k_3",
         "image": "assets/img/a_2_d_6.jpeg",
-        "word": "A machine belt trapped her sleeve and sprained her arm."
+        "word": "An electric screwdriver slipped and injured his wrist."
       },
       {
         "id": "k_4",
         "image": "assets/img/a_2_d_7.jpeg",
-        "word": "A drill slipped and injured his wrist."
+        "word": "A cleaning chemical splashed onto her left hand."
       },
       {
         "id": "k_5",
         "image": "assets/img/a_2_d_8.jpeg",
-        "word": "A strong chemical splashed onto her left hand."
+        "word": "A computer monitor caused a fracture to his ring finger."
       },
       {
         "id": "k_6",
         "image": "assets/img/a_2_d_9.jpeg",
-        "word": "A lathe machine caused a fracture to his ring finger."
+        "word": "A sharp metal case lacerated her thumb."
       }
     ],
     "dialogues": [
@@ -184,83 +184,83 @@
         "text_a": "Why is Suresh absent today?",
         "text_b": "He is absent because he had an accident three days ago.",
         "text_c": "What happened?",
-        "text_d": "A welding spark hit his right eye.",
+        "text_d": "A soldering iron burned his right hand.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
         "audio_b": "assets/audio/a_2_d_4_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_4_d.mp3",
         "text_b_speaking": "He is absent _________________________ .",
-        "text_d_speaking": "A welding spark _________________________ ."
+        "text_d_speaking": "A soldering iron _________________________ ."
       },
       {
         "id": "d_5",
         "img": "assets/img/a_2_d_5.jpeg",
         "text_a": "Why is Tharindu absent today?",
-        "text_b": "He is absent because he had an accident two days ago.",
+        "text_b": "He is absent because he had an accident three days ago.",
         "text_c": "What happened?",
-        "text_d": "A heavy beam fell on his left leg.",
+        "text_d": "A server battery injured his left foot.",
         "audio_a": "assets/audio/a_2_d_5_a.mp3",
         "audio_b": "assets/audio/a_2_d_5_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_5_d.mp3",
         "text_b_speaking": "He is absent _________________________ .",
-        "text_d_speaking": "A heavy beam _________________________ ."
+        "text_d_speaking": "A server battery _________________________ ."
       },
       {
         "id": "d_6",
         "img": "assets/img/a_2_d_6.jpeg",
-        "text_a": "Why is Shamika absent today?",
-        "text_b": "She is absent because she had an accident this morning.",
+        "text_a": "Why is Isuru absent today?",
+        "text_b": "He is absent because he had an accident this afternoon.",
         "text_c": "What happened?",
-        "text_d": "A machine belt trapped her sleeve and sprained her arm.",
+        "text_d": "An electric screwdriver slipped and injured his wrist.",
         "audio_a": "assets/audio/a_2_d_6_a.mp3",
         "audio_b": "assets/audio/a_2_d_6_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_6_d.mp3",
-        "text_b_speaking": "She is absent _________________________ .",
-        "text_d_speaking": "A machine belt _________________________ ."
+        "text_b_speaking": "He is absent _________________________ .",
+        "text_d_speaking": "An electric screwdriver _________________________ ."
       },
       {
         "id": "d_7",
         "img": "assets/img/a_2_d_7.jpeg",
-        "text_a": "Why is Isuru absent today?",
-        "text_b": "He is absent because he had an accident this afternoon.",
+        "text_a": "Why is Sanduni absent today?",
+        "text_b": "She is absent because she had an accident last night.",
         "text_c": "What happened?",
-        "text_d": "A drill slipped and injured his wrist.",
+        "text_d": "A cleaning chemical splashed onto her left hand.",
         "audio_a": "assets/audio/a_2_d_7_a.mp3",
         "audio_b": "assets/audio/a_2_d_7_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_7_d.mp3",
-        "text_b_speaking": "He is absent _________________________ .",
-        "text_d_speaking": "A drill _________________________ ."
+        "text_b_speaking": "She is absent _________________________ .",
+        "text_d_speaking": "A cleaning chemical _________________________ ."
       },
       {
         "id": "d_8",
         "img": "assets/img/a_2_d_8.jpeg",
-        "text_a": "Why is Sanduni absent today?",
-        "text_b": "She is absent because she had an accident last night.",
+        "text_a": "Why is Ajith absent today?",
+        "text_b": "He is absent because he had an accident yesterday.",
         "text_c": "What happened?",
-        "text_d": "A strong chemical splashed onto her left hand.",
+        "text_d": "A computer monitor caused a fracture to his ring finger.",
         "audio_a": "assets/audio/a_2_d_8_a.mp3",
         "audio_b": "assets/audio/a_2_d_8_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_8_d.mp3",
-        "text_b_speaking": "She is absent _________________________ .",
-        "text_d_speaking": "A strong chemical _________________________ ."
+        "text_b_speaking": "He is absent _________________________ .",
+        "text_d_speaking": "A computer monitor _________________________ ."
       },
       {
         "id": "d_9",
         "img": "assets/img/a_2_d_9.jpeg",
-        "text_a": "Why is Robert absent today?",
-        "text_b": "He is absent because he had an accident yesterday.",
+        "text_a": "Why is Dilani absent today?",
+        "text_b": "She is absent because she had an accident last Friday.",
         "text_c": "What happened?",
-        "text_d": "A lathe machine caused a fracture to his ring finger.",
+        "text_d": "A sharp metal case lacerated her thumb.",
         "audio_a": "assets/audio/a_2_d_9_a.mp3",
         "audio_b": "assets/audio/a_2_d_9_b.mp3",
         "audio_c": "assets/audio/a_2_d_1_c.mp3",
         "audio_d": "assets/audio/a_2_d_9_d.mp3",
-        "text_b_speaking": "He is absent _________________________ .",
-        "text_d_speaking": "A lathe machine _________________________ ."
+        "text_b_speaking": "She is absent _________________________ .",
+        "text_d_speaking": "A sharp metal case _________________________ ."
       }
     ]
   },
