@@ -571,7 +571,7 @@
             "options": [
               "Because the configuration is unstable.",
               "Because wrong configuration makes the network unstable.",
-              "Because the subnet was unstable."
+              "Because the access points were placed in the wrong locations."
             ]
           },
           {
@@ -916,7 +916,7 @@
       {
         "id": "v_1",
         "audio": "assets/videos/1A.mp4",
-        "instrction": "instrction_a"
+        "instrction": "instrction_b"
       }
     ]
   }
