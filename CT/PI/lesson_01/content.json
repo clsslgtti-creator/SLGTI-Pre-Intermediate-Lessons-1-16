@@ -148,7 +148,7 @@
     "keywords": [
       {
         "id": "k_4",
-        "image": "assets/img/a_2_d_4.jpeg",
+        "image": "assets/img/a_2_d_4.png",
         "word": "Reflective safety vests / navy blue boxes"
       },
       {
@@ -180,7 +180,7 @@
     "dialogues": [
       {
         "id": "d_4",
-        "img": "assets/img/a_2_d_4.jpeg",
+        "img": "assets/img/a_2_d_4.png",
         "text_a": "Where are the reflective safety vests?",
         "text_b": "They are on the right, beside the navy blue boxes.",
         "audio_a": "assets/audio/a_2_d_4_a.mp3",
