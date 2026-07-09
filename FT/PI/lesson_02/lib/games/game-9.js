@@ -16,6 +16,12 @@ const MAX_TIMER_MS = 60000;
 
 const trimText = (value) => (typeof value === "string" ? value.trim() : "");
 
+const normalizeAnswerText = (value) =>
+  trimText(value)
+    .toLowerCase()
+    .replace(/,/g, "")
+    .replace(/\s+/g, "");
+
 const clampDuration = (value, fallback) => {
   const numericValue = Number(value);
   if (!Number.isFinite(numericValue) || numericValue <= 0) {
@@ -943,8 +949,8 @@ export const createTypeInGameScene = (config = {}) => {
       this.stopTimer();
       this.stopActiveAudio();
 
-      const expected = trimText(this.currentEntry.answer).toLowerCase();
-      const normalizedValue = trimText(value).toLowerCase();
+      const expected = normalizeAnswerText(this.currentEntry.answer);
+      const normalizedValue = normalizeAnswerText(value);
       const isOpenQuestion = !expected.length;
       const isCorrect = isOpenQuestion || normalizedValue === expected;
 
