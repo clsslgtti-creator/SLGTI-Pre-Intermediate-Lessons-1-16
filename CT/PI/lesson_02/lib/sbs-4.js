@@ -1581,12 +1581,12 @@ const buildSpeakingSlide = (
         }
 
         const waitSource = dialogue.audio_b ?? dialogue.audio_c;
-        let waitMs = 1500;
+        let waitMs = 3000;
         if (waitSource) {
           try {
             const answerDuration = await audioManager.getDuration(waitSource);
             if (Number.isFinite(answerDuration)) {
-              waitMs = Math.max(1000, Math.round(answerDuration * 1500));
+              waitMs = Math.max(1000, Math.round(answerDuration * 3000));
             }
           } catch (durationError) {
             console.warn('Unable to determine speaking wait duration', durationError);

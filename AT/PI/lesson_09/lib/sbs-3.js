@@ -1718,12 +1718,12 @@ const buildSpeakingSlide = (
             break;
           }
 
-          let waitMs = 2000;
+          let waitMs = 3000;
           if (answerEntry?.audio) {
-            try {
-              const duration = await audioManager.getDuration(answerEntry.audio);
-              if (Number.isFinite(duration)) {
-                waitMs = Math.max(1000, Math.round(duration * 1500));
+              try {
+                const duration = await audioManager.getDuration(answerEntry.audio);
+                if (Number.isFinite(duration)) {
+                  waitMs = Math.max(1000, Math.round(duration * 3000));
               }
             } catch (error) {
               console.error(error);
