@@ -291,6 +291,14 @@ const createActivityAssessmentHooks = (activityKey, context = {}) => {
         marksPerQuestion: result.marksPerQuestion ?? context.marksPerQuestion,
         ...result,
       }),
+    saveState: (result = {}) =>
+      recordAssessmentResult(activityKey, {
+        type: resolvedType,
+        label: result.label || resolvedLabel,
+        marksPerQuestion: result.marksPerQuestion ?? context.marksPerQuestion,
+        submitted: false,
+        ...result,
+      }),
     getState: () => getActivityAssessment(activityKey),
   };
 };
