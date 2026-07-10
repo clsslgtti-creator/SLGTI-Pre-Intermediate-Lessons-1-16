@@ -201,6 +201,10 @@ export const buildListeningSlides = (
     typeof assessment?.submitResult === "function"
       ? assessment.submitResult
       : () => {};
+  const saveState =
+    typeof assessment?.saveState === "function"
+      ? assessment.saveState
+      : () => {};
   const getSavedState =
     typeof assessment?.getState === "function"
       ? assessment.getState
@@ -268,6 +272,7 @@ export const buildListeningSlides = (
         entry.selectedNormalized = button.dataset.normalized || "";
         buttons.forEach((btn) => btn.classList.remove("is-selected"));
         button.classList.add("is-selected");
+        persistDraftState();
       });
     });
 
@@ -279,6 +284,32 @@ export const buildListeningSlides = (
     total: questionEntries.length,
     marksPerQuestion,
   });
+
+  const createDraftDetail = () => ({
+    questionOrder: questionEntries.map((entry) => entry.question.id),
+    optionOrder: questionEntries.reduce((acc, entry) => {
+      acc[entry.question.id] = entry.buttons.map((button) => button.dataset.value);
+      return acc;
+    }, {}),
+    answers: questionEntries.reduce((acc, entry) => {
+      acc[entry.question.id] = entry.selected ?? null;
+      return acc;
+    }, {}),
+    playbackCount: playCount,
+  });
+
+  const persistDraftState = () => {
+    if (submissionLocked) {
+      return;
+    }
+    saveState({
+      total: questionEntries.length,
+      correct: 0,
+      marksPerQuestion,
+      detail: createDraftDetail(),
+      timestamp: new Date().toISOString(),
+    });
+  };
 
   const refreshAnswerInteractivity = () => {
     const disableBase = instructionsLocked || submissionLocked;
@@ -415,6 +446,7 @@ export const buildListeningSlides = (
     if (playCount < maxPlays) {
       scheduleSecondPlayback();
     }
+    persistDraftState();
     updatePlaybackStatus();
     refreshAnswerInteractivity();
   };
@@ -510,20 +542,7 @@ export const buildListeningSlides = (
     submitBtn.textContent = "Submitted";
     updatePlaybackStatus();
 
-    const detail = {
-      questionOrder: questionEntries.map((entry) => entry.question.id),
-      optionOrder: questionEntries.reduce((acc, entry) => {
-        acc[entry.question.id] = entry.buttons.map(
-          (button) => button.dataset.value
-        );
-        return acc;
-      }, {}),
-      answers: questionEntries.reduce((acc, entry) => {
-        acc[entry.question.id] = entry.selected ?? null;
-        return acc;
-      }, {}),
-      playbackCount: playCount,
-    };
+    const detail = createDraftDetail();
 
     submitResult({
       total: questionEntries.length,
@@ -542,7 +561,30 @@ export const buildListeningSlides = (
     );
   };
 
+  const restoreSelections = () => {
+    const storedAnswers = savedDetail?.answers || {};
+    questionEntries.forEach((entry) => {
+      const storedAnswer = storedAnswers[entry.question.id];
+      if (typeof storedAnswer !== "string") {
+        return;
+      }
+      const normalized = normalizeAnswer(storedAnswer);
+      entry.selected = storedAnswer;
+      entry.selectedNormalized = normalized;
+      const selectedButton = entry.buttons.find(
+        (button) => button.dataset.normalized === normalized
+      );
+      if (selectedButton) {
+        selectedButton.classList.add("is-selected");
+      }
+    });
+  };
+
   const applySavedState = () => {
+    if (!savedState?.submitted) {
+      restoreSelections();
+      return;
+    }
     const storedAnswers = savedDetail?.answers || {};
     let correctCount = 0;
     questionEntries.forEach((entry) => {
@@ -580,6 +622,7 @@ export const buildListeningSlides = (
   if (savedState?.submitted) {
     applySavedState();
   } else {
+    restoreSelections();
     submitBtn.addEventListener("click", evaluate);
   }
 

@@ -1339,6 +1339,7 @@ const buildSpeakingSlide = (
     const prompt = document.createElement('p');
     prompt.className = 'dialogue-card__prompt';
     prompt.textContent = 'Your turn to answer...';
+    prompt.hidden = true;
     card.appendChild(prompt);
 
     cardsWrapper.appendChild(card);
@@ -1390,8 +1391,11 @@ const buildSpeakingSlide = (
     });
 
   const resetCards = () => {
-    cards.forEach(({ card, answerEl, segments }) => {
+    cards.forEach(({ card, prompt, answerEl, segments }) => {
       card.classList.remove('is-active', 'show-answer');
+      if (prompt) {
+        prompt.hidden = true;
+      }
       if (answerEl) {
         answerEl.classList.add('is-hidden');
       }
@@ -1416,7 +1420,7 @@ const buildSpeakingSlide = (
     try {
       for (let index = 0; index < cards.length; index += 1) {
         const item = cards[index];
-        const { dialogue, card, answerEl, questionEl, segments } = item;
+        const { dialogue, card, prompt, answerEl, questionEl, segments } = item;
         card.classList.add('is-active');
         smoothScrollIntoView(card);
         if (answerEl) {
@@ -1439,7 +1443,13 @@ const buildSpeakingSlide = (
         const answerDuration = await audioManager.getDuration(dialogue.audio_b);
         const waitMs = Math.max(1000, Math.round(answerDuration * 1500));
         status.textContent = 'Your turn...';
+        if (prompt) {
+          prompt.hidden = false;
+        }
         await delay(waitMs, { signal });
+        if (prompt) {
+          prompt.hidden = true;
+        }
         if (signal.aborted) {
           clearSegmentHighlights(segments);
           break;

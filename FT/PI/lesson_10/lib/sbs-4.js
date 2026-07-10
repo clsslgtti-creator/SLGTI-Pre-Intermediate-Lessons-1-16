@@ -1529,6 +1529,7 @@ const buildSpeakingSlide = (
     const prompt = document.createElement('p');
     prompt.className = 'dialogue-card__prompt';
     prompt.textContent = 'Your turn to answer...';
+    prompt.hidden = true;
     card.appendChild(prompt);
 
     cardsWrapper.appendChild(card);
@@ -1584,8 +1585,11 @@ const buildSpeakingSlide = (
     });
 
   const resetCards = () => {
-    cards.forEach(({ card, answerEls = [], segments }) => {
+    cards.forEach(({ card, prompt, answerEls = [], segments }) => {
       card.classList.remove('is-active', 'show-answer');
+      if (prompt) {
+        prompt.hidden = true;
+      }
       answerEls.forEach((answer) => {
         answer.classList.add('is-hidden');
       });
@@ -1629,6 +1633,7 @@ const buildSpeakingSlide = (
           answerPrimaryEl,
           answerDetailEl,
           questionEl,
+          prompt,
           segments,
         } = item;
         card.classList.add('is-active');
@@ -1661,7 +1666,13 @@ const buildSpeakingSlide = (
         }
 
         status.textContent = 'Your turn...';
+        if (prompt) {
+          prompt.hidden = false;
+        }
         await delay(waitMs, { signal });
+        if (prompt) {
+          prompt.hidden = true;
+        }
         if (signal.aborted) {
           clearSegmentHighlights(segments);
           break;

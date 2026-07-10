@@ -269,6 +269,10 @@ export const buildMcqTableSlides = (
     typeof assessment?.submitResult === "function"
       ? assessment.submitResult
       : () => {};
+  const saveState =
+    typeof assessment?.saveState === "function"
+      ? assessment.saveState
+      : () => {};
   const getSavedState =
     typeof assessment?.getState === "function"
       ? assessment.getState
@@ -334,6 +338,7 @@ export const buildMcqTableSlides = (
         entry.selectedNormalized = button.dataset.normalized || "";
         buttons.forEach((btn) => btn.classList.remove("is-selected"));
         button.classList.add("is-selected");
+        persistDraftState();
       });
     });
 
@@ -345,6 +350,31 @@ export const buildMcqTableSlides = (
     total: questionEntries.length,
     marksPerQuestion,
   });
+
+  const createDraftDetail = () => ({
+    questionOrder: questionEntries.map((entry) => entry.question.id),
+    optionOrder: questionEntries.reduce((acc, entry) => {
+      acc[entry.question.id] = entry.buttons.map((button) => button.dataset.value);
+      return acc;
+    }, {}),
+    answers: questionEntries.reduce((acc, entry) => {
+      acc[entry.question.id] = entry.selected ?? null;
+      return acc;
+    }, {}),
+  });
+
+  const persistDraftState = () => {
+    if (submissionLocked) {
+      return;
+    }
+    saveState({
+      total: questionEntries.length,
+      correct: 0,
+      marksPerQuestion,
+      detail: createDraftDetail(),
+      timestamp: new Date().toISOString(),
+    });
+  };
 
   const refreshInteractivity = () => {
     const shouldDisableButtons = instructionsLocked || submissionLocked;
@@ -426,19 +456,7 @@ export const buildMcqTableSlides = (
     refreshInteractivity();
     submitBtn.textContent = "Submitted";
 
-    const detail = {
-      questionOrder: questionEntries.map((entry) => entry.question.id),
-      optionOrder: questionEntries.reduce((acc, entry) => {
-        acc[entry.question.id] = entry.buttons.map(
-          (button) => button.dataset.value
-        );
-        return acc;
-      }, {}),
-      answers: questionEntries.reduce((acc, entry) => {
-        acc[entry.question.id] = entry.selected ?? null;
-        return acc;
-      }, {}),
-    };
+    const detail = createDraftDetail();
 
     submitResult({
       total: questionEntries.length,
@@ -457,8 +475,28 @@ export const buildMcqTableSlides = (
     );
   };
 
+  const restoreSelections = () => {
+    const storedAnswers = savedDetail?.answers || {};
+    questionEntries.forEach((entry) => {
+      const storedAnswer = storedAnswers[entry.question.id];
+      if (typeof storedAnswer !== "string") {
+        return;
+      }
+      const normalizedStored = normalizeAnswer(storedAnswer);
+      entry.selected = storedAnswer;
+      entry.selectedNormalized = normalizedStored;
+      const buttonToSelect = entry.buttons.find(
+        (button) => button.dataset.normalized === normalizedStored
+      );
+      if (buttonToSelect) {
+        buttonToSelect.classList.add("is-selected");
+      }
+    });
+  };
+
   const applySavedState = () => {
     if (!savedState?.submitted) {
+      restoreSelections();
       return;
     }
     const storedAnswers = savedDetail?.answers || {};
@@ -497,6 +535,7 @@ export const buildMcqTableSlides = (
   if (savedState?.submitted) {
     applySavedState();
   } else {
+    restoreSelections();
     submitBtn.addEventListener("click", evaluate);
   }
 

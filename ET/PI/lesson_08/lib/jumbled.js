@@ -211,6 +211,10 @@ export const buildJumbledSlides = (
     typeof assessment?.submitResult === "function"
       ? assessment.submitResult
       : () => {};
+  const saveState =
+    typeof assessment?.saveState === "function"
+      ? assessment.saveState
+      : () => {};
   const getSavedState =
     typeof assessment?.getState === "function"
       ? assessment.getState
@@ -310,6 +314,7 @@ export const buildJumbledSlides = (
         destination.appendChild(token.element);
       }
       updatePlaceholder(entry.target, entry.placeholder);
+      persistDraftState();
     };
 
     const handleDrop = (event, destination) => {
@@ -389,6 +394,28 @@ export const buildJumbledSlides = (
     total: questionEntries.length,
     marksPerQuestion,
   });
+
+  const createDraftDetail = () => ({
+    assembled: questionEntries.reduce((acc, entry) => {
+      acc[entry.question.id] = Array.from(
+        entry.target.querySelectorAll(".jumbled-token")
+      ).map((el) => el.dataset.tokenId);
+      return acc;
+    }, {}),
+  });
+
+  const persistDraftState = () => {
+    if (submissionLocked) {
+      return;
+    }
+    saveState({
+      total: questionEntries.length,
+      correct: 0,
+      marksPerQuestion,
+      detail: createDraftDetail(),
+      timestamp: new Date().toISOString(),
+    });
+  };
 
   if (!questionEntries.length) {
     const empty = document.createElement("p");
@@ -481,7 +508,7 @@ export const buildJumbledSlides = (
     );
   };
 
-  const applySavedState = () => {
+  const restoreArrangementState = () => {
     let correctCount = 0;
     questionEntries.forEach((entry) => {
       const arrangement = Array.isArray(savedDetail?.assembled?.[entry.question.id])
@@ -501,11 +528,22 @@ export const buildJumbledSlides = (
         }
       });
       updatePlaceholder(entry.target, entry.placeholder);
+      if (!savedState?.submitted) {
+        return;
+      }
       const { isCorrect } = evaluateEntry(entry);
       if (isCorrect) {
         correctCount += 1;
       }
     });
+    return correctCount;
+  };
+
+  const applySavedState = () => {
+    const correctCount = restoreArrangementState();
+    if (!savedState?.submitted) {
+      return;
+    }
     submissionLocked = true;
     refreshInteractivity();
     submitBtn.textContent = "Submitted";
@@ -527,6 +565,7 @@ export const buildJumbledSlides = (
   if (savedState?.submitted) {
     applySavedState();
   } else {
+    restoreArrangementState();
     submitBtn.addEventListener("click", handleSubmit);
   }
 
