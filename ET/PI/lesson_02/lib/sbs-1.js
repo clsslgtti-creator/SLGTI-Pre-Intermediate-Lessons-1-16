@@ -1441,7 +1441,7 @@ const buildSpeakingSlide = (
         }
 
         const answerDuration = await audioManager.getDuration(dialogue.audio_b);
-        const waitMs = Math.max(1000, Math.round(answerDuration * 1500));
+        const waitMs = Math.max(1000, Math.round(answerDuration * 3000));
         status.textContent = 'Your turn...';
         if (prompt) {
           prompt.hidden = false;
