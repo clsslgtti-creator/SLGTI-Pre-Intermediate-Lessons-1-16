@@ -444,16 +444,6 @@
             ]
           },
           {
-            "id": "l_18_2",
-            "question": "What detail most strongly suggests that the accident could have been prevented?",
-            "answer": "The absence of insulated gloves during machine operation.",
-            "options": [
-              "The absence of two instructors in the room to supervise.",
-              "The absence of insulated gloves during machine operation.",
-              "The use of a cable to connect the systems to the mains."
-            ]
-          },
-          {
             "id": "l_18_3",
             "question": "Which factor directly contributed to the trainee losing control while working?",
             "answer": "Accidentally touching a live wire.",
@@ -461,6 +451,16 @@
               "The length of the power cables",
               "The number of cables to connect",
               "Accidentally touching a live wire."
+            ]
+          },
+          {
+            "id": "l_18_2",
+            "question": "What detail most strongly suggests that the accident could have been prevented?",
+            "answer": "The absence of insulated gloves during machine operation.",
+            "options": [
+              "The absence of two instructors in the room to supervise.",
+              "The absence of insulated gloves during machine operation.",
+              "The use of a cable to connect the systems to the mains."
             ]
           },
           {
