@@ -158,7 +158,7 @@
       },
       {
         "id": "k_3",
-        "image": "assets/img/a_2_d_6.jpeg",
+        "image": "assets/img/a_2_d_6.png",
         "word": "A machine belt trapped her sleeve and sprained her arm."
       },
       {
@@ -208,7 +208,7 @@
       },
       {
         "id": "d_6",
-        "img": "assets/img/a_2_d_6.jpeg",
+        "img": "assets/img/a_2_d_6.png",
         "text_a": "Why is Shamika absent today?",
         "text_b": "She is absent because she had an accident this morning.",
         "text_c": "What happened?",
