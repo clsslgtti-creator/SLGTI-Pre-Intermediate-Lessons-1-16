@@ -377,6 +377,7 @@ export const buildJumbledSlides = (
     });
 
     const scrambled = ensureScrambledIds(answerIds);
+    entry.scrambledIds = scrambled.slice();
     scrambled.forEach((tokenId) => {
       const token = tokenMap.get(tokenId);
       if (token) {
@@ -522,8 +523,14 @@ export const buildJumbledSlides = (
           arrangedIds.push(token.id);
         }
       });
-      entry.tokens.forEach((token) => {
-        if (!arrangedIds.includes(token.id)) {
+      const bankIds = arrangedIds.length
+        ? (entry.scrambledIds || entry.answerIds).filter(
+            (tokenId) => !arrangedIds.includes(tokenId)
+          )
+        : entry.scrambledIds || entry.answerIds;
+      bankIds.forEach((tokenId) => {
+        const token = entry.tokens.get(tokenId);
+        if (token) {
           entry.bank.appendChild(token.element);
         }
       });
