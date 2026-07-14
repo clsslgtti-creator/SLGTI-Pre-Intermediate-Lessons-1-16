@@ -13,7 +13,7 @@
   </metadata>
   <organizations default="ORG-LESSON-16 - Assessment No. 2">
     <organization identifier="ORG-LESSON-16 - Assessment No. 2" structure="hierarchical">
-      <title>Lesson 16 - Assessment No. 2</title>
+      <title>Lesson 16 - Assessment No. 2 </title>
       <item identifier="ITEM-LESSON-16 - Assessment No. 2" identifierref="RES-LESSON-16 - Assessment No. 2" isvisible="true">
         <title>Lesson 16 - Assessment No. 2 </title>
       </item>
@@ -21,30 +21,30 @@
   </organizations>
   <resources>
     <resource identifier="RES-LESSON-16 - Assessment No. 2" type="webcontent" adlcp:scormtype="sco" href="index.html">
-      <file href="index.html" />
       <file href="assets/audio/a_1_i.mp3" />
       <file href="assets/audio/a_2_a_i.mp3" />
       <file href="assets/audio/a_2_b_i.mp3" />
       <file href="assets/audio/a_2_c_i.mp3" />
+      <file href="assets/audio/a_2_i.mp3" />
+      <file href="assets/audio/a_3_i.mp3" />
       <file href="assets/audio/a_4_i.mp3" />
       <file href="assets/audio/a_4_i_a.mp3" />
+      <file href="assets/audio/a_4_i_b.mp3" />
       <file href="assets/audio/a_4_q.mp3" />
+      <file href="assets/img/logo.png" />
       <file href="content.json" />
-      <file href="lib/activity-2.js" />
-      <file href="lib/audio-manager.js" />
-      <file href="lib/completion-modal.js" />
-      <file href="lib/game-1.js" />
+      <file href="index.html" />
+      <file href="lib/jquery.ui.touch-punch.min.js" />
       <file href="lib/jquery-3.7.1.min.js" />
       <file href="lib/jquery-ui.min.js" />
-      <file href="lib/jquery.ui.touch-punch.min.js" />
-      <file href="lib/listening-1.js" />
-      <file href="lib/listening-2.js" />
-      <file href="lib/phaser.min.js" />
-      <file href="lib/pipwerks-scorm.js" />
-      <file href="lib/pronunciation.js" />
-      <file href="lib/sbs.js" />
+      <file href="lib/jumbled.js" />
+      <file href="lib/listening.js" />
+      <file href="lib/matching-words.js" />
+      <file href="lib/mcq.js" />
+      <file href="lib/mcq-table.js" />
+      <file href="lib/videos.js" />
       <file href="script.js" />
       <file href="styles.css" />
-    <file href="assets/audio/a_2_i.mp3" /><file href="assets/audio/a_3_1.mp3" /><file href="assets/audio/a_3_10.mp3" /><file href="assets/audio/a_3_11.mp3" /><file href="assets/audio/a_3_12.mp3" /><file href="assets/audio/a_3_13.mp3" /><file href="assets/audio/a_3_14.mp3" /><file href="assets/audio/a_3_15.mp3" /><file href="assets/audio/a_3_2.mp3" /><file href="assets/audio/a_3_3.mp3" /><file href="assets/audio/a_3_4.mp3" /><file href="assets/audio/a_3_5.mp3" /><file href="assets/audio/a_3_6.mp3" /><file href="assets/audio/a_3_7.mp3" /><file href="assets/audio/a_3_8.mp3" /><file href="assets/audio/a_3_9.mp3" /><file href="assets/audio/a_3_i.mp3" /><file href="assets/audio/a_4_i_b.mp3" /></resource>
+    </resource>
   </resources>
 </manifest>
