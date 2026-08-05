@@ -38,6 +38,8 @@
       <file href="lib/jquery.ui.touch-punch.min.js" />
       <file href="lib/jquery-3.7.1.min.js" />
       <file href="lib/jquery-ui.min.js" />
+      <file href="lib/phaser.min.js" />
+      <file href="lib/pipwerks-scorm.js" />
       <file href="lib/jumbled.js" />
       <file href="lib/listening.js" />
       <file href="lib/matching-words.js" />
